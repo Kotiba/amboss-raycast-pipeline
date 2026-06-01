@@ -1,0 +1,94 @@
+# Overview of common breast conditions
+
+*Categories: Clinical knowledge > Surgery > Gynecologic surgery > Overview of common breast conditions*
+
+[Original Article Link](/library/wL0h-g)
+
+---
+
+## Summary
+
+A number of conditions affect <u>the breasts</u>, including disorders of <u>breast</u> development (e.g., congenital anomalies, <u>breast hypertrophy</u>), <u>fibrocystic breast changes</u>, inflammatory conditions (e.g., <u>mastitis</u>, <u>mammary ductal ectasia</u>), benign <u>neoplasms</u> (e.g., <u>fibroadenoma</u>, <u>phyllodes tumor</u>), <u>breast cancer</u>, and <u>breast cysts</u>. <u>Mastalgia</u> is a common symptom that is often caused by an underlying benign etiology. This article provides a brief overview of common <u>breast</u> conditions. Each condition is detailed in the respective articles.
+
+
+
+
+See also “<u>Palpable breast mass</u>” and “<u>Nipple discharge</u>.”
+
+---
+
+## Benign neoplasms
+
+| Overview of benign neoplasms of the breast |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Disorder | <u>Epidemiology</u> | Clinical features | Diagnostics | Management |
+| <br><u>Fibroadenoma</u> [[1]](/library/Qe1uAf0)[[2]](/library/0R1elg0)[[3]](/library/iR1J5g0)<br> | <br><br>* Most common <u>breast mass</u> in women < 35 years<br><br>* Peak <u>incidence</u>: 20–30 years<br><br><br> | <br><br>* Solitary, well-defined, nontender, rubbery, and mobile mass<br><br>* Typically 1–2 cm in size<br><br>* Generally do not increase in size<br><br><br> | <br><br>* <u>Ultrasound</u> and/or <u>mammography</u><br><br>* Well-defined mass<br><br>* Popcorn-like calcifications may be seen<br><br>* Confirmatory studies : <u>core needle biopsy</u>, <u>fine needle aspiration</u>, or <u>excisional biopsy</u><br>* Fibrous and <u>glandular tissue</u><br><br><br> | <br>* <u>Expectant management</u> or surgical excision  [[2]](/library/0R1elg0)[[3]](/library/iR1J5g0)<br><br> |
+| <br><u>Phyllodes tumor</u> [[1]](/library/Qe1uAf0)[[4]](/library/TQ16vg0)<br> | <br><br>* Rare<br><br>* Peak <u>incidence</u>: 40–50 years<br><br><br> | <br><br>* Painless, smooth, multinodular lump<br><br>* Variable growth rate<br><br>* Average size: 4–7 cm<br><br><br> | <br><br>* <u>Ultrasound</u> and/or <u>mammography</u><br>* Well-defined solid mass that may contain cysts<br><br>* Confirmatory studies: <u>core needle biopsy</u> or <u>excisional biopsy</u><br>* Leaf-like architecture<br><br><br> | <br>* Surgical excision<br><br> |
+| <br><u>Intraductal papilloma</u> [[5]](/library/sj1tbS0)<br> | <br>* Peak <u>incidence</u>: 30–50 years<br><br> | <br><br>* Solitary lesions <br><br>* Bloody or serous <u>nipple discharge</u><br><br>* Palpable <u>breast</u> <u>tumor</u> close to or behind the <u>nipple</u> or <u>areola</u><br><br>* Multiple lesions <br>* Usually asymptomatic<br><br><br> | <br><br>* <u>Ultrasound</u> and/or <u>mammography</u> [[5]](/library/sj1tbS0)<br>* Well-defined mass within a dilated <u>lactiferous duct</u><br><br>* Confirmatory study: <u>core needle biopsy</u> [[5]](/library/sj1tbS0)<br>* <u>Papillary</u> structure with fibrovascular core<br><br><br> | <br><br>* No <u>atypia</u>: surveillance or surgical excision<br><br>* With <u>atypia</u>: surgical excision to rule out concomitant <u>malignancy</u> [[5]](/library/sj1tbS0)<br><br><br> |
+| <br><u>Lobular carcinoma in situ</u> (<u>LCIS</u>) [[6]](/library/NP1-US0)[[7]](/library/tqcXZd0)[[8]](/library/h81cmi0)[[9]](/library/lP1vUS0)<br> | <br><br>* Approx. 85% of cases occur in <u>premenopausal</u> women.  [[7]](/library/tqcXZd0)[[9]](/library/lP1vUS0)<br><br>* <u>LCIS</u> is a <u>risk factor</u> for <u>invasive carcinoma</u>.<br><br><br> | <br>* No specific findings (no mass or calcifications)<br><br> | <br><br>* Usually an incidental <u>biopsy</u> finding [[1]](/library/Qe1uAf0)[[9]](/library/lP1vUS0)<br><br>* <u>Immunohistochemistry</u> [[9]](/library/lP1vUS0)<br><br>* <u>E-cadherin</u>: negative<br><br>* p120 <u>catenin</u>: diffuse <u>cytoplasmic</u> staining<br><br><br> | <br><br>* <u>Expectant management</u>: clinical and imaging follow-up [[9]](/library/lP1vUS0)<br><br>* Surgical excision in select cases [[9]](/library/lP1vUS0)<br><br>* <u>Breast cancer</u> risk-reduction options in select cases: <u>chemoprevention</u>, bilateral <u>prophylactic mastectomy</u> [[6]](/library/NP1-US0)[[7]](/library/tqcXZd0)<br><br><br> |
+
+
+
+
+
+> [!TIP]
+> Benign <u>breast</u> conditions most commonly affect women between the third and fifth decades of life.
+
+---
+
+## Malignant neoplasms
+
+| Overview of malignant neoplasms of the breast |  |  |  |
+| --- | --- | --- | --- |
+|  | Clinical features | <u>Breast</u> imaging | <u>Biopsy</u> |
+| <u>Invasive ductal carcinoma</u> | <br><br>* Firm, fixed mass with irregular borders<br><br>* <u>Skin</u> changes (e.g., <u>retraction</u>, dimpling, thickening)<br><br>* Axillary <u>lymphadenopathy</u><br><br>* Bloody <u>nipple discharge</u><br><br><br> | <br><br>* On <u>ultrasound</u><br><br>* Irregular mass<br><br>* Indistinct borders<br><br>* <u>Echogenicity</u>: heterogeneous or <u>hypoechoic</u><br><br>* On <u>mammography</u> (or DBT)<br><br>* Noncircumscribed <u>hyperdense</u> mass<br><br>* Poorly defined margins<br><br>* Spiculated margins<br><br>* Clustered microcalcifications<br><br><br> | <br><br>* Malignant cells within the <u>lactiferous duct</u><br><br>* Stromal invasion<br><br>* Microcalcifications<br><br>* <u>Fibrosis</u> in surrounding tissue<br><br><br> |
+| <u>Invasive lobular carcinoma</u> | <br><br>* Malignant cells in lobules<br><br>* Monomorphic cells in a single file pattern<br><br><br> |  |  |
+| <u>Inflammatory breast cancer</u> | <br><br>* Rapidly growing <u>breast mass</u><br><br>* <u>Erythematous</u> and <u>edematous</u> (<u>peau d'orange</u>) <u>skin plaques</u> directly above the <u>breast mass</u><br><br>* Tenderness, burning sensation<br><br>* Axillary <u>lymphadenopathy</u><br><br><br> | <br>* <u>Dermal</u> lymphatic invasion, angioinvasion<br><br> |  |
+| <u>Paget disease of the breast</u> | <br><br>* <u>Erythematous</u>, scaly, or <u>vesicular</u> <u>rash</u> affecting the <u>nipple</u> and <u>areola</u><br><br>* <u>Pruritus</u>, burning sensation, <u>nipple</u> <u>retraction</u><br><br>* Possibly a firm, rigid mass with irregular borders<br><br><br> | <br>* <u>Paget cells</u><br><br> |  |
+
+---
+
+## Cysts and fibrocystic changes
+
+| Overview of <u>breast cysts</u> and <u>fibrocystic breast changes</u> |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Disorder | <u>Epidemiology</u> | Clinical features | Diagnostics | Management |
+| <br><u>Fibrocystic breast changes</u> [[1]](/library/Qe1uAf0)[[10]](/library/hU1c1T0)<br> | <br>* Most common benign <u>breast</u> condition<br><br> | <br><br>* Premenstrual <u>breast</u> tenderness<br><br>* Multiple <u>breast</u> <u>nodules</u> bilaterally<br><br><br> | <br><br>* <u>Age-appropriate imaging of a palpable breast mass</u>: <u>ultrasound</u> and/or <u>mammography</u> [[1]](/library/Qe1uAf0)<br><br>* Distorted <u>breast</u> <u>parenchyma</u>, scattered coarse calcifications [[11]](/library/LU1wdT0)[[12]](/library/rh1f2g0)<br><br>* Clustered microcysts, <u>simple breast cysts</u>, <u>complicated breast cysts</u> [[12]](/library/rh1f2g0)[[13]](/library/y21d4T0)[[14]](/library/Ih1Y2g0)[[15]](/library/7S14ag0)<br><br>* Concern for <u>malignancy</u>: image-guided <u>core needle biopsy</u> [[16]](/library/DQc1yX0)<br><br><br> | <br><br>* Symptomatic management<br><br>* <u>Proliferative breast lesions</u> with <u>atypia</u>: surgical excision followed by close surveillance for <u>breast cancer</u> [[1]](/library/Qe1uAf0)<br><br><br> |
+| <br><u>Breast cysts</u> [[1]](/library/Qe1uAf0)[[17]](/library/Ru1lIi0)[[18]](/library/Pu1Wri0)<br> | <br>* Peak <u>incidence</u>: 35–50 years of age<br><br> | <br><br>* Single or multiple <u>breast</u> masses<br><br>* Variable size (microcysts, gross cyst, <u>clusters</u>) and texture (smooth, soft, firm)<br><br>* May be tender<br><br>* Usually mobile<br><br><br> | <br><br>* <u>Ultrasound</u> is preferred. [[1]](/library/Qe1uAf0)[[16]](/library/DQc1yX0)<br><br>* <u>Simple breast cyst</u><br><br>* <u>Complicated breast cyst</u><br><br>* <u>Complex breast cyst</u><br><br>* Concern for <u>malignancy</u> : image-guided <u>biopsy</u><br><br><br> | <br><br>* <u>Simple breast cysts</u>: no intervention needed unless symptomatic [[1]](/library/Qe1uAf0)[[3]](/library/iR1J5g0)<br><br>* <u>Complicated breast cysts</u>: surveillance or <u>biopsy</u> [[1]](/library/Qe1uAf0)<br><br>* <u>Complex breast cysts</u>: <u>biopsy</u> [[1]](/library/Qe1uAf0)[[17]](/library/Ru1lIi0)[[18]](/library/Pu1Wri0)<br><br>* Benign: surveillance<br><br>* Malignant: surgical excision<br><br><br> |
+| <u>Galactocele</u> | <br><br>* Frequently occurs during or after lactation<br><br>* Most common benign <u>breast</u> lesion in lactating women<br><br><br> | <br>* Painless, firm subareolar mass<br><br> | <br><br>* Primarily a <u>clinical diagnosis</u> [[1]](/library/Qe1uAf0)[[19]](/library/O51I4h0)<br><br>* Imaging: <u>ultrasound</u> , <u>mammography</u> [[20]](/library/3m1S2h0)<br><br>* Variable findings<br><br>* Simple cyst with a <u>fat-fluid level</u> is characteristic<br><br>* <u>Fine-needle aspiration</u> : milky <u>aspirate</u> [[20]](/library/3m1S2h0)<br><br><br> | <br><br>* Asymptomatic: usually resolve spontaneously [[21]](/library/jm1_2h0)<br><br>* Symptomatic: needle <u>aspiration</u> or drainage catheter placement [[22]](/library/qh1CUg0)<br><br>* Infected: drainage and <u>empiric antibiotic therapy for breast infections</u> [[19]](/library/O51I4h0)[[22]](/library/qh1CUg0)<br><br><br> |
+
+---
+
+## Benign inflammatory disorders
+
+| Overview of benign inflammatory disorders of the <u>breast</u> |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | <u>Epidemiology</u> | Clinical features | Diagnostics | Management |
+| <u>Mastitis</u> | <br>* Most common in nursing mothers<br><br> | <br><br>* Tender, firm, swollen, <u>erythematous</u> <u>breast</u> (generally unilateral)<br><br>* <u>Flu-like symptoms</u><br><br>* <u>Reactive lymphadenopathy</u><br><br><br> | <br><br>* Usually clinical [[22]](/library/qh1CUg0)<br><br>* If no response to <u>empiric antibiotic therapy for mastitis</u>, consider: [[1]](/library/Qe1uAf0)<br><br>* <u>Breast milk</u> cultures [[22]](/library/qh1CUg0)<br><br>* <u>Breast</u> imaging  [[16]](/library/DQc1yX0)[[23]](/library/Oj1I0S0)[[24]](/library/Sm1yUh0)<br><br>* <u>Biopsy</u> [[25]](/library/WS1PAT0)<br><br><br> | <br><br>* <u>Puerperal mastitis</u>  [[22]](/library/qh1CUg0)[[26]](/library/FT1gsT0)[[27]](/library/yT1dtT0)<br><br>* Supportive therapy (<u>breastfeeding</u> on demand, <u>analgesics</u>, cold compresses)<br><br>* If no improvement after 12–24 hours of supportive therapy: <u>empiric antibiotic therapy for mastitis</u> (e.g., <u>dicloxacillin</u>)<br><br>* <u>Nonpuerperal mastitis</u>: Initiate <u>empiric antibiotic therapy for mastitis</u>. [[1]](/library/Qe1uAf0)[[28]](/library/dg1o8T0)<br><br><br> |
+| <u>Breast abscess</u> | <br>* Commonly a complication of <u>puerperal mastitis</u> [[23]](/library/Oj1I0S0)[[29]](/library/bXaH9Q)<br><br> | <br><br>* <u>Breast</u> <u>pain</u>, <u>erythema</u>, and <u>edema</u><br><br>* <u>Fluctuant</u> tender mass<br><br>* Systemic signs (e.g., <u>fever</u>, chills, <u>nausea</u>)<br><br><br> | <br><br>* Usually clinical<br><br>* <u>Breast ultrasound</u>  [[12]](/library/rh1f2g0)[[23]](/library/Oj1I0S0)<br><br>* Irregular, <u>hypoechoic</u> fluid-filled lesions<br><br>* Echogenic rim<br><br>* <u>Posterior acoustic enhancement</u><br><br>* <u>FNAC</u> and culture of the <u>aspirate</u><br><br><br> | <br><br>* <u>Abscess</u> drainage<br><br>* <u>Empiric antibiotics for breast infections</u> [[1]](/library/Qe1uAf0)[[30]](/library/5R1ing0)<br><br>* <u>Analgesics</u><br><br><br> |
+| <u>Fat necrosis of the breast</u> | <br><br>* < 3% of all <u>breast</u> lesions<br><br>* Often associated with <u>soft tissue</u> trauma<br><br><br> | <br><br>* Irregularly defined <u>breast mass</u><br><br>* Often periareolar in location<br><br>* <u>Skin</u> <u>retraction</u>, <u>erythema</u>, and/or <u>ecchymosis</u><br><br><br> | <br><br>* <u>Breast ultrasound</u> and/or <u>mammography</u> [[25]](/library/WS1PAT0)[[31]](/library/sWYt5L)<br><br>* <u>Oil cyst</u><br><br>* Coarse rim calcifications<br><br>* <u>Biopsy</u>  [[25]](/library/WS1PAT0)<br><br>* <u>Foam cells</u><br><br>* <u>Multinucleated giant cells</u><br><br><br> | <br>* Typically not needed [[25]](/library/WS1PAT0)[[31]](/library/sWYt5L)<br><br> |
+| <u>Mammary duct ectasia</u> | <br><br>* Most common in <u>perimenopausal</u> women<br><br>* Peak <u>incidence</u>: 40–50 years<br><br><br> | <br><br>* Unilateral, nonmilky gray, greenish, or bloody discharge<br><br>* <u>Nipple</u> <u>inversion</u><br><br>* Firm, tender subareolar mass may be present<br><br><br> | <br><br>* <u>Breast ultrasound</u> and/or <u>mammography</u> [[1]](/library/Qe1uAf0)[[32]](/library/x21EPT0)<br>* Dilated subareolar ducts<br><br>* <u>Biopsy</u> if imaging findings are concerning for <u>malignancy</u> [[1]](/library/Qe1uAf0)[[32]](/library/x21EPT0)<br><br>* Periductal inflammation<br><br>* Foamy <u>histiocytes</u><br><br><br> | <br><br>* Usually not necessary [[33]](/library/hh1cdg0)<br><br>* Surgical duct excision for persistent symptoms or to rule out <u>malignancy</u>  [[32]](/library/x21EPT0)<br><br><br> |
+| <u>Mondor disease of the breast</u> | <br>* Rare, <u>self-limited</u> condition<br><br> | <br><br>* Sudden onset<br><br>* Painful, thickened, cord-like lesion<br><br>* Overlying <u>erythema</u> of the <u>superficial veins</u> of the <u>breast</u> and/or <u>anterior</u> <u>chest wall</u><br><br><br> | <br><br>* <u>Clinical diagnosis</u><br><br>* Age-appropriate <u>breast</u> imaging should be performed in all patients to exclude underlying <u>malignancy</u>. [[1]](/library/Qe1uAf0)[[34]](/library/_5155h0)<br>* <u>Superficial</u> tubular structure with a beaded appearance<br><br><br> | <br>* <u>Conservative measures</u> [[1]](/library/Qe1uAf0)<br><br>* Well-fitting bra<br><br>* <u>Topical analgesics</u><br><br> |
+
+---
+
+## Mastalgia
+
+| <u>Overview of mastalgia</u> |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Disorder | <u>Epidemiology</u> | Clinical features | Diagnostics | Management |
+| <br><u>Cyclical mastalgia</u> [[1]](/library/Qe1uAf0)[[32]](/library/x21EPT0)[[35]](/library/Ut1b1i0)<br> | <br>* Very common (esp. in women 30–50 years of age)<br><br> | <br><br>* Bilateral, diffuse <u>breast</u> <u>pain</u> (upper outer <u>breast</u> quadrant)<br><br>* Usually worsens the week prior to the onset of <u>menstruation</u><br><br><br> | <br>* Imaging is not routinely required.<br><br> | <br><br>* Identify and treat the underlying etiology.<br><br>* Initial: nonpharmacological measures (e.g., well-fitting bra)  and <u>analgesics</u><br><br>* Moderate to severe or refractory symptoms: Consider hormonal therapy (e.g., <u>danazol</u>, <u>tamoxifen</u>)<br><br><br> |
+| <br><u>Noncyclical mastalgia</u> [[1]](/library/Qe1uAf0)[[32]](/library/x21EPT0)[[35]](/library/Ut1b1i0)<br> | <br><br>* Unilateral or bilateral <u>breast</u> <u>pain</u>, usually located over the costal cartilages<br><br>* Sharp or burning <u>pain</u> and/or soreness<br><br><br> | <br>* <u>Breast</u> imaging often indicated : See “Diagnostics” in “<u>Mastalgia</u>” for details.<br><br> |  |  |
+
+---
+
+## Disorders of breast development
+
+| Overview of <u>breast</u> development disorders |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Disorder | <u>Epidemiology</u> | Clinical features | Diagnostics | Management |
+| <br>Congenital anomalies of the <u>breast</u><br> | <br>* Affect 1–6% of the general population [[36]](/library/qPXCfy)<br><br> | <br><br>* Amastia: absence of <u>breast</u> tissue and <u>nipples</u><br><br>* Polymastia: presence of accessory <u>breast</u> tissue<br><br>* Athelia: absence of <u>nipples</u><br><br>* Polythelia: presence of <u>accessory nipples</u><br><br>* Poland syndrome [[37]](/library/JPXsfy)<br><br>* Unilateral <u>aplasia</u>/<u>hypoplasia</u> of the pectoralis muscles and <u>breast</u> with associated finger abnormalities (e.g., brachysyndactyly)<br><br>* Most commonly develops on the right side<br><br><br> | <br>* Clinical<br><br> | <br>* Surgical correction<br><br> |
+| <br><u>Breast hypertrophy</u> [[38]](/library/yN1ddh0)[[39]](/library/vN1A1h0)[[40]](/library/fl1kwS0)<br> | <br>* Rare<br><br> | <br><br>* Enlarged <u>breasts</u> (symmetrical or asymmetrical)<br><br>* <u>Mastalgia</u><br><br>* Muscular discomfort and/or <u>pain</u> in the neck, shoulder, and/or upper back<br><br>* <u>Skin infections</u> and <u>erythema</u> in <u>intertriginous areas</u><br><br>* Deep, painful brassiere strap grooving<br><br><br> | <br>* Mainly clinical<br><br> | <br><br>* <u>Surgery</u>: <u>reduction mammoplasty</u> (<u>standard of care</u>) or bilateral <u>total mastectomy</u> (alternative)<br><br>* Conservative: use of proper fitting, supportive bra<br><br>* Medical therapy: <u>progesterone</u> or <u>antiestrogen therapy</u>, <u>bromocriptine</u><br><br><br> |
+| <br><u>Gynecomastia</u> [[41]](/library/RP1leS0)[[42]](/library/3P1SeS0)[[43]](/library/7PX4Ty)<br> | <br><br>* <u>Physiological gynecomastia</u>: common in <u>neonates</u>, male <u>adolescents</u>, and men > 50 years<br><br>* Drug-induced <u>gynecomastia</u>: most common type of <u>pathological gynecomastia</u><br><br><br> | <br><br>* Firm, concentric subareolar mass<br><br>* May be tender<br><br><br> | <br><br>* Mainly clinical<br><br>* <u>Pathological gynecomastia</u>: Evaluate for the underlying etiology.<br><br><br> | <br><br>* <u>Physiological gynecomastia</u>: reassurance<br><br>* <u>Pathological gynecomastia</u>: Treat the underlying cause.<br><br>* Persistent symptoms<br><br>* Medical therapy (<u>off-label</u>): <u>selective estrogen receptor modulators</u><br><br>* <u>Surgery</u> (subcutaneous <u>mastectomy</u>)<br><br><br> |
+
+---

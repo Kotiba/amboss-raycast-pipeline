@@ -79,9 +79,9 @@ for (const eid of allEids) {
   markdown = markdown.replace(/!\[(.*?)\]\((?:\.\.\/)+media\/(.*?)\)/g, '![$1](media/$2)');
 
   // Normalize Links for Next.js / Raycast
-  // From: [text](https://coursology-qbank.com/amboss/article/EID)
-  // To: [text](/library/EID)
-  markdown = markdown.replace(/\]\(https:\/\/coursology-qbank\.com\/amboss\/article\/([a-zA-Z0-9_-]+)(?:\?.*?)?\)/g, '](/library/$1)');
+  // From: [text](https://coursology-qbank.com/amboss/article/EID?from=...)
+  // To: [text](https://coursology-qbank.com/amboss/article/EID)
+  markdown = markdown.replace(/\]\(https:\/\/coursology-qbank\.com\/amboss\/article\/([a-zA-Z0-9_-]+)(?:\?.*?)?\)/g, '](https://coursology-qbank.com/amboss/article/$1)');
 
   // Extract Category Path
   // In original manifest, categories might be ["Clinical knowledge", "Internal medicine", "Gastroenterology"]
@@ -114,16 +114,8 @@ for (const eid of allEids) {
   // Write Processed Markdown
   fs.writeFileSync(path.join(ARTICLES_DIR, `${eid}.md`), markdown);
 
-  // Copy Images
-  if (data.images && data.images.length > 0) {
-    for (const img of data.images) {
-      const src = path.join(SOURCE_DIR, 'media', img);
-      const dest = path.join(MEDIA_DIR, img);
-      if (fs.existsSync(src) && !fs.existsSync(dest)) {
-        fs.copyFileSync(src, dest);
-      }
-    }
-  }
+  // Images are no longer copied to dist/media because they exceed Cloudflare Pages file limits.
+  // They must be uploaded to Cloudflare R2 instead via upload-to-r2.js
 }
 
 // Generate version.json
@@ -139,3 +131,4 @@ fs.writeFileSync(path.join(DIST_DIR, 'search-index.json'), JSON.stringify(search
 console.log(`Successfully ran full pipeline for ${allEids.length} articles.`);
 console.log(`Processed: ${processedCount} valid articles.`);
 console.log('Outputs saved to dist/');
+console.log('Images are NO LONGER copied to dist/media. Run upload-to-r2.js to sync images to Cloudflare R2.');

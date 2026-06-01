@@ -1,11 +1,29 @@
 {
-  "name": "amboss-raycast-pipeline",
-  "version": "1.0.0",
-  "description": "Content pipeline to generate static API for Amboss Raycast Extension",
-  "main": "build_pipeline.js",
+  "name": "next_temp",
+  "version": "0.1.0",
+  "private": true,
   "scripts": {
-    "build": "node build_pipeline.js"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
   },
-  "author": "",
-  "license": "ISC"
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.1057.0",
+    "dotenv": "^17.4.2",
+    "mime-types": "^3.0.2",
+    "next": "16.2.6",
+    "react": "19.2.4",
+    "react-dom": "19.2.4"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.2.6",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
 }
