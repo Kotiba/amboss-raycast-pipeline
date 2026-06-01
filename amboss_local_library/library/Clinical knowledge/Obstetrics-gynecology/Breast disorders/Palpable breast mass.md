@@ -1,0 +1,384 @@
+# Palpable breast mass
+
+*Categories: Clinical knowledge > Obstetrics/gynecology > Breast disorders > Palpable breast mass*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/7H047h)
+
+---
+
+## Summary
+
+A palpable <u>breast</u> mass is a distinct lesion detected during self-examination or routine <u>breast cancer screening</u>. The underlying etiology of palpable <u>breast</u> masses may be inflammatory (e.g., <u>breast abscess</u>, <u>fat necrosis of the breast</u>), <u>neoplastic</u> (benign <u>breast</u> tumors, <u>breast cancers</u>), or <u>idiopathic</u> (e.g., <u>breast cysts</u>). The initial workup of a <u>breast</u> mass should include a comprehensive history and <u>clinical breast examination</u>. <u>Breast</u> imaging is required in most patients with a palpable <u>breast</u> mass. <u>Breast</u> <u>ultrasonography</u> is the preferred initial imaging modality in individuals < 30 years of age, while <u>diagnostic mammography</u> or <u>digital breast tomosynthesis</u> (DBT) is preferred in individuals ≥ 30 years of age. An image-guided <u>biopsy</u> (usually <u>core needle biopsy</u>) is indicated for all patients with clinical or imaging features concerning for <u>malignancy</u>. Further management depends on the diagnosis and is covered in the respective articles. See “<u>Overview of common breast conditions</u>” for details.
+
+
+
+
+The evaluation of <u>breast</u> masses in male individuals is not addressed in this article.
+
+
+
+
+![Diagnostic approach to palpable breast mass](../../../../media/ssei2w4fhnd25xp1e9fs8gk6.jpg)
+
+Diagnostic approach to palpable breast mass
+
+---
+
+## Clinical evaluation
+
+* Obtain a comprehensive clinical history
+
+* Perform a <u>clinical breast examination</u>.
+
+* Document characteristics of the <u>breast</u> mass.  [[2]](https://coursology-qbank.com/amboss/article/Qe1uAf0)[[3]](https://coursology-qbank.com/amboss/article/JU1sVT0)
+
+* Examine the draining <u>lymph node groups</u>.
+
+* See “<u>Breast examination</u>” for further details.
+
+* Assess for <u>risk factors for breast cancer</u>. ;  [[4]](https://coursology-qbank.com/amboss/article/fm1kUh0)[[5]](https://coursology-qbank.com/amboss/article/gm1FUh0)[[6]](https://coursology-qbank.com/amboss/article/DQc1yX0)[[7]](https://coursology-qbank.com/amboss/article/yjcd1c0)
+
+* Factors associated with a decreased likelihood of <u>malignancy</u>
+
+* Age < 40 years
+
+* No <u>family history</u> of <u>breast cancer</u>
+
+* Mobile mass with well-defined borders
+
+* Overlying <u>skin</u> appears normal
+
+* Fluctuating size (e.g., with <u>menstruation</u>)
+
+* Factors associated with an increased likelihood of <u>malignancy</u>
+
+* Age ≥ 40 years
+
+* <u>Family history</u> of <u>breast cancer</u>
+
+* Mass that is firm, fixed, or has indistinct borders
+
+* Associated <u>skin</u> changes (e.g., <u>peau d'orange</u>), <u>nipple</u> <u>inversion</u>, or <u>breast</u> asymmetry [[8]](https://coursology-qbank.com/amboss/article/x21EPT0)
+
+* Axillary <u>lymphadenopathy</u>,
+
+* Increasing size
+
+
+
+
+
+> [!TIP]
+> A palpable <u>breast</u> mass should be thoroughly evaluated, regardless of patient age or <u>risk factors for breast cancer</u>. [[2]](https://coursology-qbank.com/amboss/article/Qe1uAf0)
+
+---
+
+## Initial diagnostics
+
+### Patients < 30 years of age [[2]](https://coursology-qbank.com/amboss/article/Qe1uAf0)[[6]](https://coursology-qbank.com/amboss/article/DQc1yX0)[[8]](https://coursology-qbank.com/amboss/article/x21EPT0)[[9]](https://coursology-qbank.com/amboss/article/Pu1Wri0)
+
+
+
+
+* High clinical suspicion for <u>malignancy</u>  : <u>breast ultrasound</u>
+
+* Low clinical suspicion for <u>malignancy</u>: Observe for 1–2 months. 
+
+* Mass resolves: no further management
+
+* Mass persists: <u>breast ultrasound</u>
+
+
+
+
+
+### Patients ≥ 30 years of age [[2]](https://coursology-qbank.com/amboss/article/Qe1uAf0)[[6]](https://coursology-qbank.com/amboss/article/DQc1yX0)[[8]](https://coursology-qbank.com/amboss/article/x21EPT0)[[9]](https://coursology-qbank.com/amboss/article/Pu1Wri0)
+
+
+
+* <u>Mammography</u> (<u>diagnostic mammography</u> or DBT); with or without <u>ultrasound</u>. 
+
+* Clinical or imaging findings concerning for <u>malignancy</u> ;  : <u>biopsy</u>
+
+* Imaging findings normal, benign, or probably benign  : <u>breast ultrasound</u>
+
+
+
+
+> [!TIP]
+> In patients with a palpable <u>breast</u> mass, <u>breast ultrasound</u> is the preferred first-line imaging modality in patients < 30 years of age; <u>mammography</u> or DBT is preferred in patients ≥ 30 years of age. [[2]](https://coursology-qbank.com/amboss/article/Qe1uAf0)[[6]](https://coursology-qbank.com/amboss/article/DQc1yX0)
+
+
+
+
+> [!TIP]
+> In patients 30–39 years of age, <u>breast ultrasound</u>, <u>mammography</u>, and DBT are all appropriate first-line imaging options. [[6]](https://coursology-qbank.com/amboss/article/DQc1yX0)
+
+
+
+
+> [!WARNING]
+> Observation without initial <u>breast</u> imaging is not appropriate in patients ≥ 30 years of age. [[2]](https://coursology-qbank.com/amboss/article/Qe1uAf0)[[9]](https://coursology-qbank.com/amboss/article/Pu1Wri0)
+
+
+
+
+![Diagnostic approach to palpable breast mass](../../../../media/ssei2w4fhnd25xp1e9fs8gk6.jpg)
+
+Diagnostic approach to palpable breast mass
+
+---
+
+## Imaging
+
+### Initial age-appropriate imaging of a palpable breast mass [[2]](https://coursology-qbank.com/amboss/article/Qe1uAf0)[[6]](https://coursology-qbank.com/amboss/article/DQc1yX0)
+
+
+
+
+Results of <u>breast</u> imaging are typically reported using the standardized American College of Radiology <u>Breast Imaging Reporting and Data System</u> (BI-RADS).  [[10]](https://coursology-qbank.com/amboss/article/3PcSec0)
+
+
+
+
+* Age < 30 years: <u>breast ultrasound</u>
+
+* Age ≥ 30 years: <u>mammography</u> or <u>digital breast tomosynthesis</u> (DBT)
+
+* Age 30–39 years: any of the above modalities
+
+* Pregnant or lactating patients: <u>breast ultrasound</u>  [[11]](https://coursology-qbank.com/amboss/article/Sm1yUh0)
+
+
+
+
+
+> [!TIP]
+> <u>Premenopausal</u> women < 30 years of age and lactating women often have dense <u>breast</u> tissue, which decreases the diagnostic power of <u>mammography</u>; <u>ultrasound</u> is recommended in these individuals. [[6]](https://coursology-qbank.com/amboss/article/DQc1yX0)[[11]](https://coursology-qbank.com/amboss/article/Sm1yUh0)[[12]](https://coursology-qbank.com/amboss/article/Kg1UwT0)
+
+
+
+
+> [!TIP]
+> <u>MRI</u> <u>breast</u> is not routinely indicated in the evaluation of a palpable <u>breast</u> mass. [[6]](https://coursology-qbank.com/amboss/article/DQc1yX0)
+
+
+
+
+### Findings on <u>breast ultrasound</u> [[2]](https://coursology-qbank.com/amboss/article/Qe1uAf0)[[13]](https://coursology-qbank.com/amboss/article/hCbc7D)
+
+
+
+
+| <br>Features of breast mass on ultrasound [[6]](https://coursology-qbank.com/amboss/article/DQc1yX0)[[9]](https://coursology-qbank.com/amboss/article/Pu1Wri0)<br> |  |  |
+| --- | --- | --- |
+|  | <br>Likely benign lesion<br> | <br>Likely malignant lesion<br> |
+| Shape | <br>* Oval or round<br><br> | <br>* Irregular or lobular<br><br> |
+| Contour | <br>* Well-defined, smooth<br><br> | <br>* Poorly defined or indistinct, spiculated<br><br> |
+| <u>Echogenicity</u> | <br>* Homogeneous <u>echogenicity</u> or <u>anechoic</u> lesions<br><br> | <br>* Often heterogeneous and <u>hypoechoic</u><br><br> |
+| Structure | <br>* Compressible<br><br> | <br>* Firm, rigid<br><br> |
+| Additional findings | <br><br>* <u>Posterior enhancement</u><br><br>* Thin echogenic rim<br><br><br> | <br>* <u>Posterior</u> shadowing<br><br> |
+
+
+
+
+
+> [!TIP]
+> <u>Ultrasound</u> is the preferred imaging modality to differentiate solid from cystic lesions and to evaluate <u>axillary lymph nodes</u>. [[14]](https://coursology-qbank.com/amboss/article/hm1c2h0)[[15]](https://coursology-qbank.com/amboss/article/8jcOXc0)
+
+
+
+
+![Breast cyst](../../../../media/wemb12jourpjo0c7ksmx1e0w.jpg)
+
+Breast cyst
+
+![Intraductal breast mass](../../../../media/cdskp8jemcb7sr3pq2xff8no.jpg)
+
+Intraductal breast mass
+
+![Tubular carcinoma of the breast](../../../../media/ibz95zfzamhlna93necey55k.jpg)
+
+Tubular carcinoma of the breast
+
+
+
+
+### Findings on <u>mammography</u> or <u>digital breast tomosynthesis</u>
+
+
+
+
+| <br>Features of breast mass on mammography or DBT [[10]](https://coursology-qbank.com/amboss/article/3PcSec0)[[16]](https://coursology-qbank.com/amboss/article/iPcJec0)[[17]](https://coursology-qbank.com/amboss/article/ov10aQ0)<br> |  |  |
+| --- | --- | --- |
+|  | Likely benign lesion | <br>Likely malignant lesion<br> |
+| Shape | <br>* Round or oval mass<br><br> | <br>* Irregular shape<br><br> |
+| Contour | <br><br>* Well-defined, circumscribed<br><br>* A surrounding <u>radiolucent</u> ring may be seen (<u>halo sign</u>)  [[18]](https://coursology-qbank.com/amboss/article/RPclec0)<br><br><br> | <br><br>* Noncircumscribed mass (indistinct or microlobular borders)<br><br>* Spiculated margins (stellar mass)<br><br><br> |
+| Density | <br><br>* Low (<u>fatty tissue</u>) or mixed density<br><br>* <u>Oil cyst</u> (<u>fat necrosis</u>)<br><br>* <u>Fat-fluid level</u> (<u>galactocele</u>)<br><br><br> | <br>* High-density<br><br> |
+| Calcifications | <br><br>* Macrocalcifications (e.g., calcified cyst)<br><br>* Coarse popcorn-like calcifications<br><br>* Diffuse microcalcifications (e.g., <u>fibrocystic breast changes</u>)<br><br><br> | <br><br>* Clustered (grouped) microcalcifications<br><br>* Linear calcifications<br><br><br> |
+
+
+
+
+
+![Breast calcifications](../../../../media/dahm5d5dmk2j77fv2ga64l01.jpg)
+
+Breast calcifications
+
+![Suspicious breast mass](../../../../media/yvblqsqosblgajmj0aukkwxs.jpg)
+
+Suspicious breast mass
+
+![Mammography in breast cancer](../../../../media/roya9yiym0up9mw8f49shl1n.jpg)
+
+Mammography in breast cancer
+
+---
+
+## Subsequent management based on ultrasound findings
+
+> [!TIP]
+> <u>Breast ultrasound</u> is the first diagnostic step in patients < 30 years of age who have clinical features concerning for <u>malignancy</u>. In patients ≥ 30 years of age whose <u>mammography</u> or DBT findings are normal, benign, or probably benign, a <u>breast ultrasound</u> should be performed for further evaluation. [[2]](https://coursology-qbank.com/amboss/article/Qe1uAf0)[[6]](https://coursology-qbank.com/amboss/article/DQc1yX0)[[8]](https://coursology-qbank.com/amboss/article/x21EPT0)[[9]](https://coursology-qbank.com/amboss/article/Pu1Wri0)
+
+
+
+
+### No abnormalities  [[2]](https://coursology-qbank.com/amboss/article/Qe1uAf0)[[6]](https://coursology-qbank.com/amboss/article/DQc1yX0)[[9]](https://coursology-qbank.com/amboss/article/Pu1Wri0)
+
+
+
+
+* Low clinical suspicion of <u>malignancy</u>: clinical surveillance for 1–2 years 
+
+* Increase in size and/or clinical suspicion on surveillance: <u>biopsy</u>
+
+* No change in clinical suspicion or size of the mass on surveillance: Routine <u>breast cancer screening</u> is sufficient.
+
+* High clinical suspicion of <u>malignancy</u>
+
+* Patients < 30 years of age: Obtain a <u>diagnostic mammogram</u>, followed by a <u>biopsy</u> if needed.
+
+* Patients ≥ 30 years of age: <u>biopsy</u>
+
+
+
+
+
+### Solid mass [[2]](https://coursology-qbank.com/amboss/article/Qe1uAf0)[[6]](https://coursology-qbank.com/amboss/article/DQc1yX0)[[9]](https://coursology-qbank.com/amboss/article/Pu1Wri0)
+
+
+
+
+* Clinical or <u>ultrasound</u> findings concerning for <u>malignancy</u> : <u>biopsy</u>
+
+* Low clinician suspicion of <u>malignancy</u> and probably benign findings on <u>ultrasound</u> : clinical surveillance for 1–2 years 
+
+* Increase in size or clinical suspicion on surveillance: <u>biopsy</u>
+
+* No change in clinical suspicion or size of the mass on surveillance: Routine <u>breast cancer screening</u> is sufficient.
+
+
+
+
+
+> [!TIP]
+> Clinical surveillance includes a <u>CBE</u> every 3–6 months with or without <u>breast</u> imaging every 6–12 months. [[2]](https://coursology-qbank.com/amboss/article/Qe1uAf0)
+
+
+
+
+### <u>Breast cyst</u> [[2]](https://coursology-qbank.com/amboss/article/Qe1uAf0)[[6]](https://coursology-qbank.com/amboss/article/DQc1yX0)[[9]](https://coursology-qbank.com/amboss/article/Pu1Wri0)
+
+
+
+
+* Management depends on the <u>type of breast cyst</u> (i.e., simple, complex, or complicated).
+
+* See “<u>Management of breast cysts</u>” for details.
+
+
+
+
+
+![Diagnostic approach to palpable breast mass](../../../../media/ssei2w4fhnd25xp1e9fs8gk6.jpg)
+
+Diagnostic approach to palpable breast mass
+
+---
+
+## Confirmatory biopsy
+
+<u>Biopsy</u> (performed under image guidance when possible) is indicated in all patients with clinical or imaging features concerning for <u>malignancy</u>. [[2]](https://coursology-qbank.com/amboss/article/Qe1uAf0)[[6]](https://coursology-qbank.com/amboss/article/DQc1yX0)
+
+
+
+
+* <u>Core needle biopsy</u>:  (<u>CNB</u>): is preferred for most cases. [[6]](https://coursology-qbank.com/amboss/article/DQc1yX0)[[19]](https://coursology-qbank.com/amboss/article/0R1elg0)
+
+* <u>Excisional biopsy</u> may be considered in the following situations:  [[2]](https://coursology-qbank.com/amboss/article/Qe1uAf0)[[19]](https://coursology-qbank.com/amboss/article/0R1elg0)[[20]](https://coursology-qbank.com/amboss/article/TQ16vg0)[[21]](https://coursology-qbank.com/amboss/article/4j130S0)
+
+* <u>CNB</u> is not feasible.
+
+* <u>CNB</u> findings are inconclusive or discordant from imaging findings.
+
+* <u>CNB</u> findings are suggestive of radial <u>scar</u>, atypical <u>hyperplasia</u>, <u>LCIS</u>, or <u>phyllodes tumor</u>.
+
+* Full-thickness <u>skin biopsy</u>:  (<u>punch biopsy</u>): preferred if <u>skin</u> or <u>nipple</u> changes are concerning for <u>malignancy</u> (e.g., <u>Paget disease of the breast</u>) [[2]](https://coursology-qbank.com/amboss/article/Qe1uAf0)
+
+* <u>Fine-needle aspiration</u> (<u>FNA</u>) [[2]](https://coursology-qbank.com/amboss/article/Qe1uAf0)[[9]](https://coursology-qbank.com/amboss/article/Pu1Wri0)[[22]](https://coursology-qbank.com/amboss/article/Ru1lIi0)
+
+* Used in the evaluation of complicated and <u>complex breast cysts</u>.
+
+* Hemorrhagic <u>aspirate</u> should be sent for <u>cytology</u>.
+
+* <u>CNB</u> is indicated if the lesion persists post-<u>aspiration</u> or if a bloody <u>aspirate</u> is obtained.
+
+
+
+
+
+> [!TIP]
+> Image-guided <u>biopsies</u> are usually preferred because they are less invasive than excisional <u>biopsies</u> and have similar <u>accuracy</u>. [[6]](https://coursology-qbank.com/amboss/article/DQc1yX0)
+
+
+
+
+> [!TIP]
+> <u>CNB</u> has a higher <u>sensitivity</u> and <u>specificity</u> than <u>FNA</u>, can distinguish between noninvasive and invasive <u>carcinomas</u>, and allows for testing <u>receptor</u> status if needed.
+
+
+
+
+> [!WARNING]
+> <u>Biopsy</u> of <u>breast</u> tissue can affect imaging findings. Imaging should be performed prior to <u>biopsy</u>. [[6]](https://coursology-qbank.com/amboss/article/DQc1yX0)[[19]](https://coursology-qbank.com/amboss/article/0R1elg0)
+
+---
+
+## Differential diagnoses
+
+* <u>Benign breast conditions</u>
+
+* <u>Fibroadenoma</u>
+
+* <u>Phyllodes tumor</u>
+
+* Solitary <u>intraductal papilloma</u>
+
+* <u>Breast cysts</u>
+
+* <u>Galactocele</u>
+
+* <u>Breast abscess</u>
+
+* <u>Fat necrosis of the breast</u>
+
+* <u>Breast cancer</u>
+
+* See “<u>Overview of common breast conditions</u>” for differentiating features.
+
+
+
+
+The differential diagnoses listed here are not exhaustive.
+
+---

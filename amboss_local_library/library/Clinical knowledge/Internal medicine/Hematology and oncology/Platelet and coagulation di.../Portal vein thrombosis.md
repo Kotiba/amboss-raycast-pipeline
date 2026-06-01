@@ -1,0 +1,188 @@
+# Portal vein thrombosis
+
+*Categories: Clinical knowledge > Internal medicine > Hematology and oncology > Platelet and coagulation disorders > Portal vein thrombosis*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/DG01Y3)
+
+---
+
+## Summary
+
+<u>Portal vein</u> <u>thrombosis</u> (PVT) refers to complete or partial closure of the <u>portal vein</u> due to a <u>thrombus</u>. Underlying causes include <u>cirrhosis</u> and <u>malignancy</u>. Acute PVT may present with abdominal <u>pain</u> and <u>ascites</u>, whereas chronic PVT is often asymptomatic. PVT is typically diagnosed with imaging demonstrating <u>thrombus</u> in the <u>portal vein</u>. Treatment depends on the acuity and whether there is underlying <u>cirrhosis</u> and typically consists of anticoagulation or <u>thrombolysis</u>; <u>TIPS</u> may be indicated in select cases.
+
+---
+
+## Etiology
+
+* <u>Cirrhosis</u> or <u>chronic liver disease</u>
+
+* Local complications of intraabdominal <u>malignancy</u> (e.g., <u>HCC</u>, <u>pancreatic carcinoma</u>) or inflammation (e.g., <u>pancreatitis</u>; , <u>liver abscess</u>, <u>cholangitis</u>)
+
+* <u>Thrombophilia</u> (e.g., <u>antiphospholipid syndrome</u>, <u>factor V Leiden</u>) or general <u>risk factors</u> of <u>phlebothrombosis</u>
+
+* <u>Myeloproliferative disorder</u>
+
+* Following <u>TIPS</u> procedure
+
+* Chronic <u>mesenteric venous thrombosis</u>
+
+---
+
+## Pathophysiology
+
+* Possibly caused by an imbalance of <u>coagulation factors</u> in patients with impaired hepatic synthetic function
+
+* The closure of <u>portal vein</u> flow → ↓ <u>liver</u> blood flow → <u>vasodilation</u> of the hepatic <u>artery</u> and development of collateral <u>hepatic veins</u> in an attempt to maintain <u>liver</u> <u>perfusion</u>
+
+* <u>Thrombotic</u> closure of the splenic and <u>superior mesenteric veins</u> may extend to the <u>portal vein</u> → <u>portal hypertension</u>
+
+---
+
+## Clinical features
+
+Depend on the extent of <u>thrombosis</u> and the speed of manifestation
+
+
+
+
+* Acute PVT
+
+* Abdominal <u>pain</u> (<u>RUQ</u> or generalized)
+
+* <u>Splenomegaly</u>
+
+* <u>Fever</u>
+
+* <u>Ascites</u>
+
+* Chronic PVT
+
+* In <u>cirrhotic</u> patients, chronic PVT is often asymptomatic (incidental finding on <u>ultrasound</u>).
+
+* Abdominal <u>pain</u> (<u>RUQ</u> or generalized)
+
+* <u>Esophageal variceal hemorrhage</u>
+
+* <u>Hepatic encephalopathy</u>
+
+* <u>Splenomegaly</u> and <u>hypersplenism</u>
+
+* <u>Jaundice</u> and <u>pruritus</u> due to portal cholangiopathy
+
+---
+
+## Diagnostics
+
+* <u>Duplex ultrasound</u>: decreased flow <u>velocity</u> or no flow in the <u>portal vein</u>
+
+* Other abdominal <u>ultrasound</u> findings [[2]](https://coursology-qbank.com/amboss/article/RIblcE)
+
+* <u>Portal cavernoma</u>
+
+* Variable portion of mostly echogenic <u>thrombus</u> material in the <u>portal vein</u>
+
+* Widening of the <u>portal vein</u>
+
+* Dilated, coiled periportal <u>veins</u>
+
+* <u>Hyperechoic</u> or <u>isoechoic</u> <u>thrombus</u> in the <u>portal vein</u>
+
+* CT or <u>MRI</u> abdomen (with contrast): to simultaneously investigate other abdominal organs and for patients with suspected cancer    [[2]](https://coursology-qbank.com/amboss/article/RIblcE)
+
+* Other studies
+
+* <u>Liver chemistries</u>: typically normal [[2]](https://coursology-qbank.com/amboss/article/RIblcE)
+
+* Screening for myeloproliferative and thrombophilic disorders: indicated in patients without <u>cirrhosis</u> to investigate the etiology of PVT (guided by <u>hematology</u>) [[3]](https://coursology-qbank.com/amboss/article/mBXVY00)
+
+* Endoscopy: Variceal bleed is the initial symptom of PVT in up to 40% of cases. [[2]](https://coursology-qbank.com/amboss/article/RIblcE)
+
+
+
+
+
+> [!TIP]
+> If PVT is detected in patients with <u>cirrhosis</u>, <u>HCC</u> must be ruled out as the cause. [[3]](https://coursology-qbank.com/amboss/article/mBXVY00)
+
+
+
+
+> [!TIP]
+> PVT can initially present with variceal bleed. Patients presenting with PVT should undergo screening for <u>varices</u> with <u>upper GI endoscopy</u>. [[2]](https://coursology-qbank.com/amboss/article/RIblcE)
+
+
+
+
+![Portal vein thrombus](../../../../../media/ue6g8znvq8roo4bitv9p1y1f.jpg)
+
+Portal vein thrombus
+
+![Portal vein thrombus](../../../../../media/xrz7udho43yuz30nu3u56gzs.jpg)
+
+Portal vein thrombus
+
+![Hepatocellular carcinoma in cirrhotic liver](../../../../../media/zye6sn0s0bhvacvzo0d7ue3w.jpg)
+
+Hepatocellular carcinoma in cirrhotic liver
+
+---
+
+## Treatment
+
+### Approach [[3]](https://coursology-qbank.com/amboss/article/mBXVY00)[[4]](https://coursology-qbank.com/amboss/article/jIb_cE)
+
+
+
+
+* All patients: Management is guided by the presumed time of onset of <u>thrombosis</u> and the degree of suspicion of <u>intestinal ischemia</u>.
+
+* Recent PVT and suspicion of <u>intestinal ischemia</u>: anticoagulation and <u>surgery</u> in patients with <u>intestinal infarction</u>
+
+* Chronic complete PVT: Focus on the <u>management of portal hypertension</u> sequelae.
+
+* Patients with <u>cirrhosis</u>: Individualize treatment based on the degree of occlusion and other symptoms.
+
+* Patients without <u>cirrhosis</u> with recent PVT: Consider anticoagulation.
+
+
+
+
+
+> [!TIP]
+> Management of PVT (e.g., anticoagulation) is determined on a case-by-case basis and specialists should be involved early.
+
+
+
+
+### Anticoagulation
+
+
+
+
+For patients with <u>cirrhosis</u>, the choice of <u>anticoagulant</u> should be individualized and guided by a hematologist. Data on the safety of <u>direct oral anticoagulants</u> in <u>cirrhosis</u> is scarce. [[3]](https://coursology-qbank.com/amboss/article/mBXVY00)
+
+
+
+
+* Traditional <u>anticoagulants</u> [[3]](https://coursology-qbank.com/amboss/article/mBXVY00)[[4]](https://coursology-qbank.com/amboss/article/jIb_cE)
+
+* Start <u>low molecular weight heparin</u> (e.g., <u>enoxaparin</u>) OR <u>unfractionated heparin</u>.
+
+* Continue <u>low molecular weight heparin</u> and initiate an oral <u>vitamin K</u> <u>antagonist</u> (e.g., <u>warfarin</u>) in parallel (i.e., <u>bridging anticoagulation</u>) until the patient's <u>INR</u> is within the therapeutic range (usually 2–3).
+
+* <u>Direct oral anticoagulants</u>: e.g., <u>apixaban</u>
+
+
+
+
+
+### Surgical or interventional procedures [[3]](https://coursology-qbank.com/amboss/article/mBXVY00)
+
+
+
+
+* Pharmacological <u>thrombolysis</u> (local or systemic): Consider in selected patients with persistent <u>ischemia</u> despite anticoagulation.
+
+* <u>TIPS</u> placement: can be considered in selected cases
+
+---

@@ -1,0 +1,546 @@
+# Chemotherapeutic agents
+
+*Categories: Clinical knowledge > Pharmacology > General > Chemotherapeutic agents*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/4m03fg)
+
+---
+
+## Summary
+
+Chemotherapeutic agents, also referred to as antineoplastic agents, are used to directly or indirectly inhibit the uncontrolled growth and <u>proliferation</u> of cancer cells. They are classified according to their mechanism of action and include <u>alkylating agents</u>, <u>antimetabolites</u>, <u>topoisomerase inhibitors</u>, <u>antibiotics</u>, <u>mitotic inhibitors</u>, and <u>protein kinase inhibitors</u>. Chemotherapy is associated with a range of adverse effects (e.g., <u>nausea</u>, <u>vomiting</u>, <u>immunosuppression</u>, and impaired growth of healthy cells), and some agents increase the risk of secondary <u>neoplasm</u> development. For some chemotherapeutic agents, specific detoxifying agents can be administered to avert preventable side effects (e.g., <u>leucovorin</u> after application of <u>methotrexate</u>, <u>mesna</u> after <u>cyclophosphamide</u> application).
+
+
+
+
+For further information of management <u>chemotherapy-related complications</u>, see “<u>Principles of cancer care</u>.”
+
+---
+
+## Overview
+
+### Basics of chemotherapeutic agents action [[1]](https://coursology-qbank.com/amboss/article/pDYL2r)[[2]](https://coursology-qbank.com/amboss/article/XC09qR)
+
+
+
+
+* Kinetics
+
+* Chemotherapeutic agents are most active on cells with a high growth fraction, i.e., cells actively undergoing division (including normal cells, such as <u>epithelial</u> or <u>bone marrow</u> cells, as well as cancer cells)
+
+* The log-kill hypothesis is a mathematical model of chemotherapeutic agent action, according to which a given dose of a certain chemotherapeutic agent eliminates a constant fraction of cancer cells regardless of <u>tumor</u> size.  [[3]](https://coursology-qbank.com/amboss/article/r8bfLv)
+
+* <u>Cell cycle specificity</u>
+
+* Cell cycle-specific antineoplastic agents act on proliferating cells only during a specific phase of <u>the cell cycle</u>. There is no cell-cycle specific antineoplastic agent that acts during the resting (G0) phase.
+
+* Cell cycle-nonspecific antineoplastic agents act on cells at any phase of <u>the cell cycle</u>, including the resting (G0) phase.
+
+* Resistance mechanisms: cancer cells can develop resistance to chemotherapeutic agents via the following mechanisms
+
+* Mutations or altered expression of <u>target cells</u> (e.g., increased expression of <u>dihydrofolate reductase</u> can result in resistance of cancer cells to <u>methotrexate</u>)
+
+* Increased rate of <u>DNA repair</u> (e.g., this mechanism can cause resistance to <u>alkylating agents</u>)
+
+* Drug inactivation (e.g., some cancer cells can increase the synthesis of <u>glutathione</u> and other antioxidants, thus counteracting <u>anthracyclines</u>, which act through the generation of <u>reactive oxygen species</u>)
+
+* Alteration of <u>apoptotic</u> pathways (e.g., <u>leukemic</u> cells can increase the expression of antiapoptotic molecules such as Bcl-2 to <u>escape</u> chemotherapy-induced <u>apoptosis</u>)
+
+* Drug efflux (e.g., cancer cells can increase the expression of the <u>MDR1</u> <u>gene</u> coding for <u>P-glycoprotein</u> which acts as the efflux transporter)
+
+
+
+
+
+### Basics of chemotherapy
+
+
+
+
+For more information, see “Antineoplastic therapy” in “<u>General oncology</u>.”
+
+
+
+
+#### Combination therapy
+
+
+
+
+Chemotherapeutic agents are usually used in combination (<u>combined chemotherapy</u> regimens).
+
+
+
+
+* Advantages
+
+* Increased <u>log-kill</u>
+
+* Prevention and counteraction of cancer drug resistance
+
+* Targeting both dividing and resting cells (in combination of <u>cell cycle-specific</u> and <u>cell cycle</u>-nonspecific agents)
+
+* Synergistic effects allow for lower doses and, subsequently, less toxicity
+
+* Examples
+
+* <u>CHOP</u> (or <u>R-CHOP</u>) for the <u>treatment of non-Hodgkin lymphomas</u>
+
+* <u>ABVD</u> for the treatment of <u>Hodgkin lymphomas</u>
+
+* <u>FOLFOX</u>, <u>FOLFIRI</u>, or <u>XELOX</u> for the treatment of <u>colorectal cancer</u>.
+
+
+
+
+
+#### Routes of administration
+
+
+
+
+The most common route of administration for chemotherapy is intravenous; other important methods of delivery include oral, intrathecal, and topical application.
+
+
+
+
+* Topical
+
+* Used in the treatment of cancerous or <u>precancerous skin lesions</u>
+
+* Chemotherapeutic agents that can be administered topically include <u>5-FU</u> and <u>mitomycin</u>.
+
+* Intrathecal administration
+
+* The aim of intrathecal administration is to prevent the need for cerebral <u>radiation therapy</u> and to treat meningeal disseminated diseases (e.g., <u>meningeal leukemia</u>/<u>lymphoma</u>)
+
+* Chemotherapeutic agents that can be injected intrathecally include <u>methotrexate</u> and <u>cytarabine</u>.
+
+* Oral administration
+
+* Allows for ambulatory treatment, e.g., <u>maintenance therapy</u>, <u>palliative treatment</u>
+
+* Chemotherapeutic agents that can be administered orally include <u>idarubicin</u>, <u>capecitabine</u>, <u>temozolomide</u>, <u>etoposide</u>, <u>methotrexate</u>, <u>6-MP</u>.
+
+
+
+
+
+#### <u>Efficacy</u> of treatment
+
+
+
+
+* Individual influencing factors
+
+* Patient factors (e.g., overall health, <u>bone marrow</u> capacity, <u>liver</u> and <u>kidney function</u>, age, compliance)
+
+* Cancer factors (e.g., <u>growth fraction</u>, cancer doubling time, type and stage of cancer, resistance)
+
+* <u>Blood-brain barrier</u>
+
+* Many chemotherapeutic agents cannot cross the <u>blood-brain barrier</u>, which reduces their <u>effectiveness</u> in the treatment of malignant <u>CNS</u> diseases
+
+* Fat-soluble agents (e.g., <u>carmustine</u>, <u>lomustine</u>), however, can be transported across the <u>blood-brain barrier</u> via <u>diffusion</u> and are, therefore, used in the treatment of <u>brain tumors</u>.
+
+
+
+
+
+### Common adverse effects of chemotherapy
+
+
+
+
+Chemotherapeutic agents damage actively dividing cells, but can also affect tissues with a low <u>mitotic</u> potential (e.g., <u>neurons</u>).
+
+
+
+
+#### <u>Gastrointestinal tract</u>
+
+
+
+
+* <u>Chemotherapy-induced nausea and vomiting</u>
+
+* <u>Chemotherapy-induced diarrhea</u>
+
+* <u>Mucositis</u> (<u>soft tissue</u> <u>erythema</u> of the buccal <u>mucosa</u>, gingival bleeding, multiple shallow <u>ulcerations</u>, and <u>dysphagia</u>)
+
+* <u>Constipation</u>
+
+* <u>Intestinal perforation</u>
+
+* Causative agents include:
+
+* <u>Alkylating agents</u> (e.g., <u>chlorambucil</u>)
+
+* <u>Antifolates</u> (e.g., <u>methotrexate</u>)
+
+* <u>Pyrimidine antagonists</u> (e.g., <u>5-FU</u>, <u>cytarabine</u>)
+
+* <u>Antibiotics</u> (e.g., <u>dactinomycin</u>)
+
+* <u>Anthracyclines</u> (e.g., <u>doxorubicin</u>, <u>daunorubicin</u>)
+
+
+
+
+
+#### Blood
+
+
+
+
+* <u>Myelosuppression</u>
+
+* <u>Granulocytopenia</u> and <u>lymphocytopenia</u> (increased risk of infection)
+
+* <u>Thrombocytopenia</u> (increased risk of bleeding)
+
+* <u>Anemia</u> (fatigue)
+
+* Most chemotherapeutic agents induce some extent of dose-dependent <u>myelosuppression</u>.
+
+* Severe suppression of the <u>hematopoietic</u> system can be caused by:
+
+* <u>Alkylating agents</u> (e.g., <u>cyclophosphamide</u>, <u>busulfan</u>)
+
+* <u>Antifolates</u> (e.g., <u>methotrexate</u>)
+
+* <u>Pyrimidine antagonists</u> (e.g., <u>5-FU</u>, <u>cytarabine</u>)
+
+* <u>Purine antagonists</u> (e.g., <u>6-MP</u>), <u>taxanes</u> (e.g., <u>paclitaxel</u>)
+
+* <u>Anthracyclines</u> (e.g., <u>doxorubicin</u>, <u>daunorubicin</u>)
+
+
+
+
+
+#### <u>Skin</u>
+
+
+
+
+* <u>Hair</u> loss
+
+* Causative agents include:
+
+* <u>Pyrimidine antagonists</u> (e.g., <u>5-FU</u>)
+
+* <u>Antibiotics</u> (e.g., <u>dactinomycin</u>)
+
+* <u>Anthracyclines</u> (e.g., <u>doxorubicin</u>, <u>daunorubicin</u>)
+
+
+
+
+
+#### <u>CNS</u>
+
+
+
+
+* Centrally induced <u>vomiting</u>
+
+* Mediated by substance-P and neurokinin-1 <u>receptors</u> in the <u>brain</u>
+
+* Associated with delayed emesis after chemotherapy
+
+* Causative agents include e.g., <u>nitrogen mustards</u> (e.g., <u>chlorambucil</u>), <u>nitrosoureas</u> (e.g., <u>carmustine</u>)
+
+* Chemotherapy-induced peripheral neuropathy
+
+* <u>Pain</u>, burning, tingling, and loss of sensation in the <u>distal</u> extremities that spread from the hands and feet (stocking-glove pattern).
+
+* Causative agents include:
+
+* <u>Platinum</u>-based medications (e.g., <u>cisplatin</u>)
+
+* <u>Taxanes</u> (e.g., <u>paclitaxel</u>)
+
+* <u>Vinca alkaloids</u> (e.g., <u>vincristine</u>)
+
+
+
+
+
+#### Sexual organs
+
+
+
+
+* Gonadal damage that may lead to temporary <u>azoospermia</u>, <u>premature ovarian failure</u>, and <u>infertility</u>
+
+* Causative agents include <u>alkylating agents</u> (e.g., <u>cyclophosphamide</u>, <u>chlorambucil</u>, <u>procarbazine</u>)
+
+
+
+
+
+![The chemotox woman](../../../../media/epz7bhognd8pve7mhlomsvcx.jpg)
+
+The chemotox woman
+
+![Chemotherapy side effects](../../../../media/oqq2n2v3d48myqopb7romc8b.jpg)
+
+Chemotherapy side effects
+
+
+
+
+### Overview of chemotherapeutic drugs classes
+
+
+
+
+| Overview of important chemotherapeutic agents |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Drug class | Subgroup | Drug | <u>Cell cycle specificity</u> | Indications |  |
+| <u>Antimetabolites</u> | <br>* <u>Antifolates</u><br><br> | <br>* <u>Methotrexate</u><br><br> | <br>* <u>S phase</u><br><br> | <br><br>* <u>Neoplastic</u> conditions<br><br>* <u>Breast cancer</u><br><br>* <u>Head and neck cancers</u> (e.g., <u>squamous cell carcinoma</u>)<br><br>* <u>Lung cancer</u><br><br>* <u>Leukemias</u> (e.g., <u>acute lymphoblastic leukemia</u>)<br><br>* <u>Lymphomas</u> (e.g., <u>cutaneous T-cell lymphoma</u>, <u>non-Hodgkin lymphomas</u>)<br><br>* <u>Sarcomas</u><br><br>* <u>Choriocarcinoma</u><br><br>* Other uses<br><br>* <u>Hydatidiform moles</u><br><br>* <u>Ectopic pregnancy</u><br><br>* <u>Medical abortion</u> (in combination with <u>misoprostol</u>)<br><br>* <u>Immunosuppression</u> for autoimmune diseases (e.g., <u>rheumatoid arthritis</u>, <u>inflammatory bowel disease</u>, <u>psoriasis</u>, <u>vasculitides</u>)<br><br><br> |  |
+| <br>* <u>Pemetrexed</u><br><br> | <br><br>* <u>Pleural mesothelioma</u><br><br>* <u>Non-small cell lung cancer</u> (<u>NSCLC</u>)<br><br><br> |  |  |  |  |
+| <br>* <u>Pyrimidine antagonists</u><br><br> | <br>* <u>Cytarabine</u> (<u>arabinofuranosyl cytidine</u>)<br><br> | <br><br>* <u>Leukemias</u> (e.g., <u>AML</u>)<br><br>* <u>Lymphomas</u><br><br><br> |  |  |  |
+| <br><br>* <u>5-Fluorouracil</u> (<u>5-FU</u>)<br><br>* <u>Capecitabine</u> (prodrug for <u>5-FU</u>)<br><br><br> | <br><br>* Systemic treatment<br><br>* <u>Breast cancer</u><br><br>* <u>Gastric cancer</u><br><br>* <u>Colorectal cancer</u><br><br>* <u>Pancreatic cancer</u><br><br>* Topical treatment<br><br>* <u>Actinic keratosis</u><br><br>* <u>Basal cell carcinoma</u><br><br><br> |  |  |  |  |
+| <br>* <u>Gemcitabine</u><br><br> | <br><br>* <u>Pancreatic cancer</u><br><br>* <u>Breast cancer</u><br><br>* <u>NSCLC</u><br><br>* <u>Ovarian cancer</u><br><br><br> |  |  |  |  |
+| <br>* <u>Purine antagonists</u><br><br> | <br><br>* 6-<u>Mercaptopurine</u> (<u>6-MP</u>)<br><br>* <u>Azathioprine</u> (prodrug for <u>6-MP</u>)<br><br><br> | <br><br>* <u>Acute lymphoblastic leukemia</u><br><br>* <u>Immunosuppression</u><br><br>* Organ transplants<br><br>* Autoimmune diseases (e.g., <u>inflammatory bowel disease</u>, <u>systemic lupus erythematosus</u>, <u>rheumatoid arthritis</u>) that are <u>steroid</u>-resistant or to reduce <u>steroid</u> dose<br><br><br> |  |  |  |
+| <br>* <u>Fludarabine</u><br><br> | <br><br>* <u>Chronic lymphocytic leukemia</u> (<u>CLL</u>)<br><br>* <u>Myeloablation</u> prior to <u>hematopoietic stem cell transplant</u><br><br><br> |  |  |  |  |
+| <br>* <u>Cladribine</u><br><br> | <br>* Nonspecific<br><br> | <br><br>* <u>Hairy cell leukemia</u><br><br>* <u>Multiple sclerosis</u><br><br><br> |  |  |  |
+| <br>* <u>Ribonucleotide reductase inhibitors</u><br><br> | <br>* <u>Hydroxyurea</u> (<u>hydroxycarbamide</u>)<br><br> | <br>* <u>S phase</u><br><br> | <br><br>* <u>Myeloproliferative disorders</u> (e.g., <u>chronic myeloid leukemia</u>, <u>polycythemia vera</u>)<br><br>* <u>Sickle cell crisis</u> prophylaxis (by increasing <u>hemoglobin F</u>)<br><br>* <u>Leukostasis syndrome</u><br><br><br> |  |  |
+| <u>Alkylating agents</u> | <br>* <u>Oxazaphosphorines</u><br><br> | <br>* <u>Cyclophosphamide</u><br><br> | <br>* Nonspecific<br><br> | <br><br>* <u>Neoplastic</u> conditions<br><br>* Solid tumors (e.g., <u>breast cancer</u>, <u>ovarian cancer</u>, <u>small cell lung cancer</u>)<br><br>* <u>Leukemias</u><br><br>* <u>Lymphomas</u><br><br>* <u>Multiple myeloma</u><br><br>* Nonneoplastic conditions<br><br>* Autoimmune diseases (e.g., <u>systemic lupus erythematosus</u>, <u>granulomatosis with polyangiitis</u>)<br><br>* <u>Nephrotic syndrome</u><br><br><br> |  |
+| <br>* <u>Ifosfamide</u><br><br> | <br>* Solid tumors (e.g., <u>testicular germ-cell cancer</u>, <u>osteosarcoma</u>)<br><br> |  |  |  |  |
+| <br>* <u>Nitrogen mustards</u><br><br> | <br>* <u>Chlorambucil</u><br><br> | <br><br>* <u>CLL</u><br><br>* <u>Hodgkin lymphoma</u><br><br>* <u>Non-Hodgkin</u> <u>Lymphoma</u> (<u>NHL</u>)<br><br><br> |  |  |  |
+| <br>* <u>Melphalan</u><br><br> | <br><br>* <u>Multiple myeloma</u><br><br>* <u>Ovarian cancer</u><br><br>* <u>Amyloidosis</u><br><br><br> |  |  |  |  |
+| <br>* <u>Imidazotetrazines</u><br><br> | <br>* <u>Temozolomide</u><br><br> | <br><br>* <u>Glioblastoma</u><br><br>* <u>Anaplastic astrocytoma</u><br><br><br> |  |  |  |
+| <br>* <u>Nitrosoureas</u><br><br> | <br><br>* <u>Carmustine</u><br><br>* <u>Lomustine</u><br><br>* <u>Streptozocin</u><br><br><br> | <br><br>* <u>Brain tumors</u> (e.g., <u>glioblastoma multiforme</u>)<br><br>* <u>Multiple myeloma</u> (<u>carmustine</u>)<br><br>* <u>Lymphomas</u><br><br>* <u>Pancreatic neuroendocrine tumors</u> (<u>streptozocin</u>)<br><br><br> |  |  |  |
+| <br>* <u>Alkyl sulfonate</u><br><br> | <br>* <u>Busulfan</u><br><br> | <br>* <u>Myeloablation</u> prior to <u>hematopoietic stem cell transplant</u><br><br> |  |  |  |
+| <br>* <u>Hydrazines</u><br><br> | <br>* <u>Procarbazine</u><br><br> | <br><br>* <u>Hodgkin lymphoma</u><br><br>* <u>Brain tumors</u> (e.g., <u>gliomas</u>)<br><br><br> |  |  |  |
+| <br>* <u>Platinum-based agents</u><br><br> | <br><br>* <u>Cisplatin</u><br><br>* <u>Carboplatin</u><br><br>* <u>Oxaliplatin</u><br><br><br> | <br><br>* <u>Bladder cancer</u><br><br>* <u>Testicular cancer</u><br><br>* <u>Ovarian cancer</u><br><br>* <u>Cervical cancer</u><br><br>* <u>Colorectal cancer</u><br><br>* <u>Lung cancer</u><br><br>* <u>Osteosarcoma</u><br><br><br> |  |  |  |
+| <u>Topoisomerase inhibitors</u> | <br>* <u>Topoisomerase I inhibitors</u><br><br> | <br>* <u>Irinotecan</u><br><br> | <br>* S and <u>G2 phase</u><br><br> | <br>* <u>Colorectal cancer</u><br><br> |  |
+| <br>* <u>Topotecan</u><br><br> | <br><br>* <u>Cervical cancer</u><br><br>* <u>Ovarian cancer</u><br><br>* <u>Small-cell lung cancer</u> (<u>SCLC</u>)<br><br><br> |  |  |  |  |
+| <br>* <u>Topoisomerase II inhibitors</u><br><br> | <br>* <u>Etoposide</u><br><br> | <br><br>* <u>Testicular cancer</u><br><br>* <u>SCLC</u><br><br>* <u>Leukemias</u><br><br>* <u>Lymphomas</u><br><br><br> |  |  |  |
+| <br>* Teniposide<br><br> | <br>* <u>Leukemias</u> (e.g., <u>acute lymphocytic leukemia</u>)<br><br> |  |  |  |  |
+| <u>Mitotic inhibitors</u> | <br>* <u>Vinca alkaloids</u><br><br> | <br>* <u>Vincristine</u><br><br> | <br>* S and <u>M phase</u><br><br> | <br><br>* Solid tumors<br><br>* <u>Neuroblastoma</u><br><br>* <u>Rhabdomyosarcoma</u><br><br>* <u>Nephroblastoma</u><br><br>* Others<br><br>* <u>Acute lymphoblastic leukemia</u> (<u>ALL</u>)<br><br>* <u>Hodgkin lymphomas</u> and <u>NHL</u><br><br><br> |  |
+| <br>* <u>Vinblastine</u><br><br> | <br><br>* Solid tumors<br><br>* <u>Kaposi sarcoma</u><br><br>* <u>Langerhans cell histiocytosis</u><br><br>* <u>Testicular cancer</u><br><br>* Others: <u>Hodgkin lymphomas</u> and <u>NHL</u><br><br><br> |  |  |  |  |
+| <br>* <u>Vinorelbine</u><br><br> | <br><br>* <u>NSCLC</u><br><br>* <u>Breast cancer</u><br><br><br> |  |  |  |  |
+| <br>* <u>Taxanes</u><br><br> | <br><br>* <u>Docetaxel</u><br><br>* <u>Paclitaxel</u><br><br><br> | <br><br>* <u>M phase</u><br><br>* Late G2 <u>mitotic</u> phase<br><br><br> | <br><br>* <u>Breast cancer</u><br><br>* <u>Ovarian cancer</u><br><br>* <u>Prostate cancer</u><br><br>* <u>Gastric cancer</u><br><br>* <u>Kaposi sarcoma</u><br><br>* <u>NSCLC</u><br><br><br> |  |  |
+| <br>* <u>Nontaxane microtubule inhibitors</u><br><br> | <br>* <u>Eribulin</u><br><br> | <br>* G2/<u>M phase</u><br><br> | <br><br>* <u>Breast cancer</u><br><br>* <u>Liposarcoma</u><br><br><br> |  |  |
+| <br><br>* <u>Ixabepilone</u><br><br>* <u>Epothilone</u><br><br><br> | <br>* <u>M phase</u><br><br> | <br>* <u>Breast cancer</u><br><br> |  |  |  |
+| <u>Antibiotics</u> | <br>* <u>Bleomycin</u><br><br> |  | <br><br>* <u>G2 phase</u><br><br>* <u>M phase</u><br><br><br> | <br><br>* <u>Squamous cell carcinomas of the head and neck</u><br><br>* <u>Testicular cancer</u><br><br>* <u>Hodgkin lymphoma</u><br><br>* <u>Malignant pleural effusion</u><br><br><br> |  |
+| <br>* <u>Actinomycin D</u><br><br> |  | <br>* Nonspecific<br><br> | <br><br>* Childhood tumors<br><br>* <u>Nephroblastoma</u><br><br>* <u>Ewing sarcoma</u><br><br>* <u>Rhabdomyosarcoma</u><br><br>* <u>Gestational trophoblastic neoplasia</u><br><br><br> |  |  |
+| <br>* <u>Anthracyclines</u> <br><br>* <u>Doxorubicin</u><br><br>* <u>Daunorubicin</u><br><br>* <u>Idarubicin</u><br><br> |  | <br>* Nonspecific<br><br> | <br><br>* Solid tumors<br><br>* <u>Leukemias</u><br><br>* <u>Lymphomas</u> (Hodgkin and non-<u>hodgkin lymphomas</u>)<br><br><br> |  |  |
+| <br>* <u>Mitomycin</u><br><br> |  | <br>* Nonspecific<br><br> | <br><br>* <u>Palliative chemotherapy</u> of gastric and <u>pancreatic cancer</u><br><br>* <u>Bladder cancer</u><br><br><br> |  |  |
+| <br><u>Protein kinase inhibitors</u> (e.g., tyrosine kinase inhibitors) | <br>* <u>BCR-ABL</u> <u>tyrosine kinase inhibitors</u> and <u>c-KIT</u> <u>tyrosine kinase inhibitors</u><br><br> | <br><br>* <u>Imatinib</u><br><br>* <u>Dasatinib</u><br><br>* <u>Nilotinib</u><br><br><br> | <br>* Variable<br><br> | <br><br>* <u>Chronic myeloid leukemia</u> (<u>CML</u>) (<u>BCR-ABL</u>)<br><br>* <u>ALL</u><br><br>* <u>Gastrointestinal stromal tumor</u> (<u>c-KIT</u>)<br><br>* Aggressive <u>systemic mastocytosis</u><br><br>* Dermatofibrosarcoma protuberans<br><br>* <u>Chronic eosinophilic leukemia</u><br><br><br> |  |
+| <br>* G0/<u>G1 phase</u><br><br> |  |  |  |  |  |
+| <br>* <u>EGFR</u> <u>tyrosine</u> <u>kinase</u> inhibitors<br><br> | <br><br>* <u>Erlotinib</u><br><br>* <u>Gefitinib</u><br><br>* <u>Afatinib</u><br><br>* <u>Osimertinib</u><br><br><br> | <br><br>* <u>NSCLC</u><br><br>* <u>Pancreatic cancer</u><br><br><br> |  |  |  |
+| <br>* <u>ALK tyrosine kinase inhibitors</u><br><br> |  |  |  |  |  |
+| <br><br>* <u>Alectinib</u><br><br>* <u>Crizotinib</u><br><br><br> | <br>* <u>NSCLC</u><br><br> |  |  |  |  |
+| <br>* G0 and <u>G1 phase</u><br><br> |  |  |  |  |  |
+| <br>* G0/<u>G1 phase</u><br><br> |  |  |  |  |  |
+| <br>* V600E mutated-<u>BRAF</u> <u>oncogene</u> inhibitor<br><br> | <br><br>* <u>Dabrafenib</u><br><br>* <u>Vemurafenib</u><br><br>* <u>Encorafenib</u><br><br><br> | <br><br>* <u>Metastatic</u> <u>melanoma</u><br><br>* <u>NSCLC</u><br><br>* <u>Thyroid cancer</u><br><br>* Erdheim-Chester disease<br><br><br> |  |  |  |
+| <br>* <u>MEK inhibitors</u><br><br> | <br>* <u>Trametinib</u><br><br> | <br>* G0/<u>G1 phase</u><br><br> | <br><br>* <u>Melanoma</u><br><br>* <u>NSCLC</u><br><br><br> |  |  |
+| <br>* <u>Bruton tyrosine kinase inhibitors</u><br><br> | <br><br>* <u>Ibrutinib</u><br><br>* <u>Acalabrutinib</u><br><br><br> | <br>* <u>G1 phase</u><br><br> | <br><br>* <u>Neoplastic</u> conditions<br><br>* <u>CLL</u><br><br>* <u>Mantle cell lymphoma</u><br><br>* <u>Waldenstrom macroglobulinemia</u><br><br>* Nonneoplastic conditions: <u>Graft-versus-host disease</u><br><br><br> |  |  |
+| <br>* <u>Janus kinase inhibitors</u><br><br> | <br>* <u>Ruxolitinib</u><br><br> | <br><br>* <u>Polycythemia vera</u><br><br>* <u>Myelofibrosis</u><br><br><br> |  |  |  |
+| <br>* <u>CDK inhibitors</u><br><br> | <br>* <u>Palbociclib</u><br><br> | <br>* <u>G1/S</u> phase<br><br> | <br>* <u>Metastatic</u> <u>breast cancer</u><br><br> |  |  |
+| Other | <br>* Enzymes<br><br> | <br>* <u>L-asparaginase</u><br><br> | <br>* <u>G1 phase</u><br><br> | <br>* <u>ALL</u><br><br> |  |
+| <br>* <u>Proteasome inhibitors</u><br><br> | <br><br>* <u>Bortezomib</u><br><br>* <u>Carfilzomib</u><br><br>* <u>Ixazomib</u><br><br><br> | <br>* G2/<u>M phase</u><br><br> | <br><br>* <u>Mantle cell lymphoma</u> (<u>bortezomib</u>)<br><br>* <u>Multiple myeloma</u><br><br><br> |  |  |
+| <br>* PARP inhibitors<br><br> | <br>* <u>Olaparib</u><br><br> | <br>* G2 and <u>S phase</u><br><br> | <br><br>* <u>Breast cancer</u><br><br>* <u>Ovarian cancer</u><br><br>* <u>Prostate cancer</u><br><br>* <u>Pancreatic cancer</u><br><br><br> |  |  |
+| <u>Monoclonal antibodies</u> | <br>* See “<u>Biological agents</u> used in immunotherapy” in “<u>Immunosuppressants</u>.”<br><br> |  |  |  |  |
+
+---
+
+## Antimetabolites
+
+| Overview of important antimetabolites |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Subgroup | Agent | Mechanism of action | Indications | Adverse effects |
+| Antifolates | <br>* Methotrexate<br><br> | <br><br>* Competitive inhibition of <u>dihydrofolate reductase</u> via displacement of dihydrofolate → ↓ formation of <u>pyrimidine</u> <u>nucleotides</u> (↓ dTMP) and <u>purine</u> <u>nucleotides</u> → ↓ <u>DNA</u> synthesis<br><br>* Inhibition of AICAR transformylase → inhibition of <u>adenosine</u> deaminase → ↑ intracellular concentration of <u>adenosine</u> and <u>adenine</u> <u>nucleotides</u><br><br><br> | <br><br>* <u>Neoplastic</u> conditions<br><br>* <u>Leukemias</u> (especially <u>ALL</u>)<br><br>* <u>Lymphomas</u> (e.g., <u>cutaneous T-cell lymphoma</u>, <u>non-Hodgkin lymphomas</u>)<br><br>* <u>Sarcomas</u><br><br>* <u>Choriocarcinoma</u><br><br>* <u>Breast cancer</u><br><br>* <u>Head and neck cancers</u> (e.g., <u>squamous cell carcinoma</u>)<br><br>* <u>Lung cancer</u><br><br>* Nonneoplastic conditions<br><br>* <u>Hydatidiform moles</u><br><br>* <u>Ectopic pregnancy</u><br><br>* <u>Medical abortion</u> (in combination with <u>misoprostol</u>)<br><br>* <u>Immunosuppression</u> for autoimmune diseases (e.g., <u>rheumatoid arthritis</u>, <u>inflammatory bowel disease</u>, <u>psoriasis</u>, <u>vasculitides</u>)<br><br><br> | <br><br>* <u>Myelosuppression</u>, <u>anemia</u><br><br>* <u>Hepatotoxicity</u>, <u>hepatic fibrosis</u><br><br>* <u>Pulmonary fibrosis</u>, <u>pneumonitis</u><br><br>* <u>Nephrotoxicity</u><br><br>* <u>Mucositis</u> (e.g., oral <u>ulcerations</u>)<br><br>* <u>Megaloblastic anemia</u><br><br>* <u>Birth</u> defects (due to <u>folate deficiency</u>), e.g., <u>neural tube defects</u><br><br>* <u>Neurotoxicity</u> (e.g., <u>seizures</u>)<br><br><br> |
+| <br>* Pemetrexed<br><br> | <br><br>* Multitargeted antifolate<br><br>* Inhibition of thymidylate <u>synthase</u> → ↓ synthesis of deoxythymidine monophosphate (dTMP) → ↓ <u>DNA</u> and <u>RNA</u> synthesis<br><br><br> | <br><br>* <u>Pleural mesothelioma</u><br><br>* <u>NSCLC</u><br><br>* <u>Ovarian cancer</u><br><br><br> | <br><br>* <u>Alopecia</u><br><br>* <u>Erythematous</u>, pruritic <u>rash</u> (<u>pemetrexed</u>)<br><br>* Desquamation<br><br>* <u>Anemia</u><br><br>* <u>Pharyngitis</u><br><br>* GI symptoms (e.g, <u>diarrhea</u>)<br><br><br> |  |
+| Pyrimidine antagonists | <br>* Cytarabine<br><br> | <br><br>* Incorporation of <u>pyrimidine analog</u> into DNA→ ↓ <u>DNA</u> synthesis (via termination of <u>DNA</u> chain)<br><br>* Inhibits <u>DNA polymerase</u> at higher doses<br><br><br> | <br><br>* <u>Leukemias</u> (especially <u>AML</u>)<br><br>* <u>Lymphomas</u><br><br><br> | <br><br>* <u>Myelosuppression</u> (<u>pancytopenia</u>)<br><br>* <u>Megaloblastic anemia</u><br><br>* <u>Hepatotoxicity</u><br><br>* <u>Pancreatitis</u><br><br>* Sudden <u>respiratory distress</u> syndrome<br><br>* <u>Neurotoxicity</u> (e.g., <u>seizures</u>, <u>cerebellar</u> toxicity)<br><br><br> |
+| <br><br>* 5-Fluorouracil (<u>5-FU</u>)<br><br>* Capecitabine (prodrug for <u>5-FU</u>)<br><br><br> | <br><br>* Activation of 5-<u>fluorouracil</u> to 5-FdUMP<br><br>* Complex formation with <u>thymidylate synthase</u> and folic acid → inhibition of<br>thymidylate <u>synthase</u> → ↓ dTMP production → ↓ <u>DNA</u> synthesis<br><br>* Incorporation of <u>pyrimidine analog</u> into <u>DNA</u> and <u>RNA</u> → ↓ <u>DNA</u> and <u>RNA</u> synthesis<br><br>* <u>Leucovorin</u> enhances antineoplastic <u>efficacy</u> of 5-<u>fluorouracil</u><br><br><br> | <br><br>* Systemic treatment<br><br>* <u>Breast cancer</u><br><br>* <u>Gastric cancer</u><br><br>* <u>Colorectal cancer</u><br><br>* <u>Pancreatic cancer</u><br><br>* Topical treatment<br><br>* <u>Actinic keratosis</u><br><br>* <u>Basal cell carcinoma</u><br><br><br> | <br><br>* <u>Myelosuppression</u><br><br>* <u>Palmar-plantar erythrodysesthesia</u> (<u>hand-foot syndrome</u>)<br><br>* Cardiotoxicity<br><br>* GI symptoms (e.g., <u>nausea</u>, <u>diarrhea</u>, <u>mucosal</u> <u>ulcerations</u>)<br><br>* Higher toxicity in patients with dihydropyrimidine <u>dehydrogenase</u> deficiency<br><br>* <u>Hepatotoxicity</u><br><br>* <u>Hyperammonemic</u> <u>encephalopathy</u><br><br><br> |  |
+| <br>* Gemcitabine<br><br> | <br>* Incorporation of <u>pyrimidine analog</u> into <u>DNA</u> → ↓ <u>DNA synthesis</u><br><br> | <br><br>* <u>Breast cancer</u><br><br>* <u>NSCLC</u><br><br>* <u>Ovarian cancer</u><br><br>* <u>Pancreatic cancer</u><br><br><br> | <br><br>* <u>Myelosuppression</u><br><br>* <u>Capillary leak</u> syndrome<br><br>* <u>Hemolytic uremic syndrome</u><br><br>* Pulmonary toxicity<br><br>* <u>Hepatotoxicity</u><br><br><br> |  |
+| Purine antagonists | <br><br>* 6-<u>Mercaptopurine</u> (<u>6-MP</u>)<br><br>* <u>Azathioprine</u> (prodrug for <u>6-MP</u>)<br><br><br> | <br><br>* 6-<u>Mercaptopurine</u> is converted into the active metabolite by <u>hypoxanthine-guanine phosphoribosyltransferase</u> (<u>HGPRT</u>) → ↓ de novo synthesis of <u>purines</u><br><br>* Incorporation of <u>purine analog</u> (thiol analog) into <u>DNA</u> → ↓ <u>DNA</u> synthesis<br><br><br> | <br><br>* <u>Acute lymphoblastic leukemia</u><br><br>* Non-<u>neoplastic</u> conditions: <u>immunosuppression</u><br><br>* Prevention of organ <u>transplant rejection</u><br><br>* Treatment of autoimmune diseases<br><br>* For example, <u>inflammatory bowel disease</u>, <u>systemic lupus erythematosus</u>, <u>rheumatoid arthritis</u><br><br>* Used in patients with <u>steroid</u>-resistance or to reduce <u>steroid</u> dose<br><br><br> | <br><br>* <u>Myelosuppression</u><br><br>* GI symptoms (e.g., <u>CINV</u>, <u>diarrhea</u>)<br><br>* <u>Hepatotoxicity</u><br><br>* Secondary <u>malignancy</u>  [[4]](https://coursology-qbank.com/amboss/article/6NYjXp)<br><br>* Metabolized by <u>xanthine oxidase</u>; therefore, toxicity increases with concurrent use of <u>allopurinol</u> and/or <u>febuxostat</u><br><br><br> |
+| <br>* Fludarabine<br><br> | <br>* Incorporation of <u>purine</u> analog into <u>DNA</u> → ↓ <u>DNA</u> and <u>RNA</u> synthesis<br><br> | <br><br>* <u>CLL</u><br><br>* Low-grade <u>lymphomas</u> (e.g., follicular <u>B-cell lymphoma</u>)<br><br>* <u>Myeloablation</u> prior to <u>hematopoietic stem cell transplant</u><br><br><br> | <br><br>* Autoimmune effects (e.g., <u>autoimmune hemolytic anemia</u>, <u>idiopathic thrombocytopenia</u>)<br><br>* <u>Myelosuppression</u><br><br>* <u>Neurotoxicity</u><br><br><br> |  |
+| <br>* Cladribine<br><br> | <br><br>* Incorporation of <u>purine analog</u> into <u>DNA</u> → breakage of <u>DNA</u> strand → ↓ <u>DNA</u> synthesis<br><br>* Inhibits <u>DNA polymerase</u><br><br>* Selectively toxic to <u>lymphocytes</u> and <u>monocytes</u> that have a high deoxycytidine <u>kinase</u> and a low deoxynucleotidase content.<br><br>* Deoxycytidine <u>kinase</u> <u>phosphorylates</u> <u>cladribine</u><br><br>* Monophosphorylated <u>cladribine</u> is resistant to <u>adenosine deaminase</u> and accumulates within the cells. [[5]](https://coursology-qbank.com/amboss/article/rubfsv)<br><br><br> | <br><br>* <u>Hairy cell leukemia</u><br><br>* <u>CLL</u><br><br>* Low-grade <u>lymphomas</u><br><br>* Nonneoplastic conditions: <u>multiple sclerosis</u><br><br><br> | <br><br>* <u>Myelosuppression</u><br><br>* <u>Headache</u><br><br>* <u>Nephrotoxicity</u><br><br>* <u>Neurotoxicity</u><br><br>* Cardiotoxicity<br><br>* <u>Hepatotoxicity</u><br><br><br> |  |
+| Ribonucleotide reductase inhibitors | <br>* Hydroxyurea (<u>hydroxycarbamide</u>)<br><br> | <br>* Inhibition of <u>ribonucleotide reductase</u> → ↓ <u>DNA</u> replication (<u>S phase</u>) → massive <u>cytoreduction</u><br><br> | <br><br>* <u>Myeloproliferative disorders</u><br><br>* <u>Chronic myeloid leukemia</u><br><br>* <u>Polycythemia vera</u><br><br>* <u>Essential thrombocythemia</u><br><br>* <u>Leukostasis syndrome</u><br><br>* <u>Head and neck cancer</u><br><br><br> | <br><br>* <u>Myelosuppression</u><br><br>* <u>Macrocytosis</u>, <u>macrocytic anemia</u><br><br>* Secondary <u>malignancy</u><br><br>* <u>Birth</u> defects<br><br>* Pulmonary toxicity<br><br><br> |
+| <br>* Increases production of <u>hemoglobin F</u> (<u>HbF</u>)<br><br> | <br>* <u>Sickle cell crisis</u> prophylaxis<br><br> |  |  |  |
+
+
+
+
+
+> [!NOTE]
+> Cytarabine causes <u>myelosuppression</u> with pancytopenia.
+
+---
+
+## Alkylating agents
+
+| Overview of important alkylating agents |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Subgroup | Agent | Mechanism of action | Indications | Adverse effects |
+| Oxazaphosphorines | <br>* Cyclophosphamide<br><br> | <br><br>* Alkylation of <u>DNA</u>/<u>RNA</u> → cross-links <u>DNA</u> at <u>guanine</u> N–7 → ↓ <u>DNA replication</u><br><br>* <u>Cyclophosphamide</u> and <u>ifosfamide</u> require activation in the <u>liver</u>.<br><br><br> | <br><br>* Malignancies [[6]](https://coursology-qbank.com/amboss/article/eubxJv)<br><br>* Solid tumors (e.g., <u>breast cancer</u>, <u>ovarian cancer</u>, <u>small cell lung cancer</u>)<br><br>* <u>Leukemias</u><br><br>* <u>Lymphomas</u><br><br>* <u>Multiple myeloma</u><br><br>* Nonneoplastic conditions<br><br>* Autoimmune diseases (e.g., <u>systemic lupus erythematosus</u>, <u>granulomatosis with polyangiitis</u>)<br><br>* <u>Nephrotic syndrome</u><br><br><br> | <br><br>* <u>Bladder</u> toxicity: metabolism of <u>oxazaphosphorines</u> produces the urotoxic substance acrolein<br><br>* Hemorrhagic cystitis: inflammation of the <u>bladder</u>, damaging to the <u>epithelium</u> and <u>blood vessels</u><br><br>* <u>Bladder carcinoma</u><br><br>* <u>Myelosuppression</u><br><br>* <u>Syndrome of inappropriate antidiuretic hormone secretion</u> (<u>SIADH</u>)<br><br>* Pulmonary toxicity<br><br>* Cardiac toxicity<br><br>* <u>Infertility</u><br><br>* <u>Fanconi syndrome</u> (<u>ifosfamide</u>)<br><br>* <u>Neurotoxicity</u> (<u>ifosfamide</u>)<br><br><br> |
+| <br>* Ifosfamide<br><br> | <br>* Solid tumors (e.g., <u>testicular germ-cell cancer</u>, <u>osteosarcoma</u>) [[7]](https://coursology-qbank.com/amboss/article/Uubbqv)<br><br> |  |  |  |
+| Nitrogen mustards | <br>* Chlorambucil<br><br> | <br><br>* <u>Chronic lymphocytic leukemia</u><br><br>* <u>Hodgkin lymphoma</u><br><br>* <u>Non-Hodgkin lymphoma</u><br><br><br> | <br><br>* <u>Myelosuppression</u><br><br>* Oral <u>ulcerations</u><br><br>* GI symptoms (e.g., <u>CINV</u>)<br><br>* <u>Pulmonary fibrosis</u><br><br>* <u>Infertility</u><br><br><br> |  |
+| <br>* Melphalan<br><br> | <br><br>* <u>Multiple myeloma</u><br><br>* <u>Ovarian cancer</u><br><br>* <u>Amyloidosis</u><br><br><br> | <br><br>* <u>Myelosuppression</u><br><br>* Pulmonary toxicity<br><br>* <u>Hypokalemia</u><br><br>* <u>Peripheral edema</u><br><br>* Secondary <u>leukemia</u><br><br><br> |  |  |
+| Imidazotetrazines | <br>* Temozolomide<br><br> | <br><br>* <u>Glioblastoma</u><br><br>* <u>Anaplastic astrocytoma</u><br><br><br> | <br><br>* <u>Myelosuppression</u><br><br>* <u>Neurotoxicity</u><br><br>* <u>Pneumocystis pneumonia</u><br><br><br> |  |
+| Nitrosoureas | <br><br>* Carmustine<br><br>* Lomustine<br><br>* Streptozocin<br><br><br> | <br><br>* Alkylation of <u>DNA</u>/<u>RNA</u> → cross-links between <u>DNA</u> → ↓ <u>DNA synthesis</u><br><br>* Require bioactivation<br><br>* Due to their high <u>lipophilicity</u>, <u>carmustine</u> and <u>lomustine</u> can cross the <u>blood-brain barrier</u> and act in the <u>CNS</u>.<br><br><br> | <br><br>* <u>Brain tumors</u> (e.g., <u>glioblastoma multiforme</u>)<br><br>* <u>Multiple myeloma</u> (<u>carmustine</u>, <u>lomustine</u>)<br><br>* <u>Hodgkin lymphoma</u><br><br>* <u>Pancreatic neuroendocrine tumors</u> (<u>streptozocin</u>)<br><br><br> | <br><br>* <u>Neurotoxicity</u> (e.g., <u>convulsions</u>, <u>dizziness</u>, <u>ataxia</u>)<br><br>* <u>Myelosuppression</u><br><br>* Pulmonary toxicity<br><br>* Secondary <u>leukemia</u><br><br><br> |
+| Alkyl sulfonate | <br>* Busulfan<br><br> | <br>* Cross-links between <u>DNA</u> strands → ↓ <u>DNA replication</u><br><br> | <br><br>* <u>Myeloablation</u> prior to <u>hematopoietic stem cell transplantation</u><br><br>* <u>CML</u><br><br><br> | <br><br>* Severe <u>myelosuppression</u> (expected effect)<br><br>* <u>Pulmonary fibrosis</u><br><br>* <u>Hyperpigmentation</u><br><br>* <u>Electrolyte</u> imbalance<br><br>* Cardiotoxicity<br><br>* <u>Hepatotoxicity</u><br><br>* <u>Neurotoxicity</u> (e.g., <u>convulsions</u>)<br><br><br> |
+| Hydrazines | <br>* Procarbazine<br><br> | <br><br>* Mechanism of action is not fully understood<br><br>* Inhibition of transmethylation of <u>methionine</u> into transfer <u>RNA</u> → ↓ <u>DNA</u>, <u>RNA</u>, and <u>protein synthesis</u><br><br>* Also acts as a weak <u>MAO inhibitor</u><br><br><br> | <br><br>* <u>Hodgkin lymphoma</u><br><br>* <u>Brain tumors</u> (e.g., <u>gliomas</u>) [[8]](https://coursology-qbank.com/amboss/article/gubFqv)<br><br><br> | <br><br>* <u>Myelosuppression</u><br><br>* Pulmonary toxicity<br><br>* Secondary <u>leukemia</u><br><br>* <u>Disulfiram-like reaction</u><br><br>* <u>Tyramine</u> crisis<br><br>* Gonadal damage<br><br><br> |
+| Platinum-based agents | <br><br>* Cisplatin<br><br>* Carboplatin<br><br>* Oxaliplatin<br><br><br> | <br>* Cross-links between <u>DNA</u> strands → ↓ <u>DNA replication</u><br><br> | <br><br>* <u>Lymphomas</u><br><br>* Solid tumors<br><br>* <u>Bladder cancer</u> (<u>cisplatin</u>)<br><br>* <u>Testicular cancer</u> (<u>cisplatin</u>)<br><br>* <u>Ovarian cancer</u> (<u>cisplatin</u>, <u>carboplatin</u>)<br><br>* <u>Colorectal cancer</u> (<u>oxaliplatin</u>)<br><br>* <u>Lung cancer</u> (<u>cisplatin</u>, <u>carboplatin</u>)<br><br>* <u>Cervical cancer</u> (<u>cisplatin</u>)<br><br>* <u>Osteosarcoma</u> (<u>cisplatin</u>)<br><br><br> | <br><br>* <u>Myelosuppression</u><br><br>* <u>Nephrotoxicity</u> (may manifest as <u>Fanconi syndrome</u>)<br><br>* <u>Neurotoxicity</u> (including peripheral neuropathies)<br><br>* <u>Ototoxicity</u><br><br>* <u>CINV</u><br><br><br> |
+
+
+
+
+
+> [!TIP]
+> <u>Cyclophosphamide</u> can cause <u>hemorrhagic cystitis</u>.
+
+
+
+
+> [!NOTE]
+> Busulfan and Bleomycin Block your Breath: <u>busulfan</u> and <u>bleomycin</u> cause <u>pulmonary fibrosis</u>.
+
+---
+
+## Topoisomerase inhibitors
+
+| Overview of important topoisomerase inhibitors |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Subgroup | Agent | Mechanism of action | Indications | Adverse effects |
+| Topoisomerase I inhibitors | <br>* Irinotecan<br><br> | <br>* Inhibition of <u>topoisomerase I</u> → ↓ <u>DNA</u> unwinding → ↓ <u>DNA</u> replication and <u>DNA</u> degradation (because of ssDNA breaks)<br><br> | <br><br>* <u>Colorectal cancer</u><br><br>* <u>Small-cell lung cancer</u><br><br>* <u>Pancreatic cancer</u><br><br><br> | <br><br>* <u>Myelosuppression</u><br><br>* GI symptoms (e.g., <u>diarrhea</u>)<br><br>* <u>Cholinergic syndrome</u><br><br>* <u>Alopecia</u><br><br>* Pulmonary toxicity (<u>irinotecan</u>)<br><br><br> |
+| <br>* Topotecan<br><br> | <br><br>* <u>Cervical cancer</u><br><br>* <u>Ovarian cancer</u><br><br>* <u>Small-cell lung cancer</u><br><br><br> |  |  |  |
+| Topoisomerase II inhibitors | <br>* Etoposide<br><br> | <br>* Inhibition of <u>topoisomerase II</u> → ↑ <u>DNA</u> degradation (dsDNA breaks) and ↓ <u>DNA</u> replication (<u>cell cycle</u> arrest in S and <u>G2 phase</u>)<br><br> | <br><br>* Solid tumors<br><br>* <u>Testicular cancer</u><br><br>* <u>Small-cell lung cancer</u><br><br>* <u>Leukemias</u><br><br>* <u>Lymphomas</u><br><br><br> | <br><br>* <u>Myelosuppression</u><br><br>* <u>Alopecia</u><br><br>* <u>Hypotension</u><br><br>* <u>Mucositis</u> (<u>teniposide</u>)<br><br><br> |
+
+---
+
+## Mitotic inhibitors
+
+| Overview of important mitotic inhibitors |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Subgroup | Agent | Mechanism of action | Indications | Adverse effects |
+| Vinca alkaloids | <br>* Vincristine<br><br> | <br>* Binding of β-<u>tubulin</u> → inhibition of β-<u>tubulin</u> polymerization into microtubules→ prevention of <u>mitotic spindle</u> formation → <u>mitotic</u> arrest of <u>the cell</u> in <u>metaphase</u> (<u>M-phase</u>)<br><br> | <br><br>* Solid tumors<br><br>* <u>Neuroblastoma</u><br><br>* <u>Rhabdomyosarcoma</u><br><br>* <u>Nephroblastoma</u><br><br>* Other<br><br>* <u>Acute lymphocytic leukemia</u><br><br>* <u>Hodgkin lymphoma</u><br><br>* <u>NHL</u><br><br><br> | <br><br>* <u>Neurotoxicity</u> (e.g., areflexia, <u>peripheral neuropathy</u>)<br><br>* <u>Paralytic ileus</u>, <u>constipation</u><br><br>* Extravasation can cause significant irritation and/or <u>ulceration</u> of local tissue<br><br>* Acute <u>bronchospasm</u><br><br>* <u>Uric acid nephropathy</u><br><br><br> |
+| <br>* Vinblastine<br><br> | <br><br>* Solid tumors<br><br>* <u>Kaposi sarcoma</u><br><br>* <u>Langerhans cell histiocytosis</u><br><br>* <u>Testicular cancer</u><br><br>* Other<br><br>* <u>Hodgkin lymphoma</u><br><br>* <u>NHL</u><br><br><br> | <br><br>* <u>Myelosuppression</u><br><br>* Extravasation can cause significant irritation of local tissue<br><br>* Pulmonary toxicity<br><br><br> |  |  |
+| <br>* Vinorelbine<br><br> | <br><br>* <u>NSCLC</u><br><br>* <u>Breast cancer</u><br><br><br> | <br><br>* <u>Myelosuppression</u><br><br>* <u>Hypersensitivity reactions</u><br><br><br> |  |  |
+| Taxanes | <br><br>* Docetaxel<br><br>* Paclitaxel<br><br><br> | <br>* Hyperstabilization of polymerized <u>microtubules</u> → ↓ <u>mitotic</u> spindles breakdown → <u>mitotic</u> arrest in <u>metaphase</u> (not proceeding to <u>anaphase</u>)<br><br> | <br><br>* <u>Breast cancer</u><br><br>* <u>Ovarian cancer</u><br><br>* <u>Prostate cancer</u><br><br>* <u>Gastric cancer</u><br><br>* <u>Kaposi sarcoma</u><br><br>* <u>NSCLC</u><br><br><br> | <br><br>* <u>Myelosuppression</u><br><br>* Neuropathy<br><br>* <u>Hepatotoxicity</u><br><br>* <u>Hypersensitivity reactions</u><br><br>* Fluid retention<br><br>* <u>Nail</u> changes (e.g., <u>nail</u> bed <u>purpura</u>, <u>onycholysis</u>, <u>nail</u> pigmentation, <u>splinter hemorrhage</u>, subungual <u>abscess</u>)<br><br><br> |
+| Nontaxane microtubule inhibitors | <br>* Eribulin<br><br> | <br>* Inhibition of <u>mitotic spindle</u> formation → <u>mitotic</u> blockage → <u>cell cycle</u> arrest at the G2/<u>M phase</u><br><br> | <br><br>* <u>Breast cancer</u><br><br>* <u>Liposarcoma</u><br><br><br> | <br><br>* <u>Myelosuppression</u><br><br>* <u>Peripheral neuropathy</u><br><br>* <u>QT prolongation</u><br><br><br> |
+| <br><br>* Ixabepilone<br><br>* Epothilone<br><br><br> | <br>* Binding to β-<u>tubulin</u> → hyperstabilization of the <u>microtubules</u> → ↓ breakdown of <u>mitotic spindles</u> breakdown → <u>mitotic</u> arrest in <u>metaphase</u><br><br> | <br>* <u>Breast cancer</u><br><br> | <br><br>* Hypersensitivity<br><br>* <u>Myelosuppression</u><br><br>* <u>Peripheral neuropathy</u><br><br><br> |  |
+
+
+
+
+
+> [!NOTE]
+> The tax rates are stable: taxanes stabilize <u>microtubules</u>.
+
+
+
+
+> [!NOTE]
+> Assemblies are not permitted in the vineyard: vinca alkaloids prevent <u>microtubule</u> assembly.
+
+
+
+
+> [!NOTE]
+> Vincristine crisps the nerves and vinblastine blasts the <u>bone marrow</u>.
+
+---
+
+## Antitumor antibiotics
+
+| Overview of important cytotoxic antibiotics |  |  |  |
+| --- | --- | --- | --- |
+| Agent | Mechanism of action | Indications | Side effects |
+| Bleomycin | <br>* Induces formation of free radicals → breakage of <u>DNA</u> strand → <u>cell cycle</u> arrest at <u>G<sub>2</sub> phase</u> and <u>M phase</u><br><br> | <br><br>* <u>Squamous cell carcinomas of the head and neck</u><br><br>* <u>Testicular cancer</u><br><br>* <u>Hodgkin lymphoma</u><br><br>* <u>Malignant pleural effusion</u><br><br><br> | <br><br>* Bleomycin-induced lung injury<br><br>* <u>Pulmonary fibrosis</u><br><br>* <u>Bronchiolitis obliterans</u><br><br>* Acute <u>pneumonitis</u><br><br>* <u>ARDS</u><br><br>* Flagellate <u>hyperpigmentation</u> of the <u>skin</u><br><br>* Minimal <u>myelosuppression</u><br><br>* <u>Mucositis</u><br><br>* <u>Alopecia</u><br><br>* Idiosyncratic reaction<br><br><br> |
+| <br>Actinomycin D (<u>dactinomycin</u>)<br> | <br>* <u>DNA</u> intercalation → interference with <u>DNA</u> <u>transcription</u> → ↓ <u>RNA</u> synthesis<br><br> | <br><br>* Childhood tumors<br><br>* <u>Nephroblastoma</u><br><br>* <u>Ewing sarcoma</u><br><br>* <u>Rhabdomyosarcoma</u><br><br>* <u>Gestational trophoblastic neoplasia</u><br><br><br> | <br><br>* <u>Myelosuppression</u><br><br>* Mucocutaneous toxicity<br><br>* <u>Nephrotoxicity</u><br><br>* <u>Hepatotoxicity</u><br><br><br> |
+| <br>Anthracyclines (doxorubicin, daunorubicin, idarubicin)<br> | <br><br>* Inhibition of <u>topoisomerase II</u> → ↑ <u>DNA</u> degradation (dsDNA breaks) and ↓ <u>DNA</u> replication<br><br>* Formation of free radicals → breakage of <u>DNA</u> strands<br><br>* <u>DNA</u> intercalation → breakage of <u>DNA</u> strands and ↓ <u>DNA</u> replication<br><br><br> | <br><br>* <u>Breast cancer</u> (<u>doxorubicin</u>)<br><br>* <u>Metastatic</u> solid tumors (<u>doxorubicin</u>)<br><br>* <u>Lymphomas</u> (<u>doxorubicin</u>)<br><br>* <u>Kaposi sarcoma</u> (<u>doxorubicin</u>)<br><br>* <u>Leukemias</u> (<u>daunorubicin</u>, <u>idarubicin</u>)<br><br>* <u>Osteosarcoma</u><br><br><br> | <br><br>* Anthracycline-induced cardiotoxicity<br><br>* <u>Dilated cardiomyopathy</u> with systolic <u>CHF</u><br><br>* Dose-dependent [[9]](https://coursology-qbank.com/amboss/article/gUWFck0)<br><br>* <u>Myelosuppression</u><br><br>* <u>Alopecia</u><br><br>* Urine discoloration<br><br>* Extravasation<br><br>* <u>Infertility</u><br><br><br> |
+| Mitomycin | <br>* Cross-linking between <u>DNA</u> strands → ↓ <u>DNA</u> and <u>RNA</u> synthesis<br><br> | <br><br>* <u>Palliative chemotherapy</u> of gastric and <u>pancreatic cancer</u><br><br>* <u>Bladder cancer</u><br><br><br> | <br><br>* <u>Myelosuppression</u><br><br>* <u>Hemolytic uremic syndrome</u><br><br>* <u>Heart failure</u><br><br>* <u>Thrombotic thrombocytopenic purpura</u><br><br>* <u>Bladder</u> <u>fibrosis</u> (with intravesical administration)<br><br>* <u>ARDS</u><br><br><br> |
+
+
+
+
+
+> [!NOTE]
+> Busulfan and bleomycin block your breath: <u>Busulfan</u> and <u>bleomycin</u> cause <u>pulmonary fibrosis</u>.
+
+
+
+
+> [!NOTE]
+> Except for <u>bleomycin</u>, all <u>antitumor antibiotics</u> are <u>cell cycle nonspecific agents</u>. <u>Bleomycin</u> is effective against cells in the G2 and <u>M phase</u>.
+
+---
+
+## Protein kinase inhibitors
+
+| Overview of important protein kinase inhibitors |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Subgroup | Agent | Mechanism of action | Indications | Side effects |
+| BCR-ABL and c-KIT tyrosine kinase inhibitors | <br>* Imatinib<br><br> | <br>* Inhibition of autophosphorylation and activation of multiple <u>proteins</u> by <u>tyrosine kinases</u> (e.g.,<u>BCR-ABL</u>, <u>c-KIT</u>)<br><br> | <br><br>* <u>Chronic myeloid leukemia</u><br><br>* <u>BCR-ABL</u> positive <u>ALL</u><br><br>* Kit (<u>CD117</u>)-positive <u>gastrointestinal stromal tumors</u><br><br>* Aggressive <u>systemic mastocytosis</u> (<u>imatinib</u>)<br><br>* Dermatofibrosarcoma protuberans (<u>imatinib</u>)<br><br>* <u>Hypereosinophilic syndrome</u> (<u>imatinib</u>)<br><br>* <u>Chronic eosinophilic leukemia</u> (<u>imatinib</u>)<br><br>* Myelodysplastic/Myeloproliferative diseases (<u>imatinib</u>)<br><br><br> | <br><br>* General<br><br>* Fluid retention and <u>edema</u><br><br>* <u>Myelosuppression</u><br><br>* <u>Hepatotoxicity</u> (e.g., ↑ <u>LFTs</u>)<br><br>* <u>Myalgia</u><br><br>* For <u>imatinib</u><br><br>* <u>Neurotoxicity</u><br><br>* <u>Bullous</u> dermatologic reactions<br><br>* Hemorrhage<br><br>* <u>Nephrotoxicity</u><br><br>* For <u>dasatinib</u>:<br><br>* Cardiotoxicity<br><br>* <u>Skin</u> <u>rash</u><br><br>* Hemorrhage<br><br>* <u>Pulmonary arterial hypertension</u><br><br>* <u>QT prolongation</u><br><br><br> |
+| <br>* Dasatinib<br><br> |  |  |  |  |
+| <br>* Nilotinib<br><br> |  |  |  |  |
+| EGFR tyrosine kinase inhibitors | <br><br>* Erlotinib<br><br>* Gefitinib<br><br>* Afatinib<br><br>* Osimertinib<br><br><br> | <br>* Inhibition of <u>HER1</u>/<u>EGFR</u> <u>tyrosine</u> <u>kinase</u> → blockage of intracellular <u>phosphorylation</u> → <u>cell death</u><br><br> | <br><br>* <u>NSCLC</u><br><br>* <u>Pancreatic cancer</u><br><br><br> | <br><br>* Dermatologic toxicity (e.g., <u>rash</u>, <u>bullous</u>, <u>blistering</u>, and exfoliating <u>skin</u> conditions)<br><br>* Fatigue<br><br>* GI toxicity (e.g., <u>diarrhea</u>)<br><br>* <u>Hepatotoxicity</u><br><br>* Ocular toxicity<br><br>* <u>Nephrotoxicity</u><br><br><br> |
+| <br>VEGFR tyrosine kinase inhibitors [[10]](https://coursology-qbank.com/amboss/article/MX1MA20)[[11]](https://coursology-qbank.com/amboss/article/LX1wA20)<br> | <br><br>* Cabozantinib<br><br>* Pazopanib<br><br>* <u>Sunitinib</u><br><br>* <u>Sorafenib</u><br><br>* Tivozanib<br><br>* Axitinib<br><br>* <u>Lenvatinib</u><br><br>* Regorafinib<br><br>* Vandetanib<br><br><br> | <br>* Inhibition of <u>VEGF</u> <u>tyrosine</u> <u>kinase</u> → multimodal change to <u>tumor</u> microenvironment via antiangiogenic effect, effects on vessel function, and immune modulation [[12]](https://coursology-qbank.com/amboss/article/kX1my20)<br><br> | <br><br>* <u>Renal cell carcinoma</u> (e.g., <u>sorafenib</u>)<br><br>* <u>HCC</u> (e.g., <u>sorafenib</u>)<br><br>* <u>Thyroid cancer</u> (e.g., <u>sorafenib</u>)<br><br>* <u>Pancreatic neuroendocrine tumor</u> (e.g., <u>sunitinib</u>)<br><br>* <u>GIST</u> (e.g., <u>sunitinib</u>, regorafinib)<br><br><br> | <br><br>* GI toxicity (e.g., <u>diarrhea</u>)<br><br>* Dermatologic toxicity (e.g., <u>rash</u>, <u>hand-foot syndrome</u>)<br><br>* Cardiac toxicity (e.g., <u>HTN</u>)<br><br>* Fatigue<br><br>* <u>Thyroid</u> toxicity<br><br><br> |
+| ALK tyrosine kinase inhibitors | <br><br>* Alectinib<br><br>* Crizotinib<br><br><br> | <br>* Inhibition of the <u>anaplastic lymphoma kinase</u><br><br> | <br>* <u>NSCLC</u><br><br> | <br><br>* GI toxicity (e.g., <u>diarrhea</u>)<br><br>* Fluid retention and <u>edema</u><br><br>* Dermatologic toxicity (e.g., <u>rash</u>)<br><br>* Ocular toxicity<br><br>* <u>Neurotoxicity</u><br><br>* <u>Hepatotoxicity</u><br><br><br> |
+| V600E mutated-BRAF oncogene inhibitors | <br><br>* Dabrafenib<br><br>* Encorafenib<br><br><br> | <br><br>* Selective inhibition of <u>BRAF oncogene</u> with <u>V600E mutation</u> → inhibition of cancer cell growth<br><br>* Often administered with <u>MEK inhibitors</u> (e.g., <u>trametinib</u>)<br><br><br> | <br><br>* <u>Metastatic</u> <u>melanoma</u><br><br>* <u>NSCLC</u><br><br>* <u>Thyroid cancer</u><br><br><br> | <br><br>* General<br><br>* Dermatologic toxicity (e.g., <u>rash</u>)<br><br>* GI toxicity (e.g., <u>nausea</u>, <u>diarrhea</u>)<br><br>* Fatigue<br><br>* <u>QT prolongation</u><br><br>* For <u>dabrafenib</u> and <u>encorafenib</u><br><br>* <u>Cardiomyopathy</u><br><br>* <u>Febrile</u> reactions<br><br>* <u>Hyperglycemia</u><br><br>* <u>Venous thromboembolism</u><br><br>* For <u>vemurafenib</u><br><br>* <u>Dupuytren contracture</u> and <u>plantar</u> fascial fibromatosis<br><br>* <u>Pancreatitis</u><br><br><br> |
+| <br>* Vemurafenib<br><br> | <br><br>* <u>Metastatic</u> <u>melanoma</u><br><br>* Erdheim-Chester disease<br><br><br> |  |  |  |
+| MEK inhibitors | <br>* Trametinib<br><br> | <br>* Inhibition of <u>MAP</u> <u>kinase</u> signaling pathway → inhibition of cancer cell growth and induction of <u>apoptosis</u><br><br> | <br><br>* <u>Melanoma</u><br><br>* <u>NSCLC</u><br><br><br> | <br><br>* <u>Hepatotoxicity</u><br><br>* Dermatologic toxicity<br><br>* GI toxicity<br><br><br> |
+| Bruton kinase inhibitors | <br>* Ibrutinib<br><br> | <br>* Inhibition of <u>Bruton tyrosine kinase</u> (<u>BTK</u>) → growth inhibition of malignant <u>B cells</u><br><br> | <br><br>* <u>Chronic lymphocytic leukemia</u> (<u>CLL</u>)<br><br>* <u>Mantle cell lymphoma</u><br><br>* <u>Waldenstrom macroglobulinemia</u><br><br>* <u>Graft-versus-host disease</u><br><br><br> | <br><br>* GI toxicity<br><br>* Cardiotoxicity (e.g., <u>atrial fibrillation</u>)<br><br>* <u>Hepatotoxicity</u><br><br><br> |
+| Janus kinase inhibitors | <br>* Ruxolitinib<br><br> | <br>* Inhibition of JAK1 and <u>JAK2</u> <u>kinase</u> → reduced activation of <u>hematopoietic</u> progenitor cells<br><br> | <br><br>* <u>Polycythemia vera</u><br><br>* <u>Myelofibrosis</u><br><br><br> | <br><br>* <u>Hepatotoxicity</u> (e.g., ↑ <u>LFTs</u>)<br><br>* Hematologic toxicity (e.g., <u>thrombocytopenia</u>, <u>anemia</u>)<br><br><br> |
+| CDK inhibitors | <br>* Palbociclib<br><br> | <br>* Inhibition of <u>cyclin-dependent kinase</u> 4 and 6 → inhibition of cancer cell growth and induction of <u>apoptosis</u><br><br> | <br>* <u>Metastatic</u> <u>breast cancer</u><br><br> | <br><br>* <u>Myelosuppression</u><br><br>* Pulmonary toxicity (e.g., <u>pneumonitis</u>)<br><br><br> |
+
+---
+
+## Others
+
+| Overview of chemotherapeutic agents from other groups |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Subgroup | Agent | Mechanism of action | Indications | Side effects |
+| Enzymes | <br>* L-asparaginase<br><br> | <br>* Cleavage of the <u>amino acid</u> L-<u>asparagine</u> by <u>L-asparaginase</u> → ↓ <u>asparagine</u> source for <u>leukemic</u> cells → cytotoxicity specific to <u>leukemic</u> cells<br><br> | <br>* <u>Acute lymphoblastic leukemia</u><br><br> | <br><br>* <u>Hepatotoxicity</u><br><br>* <u>Pancreatitis</u><br><br>* <u>Hypofibrinogenemia</u> and bleeding<br><br>* <u>Thrombosis</u><br><br>* <u>Hyperglycemia</u><br><br>* <u>Allergic reactions</u><br><br><br> |
+| Proteasome inhibitors | <br><br>* Bortezomib<br><br>* Carfilzomib<br><br>* Ixazomib<br><br><br> | <br>* Inhibition of ubiquitinated <u>apoptotic</u> <u>protein degradation</u> (e.g., of <u>p53</u>) → arrest in G2/M → programmed <u>cell death</u> (<u>apoptosis</u>)<br><br> | <br><br>* <u>Mantle cell lymphoma</u> (<u>bortezomib</u>)<br><br>* <u>Multiple myeloma</u><br><br><br> | <br><br>* <u>Peripheral neuropathy</u><br><br>* <u>Herpes zoster</u> reactivation<br><br>* <u>Hepatotoxicity</u><br><br>* <u>Thrombocytopenia</u><br><br>* <u>Neutropenia</u><br><br>* Pulmonary toxicity<br><br>* <u>Heart failure</u><br><br><br> |
+| PARP Inhibitors | <br>* Olaparib<br><br> | <br>* Inhibition of poly (<u>ADP</u>-ribose) polymerase → ↓ repair of single-strand <u>DNA</u> breaks<br><br> | <br><br>* <u>Breast cancer</u><br><br>* <u>Ovarian cancer</u><br><br>* <u>Prostate cancer</u><br><br>* <u>Pancreatic cancer</u><br><br><br> | <br><br>* <u>Myelosuppression</u><br><br>* Fluid retention and <u>edema</u><br><br>* GI toxicity (e.g., <u>diarrhea</u>)<br><br><br> |
+| <u>Monoclonal antibodies</u> | <br>* See “<u>Biological agents</u> used in immunotherapy.”<br><br> |  |  |  |
+
+
+
+
+
+> [!NOTE]
+> VemuRAFenib and da<u>BRAF</u>enib are <u>BRAF</u> inhibitors.
+
+---
+
+## Additional considerations
+
+### Detoxifying agents for antineoplastic treatment
+
+
+
+
+The toxicity of certain chemotherapeutic agents can be prevented by the administration of particular detoxifying agents.
+
+
+
+
+| Overview of important detoxifying agents for antineoplastic treatment |  |  |  |
+| --- | --- | --- | --- |
+| Subgroup | Agent | Preventable adverse effect | Detoxifying agent |
+| <u>Antifolates</u> | <br>* <u>Methotrexate</u><br><br> | <br>* Numerous adverse effects, the most important of which include:<br><br>* <u>Myelosuppression</u><br><br>* <u>Mucositis</u><br><br>* <u>Hepatotoxicity</u><br><br>* <u>Pulmonary fibrosis</u><br><br> | <br>* <u>Leucovorin</u> (<u>folinic acid</u>)<br><br>* Precursor of <u>tetrahydrofolate</u><br><br>* Application 24 h after the administration of <u>antifolates</u><br><br>* Increases the therapeutic <u>efficacy</u> of <u>thymidylate synthase</u> inhibitors (e.g., 5–FU)<br><br> |
+| <u>Oxazaphosphorines</u> | <br><br>* <u>Cyclophosphamide</u><br><br>* <u>Ifosfamide</u><br><br><br> | <br>* <u>Bladder</u> toxicity<br><br>* <u>Hemorrhagic cystitis</u><br><br>* <u>Bladder carcinoma</u><br><br> | <br><br>* Mesna (2-MErcaptoethane Sulfonate Na) and fluids<br><br>* The sulfate group of <u>mesna</u> binds toxic metabolites<br><br><br> |
+| <u>Platinum-based agents</u> | <br><br>* <u>Cisplatin</u><br><br>* <u>Carboplatin</u><br><br>* <u>Oxaliplatin</u><br><br><br> | <br>* <u>Nephrotoxicity</u> (may manifest as <u>Fanconi syndrome</u>)<br><br> | <br><br>* Amifostine: <u>free radical</u> scavenger<br><br>* IV saline: induces <u>chloride</u> diuresis → ↑ urine <u>chloride</u> concentration → ↓ <u>cisplatin</u> reactivity<br><br><br> |
+| <u>Anthracyclines</u> | <br><br>* <u>Doxorubicin</u><br><br>* <u>Daunorubicin</u><br><br>* <u>Idarubicin</u><br><br><br> | <br>* Cardiotoxicity<br><br> | <br>* Dexrazoxane: <u>iron</u> <u>chelating agent</u> [[2]](https://coursology-qbank.com/amboss/article/XC09qR)<br><br> |
+
+
+
+
+
+### Management of complications
+
+
+
+* See “<u>Oncologic emergencies</u>” and “<u>Complications of cancer therapy</u>.”
+
+---

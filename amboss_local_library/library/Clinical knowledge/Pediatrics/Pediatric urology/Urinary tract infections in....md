@@ -1,0 +1,571 @@
+# Urinary tract infections in children and adolescents
+
+*Categories: Clinical knowledge > Pediatrics > Pediatric urology > Urinary tract infections in children and adolescents*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/oG00Z3)
+
+---
+
+## Summary
+
+A <u>urinary tract infection</u> (<u>UTI</u>) is an infection of the <u>bladder</u>, <u>urethra</u>, <u>ureters</u>, and/or <u>kidneys</u> and is a common infection in <u>infancy</u> and childhood. <u>Risk factors</u> include <u>congenital anomalies of the kidneys and urinary tract</u> (<u>CAKUT</u>), female sex, lack of <u>circumcision</u> in young boys, and <u>bladder and bowel dysfunction</u>. As in adults, the most common causative <u>pathogen</u> is <u>Escherichia coli</u>. Children and <u>adolescents</u> often present with classic <u>symptoms of UTI</u> (e.g., <u>dysuria</u>, <u>urinary frequency</u>). However, nonverbal and/or young children often have nonspecific symptoms, which may include <u>fever</u>, irritability, poor feeding, and new-onset <u>urinary incontinence</u>. Diagnosis is based on symptoms and <u>urinalysis</u> and <u>urine culture</u> results. Imaging is not routinely required for diagnosis but is used to evaluate for suspected acute complications (e.g., <u>renal abscess</u>) and underlying structural anomalies, such as <u>vesicoureteral reflux</u> (<u>VUR</u>). The first-line imaging modality is <u>renal and bladder ultrasound</u> (<u>RBUS</u>); <u>voiding cystourethrography</u> (<u>VCUG</u>) or <u>voiding urosonography</u> (<u>VUS</u>) is performed if there is concern for structural anomalies. <u>Treatment of pediatric UTIs</u> involves <u>antibiotics</u> (oral or IV) and management of any underlying causes. <u>Recurrent UTIs</u> are common in children, and patients and/or their caregivers should be educated on preventive measures. <u>Complications of pediatric UTIs</u>, especially if severe or recurrent, include <u>pediatric sepsis</u>, renal scarring, <u>chronic kidney disease</u>, and <u>hypertension</u>.
+
+
+
+
+<u>UTI</u> in adults is discussed in a separate article; see “<u>Urinary tract infections</u>.”
+
+---
+
+## Etiology
+
+### Pathogens [[3]](https://coursology-qbank.com/amboss/article/um1phh0)[[4]](https://coursology-qbank.com/amboss/article/LJ1wu30)
+
+
+
+
+* Bacterial
+
+* <u>E. coli</u> (in up to 90% of cases)
+
+* <u>Klebsiella pneumoniae</u>
+
+* <u>Proteus mirabilis</u>  [[3]](https://coursology-qbank.com/amboss/article/um1phh0)
+
+* <u>Enterococcus faecalis</u>
+
+* <u>Enterobacter</u> species
+
+* Rarely: <u>Pseudomonas aeruginosa</u>, <u>group B Streptococcus</u>, <u>Staphylococcus aureus</u>   [[4]](https://coursology-qbank.com/amboss/article/LJ1wu30)
+
+* Nonbacterial
+
+* Viral: <u>adenovirus</u>, <u>Enterovirus</u>, <u>Echovirus</u>, <u>Coxsackievirus</u>.  [[4]](https://coursology-qbank.com/amboss/article/LJ1wu30)
+
+* Fungal (rare): <u>Candida</u>, <u>Cryptococcus</u> neoformans, <u>Aspergillus</u>  [[4]](https://coursology-qbank.com/amboss/article/LJ1wu30)
+
+
+
+
+
+> [!TIP]
+> <u>UTIs</u> caused by a <u>pathogen</u> other than <u>E. coli</u> are considered atypical pediatric <u>UTIs</u>. [[5]](https://coursology-qbank.com/amboss/article/hcccXY0)[[6]](https://coursology-qbank.com/amboss/article/-m1DRh0)
+
+
+
+
+### Risk factors for pediatric UTI [[3]](https://coursology-qbank.com/amboss/article/um1phh0)
+
+
+
+
+* All ages
+
+* Female sex
+
+* Personal or <u>family history</u> of <u>CAKUT</u> or <u>VUR</u>
+
+* Known renal scarring
+
+* <u>Bowel and bladder dysfunction</u> (e.g., chronic <u>constipation</u>) [[2]](https://coursology-qbank.com/amboss/article/Z51Zih0)[[7]](https://coursology-qbank.com/amboss/article/8m1Ohh0)
+
+* Instrumentation of the <u>urinary tract</u>  [[3]](https://coursology-qbank.com/amboss/article/um1phh0)
+
+* Children ≤ 24 months of age
+
+* Uncircumcised boys  [[8]](https://coursology-qbank.com/amboss/article/cr1aTR0)[[9]](https://coursology-qbank.com/amboss/article/i8YJmI)[[10]](https://coursology-qbank.com/amboss/article/E518Nh0)
+
+* Age < 12 months
+
+* Children > 24 months of age and <u>adolescents</u>
+
+* <u>Kidney stones</u>
+
+* <u>Diabetes</u>
+
+* <u>Sexual activity</u>
+
+
+
+
+
+> [!TIP]
+> Although uncircumcised young boys are at an increased risk for <u>UTIs</u>, the preventative effect of <u>circumcision</u> on <u>UTI</u> development is not considered sufficient to recommend <u>circumcision</u> for all patients. [[11]](https://coursology-qbank.com/amboss/article/Tq16B30)
+
+---
+
+## Clinical features
+
+* Features of lower UTI
+
+* <u>Urinary frequency</u>
+
+* <u>Dysuria</u>
+
+* <u>Urinary urgency</u>
+
+* Suprapubic <u>pain</u>
+
+* Features of upper UTI
+
+* Flank <u>pain</u>
+
+* <u>Fever</u>  [[2]](https://coursology-qbank.com/amboss/article/Z51Zih0)[[3]](https://coursology-qbank.com/amboss/article/um1phh0)
+
+* Nonspecific symptoms (may be reported by caregivers of young children) [[2]](https://coursology-qbank.com/amboss/article/Z51Zih0)[[3]](https://coursology-qbank.com/amboss/article/um1phh0)[[12]](https://coursology-qbank.com/amboss/article/eqbxxu)
+
+* New-onset <u>urinary incontinence</u> (if toilet trained)
+
+* Irritability
+
+* Crying when urinating
+
+* Poor feeding
+
+* Malodorous urine
+
+* <u>Neonates</u>: <u>jaundice</u>, <u>hypothermia</u> [[8]](https://coursology-qbank.com/amboss/article/cr1aTR0)[[13]](https://coursology-qbank.com/amboss/article/CI1qUR0)
+
+
+
+
+
+> [!WARNING]
+> <u>Symptoms of a pediatric UTI</u> may be nonspecific; <u>fever</u> may be the only sign, particularly in <u>infants</u>. <u>Neonates</u> may present with <u>hypothermia</u>. [[2]](https://coursology-qbank.com/amboss/article/Z51Zih0)[[3]](https://coursology-qbank.com/amboss/article/um1phh0)
+
+---
+
+## Diagnosis
+
+### Approach [[2]](https://coursology-qbank.com/amboss/article/Z51Zih0)[[3]](https://coursology-qbank.com/amboss/article/um1phh0)
+
+
+
+
+<u>UTIs</u> are typically diagnosed using <u>urinalysis</u> abnormalities (i.e., <u>pyuria</u> and/or visualized bacteria) and <u>urine culture</u> to confirm <u>bacteriuria</u>.
+
+
+
+
+* Perform <u>urinalysis</u> if indicated based on age and clinical features.
+
+* Send <u>urine culture</u> if <u>urinalysis</u> suggests <u>UTI</u> or if normal but clinical suspicion for <u>UTI</u> is high.
+
+* Obtain <u>imaging for UTI in children</u> with:
+
+* Age ≤ 6 years and first <u>febrile UTI</u> [[15]](https://coursology-qbank.com/amboss/article/20VT2G0)
+
+* <u>Atypical pediatric UTI</u>
+
+* <u>Recurrent UTI</u>
+
+
+
+
+
+> [!TIP]
+> Diagnosis may also be made clinically (e.g., in patients with suggestive clinical features but low colony counts and/or no <u>pyuria</u>). [[2]](https://coursology-qbank.com/amboss/article/Z51Zih0)[[3]](https://coursology-qbank.com/amboss/article/um1phh0)
+
+
+
+
+### Urine studies [[2]](https://coursology-qbank.com/amboss/article/Z51Zih0)[[3]](https://coursology-qbank.com/amboss/article/um1phh0)
+
+
+
+
+### Collection methods [[3]](https://coursology-qbank.com/amboss/article/um1phh0)
+
+
+
+
+* Not toilet trained
+
+* Preferred: sterile collection (e.g., <u>transurethral catheterization</u> or <u>suprapubic aspiration</u>)
+
+* Alternatives: <u>clean-catch urine sample</u> or bagged urine sample (not suitable for culture)    [[2]](https://coursology-qbank.com/amboss/article/Z51Zih0)[[16]](https://coursology-qbank.com/amboss/article/pJ1LE30)
+
+* Toilet trained: <u>clean-catch urine sample</u>
+
+
+
+
+
+![Suprapubic aspiration in infants (materials)](../../../../media/bhvg6egkxfz8lrjn06g0fymd.jpg)
+
+Suprapubic aspiration in infants (materials)
+
+![Suprapubic aspiration in infants (technique)](../../../../media/whl98g85sbndwkpjibbh21ug.jpg)
+
+Suprapubic aspiration in infants (technique)
+
+![Voiding stimulation technique for clean-catch urine in infants](../../../../media/rg4nrue4beeb1v0idbpgtqzr.jpg)
+
+Voiding stimulation technique for clean-catch urine in infants
+
+![Bagged urine collection technique in infants](../../../../media/dt3sqwmhyhrykeyivlax5pks.jpg)
+
+Bagged urine collection technique in infants
+
+
+
+
+### <u>Urinalysis</u> [[3]](https://coursology-qbank.com/amboss/article/um1phh0)
+
+
+
+
+#### Indications
+
+
+
+
+* Age < 2 months: any ill-appearing and/or <u>febrile</u> <u>infant</u> (see "<u>Approach to suspected neonatal bacterial infection</u>" and “<u>Fever in infants ≤ 60 days of age</u>”) [[16]](https://coursology-qbank.com/amboss/article/pJ1LE30)
+
+* Age 2–24 months: Consider the following features or use risk <u>stratification</u> tools (e.g., UTICalc) to determine need for <u>urinalysis</u>. [[17]](https://coursology-qbank.com/amboss/article/8H1OHR0) 
+
+* <u>Fever</u>: ≥ 39°C (102.2°F), lasting ≥ 48 hours, and/or with no other apparent source  [[18]](https://coursology-qbank.com/amboss/article/Wr1PTR0)
+
+* <u>Clinical features of pediatric UTI</u>
+
+* History of prior <u>UTI</u>
+
+* Presence of <u>risk factors for pediatric UTI</u>
+
+* Age > 24 months with <u>clinical features of pediatric UTI</u>
+
+
+
+
+
+#### Findings
+
+
+
+
+* On <u>dipstick urinalysis</u>  [[3]](https://coursology-qbank.com/amboss/article/um1phh0)
+
+* Positive <u>urinary nitrites</u>: suggests <u>bacteriuria</u>
+
+* Positive <u>leukocyte esterase</u>: suggests <u>pyuria</u>
+
+* On microscopy 
+
+* Presence of bacteria on <u>Gram stain</u> and/or <u>pyuria</u> suggests <u>UTI</u>.  [[3]](https://coursology-qbank.com/amboss/article/um1phh0)
+
+* Normal findings on <u>urinalysis</u> generally rule out a <u>UTI</u>, but some uropathogens do not cause <u>pyuria</u> or <u>bacteriuria</u>. [[3]](https://coursology-qbank.com/amboss/article/um1phh0)
+
+
+
+
+
+![Urinalysis (urine analysis) test strip](../../../../media/zdv7rm3shbdtrnasyjsp7ihf.jpg)
+
+Urinalysis (urine analysis) test strip
+
+![Pyuria and bacteriuria on microscopy](../../../../media/vfsrijmg60jl9vk6k6f45yza.jpg)
+
+Pyuria and bacteriuria on microscopy
+
+
+
+
+### <u>Urine culture</u> [[2]](https://coursology-qbank.com/amboss/article/Z51Zih0)[[3]](https://coursology-qbank.com/amboss/article/um1phh0)
+
+
+
+
+#### Indications
+
+
+
+
+* <u>Urinalysis</u> positive for <u>pyuria</u> and/or bacteruria
+
+* Normal <u>urinalysis</u> but high clinical suspicion for <u>UTI</u>
+
+
+
+
+
+> [!TIP]
+> Some uropathogens may not cause detectable pyruia. In patients with significant urinary symptoms and/or <u>risk factors for pediatric UTI</u>, obtain culture for a definitive diagnosis even in the absence of <u>pyuria</u>.[[3]](https://coursology-qbank.com/amboss/article/um1phh0)
+
+
+
+
+#### Findings
+
+
+
+
+* <u>Significant bacteriuria</u> confirms the diagnosis.
+
+* Thresholds vary based on collection method and across guidelines; follow local protocols. 
+
+* <u>Clean-catch urine sample</u>: > 100,000 <u>CFU</u>/mL  [[2]](https://coursology-qbank.com/amboss/article/Z51Zih0)[[3]](https://coursology-qbank.com/amboss/article/um1phh0)[[6]](https://coursology-qbank.com/amboss/article/-m1DRh0)
+
+* <u>Transurethral catheterization</u>: > 50,000 <u>CFU</u>/mL [[3]](https://coursology-qbank.com/amboss/article/um1phh0)
+
+* <u>Suprapubic aspiration</u>: 1000 <u>CFU</u>/mL [[3]](https://coursology-qbank.com/amboss/article/um1phh0)
+
+
+
+
+
+### Imaging for pediatric UTI
+
+
+
+
+Imaging is indicated in selected patients to evaluate for <u>urinary tract</u> anomalies (e.g, <u>VUR</u>, <u>posterior urethral valves</u>) and/or complications of <u>UTI</u> (e.g., <u>renal abscess</u>, <u>APN</u>).
+
+
+
+
+* Initial imaging for first febrile UTI in children [[2]](https://coursology-qbank.com/amboss/article/Z51Zih0)[[3]](https://coursology-qbank.com/amboss/article/um1phh0)[[15]](https://coursology-qbank.com/amboss/article/20VT2G0)
+
+* <u>Infants</u> aged < 2 months: <u>RBUS</u> ± either <u>VCUG</u> or <u>VUS</u>  [[15]](https://coursology-qbank.com/amboss/article/20VT2G0)
+
+* <u>Infants</u> and children aged 2 months–6 years: <u>RBUS</u>  [[3]](https://coursology-qbank.com/amboss/article/um1phh0)
+
+* Children aged > 6 years: Imaging is not recommended.  [[15]](https://coursology-qbank.com/amboss/article/20VT2G0)
+
+* Imaging for <u>atypical pediatric UTI</u> and/or <u>recurrent UTI</u> [[2]](https://coursology-qbank.com/amboss/article/Z51Zih0)[[3]](https://coursology-qbank.com/amboss/article/um1phh0)[[15]](https://coursology-qbank.com/amboss/article/20VT2G0)
+
+* <u>Atypical pediatric UTI</u> at any age: <u>RBUS</u> and either <u>VCUG</u> or <u>VUS</u>
+
+* <u>Recurrent UTI</u>: <u>RBUS</u> and, if ≥ 2 <u>febrile</u> <u>UTIs</u>, <u>VCUG</u>  [[15]](https://coursology-qbank.com/amboss/article/20VT2G0)
+
+
+
+
+
+> [!TIP]
+> If <u>RBUS</u> and/or <u>VCUG</u> are abnormal, a specialist may recommend additional imaging. [[3]](https://coursology-qbank.com/amboss/article/um1phh0)[[15]](https://coursology-qbank.com/amboss/article/20VT2G0)
+
+
+
+
+#### <u>RBUS</u> [[2]](https://coursology-qbank.com/amboss/article/Z51Zih0)[[3]](https://coursology-qbank.com/amboss/article/um1phh0)[[15]](https://coursology-qbank.com/amboss/article/20VT2G0)
+
+
+
+
+* Indications
+
+* First <u>febrile UTI</u> in children aged ≤ 6 years
+
+* <u>Atypical pediatric UTI</u> or <u>recurrent UTI</u> at any age
+
+* Timing [[3]](https://coursology-qbank.com/amboss/article/um1phh0)
+
+* Severe presentation and/or failure to respond to 48–72 hours of <u>antibiotics</u>: during acute infection
+
+* Uncomplicated clinical course: after resolution of infection; typically within 6 weeks
+
+* Potential findings
+
+* Features suggestive of <u>UTI</u>
+
+* <u>Lower UTI</u>: normal or thickened <u>bladder</u> wall with <u>bladder</u> debris [[3]](https://coursology-qbank.com/amboss/article/um1phh0)
+
+* <u>Upper UTI</u>: normal or nonspecific <u>kidney</u> <u>edema</u> and/or <u>hyperemia</u> [[3]](https://coursology-qbank.com/amboss/article/um1phh0)
+
+* Renal <u>parenchyma</u> changes (not sensitive)
+
+* Conditions that predispose to <u>UTI</u>
+
+* <u>Congenital anomalies of the kidneys</u>
+
+* Abdominal masses affecting the <u>urinary system</u>
+
+* Secondary signs of <u>vesicoureteral reflux</u> (<u>VUR</u>)  [[2]](https://coursology-qbank.com/amboss/article/Z51Zih0)[[3]](https://coursology-qbank.com/amboss/article/um1phh0)
+
+* <u>Nephrolithiasis</u>
+
+* Complications (e.g., <u>renal abscess</u>)
+
+
+
+
+
+> [!TIP]
+> <u>RBUS</u> is typically the initial imaging modality for pediatric <u>UTIs</u>, as it can detect most structural abnormalities and does not involve radiation. [[3]](https://coursology-qbank.com/amboss/article/um1phh0)[[15]](https://coursology-qbank.com/amboss/article/20VT2G0)
+
+
+
+
+![Hydronephrosis](../../../../media/mp0hbx0h092o31stcg6qfe5m.jpg)
+
+Hydronephrosis
+
+![Hydronephrosis](../../../../media/fkyc2qx0ajxhg0ogerg06qmu.jpg)
+
+Hydronephrosis
+
+
+
+
+#### <u>VCUG</u> or <u>VUS</u> [[2]](https://coursology-qbank.com/amboss/article/Z51Zih0)[[3]](https://coursology-qbank.com/amboss/article/um1phh0)[[15]](https://coursology-qbank.com/amboss/article/20VT2G0)
+
+
+
+
+<u>VUS</u> is less invasive than <u>VCUG</u> and does not involve radiation.
+
+
+
+
+* Indications
+
+* Abnormal <u>RBUS</u>
+
+* <u>Atypical pediatric UTI</u>
+
+* Recurrent <u>febrile UTIs</u>
+
+* Potential findings
+
+* Visualization of <u>VUR</u> (see “<u>Diagnostics of VUR</u>”)   [[2]](https://coursology-qbank.com/amboss/article/Z51Zih0)[[3]](https://coursology-qbank.com/amboss/article/um1phh0)
+
+* <u>Obstructive uropathy</u> (e.g., stenosis, <u>hydronephrosis</u>)
+
+
+
+
+
+![Refluxing megaureter in a voiding cystourethrogram (1/2)](../../../../media/e9gx6gbsysci30pl9k8ct1zi.jpg)
+
+Refluxing megaureter in a voiding cystourethrogram (1/2)
+
+![Refluxing megaureter in a voiding cystourethrogram (2/2)](../../../../media/pgpy7axmgj364ygmr5axe6pn.jpg)
+
+Refluxing megaureter in a voiding cystourethrogram (2/2)
+
+![Vesicoureteral reflux](../../../../media/u095ro895thquhjmne0jqz0z.jpg)
+
+Vesicoureteral reflux
+
+![Bilateral vesicoureteral reflux](../../../../media/l4qyemeytmjp7u93k75oyjq2.jpg)
+
+Bilateral vesicoureteral reflux
+
+![Voiding cystourethrogram in a newborn with proximal congenital urethral stricture](../../../../media/wpxreudt0tjq15wuszinbpu5.jpg)
+
+Voiding cystourethrogram in a newborn with proximal congenital urethral stricture
+
+
+
+
+#### Advanced imaging [[3]](https://coursology-qbank.com/amboss/article/um1phh0)[[7]](https://coursology-qbank.com/amboss/article/8m1Ohh0)[[15]](https://coursology-qbank.com/amboss/article/20VT2G0)
+
+
+
+
+* Nuclear medicine cystography: may be used to evaluate for <u>VUR</u>
+
+* <u>Dimercaptosuccinic acid scan</u> (<u>DMSA scan</u>)  [[3]](https://coursology-qbank.com/amboss/article/um1phh0)
+
+* Acute findings: renal cortical defects in acute <u>pyelonephritis</u>
+
+* Nonacute findings (e.g., 4–6 months after acute infection) : <u>gold standard</u> for identification of renal scarring [[3]](https://coursology-qbank.com/amboss/article/um1phh0)
+
+
+
+
+
+![Renal scarring on DSMA scan](../../../../media/m3ca02f215trgsk7ek1ybvno.jpg)
+
+Renal scarring on DSMA scan
+
+---
+
+## Treatment
+
+### Approach [[2]](https://coursology-qbank.com/amboss/article/Z51Zih0)[[3]](https://coursology-qbank.com/amboss/article/um1phh0)
+
+
+
+
+* Start <u>empiric antibiotics for pediatric UTI</u> while awaiting <u>urine culture</u> results.
+
+* Assess for admission criteria.
+
+* Adjust treatment when culture results become available.
+
+* Negative culture: Stop <u>antibiotics</u> and consider <u>differential diagnoses of pediatric UTI</u>.
+
+* Confirmed <u>UTI</u>: Alter treatment as needed based on <u>antibiotic sensitivities</u>.
+
+* Provide supportive treatment (e.g., <u>analgesia</u>, <u>supportive care for pediatric fever</u>).
+
+* If <u>fever</u> persists for > 72 hours, consider urgent <u>imaging for pediatric UTI</u> to rule out <u>renal abscess</u> and/or acute <u>urinary tract obstruction</u>. [[3]](https://coursology-qbank.com/amboss/article/um1phh0)
+
+* Educate patients and caregivers on <u>prevention of pediatric UTI</u>.
+
+* Refer patients to a specialist (e.g., urology, nephrology) for any of the following:
+
+* <u>CAKUT</u>
+
+* Chronic <u>complications of pediatric UTI</u>
+
+* Management of persistent <u>risk factors for pediatric UTI</u> (e.g., <u>bowel and bladder dysfunction</u>) [[2]](https://coursology-qbank.com/amboss/article/Z51Zih0)[[10]](https://coursology-qbank.com/amboss/article/E518Nh0)
+
+
+
+
+
+### Admission criteria for pediatric <u>UTI</u> [[3]](https://coursology-qbank.com/amboss/article/um1phh0)[[12]](https://coursology-qbank.com/amboss/article/eqbxxu)
+
+
+
+
+* IV <u>antibiotics</u> required (for indications, see “<u>Empiric antibiotics for pediatric UTI</u>”)
+
+* Consider admitting patients with any of the following:
+
+* Age 1–2 months  [[16]](https://coursology-qbank.com/amboss/article/pJ1LE30)
+
+* Significant renal tract anomalies [[12]](https://coursology-qbank.com/amboss/article/eqbxxu)
+
+* <u>Barriers to follow-up</u>
+
+
+
+
+
+### <u>Antibiotic therapy</u>
+
+
+
+
+* Follow local guidelines and protocols if available.
+
+* Always check local resistance patterns before initiating treatment.
+
+
+
+
+
+| <br>Empiric antibiotics for pediatric UTI [[2]](https://coursology-qbank.com/amboss/article/Z51Zih0)[[3]](https://coursology-qbank.com/amboss/article/um1phh0)[[19]](https://coursology-qbank.com/amboss/article/Bedza60)<br> |  |  |  |
+| --- | --- | --- | --- |
+|  | Indications | Recommended <u>antibiotics</u> | <br>Duration [[2]](https://coursology-qbank.com/amboss/article/Z51Zih0)<br> |
+| IV | <br><br>* <u>Neonates</u> [[16]](https://coursology-qbank.com/amboss/article/pJ1LE30)<br><br>* Severe illness<br><br>* Inability to tolerate oral fluids or <u>antibiotics</u><br><br>* Unsuccessful outpatient treatment<br><br><br> | <br><br>* <u>Third-generation cephalosporin</u>, e.g.:<br><br>* <u>Cefotaxime</u> DOSAGE [[2]](https://coursology-qbank.com/amboss/article/Z51Zih0)<br><br>* <u>Ceftriaxone</u> DOSAGE<br><br>* <u>Ampicillin</u> DOSAGE PLUS <u>gentamicin</u> DOSAGE  [[2]](https://coursology-qbank.com/amboss/article/Z51Zih0)[[19]](https://coursology-qbank.com/amboss/article/Bedza60)<br><br><br> | <br>* 7–10 days  [[19]](https://coursology-qbank.com/amboss/article/Bedza60)<br><br> |
+| Oral | <br><br>* <u>Febrile UTI</u><br><br>* <u>Signs of upper UTI</u> (e.g., <u>acute pyelonephritis in children</u>)<br><br>* <u>Atypical pediatric UTI</u><br><br><br> | <br>* <u>Third-generation cephalosporin</u>, e.g.: [[3]](https://coursology-qbank.com/amboss/article/um1phh0)<br><br>* <u>Cefixime</u> DOSAGE [[2]](https://coursology-qbank.com/amboss/article/Z51Zih0)<br><br>* <u>Cefuroxime axetil</u> DOSAGE [[2]](https://coursology-qbank.com/amboss/article/Z51Zih0)<br><br> | <br>* 7–10 days  [[3]](https://coursology-qbank.com/amboss/article/um1phh0)[[19]](https://coursology-qbank.com/amboss/article/Bedza60)<br><br> |
+| <br>* Afebrile <u>lower UTI</u> and no features of <u>atypical pediatric UTI</u><br><br> | <br><br>* <u>First-generation cephalosporin</u> (e.g., <u>cephalexin</u> DOSAGE) [[2]](https://coursology-qbank.com/amboss/article/Z51Zih0)[[3]](https://coursology-qbank.com/amboss/article/um1phh0)[[19]](https://coursology-qbank.com/amboss/article/Bedza60)<br><br>* <u>Nitrofurantoin</u> DOSAGE [[2]](https://coursology-qbank.com/amboss/article/Z51Zih0)[[3]](https://coursology-qbank.com/amboss/article/um1phh0)<br><br>* <u>Trimethoprim/sulfamethoxazole</u> DOSAGE [[2]](https://coursology-qbank.com/amboss/article/Z51Zih0)[[3]](https://coursology-qbank.com/amboss/article/um1phh0) [[19]](https://coursology-qbank.com/amboss/article/Bedza60)<br><br><br> | <br><br>* <u>Adolescents</u>: 3–5 days [[19]](https://coursology-qbank.com/amboss/article/Bedza60)<br><br>* Preadolescent children: 5–10 days [[19]](https://coursology-qbank.com/amboss/article/Bedza60)<br><br><br> |  |
+
+
+
+
+
+> [!WARNING]
+> Avoid <u>empiric antibiotic</u> monotherapy with <u>amoxicillin</u> or other <u>penicillins</u> because of resistance. [[3]](https://coursology-qbank.com/amboss/article/um1phh0)
+
+
+
+
+> [!TIP]
+> Repeat <u>urine culture</u> is not necessary unless symptoms persist. [[3]](https://coursology-qbank.com/amboss/article/um1phh0)
+
+---

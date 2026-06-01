@@ -1,0 +1,13 @@
+# Adrenal incidentaloma
+
+*Categories: Clinical knowledge > Radiology > Adrenal incidentaloma*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/1u02J3)
+
+---
+
+## Summary
+
+An <u>adrenal</u> <u>incidentaloma</u> is an <u>adrenal</u> mass that is detected on imaging conducted for reasons unrelated to <u>adrenal</u> conditions. Most <u>adrenal</u> <u>incidentalomas</u> are nonfunctioning (hormonally inactive) benign cortical <u>adenomas</u>. Approximately 20% are functional (hormonally active) and/or <u>malignant tumors</u>. The most important diagnostic steps are to evaluate hormonal activity using biochemical testing and the risk of <u>malignancy</u> using imaging (primarily <u>CT without contrast</u>). Nonfunctioning benign <u>adenomas</u> do not require treatment or routine follow-up. All patients with malignant <u>adrenal</u> <u>incidentalomas</u> (e.g., <u>metastases</u>, <u>adrenocortical carcinoma</u>) and/or functional <u>adrenal</u> <u>incidentalomas</u> (e.g., <u>pheochromocytomas</u> or tumors causing <u>cortisol</u> excess) should be managed by a multidisciplinary team and may need further diagnostic assessment. Most functioning and malignant <u>adrenal</u> tumors require <u>adrenalectomy</u>.
+
+---

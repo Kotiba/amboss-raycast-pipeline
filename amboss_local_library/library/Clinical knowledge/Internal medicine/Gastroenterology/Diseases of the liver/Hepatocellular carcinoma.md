@@ -1,0 +1,848 @@
+# Hepatocellular carcinoma
+
+*Categories: Clinical knowledge > Internal medicine > Gastroenterology > Diseases of the liver > Hepatocellular carcinoma*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/6S0j0f)
+
+---
+
+## Summary
+
+Hepatocellular <u>carcinoma</u> (HCC) is the most common primary <u>liver</u> <u>malignancy</u> in adults and one of the leading causes of cancer-related mortality worldwide. It primarily affects patients with preexisting <u>liver</u> disease (e.g., <u>liver cirrhosis</u>, chronic <u>hepatitis</u>) and often manifests as a solitary <u>tumor</u>. HCC is commonly asymptomatic in the early stage. Patients typically present with features of the underlying <u>liver</u> disease (e.g., <u>ascites</u>, <u>jaundice</u>). <u>Advanced HCC</u> can manifest with nonspecific features of abdominal <u>pain</u>, weight loss, and <u>anorexia</u>. Regular (6-monthly) surveillance with abdominal <u>ultrasound</u>, with or without serum <u>AFP</u> levels, is recommended for individuals at risk of developing HCC. If screening is suggestive of HCC (i..e, <u>liver</u> lesion â¥ 10 mm or <u>AFP</u> â¥ 20 ng/mL), the diagnosis should be confirmed with <u>multiphase imaging</u> and, if needed, a <u>liver biopsy</u>. Management is based on <u>tumor</u> burden, the patient's <u>performance status</u>, and the severity of <u>liver</u> dysfunction. Potentially curative treatment options include <u>tumor</u> resection, <u>liver transplantation</u>, and <u>ablative therapy</u>, most commonly <u>radiofrequency ablation</u> (<u>RFA</u>). Patients with advanced tumors may be treated with noncurative locoregional therapy (LRT) such as <u>transarterial chemoembolization</u> (<u>TACE</u>), or systemic <u>chemotherapy</u>. As HCC mostly occurs in patients with advanced underlying <u>liver</u> disease, the prognosis is generally poor.
+
+---
+
+## Epidemiology
+
+* Fifth most common <u>malignancy</u> worldwide
+
+* Most common primary <u>liver</u> <u>malignancy</u> in adults
+
+* Highest <u>incidence</u> in Southeast Asia and Africa
+
+* Peak <u>incidence</u> in the US: 70–75 years
+
+* Peak <u>incidence</u> in Africa and Asia: 30–40 years
+
+* <u>♂</u> > <u>♀</u>
+
+
+
+
+Epidemiological data refers to the US, unless otherwise specified.
+
+---
+
+## Etiology
+
+* <u>Liver cirrhosis</u>: 80% of cases (see “<u>Cirrhosis etiology</u>”) [[4]](https://coursology-qbank.com/amboss/article/U30b3f)
+
+* Additional <u>risk factors</u> 
+
+* Chronic <u>hepatitis B</u> or C <u>virus</u> infection
+
+* <u>Alcohol-associated liver disease</u>
+
+* <u>Metabolic dysfunction-associated steatohepatitis</u> (<u>MASH</u>)
+
+* <u>Hemochromatosis</u>
+
+* <u>Wilson disease</u>
+
+* <u>Alpha-1 antitrypsin deficiency</u>
+
+* Hepatic autoimmune diseases (e.g., <u>autoimmune hepatitis</u>)
+
+* <u>Schistosomiasis</u>
+
+* <u>Glycogen storage disease</u>
+
+* Chronic ingestion of food contaminated with <u>aflatoxin</u>
+
+* <u>Aflatoxin</u> is a <u>carcinogen</u> produced by <u>Aspergillus flavus</u>
+
+* Results in G:C → T:A <u>transversion</u> in <u>codon</u> 249 of <u>TP53 gene</u> leading to an <u>inactivating mutation</u>
+
+
+
+
+
+> [!NOTE]
+> <u>Aflatoxins</u> are considered one of the most potent <u>carcinogens</u>.
+
+---
+
+## Clinical features
+
+* Usually asymptomatic apart from symptoms of the underlying disease (mostly <u>cirrhosis</u> or <u>hepatitis</u>)
+
+* Possible symptoms of advanced disease
+
+* Weight loss, <u>anorexia</u>
+
+* <u>Hepatomegaly</u> and <u>right upper quadrant</u> tenderness
+
+* <u>Jaundice</u>
+
+* <u>Ascites</u>
+
+
+
+
+
+![Jaundice (scleral and dermal icterus)](../../../../../media/s0k30nsel1xfz5ktnnxivmta.jpg)
+
+Jaundice (scleral and dermal icterus)
+
+![Ascites](../../../../../media/aokpabfcwxg32124fgoh9144.jpg)
+
+Ascites
+
+---
+
+## Diagnosis
+
+HCC may be detected via <u>screening for HCC</u> in at-risk groups (e.g., patients with known <u>cirrhosis</u>) or after symptoms develop.
+
+
+
+
+### Approach [[5]](https://coursology-qbank.com/amboss/article/9RcN6X0)[[6]](https://coursology-qbank.com/amboss/article/4Dc3ee0)[[7]](https://coursology-qbank.com/amboss/article/zBbrWw)
+
+
+
+
+* Initial diagnostics
+
+* <u>Ultrasound</u> abdomen (preferred initial imaging modality in most cases)
+
+* Consider serum <u>AFP</u> levels to increase detection rate.
+
+* Perform further imaging (typically <u>multiphase imaging</u> e.g., CT or <u>MRI</u> abdomen) if the following are detected:
+
+* Lesion â¥ 10 mm
+
+* Lesion of any size and <u>AFP</u> (if performed) â¥ 20 ng/mL
+
+* Perform a <u>liver biopsy</u> in the following cases:
+
+* Inconclusive <u>multiphase imaging</u>
+
+* <u>Liver</u> lesions suspicious for HCC in patients without <u>cirrhosis</u>
+
+* <u>Laboratory studies</u>: to evaluate <u>liver function</u> and assess for underlying etiologies
+
+* Confirmed HCC diagnosis: Perform further studies for <u>staging of HCC</u>.
+
+
+
+
+
+> [!TIP]
+> A <u>liver biopsy</u> is not routinely required to confirm the diagnosis in patients with underlying <u>liver</u> disease and characteristic imaging findings of HCC. [[5]](https://coursology-qbank.com/amboss/article/9RcN6X0)
+
+
+
+
+### Imaging [[5]](https://coursology-qbank.com/amboss/article/9RcN6X0)[[8]](https://coursology-qbank.com/amboss/article/EyX8S00)[[9]](https://coursology-qbank.com/amboss/article/6qcjzW0)
+
+
+
+
+<u>Ultrasound</u> is typically the primary screening modality, but diagnostic confirmation requires <u>multiphase imaging</u> with intravenous contrast.
+
+
+
+
+#### <u>Ultrasound</u> abdomen
+
+
+
+
+* Indications
+
+* Initial evaluation for suspected HCC
+
+* Screening in high-risk patients
+
+* May be used to investigate focal lesions found on noncontrast CT or <u>MRI</u>
+
+* Supportive findings
+
+* Solid <u>nodule</u>(s), typically â¥ 10 mm, of varying homogeneity and <u>echogenicity</u> with irregular borders
+
+* May show infiltration into the <u>portal vein</u> causing <u>portal vein thrombosis</u>
+
+* <u>Signs of cirrhosis</u> may be present (see “<u>Diagnosis of liver cirrhosis</u>” for details).
+
+
+
+
+
+> [!WARNING]
+> Any hepatic lesion in a patient with <u>cirrhosis</u> should be considered suspicious for a primary <u>liver</u> <u>tumor</u>.
+
+
+
+
+![Solitary liver lesion with halo](../../../../../media/rmh2k3ca7aiss2rkj35o6s5q.jpg)
+
+Solitary liver lesion with halo
+
+![Heterogeneous hepatic mass](../../../../../media/qxj7evhx3pf0qrn1ppkozaq1.jpg)
+
+Heterogeneous hepatic mass
+
+
+
+
+#### <u>Multiphase imaging</u> [[9]](https://coursology-qbank.com/amboss/article/6qcjzW0)[[10]](https://coursology-qbank.com/amboss/article/_pc5HW0)
+
+
+
+
+* Indications
+
+* <u>Ultrasound</u> features of HCC
+
+* Serum <u>AFP</u> â¥ 20 ng/mL
+
+* Alternative initial screening modality in select patients (e.g., if the <u>liver</u> cannot be assessed appropriately by <u>ultrasound</u> because of habitus)
+
+* Modalities
+
+* Typically CT or <u>MRI</u> abdomen
+
+* <u>Contrast-enhanced ultrasound</u> abdomen may serve as an alternative.
+
+* Findings: a lesion(s) with irregular borders and possible signs of local invasion ;   [[9]](https://coursology-qbank.com/amboss/article/6qcjzW0)[[11]](https://coursology-qbank.com/amboss/article/QHXuJz)
+
+* Without contrast
+
+* CT: <u>hypodense</u> or <u>isodense</u> lesion(s)
+
+* <u>MRI</u>: <u>hyperintense</u> or <u>isointense</u> lesion(s) on T2
+
+* With IV contrast
+
+* Arterial phase hyperenhancement
+
+* Nonperipheral washout
+
+* Enhancing capsule
+
+
+
+
+
+> [!TIP]
+> A <u>hypodense</u> or <u>isodense</u> lesion with arterial phase hyperenhancement followed by <u>portal venous</u> phase washout is characteristic of HCC. [[10]](https://coursology-qbank.com/amboss/article/_pc5HW0)
+
+
+
+
+> [!TIP]
+> All multiphase image findings for suspected HCC are graded using the <u>Liver Imaging Reporting and Data System</u> to help standardize diagnostic criteria and improve data collection on treatment outcomes by imaging stage.
+
+
+
+
+![Hepatocellular carcinoma with portal vein thrombosis 1/2](../../../../../media/g12ujvf6a61k26dd6z4dh6ly.jpg)
+
+Hepatocellular carcinoma with portal vein thrombosis 1/2
+
+![Hepatocellular carcinoma with portal vein thrombosis 2/2](../../../../../media/h03y2xocropzk309sq5g4zhw.jpg)
+
+Hepatocellular carcinoma with portal vein thrombosis 2/2
+
+![Hepatocellular carcinoma](../../../../../media/cl66ee4uelhwjxsgt3fxy8se.jpg)
+
+Hepatocellular carcinoma
+
+![Hepatocellular carcinoma in cirrhotic liver](../../../../../media/zye6sn0s0bhvacvzo0d7ue3w.jpg)
+
+Hepatocellular carcinoma in cirrhotic liver
+
+![MRI of hepatocellular carcinoma](../../../../../media/pmwanv4bka950loytcd2xqyq.jpg)
+
+MRI of hepatocellular carcinoma
+
+
+
+
+### <u>Laboratory studies</u> [[5]](https://coursology-qbank.com/amboss/article/9RcN6X0)[[12]](https://coursology-qbank.com/amboss/article/rMXfJA)
+
+
+
+
+* All patients
+
+* <u>CBC</u>: may show <u>thrombocytopenia</u>  or paraneoplastic <u>erythrocytosis</u>
+
+* <u>Liver chemistries</u>: may be abnormal in preexisting <u>liver</u> disease or advanced <u>malignancy</u>
+
+* <u>Coagulation screen</u>: may be abnormal in severe preexisting <u>liver</u> disease or advanced <u>malignancy</u>
+
+* Serum <u>AFP</u>: typically elevated  [[13]](https://coursology-qbank.com/amboss/article/-a1DM20)
+
+* Suspected <u>paraneoplastic syndromes</u>: depending on clinical presentation ;  [[14]](https://coursology-qbank.com/amboss/article/K8cUnV0)
+
+* Blood <u>glucose</u>: <u>hypoglycemia</u>
+
+* Serum <u>calcium</u>: <u>hypercalcemia</u>
+
+* <u>Lipid panel</u>: <u>hypercholesterolemia</u>
+
+* Assessment of underlying etiology (if unknown): e.g., <u>hepatitis panel</u>, <u>iron studies</u>
+
+
+
+
+
+### <u>Liver biopsy</u> [[5]](https://coursology-qbank.com/amboss/article/9RcN6X0)[[15]](https://coursology-qbank.com/amboss/article/ZY1Zn20)
+
+
+
+
+* Indications
+
+* Patients with <u>cirrhosis</u>: if <u>malignancy</u> is suspected but imaging is inconclusive
+
+* Patients without <u>cirrhosis</u>: any lesion suspicious for HCC
+
+* Risks
+
+* Bleeding
+
+* <u>Tumor</u> seeding
+
+* Findings 
+
+* See “Pathology” section.
+
+* <u>Immunostaining</u> can be considered for inconclusive or uncharacteristic findings.
+
+
+
+
+
+> [!WARNING]
+> <u>False negatives</u> with <u>biopsy</u> are possible as a result of the similarities between the early changes of HCC and <u>dysplastic</u> <u>nodules</u> or from insufficient tissue being obtained; if clinical suspicion remains high, repeat the <u>biopsy</u> or ensure regular surveillance of the lesion. [[15]](https://coursology-qbank.com/amboss/article/ZY1Zn20)
+
+---
+
+## Pathology
+
+### Gross pathology
+
+
+
+
+![Hepatocellular carcinoma](../../../../../media/lzbn4ynmctojf8yw7fma1oeo.jpg)
+
+Hepatocellular carcinoma
+
+![Cirrhotic liver with hepatocellular carcinoma](../../../../../media/bw0g0ljwy1pyau6eolw3kchu.jpg)
+
+Cirrhotic liver with hepatocellular carcinoma
+
+
+
+
+### <u>Histopathology</u>
+
+
+
+
+![Hepatocellular carcinoma](../../../../../media/cou71b1pajbaha6x1n52yqkc.jpg)
+
+Hepatocellular carcinoma
+
+![Hepatocellular carcinoma](../../../../../media/wc6weyuxomhamcsk0x6lkpif.jpg)
+
+Hepatocellular carcinoma
+
+![Hepatocellular carcinoma](../../../../../media/zycsnv9ldcwo7dv1qgd76voo.jpg)
+
+Hepatocellular carcinoma
+
+![Hepatocellular carcinoma](../../../../../media/trcbi4m2ugr98bawsnvmfnco.jpg)
+
+Hepatocellular carcinoma
+
+---
+
+## Treatment
+
+### Approach
+
+
+
+
+* Refer the patient to specialist multidisciplinary team.
+
+* Initiate treatment based on stage of hepatocellular <u>carcinoma</u>.
+
+* Prevent further deterioration of any associated <u>liver</u> disease:
+
+* Treat underlying etiologies e.g., antivirals for <u>hepatitis</u>, <u>chelation therapy</u> for <u>hemochromatosis</u>.
+
+* Advise <u>alcohol</u> abstinence.  [[19]](https://coursology-qbank.com/amboss/article/Vb1Gs20)
+
+* Avoid hepatoxic drugs.
+
+
+
+
+
+### Overview [[5]](https://coursology-qbank.com/amboss/article/9RcN6X0)[[6]](https://coursology-qbank.com/amboss/article/4Dc3ee0)
+
+
+
+
+| <br>Overview of treatment by HCC stage [[5]](https://coursology-qbank.com/amboss/article/9RcN6X0)<br> |  |  |
+| --- | --- | --- |
+| Stage of cancer | Treatment aim | Treatment |
+| <u>Very early-stage HCC</u> or <u>early-stage HCC</u> | <br>* Curative<br><br> | <br><br>* First line<br><br>* Minimal concomitant <u>liver</u> disease: surgical resection<br><br>* Significant concomitant <u>liver</u> disease: <u>liver transplantation</u> if <u>Milan criteria</u> are met<br><br>* Alternative: <u>ablative therapy</u> e.g. <u>radiofrequency ablation</u><br><br><br> |
+| <u>Intermediate-stage HCC</u> | <br><br>* <u>Neoadjuvant</u> (curative)<br><br>* OR noncurative<br><br><br> | <br>* Locoregional therapy with:<br><br>* <u>Transcatheter arterial chemoembolization</u><br><br>* <u>Transarterial radioembolization</u><br><br> |
+| <u>Advanced HCC</u> | <br>* Noncurative<br><br> | <br>* Systemic <u>chemotherapy</u><br><br>* First line: targeted treatment e.g., with <u>atezolizumab</u>/<u>bevacizumab</u><br><br>* Alternatives<br><br>* Nontargeted <u>chemotherapy</u><br><br>* <u>Hepatic arterial infusion chemotherapy</u><br><br> |
+| <u>End-stage HCC</u> | <br>* Typically <u>supportive care</u> only<br><br> |  |
+
+
+
+
+
+> [!TIP]
+> Despite high recurrence rates following surgical, ablative, and locoregional therapies, <u>adjuvant treatment</u> is not routinely recommended as it has not been shown to be effective. [[5]](https://coursology-qbank.com/amboss/article/9RcN6X0)
+
+
+
+
+> [!TIP]
+> Patients should additionally undergo treatment of underlying etiologies e.g., <u>antiviral therapy for hepatitis C infection</u>.
+
+
+
+
+### <u>Surgery</u> [[5]](https://coursology-qbank.com/amboss/article/9RcN6X0)[[20]](https://coursology-qbank.com/amboss/article/FIcged0)
+
+
+
+
+#### Resection
+
+
+
+
+* Indication: resectable, <u>early-stage HCC</u>  in patients with minimal concomitant <u>liver</u> disease
+
+* Technique: open or <u>laparoscopic</u> <u>tumor</u> resection
+
+* Recurrence risk 
+
+* Up to 70% after 5 years
+
+* Monitor with <u>multiphase imaging</u> and serum <u>AFP</u> every 3–6 months  [[5]](https://coursology-qbank.com/amboss/article/9RcN6X0)[[21]](https://coursology-qbank.com/amboss/article/oY10J20)
+
+
+
+
+
+> [!TIP]
+> Resection is the first-line treatment option for patients with very early and <u>early-stage HCC</u> and good <u>liver function</u>.
+
+
+
+
+#### <u>Liver transplantation</u>
+
+
+
+
+* Indications
+
+* <u>Early stage HCC</u> with significant concomitant <u>liver</u> disease
+
+* AND <u>tumor</u>(s) meet Milan criteria (a set of criteria used to assess HCC patients for transplant)  [[5]](https://coursology-qbank.com/amboss/article/9RcN6X0)[[22]](https://coursology-qbank.com/amboss/article/KY1UJ20)
+
+* 1 <u>tumor</u> measuring ≥ 2 cm and ≤ 5 cm
+
+* OR 2–3 tumors measuring ≥ 1 cm and ≤ 3 cm
+
+* <u>Bridge to transplant</u>: Consider using <u>ablative therapy</u> or locoregional therapy to prevent <u>tumor</u> progression beyond the <u>Milan criteria</u>.
+
+* Recurrence risk [[5]](https://coursology-qbank.com/amboss/article/9RcN6X0)
+
+* 11–18%; most commonly extrahepatic
+
+* Monitor with abdominal and chest CT (surveillance frequency and benefit is uncertain).
+
+
+
+
+
+### <u>Ablation</u> [[5]](https://coursology-qbank.com/amboss/article/9RcN6X0)[[23]](https://coursology-qbank.com/amboss/article/3DcSVe0)
+
+
+
+
+* Indications
+
+* <u>Early-stage HCC</u> in patients who are not candidates for <u>surgery</u>
+
+* Downstaging and/or as a <u>bridge to transplant</u>
+
+* Techniques [[20]](https://coursology-qbank.com/amboss/article/FIcged0)[[24]](https://coursology-qbank.com/amboss/article/hDccVe0)
+
+* First line: <u>radiofrequency ablation</u> (<u>RFA</u>)
+
+* Alternative techniques: include microwave <u>ablation</u> and chemical <u>ablation</u> e.g., <u>percutaneous ethanol injection</u>
+
+* Recurrence risk
+
+* Up to 70% after 5 years
+
+* Assess with <u>multiphase imaging</u> every 3 months for ≥ 1 year, then at least every 6 months [[5]](https://coursology-qbank.com/amboss/article/9RcN6X0)
+
+
+
+
+
+### Locoregional therapy [[5]](https://coursology-qbank.com/amboss/article/9RcN6X0)[[25]](https://coursology-qbank.com/amboss/article/RDclVe0)
+
+
+
+
+* Indications
+
+* <u>Intermediate-stage HCC</u> and <u>early-stage HCC</u> in patients who are not candidates for curative treatments
+
+* Downstaging and/or as a <u>bridge to transplant</u>
+
+* Techniques
+
+* Transarterial chemoembolization (<u>TACE</u>): catheter-directed localized application of a chemotherapeutic and an embolic agent
+
+* Transarterial radioembolization (<u>TARE</u>): catheter-directed selective <u>irradiation</u> via the injection of radioactive spheres into the <u>tumor</u>-feeding <u>artery</u>
+
+
+
+
+
+### <u>Chemotherapy</u> [[5]](https://coursology-qbank.com/amboss/article/9RcN6X0)[[26]](https://coursology-qbank.com/amboss/article/rrcfid0)[[27]](https://coursology-qbank.com/amboss/article/ic1JXf0)
+
+
+
+
+* Indications
+
+* <u>Advanced-stage HCC</u>
+
+* Patients who progress after LRT
+
+* First line: <u>targeted therapy</u> [[27]](https://coursology-qbank.com/amboss/article/ic1JXf0)
+
+* Preferred: <u>atezolizumab</u>/<u>bevacizumab</u>
+
+* Alternative: <u>sorafenib</u> or <u>lenvatinib</u>  [[26]](https://coursology-qbank.com/amboss/article/rrcfid0)
+
+---
+
+## Differential diagnoses
+
+### Malignant <u>liver</u> tumors [[7]](https://coursology-qbank.com/amboss/article/zBbrWw)
+
+
+
+
+* <u>Metastatic liver disease</u>
+
+* Intrahepatic <u>cholangiocarcinoma</u>
+
+* <u>Hepatic angiosarcoma</u>
+
+* <u>Primary hepatic lymphoma</u>
+
+
+
+
+
+#### Metastatic liver disease [[28]](https://coursology-qbank.com/amboss/article/va1Am20)
+
+
+
+
+* <u>Epidemiology</u>
+
+* Most common malignant <u>liver</u> lesion
+
+* Typical primary <u>tumor</u> sites: <u>gastrointestinal tract</u> (<u>colon</u>, <u>stomach</u>, <u>pancreas</u>), <u>lung</u>, and <u>breast</u>
+
+* Clinical features
+
+* Often asymptomatic
+
+* Can manifest with nonspecific symptoms, such as <u>malaise</u>, <u>anorexia</u>, weight loss, <u>jaundice</u>, <u>ascites</u>
+
+* Features of the underlying primary may be present.
+
+* Diagnostics [[8]](https://coursology-qbank.com/amboss/article/EyX8S00)[[29]](https://coursology-qbank.com/amboss/article/tIcXed0)
+
+* <u>Liver chemistries</u>: may be abnormal depending on the degree of <u>liver</u> involvement
+
+* <u>Ultrasound</u> abdomen
+
+* Often used for initial assessment, but typically less sensitive than other imaging modalities
+
+* Typical appearance: “bulls-<u>eye</u>” with a <u>hyperechoic</u> center and <u>hypoechoic</u> periphery (<u>target sign</u>)
+
+* CT abdomen with IV contrast 
+
+* Recommended imaging modality for suspected <u>liver metastases</u>
+
+* Can simultaneously evaluate the site of the primary <u>tumor</u>
+
+* Findings: multiple <u>hypodense</u> lesions (very rarely, solitary <u>metastases</u>)   [[30]](https://coursology-qbank.com/amboss/article/kDcmee0)
+
+* Treatment
+
+* Management depends on extent of disease, the underlying <u>malignancy</u>, and <u>patient performance status</u>.
+
+* Options include:
+
+* <u>Surgery</u>, if resectable  [[28]](https://coursology-qbank.com/amboss/article/va1Am20)
+
+* <u>Ablative therapy</u>
+
+* Systemic <u>chemotherapy</u>
+
+* <u>Palliative care</u>
+
+
+
+
+
+![Liver metastases](../../../../../media/n09d1r66q78wew9x70tpq4l4.jpg)
+
+Liver metastases
+
+![Mixed echogenicity liver mass (target sign)](../../../../../media/ubhibimlf6nqrn3bbezhgbes.jpg)
+
+Mixed echogenicity liver mass (target sign)
+
+![Multiple liver metastases](../../../../../media/r207s1n6lmzgl3r8l9yrc8vk.jpg)
+
+Multiple liver metastases
+
+![Liver metastases](../../../../../media/umn2xojgy0prsl64fj7c3g65.jpg)
+
+Liver metastases
+
+![Liver metastases](../../../../../media/rpxuhca1qr68qgh4kpd7m1fh.jpg)
+
+Liver metastases
+
+
+
+
+#### Primary hepatic lymphoma [[31]](https://coursology-qbank.com/amboss/article/PIcW1d0)
+
+
+
+
+* <u>Epidemiology</u>
+
+* Very rare  [[32]](https://coursology-qbank.com/amboss/article/wa1h520)
+
+* Typically occurs in the 5<sup>th</sup> decade with slight male preponderance [[31]](https://coursology-qbank.com/amboss/article/PIcW1d0)
+
+* Etiology: <u>Risk factors</u> include <u>HIV</u>, <u>hepatitis B</u>, <u>hepatitis C</u>, and chemical exposure.
+
+* Clinical features: nonspecific; abdominal <u>pain</u>, fatigue, <u>anorexia</u>, weight loss, <u>jaundice</u>, night sweats
+
+* Diagnostics
+
+* <u>Ultrasound</u> abdomen 
+
+* Usually performed as the initial imaging modality
+
+* Appearance typically shows a <u>hypoechoic</u> lesion(s)
+
+* <u>MRI</u> or CT abdomen (with IV contrast) may show single or multiple lesions, or diffuse infiltration.
+
+* Diagnostic confirmation: <u>liver biopsy</u>
+
+* Treatment: <u>surgery</u> when possible, followed by <u>chemotherapy</u>
+
+
+
+
+
+![Mixed echogenicity liver mass](../../../../../media/avwf829lwciqjv7cxl8wwjx2.jpg)
+
+Mixed echogenicity liver mass
+
+
+
+
+### <u>Benign liver tumors</u> [[8]](https://coursology-qbank.com/amboss/article/EyX8S00)
+
+
+
+
+See “<u>Benign liver tumors and hepatic cysts</u>” for details.
+
+
+
+
+* <u>Hepatic cyst</u>
+
+* <u>Liver hemangioma</u>
+
+* <u>Focal nodular hyperplasia</u>
+
+* <u>Hepatocellular adenoma</u> with or without <u>dysplasia</u>
+
+* <u>Arteriovenous malformation</u>
+
+* Hepatic <u>lipoma</u>
+
+* Regenerative <u>liver</u> <u>nodules</u> in cases of <u>cirrhosis</u>
+
+
+
+
+
+![Liver cysts](../../../../../media/c2pc9el9irjf1kb7iireot0g.jpg)
+
+Liver cysts
+
+![Hepatic hemangioma](../../../../../media/g55n44mckn4uj7a4o1id2z9d.jpg)
+
+Hepatic hemangioma
+
+![Focal nodular hyperplasia](../../../../../media/rdjnkrri3i8yujjjcwjhys46.jpg)
+
+Focal nodular hyperplasia
+
+![Contrast-enhanced ultrasound of hepatocellular adenoma (hepatic adenoma)](../../../../../media/ue64vmh371psgz0jfmrdl2s5.jpg)
+
+Contrast-enhanced ultrasound of hepatocellular adenoma (hepatic adenoma)
+
+![Hepatic lipoma](../../../../../media/uis84947n0ssmsvbbxb4e4we.jpg)
+
+Hepatic lipoma
+
+
+
+
+> [!TIP]
+> <u>Liver</u> lesions are most often benign, even in patients with preexisting malignancies. [[8]](https://coursology-qbank.com/amboss/article/EyX8S00)
+
+
+
+
+The differential diagnoses listed here are not exhaustive.
+
+---
+
+## Complications
+
+* May cause <u>Budd-Chiari syndrome</u>
+
+* <u>Metastasis</u> (hematogenous): rare, usually only occurs in advanced stages
+
+
+
+
+We list the most important complications. The selection is not exhaustive.
+
+---
+
+## Primary prevention
+
+* Reduce the risk of <u>bloodborne viruses</u>.
+
+* <u>Hepatitis B immunization</u>
+
+* Patient education on <u>risk factors for bloodborne viruses</u>
+
+* <u>Counseling on safer sex practices</u> and provision of <u>harm reduction</u> strategies
+
+* Early detection and <u>treatment of chronic hepatitis B infection</u> and <u>treatment of hepatitis C</u>.
+
+* Maintain <u>alcohol</u> intake within normal limits.
+
+* Patient education on <u>low-risk drinking</u>
+
+* <u>Counseling for alcohol use disorder</u>
+
+* Manage <u>obesity</u> to reduce the risk of <u>MASH</u>.
+
+* <u>Counseling on weight and diet changes</u> and <u>counseling on regular exercise</u>
+
+* Weight loss drugs and <u>weight loss surgery</u>
+
+---
+
+## Screening
+
+### High-risk conditions [[5]](https://coursology-qbank.com/amboss/article/9RcN6X0)[[38]](https://coursology-qbank.com/amboss/article/5V1iEf0)
+
+
+
+
+Patients at high-risk for HCC are advised to attend regular screenings every 6 months.
+
+
+
+
+* <u>Cirrhosis</u> from any cause
+
+* <u>Chronic hepatitis B</u>
+
+* With active infection
+
+* With a <u>family history</u> of HCC
+
+* In Asian men > 40 years of age or Asian women > 50 years of age
+
+* African individuals ≥ 20 years (not applicable for US-born African-Americans)
+
+
+
+
+
+> [!WARNING]
+> Patients with <u>Child-Pugh class C</u> <u>cirrhosis</u> should only undergo screening if they are on the transplant waiting list as <u>life expectancy</u> in <u>decompensated liver cirrhosis</u> is limited.
+
+
+
+
+### Screening modalities and intervals [[5]](https://coursology-qbank.com/amboss/article/9RcN6X0)[[38]](https://coursology-qbank.com/amboss/article/5V1iEf0)
+
+
+
+
+* Imaging
+
+* Abdominal <u>ultrasound</u> is the preferred screening modality.
+
+* Screening intervals depend on imaging findings.
+
+* No lesion: Repeat US in 6 months.
+
+* Lesion < 10 mm: Repeat US in 3–6 months.  [[5]](https://coursology-qbank.com/amboss/article/9RcN6X0)
+
+* Lesion â¥ 10 mm: Perform further imaging (typically <u>multiphase imaging</u>).
+
+* Consider measuring serum <u>AFP</u> level: Perform <u>multiphase imaging</u> if <u>AFP</u> â¥ 20 ng/mL in a patient with a <u>liver</u> lesion of any size.  [[5]](https://coursology-qbank.com/amboss/article/9RcN6X0)
+
+
+
+
+
+> [!TIP]
+> Concerning features for <u>malignancy</u> (i.e., <u>liver</u> lesion â¥ 10 mm or <u>AFP</u> â¥ 20 ng/mL) should be evaluated further by <u>multiphase imaging</u> (see “<u>Diagnostics of HCC</u>” for details).
+
+---

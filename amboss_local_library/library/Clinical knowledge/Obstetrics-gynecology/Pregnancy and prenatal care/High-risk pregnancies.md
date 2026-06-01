@@ -1,0 +1,18 @@
+# High-risk pregnancies
+
+*Categories: Clinical knowledge > Obstetrics/gynecology > Pregnancy and prenatal care > High-risk pregnancies*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/L80wM3)
+
+---
+
+## Summary
+
+A <u>pregnancy</u> is considered high risk if one or more <u>risk factors for adverse pregnancy outcomes</u> are present at the outset or develop during the course of that <u>pregnancy</u>. Maternal factors that increase risk include age, preexisting conditions, and certain behaviors. Other factors related to the fetus, <u>placenta</u>, and conditions triggered or worsened by <u>pregnancy</u> also affect outcomes. Early identification and <u>management of high-risk pregnancies</u> is essential to prevent and treat associated maternal and fetal complications. Patients with identified conditions may require <u>antepartum fetal surveillance</u>, further diagnostics, preventative interventions, specialist referral, <u>birth</u> planning, and additional <u>counseling related to peripartum care</u>. Patients who seek care for the onset, exacerbation, or complication of a high-risk condition during <u>pregnancy</u> require urgent evaluation and specialized care. Acute management includes stabilization and resuscitation, fetal monitoring, urgent evaluation by <u>maternal-fetal medicine</u> specialists, identification and treatment of the underlying condition, and in some cases, emergency delivery.
+
+
+
+
+See also “<u>Prenatal care</u>” and “<u>Abnormal labor and delivery</u>.”
+
+---

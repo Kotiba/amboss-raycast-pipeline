@@ -1,0 +1,240 @@
+# Late-term and postterm pregnancy
+
+*Categories: Clinical knowledge > Emergency medicine > Gynecologic and obstetric disorders > Late-term and postterm pregnancy*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/2t0T13)
+
+---
+
+## Summary
+
+A <u>late-term pregnancy</u> is defined as 41 0/7 to 41 6/7 weeks' <u>gestation</u>; at 42 weeks' <u>gestation</u>, it becomes a <u>postterm pregnancy</u>. While the causes of <u>postterm pregnancy</u> are generally unknown, many supposed cases are likely due to a <u>suboptimally dated gestational age</u>. <u>Risk factors</u> may be maternal (e.g., age, previous <u>postterm pregnancies</u>, <u>nulliparity</u>) and fetal (e.g., male sex, disorders such as <u>oligohydramnios</u>). Patients with low-risk <u>late-term pregnancies</u> who have not had <u>suboptimal gestational dating</u> and who do not have <u>indications for cesarean delivery</u> or <u>contraindications for induction of labor</u> are usually offered the choice between <u>expectant management</u> with <u>antepartum fetal surveillance</u> and <u>induction of labor</u>. After 42 weeks' <u>gestation</u>, <u>induction of labor</u> is recommended regardless of cervical favorability in order to avoid associated complications. <u>Membrane sweeping</u> may be performed in well-dated <u>pregnancies</u> after 39 weeks' <u>gestation</u> to induce <u>labor</u> and prevent late-term or <u>postterm pregnancy</u>.
+
+
+
+
+See also “<u>Pregnancy</u>” and “<u>Prenatal care</u>.”
+
+---
+
+## Definitions
+
+* Late-term pregnancy: a <u>pregnancy</u> between 41 0/7 and 41 6/7 weeks' <u>gestation</u>
+
+* Postterm pregnancy: a <u>pregnancy</u> ≥ 42 0/7 weeks' <u>gestation</u>
+
+* Postterm birth: <u>live birth</u> after the completion of 42 weeks of <u>pregnancy</u> (≥ 42 0/7 weeks' <u>gestation</u>)
+
+---
+
+## Etiology
+
+* Etiology: usually unknown [[3]](https://coursology-qbank.com/amboss/article/KaWUlP0)
+
+* <u>Risk factors</u> for <u>postterm pregnancy</u> include:
+
+* Maternal factors [[4]](https://coursology-qbank.com/amboss/article/TF16hi0)
+
+* Age > 30 years
+
+* Maternal <u>obesity</u> [[3]](https://coursology-qbank.com/amboss/article/KaWUlP0)
+
+* Genetic predisposition  [[3]](https://coursology-qbank.com/amboss/article/KaWUlP0)[[4]](https://coursology-qbank.com/amboss/article/TF16hi0)
+
+* Prior <u>postterm pregnancies</u>
+
+* <u>Nulliparity</u>
+
+* Fetal factors [[4]](https://coursology-qbank.com/amboss/article/TF16hi0)
+
+* Male fetus
+
+* Fetal disorders, e.g., <u>oligohydramnios</u> , <u>anencephaly</u> , <u>steroid sulfatase deficiency</u> [[3]](https://coursology-qbank.com/amboss/article/KaWUlP0)
+
+
+
+
+
+> [!TIP]
+> Many supposed cases of <u>postterm pregnancy</u> are likely due to suboptimal dating e.g., by using the <u>LMP</u> alone to calculate the <u>EDD</u>. [[1]](https://coursology-qbank.com/amboss/article/jZW_YP0)[[4]](https://coursology-qbank.com/amboss/article/TF16hi0)
+
+
+
+
+![Oligohydramnios vs. polyhydramnios](../../../../media/xswcon4yrpw4g1lksw8ncoum.jpg)
+
+Oligohydramnios vs. polyhydramnios
+
+![Anencephaly](../../../../media/t8q2ierhh6du33iznw6jm6w6.jpg)
+
+Anencephaly
+
+---
+
+## Management
+
+This applies to patients without <u>high-risk pregnancy</u>, <u>indications for cesarean delivery</u>, or <u>contraindications for induction of labor</u>.
+
+
+
+
+### <u>Late-term pregnancy</u> [[1]](https://coursology-qbank.com/amboss/article/jZW_YP0)[[4]](https://coursology-qbank.com/amboss/article/TF16hi0)
+
+
+
+
+Begin by confirming whether the <u>gestational age and estimated date of delivery</u> for the <u>pregnancy</u> was accurately calculated.
+
+
+
+
+> [!TIP]
+> First-trimester <u>prenatal ultrasound</u> is preferred over other methods of determining <u>gestational age and estimated date of delivery</u>. [[1]](https://coursology-qbank.com/amboss/article/jZW_YP0)[[3]](https://coursology-qbank.com/amboss/article/KaWUlP0)[[5]](https://coursology-qbank.com/amboss/article/vF1APi0)
+
+
+
+
+![Gestational age by LMP and ultrasound biometry](../../../../media/iuept73fszc0hj0b88afkbcd.jpg)
+
+Gestational age by LMP and ultrasound biometry
+
+
+
+
+#### Suboptimally dated gestational age [[6]](https://coursology-qbank.com/amboss/article/s81tLi0)
+
+
+
+
+* Definition: a <u>gestational age</u> that was not confirmed or adjusted using <u>ultrasound</u> before 22 0/7 weeks <u>gestation</u>
+
+* Perform <u>induction of labor</u> at 41 weeks' <u>gestation</u> (as determined by best clinical judgment).
+
+
+
+
+
+#### Well-dated <u>gestational age</u>
+
+
+
+
+Offer the following, using a <u>shared decision-making</u> approach:
+
+
+
+
+* <u>Membrane sweeping</u>, if not previously done
+
+* Choice of the following options:
+
+* <u>Induction of labor</u>
+
+* <u>Expectant management</u> with <u>antepartum fetal surveillance</u>
+
+
+
+
+
+| <br>Management options for low-risk, well-dated <u>late-term pregnancies</u> [[1]](https://coursology-qbank.com/amboss/article/jZW_YP0)[[4]](https://coursology-qbank.com/amboss/article/TF16hi0)[[7]](https://coursology-qbank.com/amboss/article/hZWcYP0)<br> |  |  |
+| --- | --- | --- |
+|  | <u>Induction of labor</u> | <u>Expectant management</u> |
+| Key points for <u>patient counseling</u> | <br><br>* Lower <u>relative risk</u>, compared to <u>expectant management</u>, of:<br><br>* <u>Stillbirth</u><br><br>* <u>Perinatal</u> mortality<br><br>* <u>Meconium aspiration syndrome</u><br><br>* <u>NICU</u> admission<br><br>* Possibility of failure of induction and need for <u>cesarean delivery</u><br><br><br> | <br><br>* <u>Absolute risk</u> of <u>stillbirth</u> and <u>perinatal</u> mortality is low.<br><br>* No significant difference in risk of maternal complications  compared to <u>induction of labor</u><br><br>* Allows for the possibility of spontaneous <u>labor</u>, which may be preferred by patients<br><br>* Requires ongoing antepartum monitoring<br><br><br> |
+| Management steps | <br><br>* See “<u>Induction of labor</u>.”<br><br>* If induction is unsuccessful , perform <u>cesarean delivery</u>. [[8]](https://coursology-qbank.com/amboss/article/cF1aSi0)<br><br><br> | <br><br>* Continue prenatal visits with <u>antepartum fetal surveillance</u> 1–2 times week, to a maximum of 42 weeks' <u>gestation</u>.  [[1]](https://coursology-qbank.com/amboss/article/jZW_YP0)[[3]](https://coursology-qbank.com/amboss/article/KaWUlP0)[[9]](https://coursology-qbank.com/amboss/article/ME1Mwi0)<br><br>* Proceed to delivery for any of the following:<br><br>* Abnormal <u>antepartum fetal surveillance</u><br><br>* Other <u>indications for induction of labor</u> or <u>indications for cesarean delivery</u><br><br><br> |
+
+
+
+
+
+### <u>Postterm pregnancy</u> [[1]](https://coursology-qbank.com/amboss/article/jZW_YP0)[[4]](https://coursology-qbank.com/amboss/article/TF16hi0)
+
+
+
+
+* Perform <u>induction of labor</u> by 42 0/6 weeks' <u>gestation</u>. [[1]](https://coursology-qbank.com/amboss/article/jZW_YP0)
+
+* Induction unsuccessful: Perform <u>C-section</u>.
+
+
+
+
+
+> [!WARNING]
+> After 42 weeks' <u>gestation</u>, induction is recommended regardless of cervical favorability in order to avoid <u>complications of postterm pregnancy</u>. [[1]](https://coursology-qbank.com/amboss/article/jZW_YP0)
+
+---
+
+## Complications
+
+### <u>Postterm infant</u> complications [[1]](https://coursology-qbank.com/amboss/article/jZW_YP0)[[3]](https://coursology-qbank.com/amboss/article/KaWUlP0)
+
+
+
+
+* <u>Oligohydramnios</u>
+
+* Increased <u>birth</u> weight and <u>macrosomia</u>, which can lead to <u>birth trauma</u>, e.g.:
+
+* <u>Neonatal brachial plexus palsy</u>
+
+* <u>Birth-related clavicle fracture</u>
+
+* <u>Stillbirth</u>
+
+* Low <u>Apgar scores</u> (i.e., ≤ 4 points) [[1]](https://coursology-qbank.com/amboss/article/jZW_YP0)
+
+* <u>Meconium aspiration syndrome</u>
+
+* <u>Neonatal seizures</u> [[1]](https://coursology-qbank.com/amboss/article/jZW_YP0)[[4]](https://coursology-qbank.com/amboss/article/TF16hi0)
+
+* Admission to the <u>NICU</u>
+
+* <u>Cerebral palsy</u> [[4]](https://coursology-qbank.com/amboss/article/TF16hi0)
+
+* Postmaturity syndrome: changes in appearance (i.e., weight loss, subcutaneous wasting, and dry, peeling <u>skin</u>) possibly caused by <u>placental insufficiency</u> and <u>oligohydramnios</u> [[1]](https://coursology-qbank.com/amboss/article/jZW_YP0)[[10]](https://coursology-qbank.com/amboss/article/HF1Kji0)
+
+
+
+
+
+> [!WARNING]
+> <u>Infants</u> born <u>postterm</u> have an increased risk of <u>meconium aspiration syndrome</u>. [[1]](https://coursology-qbank.com/amboss/article/jZW_YP0)[[10]](https://coursology-qbank.com/amboss/article/HF1Kji0)
+
+
+
+
+![Erb palsy (waiter's tip posture)](../../../../media/nip0wo76do3rylw4oj7n5eih.jpg)
+
+Erb palsy (waiter's tip posture)
+
+![Neonatal clavicle fracture](../../../../media/n1ji9q3k3uso39nr3k0ot4f9.jpg)
+
+Neonatal clavicle fracture
+
+
+
+
+### Maternal complications [[1]](https://coursology-qbank.com/amboss/article/jZW_YP0)[[3]](https://coursology-qbank.com/amboss/article/KaWUlP0)
+
+
+
+
+* Associated with increased <u>birth</u> weight and <u>fetal macrosomia</u>:
+
+* <u>Prolonged stages of labor</u> (see “<u>Abnormal labor stages</u>”)
+
+* <u>Obstructed labor</u>
+
+* <u>Perineal lacerations</u>
+
+* <u>Postpartum hemorrhage</u>
+
+* Infections: e.g., <u>chorioamnionitis</u> or <u>endometritis</u> [[4]](https://coursology-qbank.com/amboss/article/TF16hi0)
+
+
+
+
+
+We list the most important complications. The selection is not exhaustive.
+
+---

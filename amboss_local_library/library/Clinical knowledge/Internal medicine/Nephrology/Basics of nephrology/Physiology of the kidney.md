@@ -1,0 +1,957 @@
+# Physiology of the kidney
+
+*Categories: Clinical knowledge > Internal medicine > Nephrology > Basics of nephrology > Physiology of the kidney*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/860O5S)
+
+---
+
+## Summary
+
+<u>Nephrons</u> are the functional units of the <u>kidneys</u>. They are composed of a <u>renal corpuscle</u> (the <u>glomerulus</u> and the <u>Bowman capsule</u>) and a renal tubule (the <u>proximal convoluted tubule</u>, the <u>loop of Henle</u>, the <u>distal convoluted tubule</u>, the collecting tubule, and the <u>collecting ducts</u>). The main functions of <u>nephrons</u> are <u>urine production</u> and excretion of waste products; regulation of <u>electrolytes</u>, <u>serum osmolality</u>, and <u>acid-base balance</u>; <u>hormone</u> production and secretion (e.g., <u>erythropoietin</u>, <u>renin</u>, <u>calcitriol</u>, <u>prostaglandins</u>); and maintenance of <u>glucose</u> <u>homeostasis</u>. <u>Urine production</u> involves filtration of the plasma in the <u>renal corpuscle</u> (a passive process), the secretion of substances to be eliminated (e.g., <u>urea</u>, hydrogen, <u>potassium</u>) into the lumen of the renal tubules, and the reabsorption of substances (e.g., <u>glucose</u>, <u>urea</u>, <u>uric acid</u>, <u>potassium</u>) within the renal tubules. These processes are regulated by a number of <u>hormones</u> that affect either <u>renal blood flow</u> or the function of the different transporters across the renal tubule. In addition, there are local mechanisms that regulate renal <u>perfusion</u> (e.g., myogenic regulation of the diameter of <u>afferent arterioles</u>) and urine <u>osmolarity</u> (e.g., <u>tubuloglomerular feedback</u>). The most commonly used measure of renal function is the <u>glomerular filtration rate</u> (<u>GFR</u>), which is the volume of primary ultrafiltrate filtered into the <u>Bowman capsule</u> per unit of time. In clinical settings, the <u>GFR</u> is estimated using equations such as the modification of diet in renal disease (MDRD) study equation and the <u>chronic kidney disease</u> <u>epidemiology</u> collaboration (<u>CKD</u>-EPI) equation. For more information, see also “<u>Kidneys</u>.”
+
+---
+
+## Urine production
+
+### General information
+
+
+
+
+* Site: <u>nephron</u>
+* The functional unit of the <u>kidney</u>, which consists of
+
+* <u>Glomerulus</u>: the major structure responsible for filtration of plasma
+
+* Tubules: the structure where the absorption of substances from and their secretion into the ultrafiltrate takes place
+
+* Aim
+
+* Elimination of waste products (e.g., <u>urea</u>, <u>creatinine</u>, drug metabolites)
+
+* Regulation of <u>electrolytes</u>, <u>serum osmolality</u>, and acid-base balance
+
+* Process
+1. * Blood flows into the <u>glomerular</u> <u>capillaries</u> via the <u>afferent arterioles</u>
+2. * Glomerular filtration: Plasma components are filtered from the <u>glomerular</u> <u>capillaries</u> across the <u>glomerular filtration barrier</u> into the urinary space within the <u>Bowman capsule</u>. The result is the primary ultrafiltrate.
+3. * After passing the <u>glomerulus</u>, the ultrafiltrate (now referred to as “tubular fluid”) flows through the tubular system.;   → reabsorption and secretion of plasma components (approx. 99% of the ultrafiltrate is reabsorbed into the bloodstream) → urine concentration 
+
+* <u>Urine osmolality</u>: 50–1400 mOsmol/L
+
+* Urine <u>pH</u>: 5.5 (between 4.5–8.2)
+4. * Urine flows into the <u>collecting ducts</u> → <u>renal pelvis</u> → <u>ureters</u> → <u>bladder</u> → <u>urethra</u>
+
+
+
+
+
+![Structure of the renal corpuscle](../../../../../media/zqux1sdnoc60qc21ar6o9vim.jpg)
+
+Structure of the renal corpuscle
+
+![Cross section of renal corpuscle](../../../../../media/sa0at7t4qf9jefk65n0n4h0d.jpg)
+
+Cross section of renal corpuscle
+
+
+
+
+### Renal homeostasis [[1]](https://coursology-qbank.com/amboss/article/Lvaw05)
+
+
+
+
+| Overview |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Substance | <br>Site of reabsorption<br> | Site of secretion | Transporters | Clinical relevance |
+| H<sub>2</sub>O | <br><br>* ∼ 65% in the <u>proximal convoluted tubule</u><br><br>* ∼ 20% in the thin <u>descending loop of Henle</u><br><br>* 8–15% in <u>collecting duct</u><br><br><br> | <br>* –<br><br> | <br><br>* <u>Osmosis</u> (<u>proximal</u> tube and <u>descending loop of Henle</u>)<br><br>* Aquaporins (<u>collecting duct</u>)<br><br><br> | <br><br>* <u>Diabetes insipidus</u><br><br>* <u>SIADH</u><br><br><br> |
+| <u>Sodium</u> | <br><br>* 65–80% in the <u>proximal convoluted tubule</u><br><br>* 10–20% in the thick <u>ascending loop of Henle</u><br><br>* 5–10% in the <u>distal convoluted tubule</u><br><br>* 3–5% in the <u>collecting duct</u><br><br><br> | <br><br>* <u>Na<sup>+</sup>-K<sup>+</sup> ATPase</u><br><br>* <u>Na<sup>+</sup>-glucose symporter</u> (<u>proximal</u> tube)<br><br>* <u>Na<sup>+</sup>-K<sup>+</sup>-2Cl<sup>-</sup> channel</u> (thick <u>ascending loop of Henle</u>)<br><br>* <u>Na<sup>+</sup>-Cl<sup>-</sup> cotransporter</u> (early <u>distal convoluted tubule</u>)<br><br>* <u>Sodium</u> channels, ENaC (<u>distal convoluted tubule</u>, <u>collecting duct</u>)<br><br><br> | <br><br>* <u>Loop diuretic</u> (<u>Na<sup>+</sup>-K<sup>+</sup>-2Cl<sup>-</sup> channel</u>)<br><br>* <u>Thiazide diuretic</u> (<u>Na<sup>+</sup>-Cl<sup>-</sup> cotransporter</u>)<br><br><br> |  |
+| <u>Chloride</u> | <br>* The same sites and percentages as for <u>sodium</u><br><br> | <br><br>* <u>Na<sup>+</sup>-K<sup>+</sup>-2Cl<sup>-</sup> channel</u> (thick <u>ascending loop of Henle</u>)<br><br>* Na<sup>+</sup>-Cl<sup>-</sup> cotransporter (early <u>distal convoluted tubule</u>)<br><br><br> | <br>* –<br><br> |  |
+| <u>Potassium</u> | <br><br>* 65% in the <u>proximal convoluted tubule</u><br><br>* 25% in the <u>loop of Henle</u><br><br><br> | <br><br>* Late <u>distal convoluted tubule</u><br><br>* <u>Collecting duct</u><br><br><br> | <br><br>* <u>Na<sup>+</sup>-K<sup>+</sup> ATPase</u><br><br>* Na<sup>+</sup>-K<sup>+</sup>-2Cl<sup>-</sup> channel<br><br>* H<sup>+</sup>/<u>K<sup>+</sup></u> <u>antiporter</u> in α-intercalated cells<br><br><br> |  |
+| H<sup>+</sup>ions | <br>* –<br><br> | <br><br>* Thick <u>ascending loop of Henle</u><br><br>* <u>Collecting duct</u> (intercalated cells)<br><br><br> | <br><br>* Na<sup>+</sup>/H<sup>+</sup> antiporter (thick <u>ascending loop of Henle</u>)<br><br>* H<sup>+</sup> ATPase (<u>collecting duct</u>)<br><br><br> |  |
+| <u>Calcium</u> | <br><br>* <u>Proximal convoluted tubule</u><br><br>* <u>Loop of Henle</u><br><br>* <u>Collecting duct</u><br><br><br> | <br>* –<br><br> | <br><br>* Na<sup>+</sup>-Ca<sup>2+</sup> exchanger<br><br>* <u>Ca<sup>2+</sup></u> ATPase<br><br><br> | <br><br>* Competes with <u>magnesium</u><br><br>* <u>Thiazide diuretics</u> increase reabsorption → <u>hypercalcemia</u><br><br><br> |
+| <u>Magnesium</u> | <br><br>* <u>Proximal convoluted tubule</u><br><br>* <u>Loop of Henle</u><br><br>* <u>Collecting duct</u><br><br><br> | <br>* Paracellular <u>diffusion</u><br><br> | <br>* Competes with <u>calcium</u><br><br> |  |
+| <u>Glucose</u> | <br>* 100% in <u>proximal convoluted tubule</u><br><br> | <br><br>* Max. reabsorption capacity of the <u>proximal convoluted tubule</u><br><br>* <u>Sodium glucose transporter</u> and a basal <u>GLUT</u><br><br><br> | <br>* <u>Glucosuria</u> (an important clue to <u>diabetes mellitus</u>)<br><br> |  |
+| <u>Urea</u> | <br><br>* 50% in the <u>proximal convoluted tubule</u><br><br>* <u>Collecting duct</u><br><br><br> | <br>* <u>Loop of Henle</u><br><br> | <br>* <u>Urea</u> transporters (e.g., urea transporter A1)<br><br> | <br><br>* Affects <u>osmolality</u><br><br>* Elevated in <u>acute kidney injury</u>/<br><u>chronic kidney disease</u><br><br><br> |
+| <u>Bicarbonate</u> | <br><br>* 80–90% in the <u>proximal convoluted tubule</u><br><br>* 10–20% <u>collecting duct</u> (α-intercalated cells)<br><br><br> | <br>* –<br><br> | <br>* Symport with Na<sup>+</sup><br><br> | <br>* Maintains <u>acid-base balance</u><br><br> |
+| <u>Phosphate</u> | <br>* 85% in the <u>proximal convoluted tubule</u><br><br> | <br>* Na-<u>phosphate</u> cotransporter<br><br> | <br>* –<br><br> |  |
+
+---
+
+## Hormone synthesis
+
+* Erythropoietin (<u>EPO</u>)
+
+* Secreted by peritubular <u>interstitial</u> cells
+
+* Function: stimulates <u>erythropoiesis</u> in the <u>bone marrow</u>
+
+* Regulation
+
+* Positive feedback: <u>anemia</u>/blood loss, <u>hypoxia</u>
+
+* Induced by the <u>transcription factor</u> HIF (<u>hypoxia</u>-inducible factor)
+
+* <u>EPO</u> may be reduced in <u>chronic kidney failure</u>, potentially causing <u>anemia of chronic kidney disease</u>.
+
+* Treatment consists of <u>EPO</u> substitution.
+
+* An adverse effect of chronic <u>EPO</u> administration is <u>EPO</u>-induced <u>hypertension</u>.
+
+* <u>Calciferol</u>: cells of the <u>proximal convoluted tubule</u> convert <u>calcidiol</u> into the active <u>calcitriol</u>
+
+* <u>Prostaglandins</u>: maintain <u>renal blood flow</u> via <u>vasodilation</u> of <u>afferent arterioles</u>
+
+* <u>Paracrine</u> secretion by <u>endothelial</u> cells in the <u>afferent arterioles</u>
+
+* <u>NSAIDs</u> block <u>cyclooxygenase</u> (<u>COX</u>) and thereby decrease <u>prostaglandin</u> synthesis
+
+* ↓ <u>Prostaglandins</u> → ↓ afferent <u>vasodilation</u> → ↓ <u>renal plasma flow</u> → ↓ <u>GFR</u>
+
+* Very high doses of <u>NSAIDs</u> or use of <u>NSAIDs</u> in patients with already decreased <u>kidney function</u> may lead to <u>acute kidney injury</u>.
+
+* <u>Dopamine</u>: secreted by cells of the <u>proximal convoluted tubules</u>
+
+* At low doses: helps maintain <u>renal blood flow</u> and increases <u>natriuresis</u> via <u>vasodilation</u> of <u>interlobular arteries</u>, <u>afferent arterioles</u>, and <u>efferent arterioles</u> without affecting <u>GFR</u>
+
+* At high doses: acts as a vasoconstrictor
+
+* <u>Renin</u>: See “<u>RAAS</u>” in “<u>Renal blood flow</u>” below.
+
+
+
+
+
+![Regulation of erythropoiesis in hypoxia](../../../../../media/ifhjp6rpt4ow8frd7v9fc9mx.jpg)
+
+Regulation of erythropoiesis in hypoxia
+
+
+
+
+> [!NOTE]
+> Elevated <u>EPO</u> levels induce an increase of <u>hematocrit</u> and improve oxygen-carrying capacity.
+
+
+
+
+> [!NOTE]
+> Patients with <u>chronic kidney disease</u> may develop <u>renal anemia</u> due to deficient <u>EPO</u> synthesis.
+
+---
+
+## Physiology of the tubular system
+
+| Physiology of the tubular system |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Segments |  | Location | Function | Regulation | Clinical relevance |
+| <u>Afferent arteriole</u> |  | <br>* <u>Renal cortex</u><br><br> | <br>* Regulation of blood flow<br><br> | <br><br>* <u>Vasodilation</u> via:<br><br>* <u>Prostaglandins</u><br><br>* <u>Atrial natriuretic peptide</u> (<u>ANP</u>)<br><br>* Juxtaglomerular feedback<br><br><br> | <br><br>* Na<sup>+</sup>loss → volume loss<br><br>* <u>NSAIDs</u> block <u>prostaglandin</u> synthesis → inhibition of dilation of the afferent <u>arteriole</u> → decrease in <u>glomerular filtration rate</u> (<u>GFR</u>) and <u>renal plasma flow</u> (<u>RPF</u>)<br><br><br> |
+| <u>Proximal convoluted tubule</u> |  | <br>* <u>Renal cortex</u><br><br> | <br><br>* Brush border resorption of most of the ultrafiltrate<br><br>* <u>Glucose</u> (via <u>SGLT2</u>)<br><br>* <u>Amino acids</u><br><br>* <u>Uric acid</u><br><br>* Na<sup>+</sup>, <u>Cl<sup>-</sup></u>, <u>K<sup>+</sup></u>, <u>HCO<sub>3</sub><sup>-</sup></u>, <u>PO<sub>4</sub><sup>3-</sup></u>, and H<sub>2</sub>O<br><br>* Forms <u>NH<sub>3</sub></u> and secretes it into lumen (facilitates H<sup>+</sup> secretion)<br><br><br> | <br><br>* <u>Parathormone</u> (<u>PTH</u>) decreases <u>PO<sub>4</sub><sup>3-</sup></u> reabsorption via Na<sup>+</sup>-<u>PO<sub>4</sub><sup>3-</sup></u> cotransporter inhibition.<br><br>* <u>Angiotensin II</u> increases Na<sup>+</sup>, <u>HCO<sub>3</sub><sup>-</sup></u>, and H<sub>2</sub>O reabsorption via <u>Na<sup>+</sup>/H<sup>+</sup> exchanger</u> stimulation (allows for <u>contraction alkalosis</u>).<br><br>* <u>Carboanhydrase</u> increases H<sub>2</sub>O and <u>HCO<sub>3</sub><sup>-</sup></u> reabsorption .<br><br><br> | <br><br>* <u>Fanconi syndrome</u><br><br>* Site of action for:<br><br>* <u>Angiotensin II receptor blockers</u><br><br>* <u>Acetazolamide</u> (acts as a <u>carboanhydrase</u> inhibitor)<br><br>* <u>Proximal renal tubular acidosis</u> (type 2)<br><br><br> |
+| <u>Loop of Henle</u> | Thin descending limb of the <u>loop of Henle</u> | <br>* <u>Renal medulla</u><br><br> | <br>* Concentration of the ultrafiltrate: <u>medullary hypertonicity</u> (impermeable to Na<sup>+</sup>) → passive reabsorption of H2O<br><br> | <br>* <u>Angiotensin II</u> increases Na<sup>+</sup> reabsorption<br><br> | <br><br>* <u>Bartter syndrome</u><br><br>* Site of action for <u>loop diuretics</u> (act as <u>Na<sup>+</sup>-K<sup>+</sup>-2Cl<sup>-</sup> cotransporter</u> inhibitors)<br><br><br> |
+| Thick ascending limb of the <u>loop of Henle</u> | <br><br>* Impermeable to H<sub>2</sub>O → urine becomes less concentrated (see “<u>Countercurrent multiplication</u>” below)<br><br>* Reabsorption of Na<sup>+</sup>, <u>K<sup>+</sup></u>, <u>Cl<sup>-</sup></u> (via <u>Na<sup>+</sup>-K<sup>+</sup>-2Cl<sup>-</sup> cotransporter</u>)<br><br>* <u>K<sup>+</sup></u> shift creates a positive lumen potential → facilitation of paracellular reabsorption of <u>Mg<sup>2+</sup></u> and <u>Ca<sup>2+</sup></u><br><br><br> |  |  |  |  |
+| <u>Distal convoluted tubule</u> (<u>DCT</u>) |  | <br>* <u>Renal cortex</u><br><br> | <br><br>* Resorption of ions: Na<sup>+</sup>, <u>Cl<sup>-</sup></u>, <u>Mg<sup>2+</sup></u>and <u>Ca<sup>2+</sup></u><br><br>* Impermeable to H<sub>2</sub>O<br><br>* Decreases ultrafiltrate <u>osmolality</u><br><br><br> | <br><br>* <u>PTH</u> increases <u>vitamin D3</u> production → ↑ <u>Ca<sup>2+</sup></u> and Na<sup>+</sup>exchange → ↑ <u>Ca<sup>2+</sup></u> reabsorption<br><br>* <u>Angiotensin II</u> increases Na<sup>+</sup> reabsorption<br><br>* <u>ANP</u><br><br>* <u>Aldosterone</u><br><br><br> | <br><br>* <u>Gitelman syndrome</u><br><br>* Site of action for <u>thiazide diuretics</u> (act as <u>Na<sup>+</sup>-Cl<sup>-</sup> cotransporter</u> inhibitors)<br><br><br> |
+| <u>Connecting tubule</u> and <u>collecting duct</u> |  | <br>* <u>Renal cortex</u> and <u>renal medulla</u><br><br> | <br><br>* Reabsorption of Na<sup>+</sup>in exchange for <u>K<sup>+</sup></u> secretion in principal cells: <u>Aldosterone</u> stimulates <u>epithelial</u> Na<sup>+</sup> channel (<u>ENaC</u>), apical <u>K<sup>+</sup></u> transport, and <u>Na<sup>+</sup>-K<sup>+</sup> ATPase</u>.<br><br>* Increased H<sup>+</sup> secretion, <u>HCO<sub>3</sub><sup>-</sup></u> and <u>K<sup>+</sup></u> reabsorption by <u>α-intercalated cells</u> (H<sup>+</sup> ATPase, H<sup>+</sup>/<u>K<sup>+</sup></u> <u>antiporter</u>, and <u>Cl<sup>−</sup>/HCO3<sup>−</sup> exchanger</u>) in response to <u>aldosterone</u><br><br>* Selective water permeability: <u>Antidiuretic hormone</u> (<u>ADH</u>) acts on <u>V<sub>2</sub> receptors</u>, which results in the integration of apical <u>aquaporins</u> in <u>principal cells</u>.<br><br>* Reabsorption of <u>urea</u>: <u>ADH</u> increases the number of <u>urea</u> transporters.<br><br><br> | <br><br>* <u>Aldosterone</u><br><br>* <u>ADH</u><br><br><br> | <br><br>* <u>Liddle syndrome</u><br><br>* Site of action for <u>K<sup>+</sup>-sparing diuretics</u><br><br>* <u>Aldosterone antagonists</u> (e.g., <u>spironolactone</u>, eplerenon)<br><br>* ENac inhibitors (e.g., <u>amiloride</u>, <u>triamterene</u>)<br><br>* <u>Distal renal tubular acidosis</u> (type 1)<br><br>* <u>Syndrome of apparent mineralocorticoid excess</u> (SAME)<br><br><br> |
+| <u>Efferent arteriole</u> |  | <br>* <u>Renal cortex</u><br><br> | <br>* Regulation of blood flow<br><br> | <br><br>* <u>Angiotensin II</u> causes <u>vasoconstriction</u> → increase in <u>GFR</u><br><br>* Juxtaglomerular feedback<br><br><br> | <br>* <u>ACE inhibitors</u> block <u>angiotensin II</u> synthesis and <u>ARBs</u> prevent binding of <u>angiotensin II</u> to the <u>angiotensin II</u> <u>receptor</u> → inhibition of constriction of the efferent <u>arteriole</u> → decrease in filtration pressure and <u>GFR</u><br><br>* Used to reduce proteinemia (e.g., in <u>diabetic nephropathy</u>)<br><br>* Can decrease <u>GFR</u> critically, esp. in combination with <u>NSAIDs</u> → <u>acute kidney injury</u><br><br> |
+
+
+
+
+
+![Structure of renal parenchyma](../../../../../media/d9bmo6niqbxi3w57qxktrcps.jpg)
+
+Structure of renal parenchyma
+
+![Overview of renal tubular transport mechanisms](../../../../../media/kozq7rorruvloys6avzokh0b.jpg)
+
+Overview of renal tubular transport mechanisms
+
+![Overview of the proximal convoluted tubule](../../../../../media/vqodiydlur87m71plgoaezzc.jpg)
+
+Overview of the proximal convoluted tubule
+
+![Overview of diuretics](../../../../../media/elcxcu4bsnpowmnfh3w1q8qb.jpg)
+
+Overview of diuretics
+
+
+
+
+### Countercurrent multiplication
+
+
+
+1. * NaCl is actively transported from the tubular fluid in the ascending limb into the <u>interstitial space</u>.
+2. * The <u>interstitium</u> becomes hypertonic. This allows water to follow a gradient and move passively from the tubular fluid with a lesser <u>osmolarity</u> to the <u>interstitium</u> with a higher <u>osmolarity</u>
+3. * Continuous production of urine → continuous movement of water from the tubular fluid into the <u>interstitium</u> → steady increase of the osmotic gradient → significant increase in the amount of water reabsorbed in the descending limb.
+
+---
+
+## Renal blood flow
+
+### Renal blood supply
+
+
+
+* <u>Renal arteries</u> (from the aorta) → segmental <u>arteries</u> → interlobar renal arteries → arcuate <u>arteries</u> → intralobular <u>renal arteries</u> → <u>afferent arterioles</u> → <u>glomeruli</u> → <u>efferent arterioles</u> → vasa recta (kidneys) and peritubular <u>capillaries</u> → <u>renal veins</u> (merge into the <u>inferior vena cava</u>)
+
+
+
+
+### <u>Renal blood flow</u>
+
+
+
+
+* Renal blood flow (<u>RBF</u>): the blood volume that flows through the <u>kidney</u> per unit of time
+
+* Normal: ∼ 20% of <u>cardiac output</u>, i.e., 1.2 L/min; kept at a constant rate by the renal autoregulatory mechanism
+
+* <u>RBF</u> = <u>RPF</u>/(1 - <u>Hct</u>)
+
+* Renal plasma flow (<u>RPF</u>): the volume of plasma that flows through the <u>kidney</u> per unit of time 
+
+* <u>Para-aminohippuric acid</u> (<u>PAH</u>): nearly 100% of <u>PAH</u> that enters the <u>kidney</u> is also excreted (completely filtrated and secreted), thus clearance rate is used to estimate <u>RPF</u>
+
+* Effective renal plasma flow (<u>eRPF</u>)
+
+* <u>eRPF</u> = <u>urine concentration</u> of <u>PAH</u> × (<u>urine flow rate</u>/plasma concentration of <u>PAH</u>)
+
+* <u>eRPF</u> calculated with <u>PAH</u> slightly underestimates true <u>RPF</u> (see “<u>Para-aminohippuric acid</u>” below)
+
+
+
+
+
+### Regulation of <u>renal blood flow</u> [[1]](https://coursology-qbank.com/amboss/article/Lvaw05)
+
+
+
+
+The <u>kidney</u> has multiple mechanisms to regulate its own blood flow. This allows for changing the rate of <u>glomerular filtration</u> if fluctuations in systemic blood pressure occur.
+
+
+
+
+#### Myogenic autoregulation (Bayliss effect)
+
+
+
+* Mechanism
+
+* Blood flow in the <u>renal arteries</u> remains constant with varying arterial blood pressure (between 80–180 mmHg).
+
+* <u>Afferent arterioles</u> contract if blood pressure increases;  to maintain a normal pressure within the <u>glomeruli</u>: ↑ arterial pressure → stretching of <u>smooth muscle cells</u> in the <u>afferent arteriole</u> wall → contraction of vascular <u>smooth muscles</u> → <u>vasoconstriction</u> → ↓ <u>RBF</u>
+
+* If blood pressure drops, <u>afferent arterioles</u> dilate, to increase the pressure within the <u>glomeruli</u>
+
+
+
+
+#### <u>Prostaglandins</u>
+
+
+
+* Mechanism: renal <u>hypoperfusion</u> (particularly renal medulla) → stimulation of <u>prostaglandin</u> synthesis → <u>vasodilation</u> of renal vessels → increased renal <u>perfusion</u>
+
+
+
+
+#### Tubuloglomerular feedback
+
+
+
+
+* Description: feedback system between the tubules and <u>glomeruli</u> that adjusts the <u>GFR</u> according to the resorption capacity of the tubules
+
+* Mechanism: <u>macula densa</u> (of the <u>juxtaglomerular apparatus</u>) senses alterations in the NaCl concentration in the <u>DCT</u> 
+
+* Hypotonic urine (↓ intraluminal <u>Cl<sup>-</sup></u> concentration) → <u>vasodilation</u> of <u>afferent arterioles</u> → ↑ <u>GFR</u> → ↑ <u>Cl<sup>-</sup></u> intraluminal concentration → ↑ <u>RBF</u>
+
+* Hypertonic urine (↑ intraluminal <u>Cl<sup>-</sup></u> concentration) → <u>adenosine</u> secretion;   → <u>vasoconstriction</u> of <u>afferent arterioles</u> → ↓ <u>capillary</u> pressure → ↓ <u>GFR</u> → ↓ intraluminal <u>Cl<sup>-</sup></u> concentration → ↓ <u>RBF</u>
+
+
+
+
+
+#### Renin-angiotensin-aldosterone system (<u>RAAS</u>) [[2]](https://coursology-qbank.com/amboss/article/CPYqS6)
+
+
+
+
+* Description: hormonal system that regulates arterial blood pressure and <u>sodium</u> concentration
+
+* Mechanism
+
+* <u>Baroreceptors</u> in the <u>afferent arteriole</u> detect the following
+
+* Renal <u>hypoperfusion</u> (e.g., caused by <u>hypotension</u> or <u>hypovolemia</u>)
+
+* <u>Hyponatremia</u> (registered by the <u>macula densa</u> when <u>sodium</u> concentration in the <u>distal convoluted tubule</u> decreases)
+
+* Increased <u>sympathetic</u> tone (via activation of renal <u>β<sub>1</sub>-receptors</u>)
+
+* These changes cause a release of <u>renin</u> by <u>juxtaglomerular cells</u> → conversion of <u>angiotensinogen</u> (produced in the <u>liver</u>) to <u>angiotensin I</u> → conversion of <u>angiotensin I</u> to <u>angiotensin II</u> via <u>angiotensin-converting enzyme</u> (mostly produced in the <u>lungs</u>)
+
+* <u>Angiotensin II</u>
+
+* Acts as a strong vasoconstrictor
+
+* Desensitizes <u>baroreceptors</u> to <u>hypertension</u> preventing reflex <u>bradycardia</u>
+
+* Stimulates thirst in the <u>hypothalamus</u>
+
+* Increases <u>ADH</u> secretion from the <u>posterior pituitary</u>
+
+* Induces the secretion of <u>aldosterone</u> by the <u>adrenal cortex</u>
+
+* <u>Aldosterone</u> increases renal reabsorption of <u>sodium</u> and water;   and augments the excretion of <u>potassium</u> and protons → ↑ <u>extracellular fluid</u>, ↑ blood pressure, ↓ <u>K<sup>+</sup></u>, ↑ <u>pH</u>
+
+* Effects
+
+* Systemic: ↑ arterial blood pressure and ↑ blood volume
+
+* Renal: maintenance of renal function and <u>volume status</u> in low volume states
+
+* ↑ <u>Vasoconstriction</u> of the <u>efferent arteriole</u> causes ↑ <u>effective filtration pressure</u> and ↑ <u>filtration fraction</u> which helps maintain <u>GFR</u> (i.e., renal function) during renal <u>hypoperfusion</u> (i.e., decreased <u>renal plasma flow</u>)
+
+* Maintenance of <u>GFR</u> (i.e., renal function) during renal <u>hypoperfusion</u> (i.e., decreased <u>renal plasma flow</u>) which is achieved by ↑ <u>vasoconstriction</u> of the <u>efferent arteriole</u> causing ↑ <u>effective filtration pressure</u> and ↑ <u>filtration fraction</u>
+
+* Compensatory increase in Na<sup>+</sup> reabsorption in the <u>proximal convoluted tubule</u> (PCT) and <u>distal convoluted tubule</u> (<u>DCT</u>) prevents net volume loss
+
+
+
+
+
+![Renin-angiotensin-aldosterone system](../../../../../media/hsoss4c4l60teuv3kzoxrj4o.jpg)
+
+Renin-angiotensin-aldosterone system
+
+
+
+
+> [!NOTE]
+> <u>ACE inhibitors</u> inhibit the conversion of <u>angiotensin I</u> to <u>angiotensin II</u>. <u>ARBs</u> inhibit the effect of <u>angiotensin II</u>. Both drug classes are used to treat <u>arterial hypertension</u>.
+
+
+
+
+> [!NOTE]
+> Besides their inhibitory effects on the <u>heart</u> (e.g., ↓ <u>heart rate</u>), <u>β-blockers</u> decrease blood pressure by inhibiting <u>β<sub>1</sub>-receptors</u> of the <u>juxtaglomerular apparatus</u> (<u>JGA</u>), which leads to decreased <u>renin</u> release.
+
+
+
+
+#### Hormonal effects on the kidney
+
+
+
+
+* <u>Natriuretic peptides</u> 
+
+* <u>Atrial natriuretic peptide</u> (<u>ANP</u>): <u>volume overload</u> → dilation of <u>atria</u> → secretion of <u>ANP</u> by <u>myocytes</u>
+
+* <u>Brain natriuretic peptide</u> (<u>BNP</u>): <u>volume overload</u> → dilation of ventricles → secretion of <u>BNP</u> by <u>myocytes</u>
+
+* Effects
+
+* Inhibit <u>epithelial</u> Na<sup>+</sup> transporter in the <u>collecting duct</u> → increased Na<sup>+</sup> and water secretion → decrease in the <u>central venous pressure</u>
+
+* Dilates renal <u>afferent arterioles</u> (via ↑ <u>cGMP</u> in vascular smooth muscle) → ↑ <u>GFR</u> (without compensatory Na<sup>+</sup> reabsorption;   ) and ↑ <u>natriuresis</u>
+
+* Inhibits secretion of <u>aldosterone</u>, <u>renin</u>, <u>ADH</u>, and <u>ACTH</u>
+
+* <u>Antidiuretic hormone</u> (<u>ADH</u>)
+
+* Increases contraction of <u>smooth muscle</u> in <u>blood vessels</u> via <u>V1 receptor</u> → increased blood pressure → increased <u>kidney</u> <u>perfusion</u>
+
+* Increases free water reabsorption in the <u>collecting duct</u>;  (stimulation of <u>adenylate cyclase</u> → ↑ <u>cAMP</u> → incorporation of <u>aquaporins</u> in the luminal membrane of <u>collecting ducts</u>)
+
+* Increases <u>urea</u> resorption (↑ incorporation of <u>urea</u> transporters in the collecting duct) → increased corticomedullary osmotic gradient → facilitated <u>concentration of urine</u>
+
+* <u>Angiotensin II</u> and <u>aldosterone</u>: see “<u>Renin-angiotensin-aldosterone system</u>“ section above
+
+* <u>Parathyroid hormone</u> (<u>PTH</u>)
+
+* Secretion is induced by ↓ <u>Ca<sup>2+</sup></u>, ↓ <u>1,25-(OH)<sub>2</sub> vitamin D3</u>, and ↑ <u>PO<sub>4</sub><sup>3-</sup></u> in the plasma
+
+* Effects on the <u>proximal convoluted tubule</u> (PCT): ↑ <u>Ca<sup>2+</sup></u> reabsorption, ↑ <u>1,25-(OH)<sub>2</sub> vitamin D3</u> synthesis, and ↓ <u>PO<sub>4</sub><sup>3-</sup></u> reabsorption
+
+
+
+
+
+#### Autonomic regulation
+
+
+
+* Mechanism
+
+* <u>Noradrenaline</u> → binds to <u>α<sub>1</sub>receptors</u> → <u>vasoconstriction</u> of <u>arterioles</u> → ↑ resistance → ↓ <u>renal blood flow</u>
+
+* <u>Dopamine</u> → binds to <u>D1 receptors</u> → vasodilatation of <u>arterioles</u> → ↓ resistance → ↑ <u>renal blood flow</u>
+
+
+
+
+> [!NOTE]
+> <u>Hypovolemic shock</u> with severe <u>hypotension</u> activates the <u>sympathetic nervous system</u>. Subsequently, the <u>hypovolemia</u> and <u>noradrenaline</u>-induced <u>vasoconstriction</u> result in low renal blood flow → low <u>GFR</u> → low urine production → <u>acute renal injury</u>
+
+---
+
+## Measurement of renal function
+
+This section focuses on <u>fluid compartments</u>, the basics of <u>glomerular filtration</u>, and tubular secretion. For more information on <u>kidney function tests</u>, see “<u>Diagnostic evaluation of the kidney and urinary tract</u>.”
+
+
+
+
+### <u>Fluid compartments</u>
+
+
+
+
+* 60% of body mass is composed of water.
+
+* Two-thirds of the total body water (i.e., 40% of body mass) is intracellular fluid (<u>ICF</u>), which is mainly composed of <u>potassium</u>, <u>magnesium</u>, and organic <u>phosphates</u>.
+
+* One-third of the <u>total body water</u> (i.e., 20% of body mass) is extracellular fluid (<u>ECF</u>), which is mainly composed of <u>sodium</u>, <u>chloride</u>, <u>bicarbonate</u>, and <u>albumin</u>. 
+
+* 75% of <u>ECF</u> is <u>interstitial</u> fluid.
+
+* 25% of <u>ECF</u> is plasma.
+
+* A small amount (∼ 500 mL) of <u>ECF</u> is <u>transcellular fluid</u> (e.g., gastrointestinal secretions, sweat, <u>pleural fluid</u>, <u>pericardial</u> fluid, urine, <u>synovial fluid</u>, intraocular fluid, <u>CSF</u>).
+
+* <u>ECF</u> volume can be measured with <u>crystalloid</u> tracers such as <u>inulin</u> or <u>mannitol</u>, which distribute throughout the <u>ECF</u> but do not enter cells.
+
+* <u>ICF</u> and <u>ECF</u> are separated by <u>capillary</u> walls and <u>cellular membranes</u>.
+
+* H<sub>2</sub>O can move between <u>fluid compartments</u> by osmosis or in response to pressure differences.
+
+* Total blood volume (TBV) is ∼ 6 L. Blood is composed of:
+
+* ∼ 45% cellular components (99% of which are <u>red blood cells</u>), which is equivalent to <u>hematocrit</u> (<u>Hct</u>)
+
+* ∼ 55% plasma
+
+* Plasma volume can be calculated with V<sub>Plasma</sub> = TBV x (1 - <u>Hct</u>)
+
+* Serum osmolality (or <u>plasma osmolality</u>): 275–295 mOsm/kg H<sub>2</sub>O
+
+
+
+
+
+> [!NOTE]
+> The 60–40–20 rule refers to <u>total body water</u> (60% of body mass), <u>ICF</u> (40% of body mass), and <u>ECF</u> (20% of body mass).
+
+
+
+
+> [!NOTE]
+> Think of HIKIN to help you remember the main intracellular ion: HIgh K<sup>+</sup>INtracellularly.
+
+
+
+
+![Volume-osmolarity (Darrow-Yannet) diagrams](../../../../../media/vo9cndw0lfvhwqsl272fxzdm.jpg)
+
+Volume-osmolarity (Darrow-Yannet) diagrams
+
+
+
+
+### <u>Renal clearance</u>
+
+
+
+
+* Description: : the volume of plasma that is cleared of a certain substance per unit of time
+
+* Mechanism
+
+* C<sub>x</sub> = U<sub>x</sub> x V/P<sub>x</sub>
+
+* P<sub>x</sub> = Plasma concentration of substance X (mg/mL)
+
+* V = Urine flow rate (mL/min)
+
+* U<sub>x</sub> = <u>Urine concentration</u> of substance X (mg/mL)
+
+* C<sub>x</sub> = Clearance of substance X (mL/min)
+
+* If the clearance of substance X is:
+
+* > <u>GFR</u>: net tubular secretion of substance X
+
+* < <u>GFR</u>: net tubular reabsorption or substance X is not freely filtered in the <u>glomerulus</u>
+
+* = <u>GFR</u>: no net tubular secretion or reabsorption
+
+
+
+
+
+![Comparison of the clearance levels of glucose, inulin, creatinine, and PAH](../../../../../media/qx5j9nojb7mt8g6bsg0kuim4.jpg)
+
+Comparison of the clearance levels of glucose, inulin, creatinine, and PAH
+
+
+
+
+#### Glomerular filtration rate [[3]](https://coursology-qbank.com/amboss/article/9PYNS6)
+
+
+
+
+* Description: : the rate at which fluid is filtered by the <u>kidneys</u>
+
+* Mechanism
+
+* Normal <u>GFR</u>
+
+* <u>♂</u> 95–145 mL/min/1.73 m<sup>2</sup>
+
+* <u>♀</u> 75–125 mL/min/1.73 m<sup>2</sup>
+
+* The <u>GFR</u> physiologically declines with age.
+
+* <u>GFR</u> depends on the effective filtration pressure and is driven by the difference between hydrostatic and <u>osmotic pressure</u> 
+
+* EFP = (P<sub>GC</sub> – <u>P<sub>BS</sub></u>) – (π<sub>GC</sub> – π<sub>BS</sub>)]
+
+* GC = <u>glomerular</u> <u>capillary</u>
+
+* BS = Bowman space
+
+* P = <u>hydrostatic pressure</u>
+
+* π = <u>osmotic pressure</u>
+
+* π<sub>BS</sub> normally equals 0
+
+* Normal <u>effective filtration pressure</u> is 13 mm Hg.
+
+* <u>GFR</u> can be described by the Starling equation for the glomerulus: Jv = K<sub>f</sub> × [(P<sub>GC</sub> - <u>P<sub>BS</sub></u>) - σ(π<sub>GC</sub> - π<sub>BS</sub>)]
+
+* Jv = net fluid flow
+
+* K<sub>f</sub> = filtration constant
+
+* σ = <u>Staverman reflection coefficient</u> sigma
+
+* In clinical settings, the two most commonly used equations for calculation of <u>estimated GFR</u> are the “Modification of Diet in Renal Disease (MDRD) Study equation” and the “Chronic <u>Kidney</u> Disease <u>Epidemiology</u> Collaboration (<u>CKD</u>-EPI) equation” (see “<u>Creatinine clearance</u>“ below.
+
+
+
+
+
+> [!NOTE]
+> The <u>GFR</u> is used to estimate <u>kidney function</u> and to stage <u>chronic kidney disease</u>.
+
+
+
+
+#### Relative solute concentrations along <u>proximal convoluted tubules</u>
+
+
+
+* Mechanism
+
+* Water is absorbed along the PCT along with other solutes (e.g., <u>creatinine</u>, <u>electrolytes</u>, <u>glucose</u>)
+
+* At the beginning of the PCT, the concentration of all solutes within the glomerularly filtered tubular fluid (<u>TF</u>) is equivalent to the plasma concentration (P).
+
+* Compared to water, solutes can be reabsorbed along the PCT:
+
+* At the same rate →;  no change in tubular fluid concentration compared to plasma concentration (<u>TF</u>/P = 1)
+
+* At a lower rate →;  increased tubular fluid concentration compared to plasma concentration (<u>TF</u>/P > 1)
+
+* At a higher rate →;  decreased tubular fluid concentration compared to plasma concentration (<u>TF</u>/P < 1)
+
+* Specific solutes
+
+* <u>Sodium</u> (Na<sup>+</sup>): reabsorbed at the same rate as water throughout the PCT → (<u>TF</u>/P)<u><sub>Sodium</sub></u> = 1
+
+* Inulin
+
+* Not reabsorbed, nor secreted along the PCT → (<u>TF</u>/P)<u><sub>Inulin</sub></u> > 1
+
+* <u>Inulin</u> is unique in that its amount does not change along the PCT but its tubular concentration is determined solely by water reabsorption.
+
+* <u>PAH</u> and <u>creatinine</u>: net tubular secretion along the PCT → (<u>TF</u>/P)<u><sub>PAH/Creat.</sub></u>/Creat. > (<u>TF</u>/P)<u><sub>Inulin</sub></u> > 1
+
+* <u>Chloride</u> (Cl<sup>‑</sup>): (<u>TF</u>/P)<u><sub>Chloride</sub></u> > 1 throughout the PCT
+
+* Initially reabsorbed at a slower rate than water and <u>sodium</u> → (<u>TF</u>/P)<u><sub>Chloride</sub></u> > 1 and rising
+
+* More distally in the PCT, reabsorbed at the same rate as water and <u>sodium</u> → still (<u>TF</u>/P)<u><sub>Chloride</sub></u> > 1 but no longer increasing (plateaued)
+
+* <u>Glucose</u>: reabsorbed at a higher rate than water → (<u>TF</u>/P)<u><sub>Glucose</sub></u> < 1
+
+
+
+
+> [!NOTE]
+> The increase in <u>inulin</u> concentration along the PCT is the result of a constant amount of <u>inulin</u> within the tubular fluid (no reabsorption or secretion) and the reabsorption of water. The increase in <u>inulin</u> concentration along the PCT is the result of water reabsorption and a constant amount of <u>inulin</u> within the tubular fluid (without tubular <u>inulin</u> secretion).
+
+
+
+
+> [!NOTE]
+> Water is reabsorbed along the PCT while the amount of <u>inulin</u> within the tubular fluid stays the same (no reabsorption or secretion of <u>inulin</u>). This leads to an increasing concentration of <u>inulin</u> along the PCT.
+
+
+
+
+![Relative concentrations along proximal tubules](../../../../../media/iwteumcpyvhmshkmo2az7wrk.jpg)
+
+Relative concentrations along proximal tubules
+
+
+
+
+#### <u>Inulin clearance</u>
+
+
+
+
+* Description: used to assess the <u>GFR</u>
+
+* Mechanism
+
+* <u>Inulin</u> is freely filtered and neither reabsorbed nor secreted in the tubular system, i.e., the amount of <u>inulin</u> in the urine reflects the amount that is filtered by the <u>kidneys</u>.
+
+* <u>Inulin clearance</u> can be used to calculate <u>GFR</u>: <u>GFR</u> = U<sub>inulin</sub> x V/P<sub>inulin</sub> = C<sub>inulin</sub>
+
+* U<sub>inulin</sub> = <u>urine concentration</u> of <u>inulin</u>
+
+* V = <u>urine flow rate</u>
+
+* P<sub>inulin</sub> = plasma concentration of <u>inulin</u>
+
+* C<sub>inulin</sub> = clearance of <u>inulin</u>
+
+
+
+
+
+![Clearance of inulin (ENG)](../../../../../media/sds9esi0tkyowwg0c1wc2dpe.jpg)
+
+Clearance of inulin (ENG)
+
+
+
+
+#### <u>Creatinine clearance</u>
+
+
+
+
+* Description: the rate of <u>renal clearance</u> of <u>creatinine</u>
+
+* Mechanism
+
+* Used in clinical settings to calculate <u>GFR</u>
+
+* <u>Creatinine clearance</u> = U x V / P
+
+* U = daily <u>urine concentration</u> of <u>creatinine</u>
+
+* V = rate of urine flow in mL/min
+
+* P = plasma concentration of <u>creatinine</u>
+
+* Direct calculation of <u>creatinine clearance</u> is time-consuming and becomes inaccurate if daily urine is collected inappropriately.
+
+* Cockroft–Gault equation allows to estimate <u>creatinine clearance</u>
+
+* <u>Creatinine clearance</u> = ((140 - age) x weight (kg) x constant)/serum <u>creatinine</u> (mmol/L)
+
+* Constant = 1.23 for males and 1.04 for females
+
+* There are several prediction equations used in clinical practice to calculate <u>estimated GFR</u> (<u>eGFR</u>) from serum <u>creatinine</u> concentration and demographic data:
+
+* Modification of Diet in Renal Disease (MDRD) Study equation
+
+* Chronic <u>Kidney</u> Disease <u>Epidemiology</u> Collaboration (<u>CKD</u>-EPI) equation
+
+* All of the equations typically overestimate actual <u>GFR</u> slightly because small amounts of <u>creatinine</u> are secreted by the renal tubules; in clinical practice, this overestimation can be neglected.
+
+
+
+
+
+![Comparison of the clearance levels of glucose, inulin, creatinine, and PAH](../../../../../media/qx5j9nojb7mt8g6bsg0kuim4.jpg)
+
+Comparison of the clearance levels of glucose, inulin, creatinine, and PAH
+
+
+
+
+#### Para-aminohippuric acid (<u>PAH</u>) [[2]](https://coursology-qbank.com/amboss/article/CPYqS6)
+
+
+
+
+* Description: used to estimate <u>effective renal plasma flow</u>
+
+* Mechanism
+
+* <u>PAH</u> is freely filtered in the <u>glomerulus</u>;   and secreted into the tubular lumen, but not reabsorbed. Hence, almost 100% of the <u>PAH</u> that enters the <u>kidney</u> is excreted.
+
+* <u>Effective renal plasma flow</u> (<u>eRPF</u>)
+
+* See “<u>Renal blood flow</u>” section above
+
+* <u>eRPF</u> = U<sub>PAH</sub> x V/P<sub>PAH</sub> = C<sub>PAH</sub>
+
+* C<sub>PAH</sub>= clearance of <u>PAH</u>
+
+* P<sub>PAH</sub> = plasma concentration of <u>PAH</u>
+
+* V = <u>urine flow rate</u>
+
+* U<sub>PAH</sub> = <u>urine concentration</u> of <u>PAH</u>
+
+* Clearance depends on the plasma concentration of <u>PAH</u> (∼ 650 mL/min) 
+
+* If the plasma concentration of <u>PAH</u> is low, it gets completely excreted from the plasma through filtration and secretion.
+
+* Secretion is dependent on an organic <u>anion</u> transporter that is located on the basolateral membrane of the <u>proximal convoluted tubule</u>.
+
+* If concentration of <u>PAH</u> surpasses the transport capacity of the <u>anion</u> transporters (or if there is damage to the PCT ), secretion is impaired, which reduces the total excreted amount of <u>PAH</u>. This leads to slight underestimation of <u>renal plasma flow</u>.
+
+
+
+
+
+![Clearance of PAH](../../../../../media/polfmuck0kxkbb27lgzwxzy7.jpg)
+
+Clearance of PAH
+
+
+
+
+#### <u>Glucose clearance</u>
+
+
+
+
+* Description: used to assess for <u>glucosuria</u>
+
+* Mechanism
+
+* In <u>normoglycemic</u> states (blood <u>glucose</u>: 60–120 mg/dL), <u>glucose</u> is completely filtered and completely reabsorbed in the <u>proximal convoluted tubule</u> (PCT) through <u>sodium-glucose cotransporters</u> (<u>SGLT2</u>). <u>Glucose</u> is not secreted, therefore, its clearance is normally 0 mL/min.
+
+* Glucose threshold
+
+* Defined as the plasma <u>glucose</u> concentration at which <u>glucose</u> is no longer reabsorbed but instead excreted in urine
+
+* It equals to 180 mg/dL
+
+* Splay phenomenon
+
+* When the <u>glucose threshold</u> is met, the tubular <u>sodium-glucose cotransporters</u> in some <u>nephrons</u> are fully saturated, causing <u>glucose</u> to be excreted into the urine.
+
+* At the same time, the maximum <u>glucose</u> reabsorption rate in other <u>nephrons</u> is only reached with higher <u>glucose</u> concentrations (heterogeneity of <u>nephrons</u>).
+
+* Therefore, after exceeding the <u>glucose threshold</u>, the overall <u>glucose</u> reabsorption rate initially increases further with rising <u>glucose</u> concentrations until all <u>glucose transporters</u> in all <u>nephrons</u> are saturated.
+
+* At a tubular <u>glucose</u> transport rate ;   of 380 mg/min, all <u>glucose transporters</u> (<u>SGLT2</u>) are saturated and <u>glucose</u> reabsorption cannot increase further.
+
+* Above the <u>glucose</u> filtration rate of 380 mg/min the <u>glucose clearance</u> is proportional to the plasma concentration.
+
+* <u>Pregnancy</u>: ↑ <u>GFR</u> → ↑ filtration of all solutes (including <u>glucose</u>) → <u>glucosuria</u> with normal plasma <u>glucose</u> levels
+
+* <u>SGLT2 inhibitors</u>: inhibition of <u>sodium-glucose cotransporters</u> → decrease of <u>glucose</u> threshold → <u>glucosuria</u> with plasma <u>glucose</u> levels below 180 mg/dL
+
+
+
+
+
+![Glucose Clearance (ENG)](../../../../../media/intj7xtc4uj96oj91bpv8x8n.jpg)
+
+Glucose Clearance (ENG)
+
+
+
+
+> [!NOTE]
+> <u>SGLT1</u> is located in the 1ntestine.
+> <u>SGLT2</u> is located in the <u>proximal</u> 2bule.
+
+
+
+
+### Renal filtration
+
+
+
+
+#### Filtration fraction (<u>FF</u>)
+
+
+
+
+* Description: the fraction of the <u>renal plasma flow</u> (<u>RPF</u>) that is filtered from the <u>capillaries</u> into the Bowman space
+
+* Mechanism
+
+* <u>FF</u> = <u>GFR</u>/<u>RPF</u> (i.e., <u>FF</u> = C<sub>Inulin</sub>/C<sub>PAH</sub>)
+
+* C<sub>Inulin</sub> = <u>inulin clearance</u>
+
+* C<sub>PAH</sub> = <u>PAH</u> clearance
+
+* Normal: 20%
+
+* Regulated via:
+
+* <u>Prostaglandins</u> → dilation of <u>afferent arterioles</u> → ↑ <u>GFR</u> and ↑ <u>RPF</u> (<u>FF</u> unchanged)
+
+* <u>Angiotensin II</u> → constriction of <u>efferent arterioles</u> → ↑ <u>GFR</u> and ↓ <u>RPF</u> → ↑ <u>FF</u>
+
+
+
+
+
+> [!NOTE]
+> <u>PDA</u> - Prostaglandins Dilate Afferent <u>arterioles</u>
+
+
+
+
+> [!NOTE]
+> <u>ACE</u> - Angiotensin II Constricts Efferent <u>arterioles</u>
+
+
+
+
+#### Filtered load
+
+
+
+
+* Description: the amount of a substance X that is filtered by the <u>glomerulus</u> per unit of time
+
+* Mechanism: filtered load (mg/min) = <u>GFR</u> (mL/min) x plasma concentration of substance X (mg/mL)
+
+
+
+
+
+| Changes in glomerular dynamics |  |  |  |
+| --- | --- | --- | --- |
+|  | <u>Renal plasma flow</u> | <u>Filtration fraction</u> | Possible cause |
+| ↓ <u>GFR</u> | <br>* ↓<br><br> | <br>* Unchanged<br><br> | <br><br>* <u>Afferent arteriole</u> constriction (e.g., due to ↓ <u>prostaglandins</u> from <u>NSAID</u> use)<br><br>* <u>Renal artery stenosis</u><br><br><br> |
+| <br>* Unchanged<br><br> | <br>* ↓<br><br> | <br>* Increased <u>plasma protein</u> concentration (e.g., due to <u>multiple myeloma</u>)<br><br> |  |
+| <br>* Unchanged<br><br> | <br>* ↓<br><br> | <br>* <u>Obstructive nephropathy</u><br><br> |  |
+| <br>* ↓<br><br> | <br>* ↑<br><br> | <br>* <u>Severe dehydration</u> (e.g., due to <u>diarrhea</u>, <u>vomiting</u>)<br><br> |  |
+| <br>* ↓<br><br> | <br>* Unchanged<br><br> | <br>* <u>Glomerulonephritis</u><br><br> |  |
+| ↑ <u>GFR</u> | <br>* ↓<br><br> | <br>* ↑<br><br> | <br>* <u>Efferent arteriole</u> constriction (e.g., due to ↑ <u>angiotensin II</u> due to <u>RAAS</u> activation)<br><br> |
+| <br>* Unchanged<br><br> | <br>* ↑<br><br> | <br>* Decreased <u>plasma protein</u> concentration (e.g., due to <u>cirrhosis</u>, <u>malnutrition</u>)<br><br> |  |
+
+
+
+
+
+### <u>Renal excretion</u>
+
+
+
+
+#### Excretion rate
+
+
+
+
+* Description: the amount of substance X that is excreted into the urine per unit of time
+
+* Mechanism: excretion rate (mg/min) = urine flow rate (mL/min) x <u>urine concentration</u> of substance X (mg/mL)
+
+
+
+
+
+#### <u>Fractional excretion</u>
+
+
+
+
+* Description: the <u>proportion</u> of the <u>glomerular</u> filtered substance X that is excreted in the urine
+
+* Mechanism
+
+* Fractional excretion = excreted load (<u>urinary flow rate</u> x urinary concentration of X)/filtered load (<u>GFR</u> × plasma concentration of X)
+
+* FE < 1: a large <u>proportion</u> of the filtered substance is reabsorbed in the tubules (e.g., water, <u>glucose</u>, <u>amino acids</u>, <u>sodium</u> <u>chloride</u>)
+
+* FE > 1: a small <u>proportion</u> of the filtered substance is reabsorbed or additional tubular secretion occurs (e.g., <u>PAH</u>, <u>atropine</u>)
+
+* <u>Fractional excretion of sodium</u> (Fe<sub>Na</sub>): percentage of the <u>glomerular</u> filtered <u>sodium</u> that is excreted in the urine
+
+* Used to establish the cause of <u>acute kidney injury</u>
+
+* Fe<sub>Na</sub>= (U<sub>Na</sub> x S<sub>Cr</sub>/S<sub>Na</sub> x U<sub>Cr</sub>) x 100
+
+* U<sub>Na</sub>= <u>urine concentration</u> of Na
+
+* S<sub>Na</sub>= serum concentration of Na
+
+* U<sub>Cr</sub>= <u>urine concentration</u> of <u>creatinine</u>
+
+* S<sub>Cr</sub>= serum concentration of <u>creatinine</u>
+
+* Reabsorption rate = filtered load (<u>GFR</u> × plasma concentration of X) - excreted load (<u>urine flow rate</u> x urine concentration of X)
+
+* Secretion rate = excreted load - filtered load
+
+---
+
+## Renal metabolism
+
+The <u>kidneys</u> and <u>heart</u> are the organs with the highest <u>resting metabolic rates</u> and <u>mitochondrial</u> content.
+
+
+
+
+* <u>Catabolism</u>: The <u>kidneys</u> have a high demand for <u>nutrients</u> and oxygen for <u>ATP</u> production. The energy is needed to excrete waste products, reabsorb <u>nutrients</u>, and regulate blood pressure, <u>electrolytes</u>, <u>serum osmolality</u>, and <u>acid-base balance</u>.
+
+* Substrate utilization by individual <u>nephron</u> segments is determined by the following factors:
+
+* Availability of oxygen and pO<sub>2</sub>: decreases gradually from the <u>renal cortex</u>, which relies on <u>beta-oxidation</u> and <u>oxidative phosphorylation</u>, to the <u>renal medulla</u>, which is more dependent on <u>anaerobic glycolysis</u> to fulfill energy demands
+
+* Density of pumps and channels utilizing <u>ATP</u> (primarily <u>Na<sup>+</sup>/K<sup>+</sup>-ATPase</u>):
+
+* The more intensive the transtubular transport, the higher the energy demand and the more intensive the substrate utilization.
+
+* The <u>proximal</u> tubules reabsorb 80% of filtrate, including ions, <u>glucose</u>, and <u>nutrients</u>, and therefore require more <u>ATP</u> for <u>active transport</u> than other segments.
+
+* Main substrates
+
+* <u>Proximal</u> tubule: <u>fatty acids</u>
+
+* Thick ascending limb of the <u>loop of Henle</u>: <u>glucose</u>
+
+* <u>Distal convoluted tubule</u> and the <u>collecting duct</u>: <u>glucose</u>
+
+* <u>Anabolism</u>: Cortical renal cells are capable of <u>gluconeogenesis</u> in <u>fasting states</u>.  [[4]](https://coursology-qbank.com/amboss/article/ducoJV0)
+
+
+
+
+
+> [!TIP]
+> The limited oxygen supply to the medulla makes it highly susceptible to <u>hypoxic</u> injury (especially the S3 segment of the <u>proximal</u> tubule and the medullary thick ascending limb of the <u>loop of Henle</u>).
+
+
+
+
+![Structure of renal parenchyma](../../../../../media/d9bmo6niqbxi3w57qxktrcps.jpg)
+
+Structure of renal parenchyma
+
+---

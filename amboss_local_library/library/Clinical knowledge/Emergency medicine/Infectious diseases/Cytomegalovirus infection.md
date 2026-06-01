@@ -1,0 +1,491 @@
+# Cytomegalovirus infection
+
+*Categories: Clinical knowledge > Emergency medicine > Infectious diseases > Cytomegalovirus infection*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/nf0752)
+
+---
+
+## Summary
+
+Infection with <u>cytomegalovirus</u> (<u>CMV</u> or <u>human herpes virus 5</u>) is generally asymptomatic in immunocompetent individuals but can cause mild, <u>mononucleosis</u>-like symptoms. Like all <u>Herpesviridae</u> infections, <u>CMV</u> infection remains latent for the affected individual's lifetime and reactivation may therefore occur. <u>Immunocompromised individuals</u> (e.g., with <u>AIDS</u> or posttransplantation) are especially at risk of illness following initial infection or reactivation, which can include severe manifestations such as <u>CMV retinitis</u> (risk of blindness) or life-threatening <u>CMV pneumonia</u>. Diagnosis is based on <u>serology</u> findings or the direct detection of the <u>virus</u> in blood or tissue. Treatment with antivirals (e.g., <u>ganciclovir</u> or <u>valganciclovir</u>) should be initiated based on disease severity and immune status. Preventive measures are recommended for high-risk individuals; there is currently no <u>CMV</u> <u>vaccine</u>. Screening is performed before solid organ and <u>hematopoietic stem cell transplant</u>. Despite the risk for <u>congenital CMV infection</u>, routine <u>screening for CMV</u> during <u>pregnancy</u> is not recommended.
+
+
+
+
+<u>Congenital CMV infection</u> is discussed separately.
+
+---
+
+## Epidemiology
+
+* <u>Prevalence</u> of <u>CMV</u> infection in the general population: 40–100%
+
+* <u>Seroprevalence</u> increases with age with more than 90% in individuals > 80 years
+
+
+
+
+Epidemiological data refers to the US, unless otherwise specified.
+
+---
+
+## Etiology
+
+* <u>Pathogen</u>: <u>cytomegalovirus</u> (<u>CMV</u>, <u>human herpes virus 5</u>, <u>HHV-5</u>)
+
+* Transmission [[1]](https://coursology-qbank.com/amboss/article/uk0ppT)[[2]](https://coursology-qbank.com/amboss/article/FQ1gBg0)
+
+* <u>Blood transfusions</u>
+
+* Sexual transmission
+
+* Transplacentally (highest risk during the <u>third trimester</u> of <u>pregnancy</u>)  [[1]](https://coursology-qbank.com/amboss/article/uk0ppT)
+
+* <u>Perinatal transmission</u> (e.g., contact with contaminated blood/vaginal secretions during delivery or <u>breastfeeding</u>)
+
+* Body fluids (e.g., respiratory droplets, saliva, <u>breast milk</u>, urine, genital secretions)
+
+* Transplant-transmitted infection (e.g., <u>bone marrow</u>, <u>lungs</u>, <u>kidneys</u>)  [[3]](https://coursology-qbank.com/amboss/article/nBa7YM)
+
+---
+
+## Pathophysiology
+
+* <u>CMV</u> binds to <u>integrins</u> →;  activation of <u>integrins</u> → induction of cellular morphological changes → activation of <u>signal transduction</u> pathways;  such as FAK (focal adhesion <u>kinase</u>) and <u>apoptotic</u> pathways → cell damage → clinical manifestations depending on the organ/tissue affected. [[4]](https://coursology-qbank.com/amboss/article/CObquF)[[5]](https://coursology-qbank.com/amboss/article/xObEuF)
+
+* After primary infection resolves, <u>CMV</u> remains latent in <u>mononuclear cells</u> (e.g., myeloid cells). Reactivation can occur if the patient becomes <u>immunocompromised</u>. [[6]](https://coursology-qbank.com/amboss/article/9ObNuF)
+
+---
+
+## Clinical features
+
+<u>CMV</u> infection is usually asymptomatic. Severe manifestations occur in patients with <u>immunocompromise</u> (e.g., following <u>organ transplantation</u>, <u>AIDS</u>).
+
+
+
+
+### Immunocompetent patients
+
+
+
+
+* > 90%: asymptomatic course [[1]](https://coursology-qbank.com/amboss/article/uk0ppT)
+
+* < 10%: CMV mononucleosis [[7]](https://coursology-qbank.com/amboss/article/YYdnno0)
+
+* <u>Fever</u>, <u>malaise</u>, <u>myalgia</u>/<u>arthralgia</u>, fatigue, <u>headache</u>
+
+* Less common: <u>sore throat</u>, <u>cervical lymphadenopathy</u>, <u>hepatomegaly</u>, <u>splenomegaly</u>
+
+* Differential diagnosis: <u>infectious mononucleosis</u> caused by <u>EBV</u>
+
+* Rare: severe infection with organ involvement (e.g., <u>colitis</u>, <u>encephalitis</u>) [[8]](https://coursology-qbank.com/amboss/article/RyWlUL0)
+
+
+
+
+
+### <u>Immunocompromised</u> patients [[9]](https://coursology-qbank.com/amboss/article/QyWuUL0)
+
+
+
+
+* Asymptomatic <u>CMV</u> infection: evidence of viral replication (e.g., viral <u>DNA</u> or <u>antigen</u> in serum) but no symptoms
+
+* Viral syndrome: <u>malaise</u> and <u>fever</u> with <u>leukopenia</u> and/or <u>thrombocytopenia</u> in individuals with a positive serum <u>CMV</u> <u>antigen</u> or <u>PCR</u>  [[10]](https://coursology-qbank.com/amboss/article/CBWq1L0)
+
+* CMV pneumonia: <u>interstitial pneumonitis</u> ;  [[7]](https://coursology-qbank.com/amboss/article/YYdnno0)
+
+* <u>Epidemiology</u>: <u>immunocompromised</u> patients (e.g., following <u>bone marrow transplant</u> or with <u>HIV</u>/<u>AIDS</u> and <u>CD4</u> â¤ 50/mmÂ³) [[11]](https://coursology-qbank.com/amboss/article/tAWXlL0)
+
+* Clinical features: <u>fever</u>, nonproductive <u>cough</u>, <u>dyspnea</u>
+
+* Diagnostics
+
+* Chest <u>x-ray</u>: diffuse bilateral <u>interstitial</u> infiltrates
+
+* Detection of <u>CMV</u> in <u>bronchoalveolar lavage</u> fluid or <u>lung tissue</u> samples following <u>biopsy</u> [[12]](https://coursology-qbank.com/amboss/article/LBawYM)
+
+* Differential diagnoses: <u>pneumocystis pneumonia</u> and other viral respiratory infections
+
+* CMV retinitis
+
+* Clinical features: <u>floaters</u>, <u>photopsia</u>, <u>visual field</u> defects
+
+* <u>Fundoscopy</u>: pizza-pie appearance (<u>retinal hemorrhages</u>, fluffy/granular white opacities around retinal vessels resembling <u>cotton-wool spots</u>, <u>retinal detachment</u>)
+
+* Differential diagnoses: <u>HIV retinopathy</u>, <u>herpes simplex</u> retinitis, <u>varicella zoster retinitis</u>, <u>toxoplasmosis</u>
+
+* CMV esophagitis and/or CMV colitis
+
+* <u>Epidemiology</u>: Most commonly occurs in patients with <u>HIV</u>.
+
+* Clinical features: <u>odynophagia</u>, abdominal <u>pain</u>, bloody <u>diarrhea</u>
+
+* Endoscopic examination of the <u>GI tract</u> typically shows linear <u>ulcers</u> [[11]](https://coursology-qbank.com/amboss/article/tAWXlL0)
+
+* CMV hepatitis: prolonged <u>malaise</u> and <u>fever</u> with <u>mild transaminitis</u> [[13]](https://coursology-qbank.com/amboss/article/IBWYXL0)
+
+* CMV encephalitis: impaired cognitive function, neurological deficits [[11]](https://coursology-qbank.com/amboss/article/tAWXlL0)
+
+* <u>Adrenal insufficiency</u> [[14]](https://coursology-qbank.com/amboss/article/8k0OpT)
+
+
+
+
+
+> [!TIP]
+> Among patients with <u>HIV</u>, manifestations of <u>CMV</u> disease usually occur when the <u>CD4 count</u> is < 50/mmÂ³. [[11]](https://coursology-qbank.com/amboss/article/tAWXlL0)
+
+---
+
+## Diagnosis
+
+### General principles [[7]](https://coursology-qbank.com/amboss/article/YYdnno0)
+
+
+
+
+* In patients with <u>clinical features of infectious mononucleosis</u>, rule out <u>EBV infection</u> and consider other <u>differential diagnoses of mononucleosis</u>.
+
+* In patients with <u>clinical features of CMV</u>, obtain <u>CMV</u>-specific studies based on immune status.
+
+* Obtain directed studies (e.g., <u>fundoscopy</u>, <u>chest x-ray</u>, endoscopy) based on the clinical manifestation.
+
+* If there are concerns for organ involvement, obtain a tissue <u>biopsy</u> for a definitive diagnosis.
+
+
+
+
+
+### <u>Laboratory studies</u> [[7]](https://coursology-qbank.com/amboss/article/YYdnno0)
+
+
+
+
+#### Routine studies
+
+
+
+
+The following studies are nonspecific and should be obtained based on clinical manifestations and/or to rule out other diagnoses.
+
+
+
+
+* <u>CBC with differential</u> [[9]](https://coursology-qbank.com/amboss/article/QyWuUL0)
+
+* Relative <u>lymphocytosis</u> with > 10% <u>atypical lymphocytes</u>  [[7]](https://coursology-qbank.com/amboss/article/YYdnno0)
+
+* <u>Anemia</u>
+
+* <u>Thrombocytopenia</u>
+
+* <u>Pancytopenia</u> (uncommon) [[15]](https://coursology-qbank.com/amboss/article/9BWN1L0)
+
+* <u>LFTs</u>: ↑ <u>AST</u> and <u>ALT</u>, normal or ↑ <u>bilirubin</u>
+
+* <u>LDH</u>: elevated in <u>CMV hepatitis</u> [[13]](https://coursology-qbank.com/amboss/article/IBWYXL0)
+
+* <u>Monospot test</u>: negative (obtained to rule out <u>EBV infection</u>)
+
+
+
+
+
+> [!TIP]
+> In immunocompetent patients, <u>CMV</u> infection may manifest similarly to <u>EBV infection</u>. However, in <u>CMV</u> infection, the <u>monospot test</u> will be negative. [[7]](https://coursology-qbank.com/amboss/article/YYdnno0)
+
+
+
+
+#### <u>CMV</u>-specific studies [[1]](https://coursology-qbank.com/amboss/article/uk0ppT)[[7]](https://coursology-qbank.com/amboss/article/YYdnno0)
+
+
+
+
+* <u>Serological tests</u>: Obtain in immunocompetent patients. 
+
+* Active disease
+
+* Presence of <u>IgM antibodies</u>
+
+* A four-fold increase in the levels of <u>IgG antibodies</u>  [[7]](https://coursology-qbank.com/amboss/article/YYdnno0)
+
+* Prior infection: presence of <u>IgG antibodies</u> but no <u>IgM antibodies</u>
+
+* Direct viral detection: Obtain in patients with <u>immunocompromise</u>.
+
+* <u>PCR</u> (preferred): detects <u>CMV</u> <u>DNA</u> in blood and other bodily fluids and measures viral load [[16]](https://coursology-qbank.com/amboss/article/ayWQdL0)
+
+* <u>Immunofluorescence</u> <u>antigen</u> assay: detects <u>CMV</u> pp65 <u>antigens</u> in blood  [[16]](https://coursology-qbank.com/amboss/article/ayWQdL0)
+
+* Tissue <u>biopsy</u>
+
+* <u>Histopathology</u>: large <u>atypical cells</u> with intranuclear <u>inclusion bodies</u> that have an owl-eye appearance  [[11]](https://coursology-qbank.com/amboss/article/tAWXlL0)
+
+* <u>Immunohistochemistry</u>: detection of <u>CMV</u> <u>antigens</u> [[10]](https://coursology-qbank.com/amboss/article/CBWq1L0)[[16]](https://coursology-qbank.com/amboss/article/ayWQdL0)
+
+
+
+
+
+> [!TIP]
+> <u>Serological tests</u> may be unreliable in <u>immunosuppressed</u> patients.
+
+
+
+
+> [!TIP]
+> Serum viral detection (e.g., <u>CMV</u> <u>PCR</u>) is often negative and therefore not useful in patients with suspected <u>CMV retinitis</u>, <u>colitis</u>, or <u>pneumonitis</u>. [[10]](https://coursology-qbank.com/amboss/article/CBWq1L0)
+
+
+
+
+![Owl-eye appearance in cytomegalovirus infection](../../../../media/h8pf8wgd0f383dbbfs8tpg6v.jpg)
+
+Owl-eye appearance in cytomegalovirus infection
+
+![Owl-eye appearance in cytomegalovirus (CMV) infection](../../../../media/tzx1whrjjd6mcup50rajnqya.jpg)
+
+Owl-eye appearance in cytomegalovirus (CMV) infection
+
+
+
+
+### Additional studies
+
+
+
+
+* Chest imaging:  (e.g., <u>chest x-ray</u>): diffuse pulmonary <u>interstitial</u> infiltrates in <u>CMV pneumonitis</u> [[11]](https://coursology-qbank.com/amboss/article/tAWXlL0)
+
+* <u>Fundoscopy</u>: <u>retinal hemorrhages</u> and <u>cotton-wool spots</u> (“pizza-pie” appearance) in <u>CMV retinitis</u>  [[17]](https://coursology-qbank.com/amboss/article/VyWGVL0)[[18]](https://coursology-qbank.com/amboss/article/eyWxVL0)
+
+* Endoscopy: : <u>ulcerations</u> of the <u>mucosa</u> seen in <u>CMV colitis</u> and <u>CMV esophagitis</u> [[11]](https://coursology-qbank.com/amboss/article/tAWXlL0)
+
+
+
+
+
+![CMV retinitis](../../../../media/qqodmitnviamdlz3ky584h1m.jpg)
+
+CMV retinitis
+
+![CMV retinitis](../../../../media/nk5xey9ed3i2mwmd585iow9j.jpg)
+
+CMV retinitis
+
+---
+
+## Treatment
+
+### General principles [[1]](https://coursology-qbank.com/amboss/article/uk0ppT)[[10]](https://coursology-qbank.com/amboss/article/CBWq1L0)[[11]](https://coursology-qbank.com/amboss/article/tAWXlL0)
+
+
+
+
+* Consult infectious disease and/or transplant specialists for patients with severe disease or an <u>immunocompromised state</u>.
+
+* Immunocompetent patients: <u>supportive care</u>; consider antivirals in severe or tissue-invasive disease. [[8]](https://coursology-qbank.com/amboss/article/RyWlUL0)
+
+* <u>Immunocompromised</u> patients
+
+* Initiate <u>antiviral therapy</u> based on disease severity.
+
+* Decrease level of <u>immunosuppression</u>.
+
+* Initiate or optimize <u>antiretroviral therapy</u> in patients with <u>HIV</u>.
+
+* Prophylaxis and preemptive therapy may be considered with specialist guidance in select populations (e.g., at-risk transplant patients); see “<u>Prevention of CMV infection</u>.”
+
+
+
+
+
+> [!TIP]
+> <u>CMV</u> infection in immunocompetent patients typically resolves without treatment.
+
+
+
+
+### Antiviral therapy for CMV [[9]](https://coursology-qbank.com/amboss/article/QyWuUL0)[[10]](https://coursology-qbank.com/amboss/article/CBWq1L0)[[11]](https://coursology-qbank.com/amboss/article/tAWXlL0)
+
+
+
+
+* Preferred agents: <u>ganciclovir</u> DOSAGE; <u>valganciclovir</u> DOSAGE
+
+* Alternative agents: <u>foscarnet</u> DOSAGE; <u>cidofovir</u> DOSAGE
+
+* Other: maribavir ; <u>letermovir</u>
+
+* Indications
+
+* Viral syndrome
+
+* Preferred: <u>ganciclovir</u> or <u>valganciclovir</u> based on disease severity and ability to tolerate and absorb oral medications
+
+* Alternatives: <u>foscarnet</u>, <u>cidofovir</u>
+
+* <u>CMV retinitis</u>
+
+* Severe infection (lesions within 1.5 mm of the fovea): <u>ganciclovir</u> OR <u>valganciclovir</u> with or without intravitreal injections of <u>ganciclovir</u> or <u>foscarnet</u>
+
+* Peripheral lesions: <u>valganciclovir</u>
+
+* <u>CMV esophagitis</u> or <u>CMV colitis</u>: <u>ganciclovir</u> followed by <u>valganciclovir</u> if oral medications can be absorbed and tolerated
+
+* <u>CMV pneumonitis</u>: <u>ganciclovir</u>; consider adjunctive <u>IV immunoglobulin</u> (IVIG) [[9]](https://coursology-qbank.com/amboss/article/QyWuUL0)
+
+* <u>CMV encephalitis</u>: <u>ganciclovir</u> PLUS <u>foscarnet</u>
+
+
+
+
+
+> [!TIP]
+> Treatment is based on patient factors (e.g., <u>stem cell</u> transplant, drug resistance) and disease manifestations, and should be specialist-guided.
+
+
+
+
+> [!WARNING]
+> Treatment for <u>CMV encephalitis</u> should be started immediately.
+
+
+
+
+#### Monitoring [[10]](https://coursology-qbank.com/amboss/article/CBWq1L0)[[11]](https://coursology-qbank.com/amboss/article/tAWXlL0)
+
+
+
+
+Patients receiving <u>antiviral therapy</u> should have the following <u>laboratory studies</u> performed frequently (at least weekly).
+
+
+
+
+* <u>CMV</u> viral load (e.g., serum <u>PCR</u>)
+
+* <u>CBC</u> to assess for <u>cytopenias</u>
+
+* <u>BMP</u> to monitor renal function
+
+
+
+
+
+> [!WARNING]
+> <u>Valganciclovir</u> and <u>ganciclovir</u> can induce <u>bone marrow suppression</u>, leading to new or worsening <u>leukopenia</u> or <u>thrombocytopenia</u>. [[11]](https://coursology-qbank.com/amboss/article/tAWXlL0)
+
+---
+
+## Prevention
+
+### Primary <u>prevention of CMV</u>
+
+
+
+
+* There is currently no <u>CMV</u> <u>vaccine</u>.  [[2]](https://coursology-qbank.com/amboss/article/FQ1gBg0)[[19]](https://coursology-qbank.com/amboss/article/hVdc8K0)
+
+* <u>CMV</u> prevention is not recommended for healthy individuals.
+
+
+
+
+
+#### <u>Primary prevention</u> in high-risk individuals
+
+
+
+
+* The risk of <u>CMV</u> infection or complications from infection is increased in selected groups, e.g.:
+
+* <u>Immunosuppressed</u> individuals, including individuals with <u>HIV</u> [[11]](https://coursology-qbank.com/amboss/article/tAWXlL0)[[20]](https://coursology-qbank.com/amboss/article/iVdJ8K0)[[21]](https://coursology-qbank.com/amboss/article/PVdWuK0)
+
+* Pregnant individuals [[22]](https://coursology-qbank.com/amboss/article/Ef18LT0)
+
+* Premature and <u>low birth weight</u> <u>infants</u> [[22]](https://coursology-qbank.com/amboss/article/Ef18LT0)
+
+* Use <u>CMV</u>-negative <u>blood products</u> for high-risk individuals.  [[9]](https://coursology-qbank.com/amboss/article/QyWuUL0)[[20]](https://coursology-qbank.com/amboss/article/iVdJ8K0)[[22]](https://coursology-qbank.com/amboss/article/Ef18LT0)
+
+* Recommend <u>condoms</u> during intercourse.  [[11]](https://coursology-qbank.com/amboss/article/tAWXlL0)[[23]](https://coursology-qbank.com/amboss/article/uddp7K0)
+
+* For pregnant individuals or those planning <u>pregnancy</u>:  [[22]](https://coursology-qbank.com/amboss/article/Ef18LT0)[[23]](https://coursology-qbank.com/amboss/article/uddp7K0)[[24]](https://coursology-qbank.com/amboss/article/kVdmuK0)
+
+* Advise caution attending schools, child care centers, <u>health care facilities</u>, and large gatherings.
+
+* Avoid contact with bodily fluids, e.g.:
+
+* Use <u>standard precautions</u> for workplace exposures to bodily fluids.
+
+* Practice rigorous <u>hand hygiene</u> after changing a child's diaper.
+
+* Avoid contact with children's saliva (e.g., sharing of utensils, kissing).
+
+* For child care workers and health care workers, discuss reassignment to avoid exposure.  [[22]](https://coursology-qbank.com/amboss/article/Ef18LT0)[[23]](https://coursology-qbank.com/amboss/article/uddp7K0)[[24]](https://coursology-qbank.com/amboss/article/kVdmuK0)
+
+* For individuals who are <u>immunocompromised</u>, additional <u>CMV</u> precautions depend on the nature of <u>immunocompromise</u>.
+
+
+
+
+
+| Prevention of severe <u>CMV</u> infection in <u>immunocompromised individuals</u> |  |
+| --- | --- |
+| <u>Past medical history</u> | Recommended precautions |
+| <br><u>Solid organ transplant</u> [[9]](https://coursology-qbank.com/amboss/article/QyWuUL0)<br> | <br><br>* Determined by transplant center<br><br>* High-risk individuals <br><br>* Usually, antiviral prophylaxis with <u>valganciclovir</u> or <u>ganciclovir</u> for 3–12 months posttransplant  [[9]](https://coursology-qbank.com/amboss/article/QyWuUL0)[[25]](https://coursology-qbank.com/amboss/article/7Vd4DK0)<br><br>* In selected cases, <u>immunoglobulins</u> may be combined with <u>antiviral therapy</u>.<br><br>* Low-risk individuals : preemptive therapy<br><br><br> |
+| <br><u>Allogeneic hematopoietic stem cell transplantation</u> (<u>HSCT</u>) [[26]](https://coursology-qbank.com/amboss/article/OVdIuK0)<br> | <br><br>* Low-risk individuals: preemptive therapy<br><br>* High-risk individuals: antiviral prophylaxis with <u>letermovir</u><br><br><br> |
+| <br><u>HIV</u> [[11]](https://coursology-qbank.com/amboss/article/tAWXlL0)<br> | <br><br>* Prophylactic use of <u>antivirals for CMV</u> is not routinely recommended.<br><br>* Use <u>antiretroviral therapy</u> to maintain <u>CD4 count</u> > 100/mmÂ³.<br><br><br> |
+
+
+
+
+
+> [!TIP]
+> Educate pregnant individuals about the risk for <u>congenital CMV infection</u> and ways to reduce the risk of contracting <u>CMV</u> infection. [[22]](https://coursology-qbank.com/amboss/article/Ef18LT0)
+
+
+
+
+### Screening for CMV
+
+
+
+
+* Recommended before <u>HSCT</u> or <u>solid organ transplant</u> [[9]](https://coursology-qbank.com/amboss/article/QyWuUL0)[[20]](https://coursology-qbank.com/amboss/article/iVdJ8K0)
+
+* Not routinely recommended for pregnant individuals or those planning <u>pregnancy</u>  [[2]](https://coursology-qbank.com/amboss/article/FQ1gBg0)[[11]](https://coursology-qbank.com/amboss/article/tAWXlL0)
+
+
+
+
+
+### Prevention of CMV transmission
+
+
+
+
+* Individuals with <u>CMV</u> infection do not need to isolate; advise good <u>hand hygiene</u> and <u>respiratory hygiene</u>. [[22]](https://coursology-qbank.com/amboss/article/Ef18LT0)
+
+* Recommend <u>standard precautions</u> for anyone caring for an individual with <u>CMV</u> infection. [[22]](https://coursology-qbank.com/amboss/article/Ef18LT0)
+
+* <u>CMV infection during pregnancy</u>: Refer to a specialist (e.g., infectious diseases, <u>maternal-fetal medicine</u>).  [[27]](https://coursology-qbank.com/amboss/article/SVdyFK0)
+
+* <u>CMV</u> infection while <u>breastfeeding</u> [[2]](https://coursology-qbank.com/amboss/article/FQ1gBg0)[[28]](https://coursology-qbank.com/amboss/article/RVdl8K0)
+
+* Continuation of <u>breastfeeding</u> is usually recommended for <u>full-term infants</u>.  [[28]](https://coursology-qbank.com/amboss/article/RVdl8K0)
+
+* Consult infectious diseases for <u>low birth weight</u> or <u>premature infants</u> because of the risk of severe infection.
+
+
+
+
+
+> [!TIP]
+> Children with presumed or confirmed <u>CMV</u> infection do not require exclusion from group child care or school. [[22]](https://coursology-qbank.com/amboss/article/Ef18LT0)
+
+---

@@ -1,0 +1,740 @@
+# Congenital visceral malformations
+
+*Categories: Clinical knowledge > Surgery > Abdominal surgery > Small and large intestine > Congenital visceral malformations*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/p40L4T)
+
+---
+
+## Summary
+
+Congenital <u>visceral</u> <u>malformations</u> develop during <u>organogenesis</u>, which occurs in the first 8 weeks after <u>conception</u> (embryonal period). Common <u>malformations</u> include <u>anorectal malformation</u>, <u>omphalocele</u>, <u>gastroschisis</u>, and <u>biliary atresia</u>. They may occur on their own or together with other <u>malformations</u> and syndromes. An <u>anorectal malformation</u> is characterized by an absent anal opening and failure to pass <u>meconium</u>, which may lead to <u>ileus</u> or the formation of <u>fistulas</u>. An <u>omphalocele</u> is often associated with <u>trisomies</u> and manifests with the <u>herniation</u> of abdominal <u>viscera</u> through the abdominal wall into a <u>hernia</u> sac. In cases of <u>gastroschisis</u>, by contrast, herniated parts of the intestine are not covered by a sac, but exposed. <u>Bladder exstrophy</u> is a rare condition caused by an embryonic <u>malformation</u> resulting in failed closure of the <u>anterior abdominal wall</u> and an exposed <u>urinary bladder</u>. All four conditions are <u>clinical diagnoses</u> and require <u>surgery</u> to prevent infections and further complications. In extrahepatic <u>biliary atresia</u>, the <u>infant</u> presents with <u>prolonged neonatal jaundice</u>, acholic stools, dark urine, and <u>hepatomegaly</u>. <u>Conjugated hyperbilirubinemia</u> and abnormalities on <u>ultrasonography</u> provide valuable clues for diagnosis. If extrahepatic <u>biliary atresia</u> remains undetected or <u>surgery</u> is delayed, the <u>infant</u> may die within the first two years of life, usually as a result of biliary <u>liver cirrhosis</u>.
+
+---
+
+## Gastrointestinal atresia and stenosis
+
+* Definition: a congenital defect that can occur at any point along the <u>gastrointestinal tract</u> leading to complete (<u>atresia</u>) or incomplete (stenosis) occlusion of the affected lumen
+
+* <u>Epidemiology</u>: approx. 7:10,000 <u>live births</u> [[1]](https://coursology-qbank.com/amboss/article/mJcVuW0)
+
+* Etiology
+
+* Often associated with <u>chromosomal anomalies</u>
+
+* <u>Gastrointestinal atresia</u> is the result of varying mechanisms that lead to a disruption of normal bowel development.
+
+* Clinical features 
+
+* Intrauterine: <u>polyhydramnios</u>
+
+* Postpartum: signs of <u>intestinal obstruction</u>
+
+* Abdominal distention
+
+* <u>Bilious</u> <u>vomiting</u>
+
+* Failed or <u>delayed meconium passage</u>
+
+* Diagnosis
+
+* <u>Prenatal ultrasound</u>
+
+* <u>X-ray</u> of the abdomen
+
+* Evaluation for associated anomalies (e.g., <u>physical examination</u>; <u>echocardiogram</u>; <u>ultrasound</u> of the <u>brain</u>, abdomen, and <u>spine</u>; <u>newborn screening</u> results)
+
+* Treatment
+
+* Preoperative: placement of a gastric tube for suction, <u>parenteral nutrition</u>, and <u>fluid replacement</u>
+
+* <u>Surgery</u>: bypass of the <u>atresia</u> or stenosis
+
+---
+
+## Duodenal atresia and stenosis
+
+* Definitions
+
+* <u>Duodenal atresia</u> is the complete occlusion or absence of the <u>duodenal</u> lumen.
+
+* <u>Duodenal stenosis</u> is an incomplete obstruction caused by narrowing of the lumen.
+
+* <u>Epidemiology</u>
+
+* Around 1:5000–10,000 <u>live births</u> [[2]](https://coursology-qbank.com/amboss/article/Wj0Pzf)
+
+* Approx. 50% of cases are associated with further anomalies, e.g., <u>bile</u> duct and <u>VACTERL</u> association. [[3]](https://coursology-qbank.com/amboss/article/Uj0b-f)
+
+* 20–25% of cases are associated with <u>chromosomal abnormalities</u>, especially <u>Down syndrome</u>. [[2]](https://coursology-qbank.com/amboss/article/Wj0Pzf)
+
+* Pathophysiology
+
+* <u>Duodenal atresia</u> occurs when recanalization of the closed <u>duodenum</u> during the <u>embryonic period</u> fails or is only partial (usually between the 8<sup>th</sup> and 10<sup>th</sup> <u>weeks of gestation</u>).
+
+* Since the development of the <u>duodenum</u> is connected to the growth of the <u>pancreas</u> and the hepatobiliary system, <u>duodenal atresia</u> is also commonly associated with anomalies of these organs. [[2]](https://coursology-qbank.com/amboss/article/Wj0Pzf)
+
+* Clinical features
+
+* Intrauterine: <u>polyhydramnios</u>  [[4]](https://coursology-qbank.com/amboss/article/dj0ozf)
+
+* Postpartum
+
+* <u>Vomiting</u> that is typically <u>bilious</u> if the stenosis is <u>distal</u> to the <u>major duodenal papilla</u> [[4]](https://coursology-qbank.com/amboss/article/dj0ozf)
+
+* <u>Atresia</u> or high-grade stenosis: <u>vomiting</u> a few hours after <u>birth</u> [[2]](https://coursology-qbank.com/amboss/article/Wj0Pzf)
+
+* Mild stenosis: <u>vomiting</u> after a few days
+
+* Distended upper abdomen;  and <u>scaphoid</u> lower abdomen  [[4]](https://coursology-qbank.com/amboss/article/dj0ozf)
+
+* <u>Delayed meconium passage</u>
+
+* Diagnostics
+
+* Prenatal: <u>ultrasound</u> [[5]](https://coursology-qbank.com/amboss/article/Vj0Gzf)
+
+* Double bubble sign
+
+* Air and fluid build up <u>proximal</u> to the obstruction and are separated by the <u>pyloric sphincter</u>, which resembles two bubbles on imaging, one in the <u>stomach</u> and one in the <u>duodenum</u>.
+
+* If present, test for associated anomalies (e.g., <u>karyotyping</u>, <u>microarray</u>)  [[6]](https://coursology-qbank.com/amboss/article/io1Jb30)[[7]](https://coursology-qbank.com/amboss/article/Qo1ub30)
+
+* Associated anomalies may also be investigated with the following methods:
+
+* <u>Physical examination</u>
+
+* <u>Ultrasound</u> of the abdomen and <u>kidneys</u>
+
+* <u>Echocardiography</u>
+
+* <u>X-ray</u> of the thorax
+
+* <u>X-ray</u>, <u>ultrasound</u>, and/or <u>MRI</u> of the <u>spine</u>
+
+* <u>Polyhydramnios</u>
+
+* Dilation of the <u>stomach</u> and <u>duodenum</u> (<u>proximal</u> to the obstruction) is common.
+
+* Postnatal: <u>x-ray</u> of the abdomen ;   [[4]](https://coursology-qbank.com/amboss/article/dj0ozf)
+
+* Gasless <u>distal</u> bowel
+
+* <u>Double bubble sign</u>
+
+* Differential diagnoses  
+
+* <u>Jejunal atresia</u>
+
+* <u>Ileal atresia</u>
+
+* <u>Hirschsprung disease</u>
+
+* <u>Meconium ileus</u>
+
+* Malrotation with <u>volvulus</u>
+
+* Treatment
+
+* <u>Preoperative management</u>
+
+* <u>Parenteral nutrition</u> via a central catheter shortly after <u>birth</u>
+
+* <u>Fluid replacement</u> and restoration of the <u>electrolyte</u> balance
+
+* <u>Gastric decompression</u>
+
+* <u>Surgery</u>: bypass of the <u>atresia</u> or stenosis
+
+* The choice of procedure depends on the anatomical findings and associated anomalies.
+
+* The most common procedures are duodenoduodenostomy or duodenojejunostomy with a <u>proximal</u> transverse-to-<u>distal</u> longitudinal (diamond-shaped) <u>anastomosis</u>.
+
+* Prognosis: If diagnosis and treatment are quickly established, the survival rate of isolated <u>duodenal atresia</u> (without further anomalies) is 95%.
+
+
+
+
+
+![Double bubble sign on ultrasound](../../../../../media/tpxypxucp5vtsabi1mr6vckr.jpg)
+
+Double bubble sign on ultrasound
+
+![Double bubble sign](../../../../../media/jvx52gyd12mlqgjbnt1m3n06.jpg)
+
+Double bubble sign
+
+![Duodenal atresia in a newborn](../../../../../media/e5vekzt0542fsib224qupa40.jpg)
+
+Duodenal atresia in a newborn
+
+![Management of bilious vomiting in the newborn](../../../../../media/vdniefalw99hazwh24t1l4jo.jpg)
+
+Management of bilious vomiting in the newborn
+
+
+
+
+References:[[3]](https://coursology-qbank.com/amboss/article/Uj0b-f)
+
+---
+
+## Jejunal atresia and ileal atresia
+
+* Definition: absence of the <u>jejunal</u> or <u>ileal</u> lumen
+
+* <u>Epidemiology</u>: less common than <u>duodenal atresia</u>
+
+* Etiology
+
+* Associated with <u>cystic fibrosis</u>
+
+* <u>Risk factors</u>: maternal smoking and/or use of vasoconstrictive agents (e.g., <u>cocaine</u>, <u>MDMA</u>) during <u>pregnancy</u>
+
+* Pathophysiology: vascular accident in utero (usually a disruption of <u>superior mesenteric artery</u>) → <u>ischemic necrosis</u> and reabsorption of the <u>jejunum</u> or <u>ileum</u> → discontinuous bowel → obstruction
+
+* Clinical features: similar to <u>duodenal atresia</u>
+
+* <u>Polyhydramnios</u> (intrauterine)
+
+* <u>Bilious</u> <u>vomiting</u> and upper abdominal distention (postpartum)
+
+* Diagnostics: Abdominal <u>x-ray</u> shows a triple bubble sign (dilated <u>small bowel</u> loops and <u>air-fluid levels</u>; the three bubbles correlate with the distended <u>stomach</u>, <u>duodenum</u>, and <u>jejunum</u> <u>proximal</u> to the obstruction)  and gasless <u>colon</u>.
+
+* Treatment: Surgical correction with bypass of the occluded part of the bowel is always required.
+
+---
+
+## Colonic obstruction
+
+### Colonic atresia
+
+
+
+
+* Definition: a congenital anomaly of the <u>colon</u> that results in either stenosis or a complete absence of a <u>colonic</u> segment
+
+* <u>Epidemiology</u>: rare; accounts for approx. 7% of bowel atresias [[8]](https://coursology-qbank.com/amboss/article/kEcmDV0)
+
+* Pathophysiology: disruption of vascular supply or a mechanical event (e.g., intestinal <u>volvulus</u>) → <u>ischemic necrosis</u> and reabsorption of the <u>colon</u> → <u>distal</u> microcolon or absence of the <u>distal</u> <u>colonic</u> segment
+
+* Clinical features: Symptoms of <u>intestinal obstruction</u> may appear later than with more <u>proximal</u> lesions.
+
+* Abdominal distention
+
+* <u>Bilious</u> <u>vomiting</u>
+
+* Delayed or failed <u>meconium</u> passage
+
+* Diagnosis
+
+* <u>Clinical diagnosis</u>
+
+* <u>X-ray</u>: dilated <u>proximal</u> segment and absence of gas in the <u>rectum</u>
+
+* Treatment: <u>primary anastomosis</u> <u>surgery</u> or temporary <u>colostomy</u>
+
+
+
+
+
+### Anorectal malformation (<u>anal atresia</u>)
+
+
+
+
+* Definition: sporadically occurring <u>malformation</u> of the <u>rectum</u> with absent anal opening
+
+* <u>Epidemiology</u> [[9]](https://coursology-qbank.com/amboss/article/lEcvDV0)
+
+* Approx. 1:5,000 <u>live births</u> in the US
+
+* Sex: <u>♂</u> = <u>♀</u>
+
+* Etiology: associated with a number of conditions
+
+* Mesodermal defects (e.g., <u>VACTERL</u> association)
+
+* <u>Down syndrome</u>
+
+* <u>Maternal diabetes</u>
+
+* Other <u>malformations</u> (e.g., vaginal or uterine anomalies, renal anomalies, spinal cord or cardiovascular <u>malformations</u>)
+
+* Pathophysiology: failure of the <u>urorectal septum</u> to descend <u>caudally</u> to the <u>cloacal membrane</u>
+
+* Clinical features [[10]](https://coursology-qbank.com/amboss/article/it0JW3)[[11]](https://coursology-qbank.com/amboss/article/ObaIFQ)[[12]](https://coursology-qbank.com/amboss/article/lbavFQ)
+
+* Absence of anal opening
+
+* Thin anal membrane in place of anal opening through which <u>meconium</u> is visible
+
+* <u>Obstipation</u>, <u>ileus</u>
+
+* <u>Fistulas</u> that complicate defecation (e.g., rectovestibular, rectourethral, rectovaginal)
+
+* Small or missing anal dimple
+
+* In some cases, bucket-handle <u>malformation</u>
+
+* Flat bottom (absent or poorly developed midline groove between buttocks)
+
+* Diagnostics
+
+* <u>Clinical diagnosis</u>
+
+* <u>Lateral</u> <u>pelvic</u> <u>radiography</u> or invertogram to determine position of the rectal pouch
+
+* Investigation of additional <u>malformations</u> (e.g., spinal <u>ultrasonography</u>, sacral <u>x-ray</u>)
+
+* <u>Fistula</u> screening
+
+* Examination of the genital area and the <u>urethra</u> (e.g., abdominal <u>ultrasound</u>)
+
+* <u>Urinalysis</u>: <u>meconium</u> detectable in case of a rectourinary <u>fistula</u>
+
+* Augmented-pressure <u>distal</u> colostography to assess for <u>fistulas</u>
+
+* Treatment
+
+* IV hydration, no oral feeding
+
+* Anal reconstructive <u>surgery</u> (primary anoplasty) or temporary <u>colostomy</u> in more complex <u>malformations</u>
+
+
+
+
+
+![Imperforate anus](../../../../../media/ohh4a3aaxbxz71cx20kdfozc.jpg)
+
+Imperforate anus
+
+---
+
+## Abdominal wall defects
+
+| <br>Overview of abdominal wall defects <br> |  |  |  |
+| --- | --- | --- | --- |
+|  | <u>Omphalocele</u> | <u>Gastroschisis</u> | <u>Umbilical hernia</u> |
+| Description | <br>* A <u>ventral wall defect</u> that results in congenital <u>herniation</u> of abdominal <u>viscera</u> through the abdominal wall at the <u>umbilicus</u><br><br> | <br>* A <u>ventral wall defect</u> that results in paraumbilical <u>herniation</u> of the intestine through the abdominal wall, without formation of a <u>hernia</u> sac<br><br> | <br>* A <u>ventral wall defect</u> with a protruding sac (possibly containing intestines) at the <u>umbilicus</u><br><br> |
+| Pathophysiology | <br>* Persistent <u>herniation</u> of the <u>midgut</u> derivatives due to impaired closure of the <u>lateral umbilical folds</u><br><br> | <br>* Failed formation of a sufficiently large <u>peritoneal cavity</u> → growing bowel → rupture of the <u>anterior abdominal wall</u> at its weakest point → <u>herniation</u> of bowel sections<br><br> | <br>* Failed spontaneous closure of the umbilical ring following physiological <u>herniation</u> of the <u>midgut</u> → patent umbilical orifice<br><br> |
+| Anatomy | <br><br>* <u>Viscera</u> (may also contain <u>liver</u> and <u>gall bladder</u>) herniate into the <u>umbilical cord</u>.<br><br>* The <u>hernia</u> sac is covered by <u>amniotic membrane</u> and <u>peritoneum</u>.<br><br><br> | <br><br>* Protrusion of intestinal content usually on the right side of the <u>umbilicus</u><br><br>* The intestine is not contained in a <u>hernia</u> sac.<br><br><br> | <br><br>* The mass protrudes through the <u>umbilicus</u>.<br><br>* The <u>hernia</u> is covered by <u>skin</u>.<br><br><br> |
+| Associated conditions | <br><br>* Frequently observed in individuals with <u>trisomies</u> (<u>trisomy 21</u>, <u>trisomy 18</u>, and <u>trisomy 13</u>) and <u>Beckwith-Wiedemann syndrome</u><br><br>* Often associated with additional <u>malformations</u> (e.g., cardiac, GI, genitourinary, and <u>neural tube defects</u>)<br><br><br> | <br>* Additional anomalies are rarely present.<br><br> | <br>* <u>Incidence</u> is more common in children with other congenital anomalies (e.g., <u>trisomy 21</u>, <u>trisomy 18</u>, <u>congenital hypothyroidism</u>).<br><br> |
+| Diagnostics | <br>* <u>Clinical diagnosis</u><br><br> |  |  |
+| <br>* Can be detected prenatally<br><br>* <u>Ultrasonography</u>: <u>polyhydramnios</u> in utero<br><br>* ↑ <u>MSAFP</u><br><br> |  | <br>* Usually no further diagnostics necessary<br><br> |  |
+| Delivery | <br><br>* <u>Cesarean delivery</u><br><br>* Vaginal delivery for small <u>omphalocele</u> without <u>liver</u> involvement<br><br><br> | <br>* Usually vaginal delivery<br><br> | <br>* Vaginal delivery<br><br> |
+| Management | <br><br>* Wrapping of the <u>hernia</u> sac/free intestines with sterile saline dressings covered with plastic wrap<br><br>* Nasogastric suction<br><br>* <u>IV fluids</u><br><br><br> |  | <br>* Conservative: closes spontaneously by the age of 5 years<br><br> |
+| <u>Surgery</u> | <br>* Within the first 24 hours of life<br><br> | <br>* Emergency <u>surgery</u><br><br> | <br>* Rarely necessary<br><br> |
+
+
+
+
+
+![Congenital malformations of the anterior abdominal wall](../../../../../media/cs8owgyyuphaqh6yqfipvsi8.jpg)
+
+Congenital malformations of the anterior abdominal wall
+
+![Congenital umbilical hernia](../../../../../media/kev69nliy8quitabst66lril.jpg)
+
+Congenital umbilical hernia
+
+---
+
+## Omphalocele
+
+* Definition
+
+* <u>Ventral wall defect</u> that results in congenital <u>herniation</u> of abdominal <u>viscera</u> through the abdominal wall at the <u>umbilicus</u>.
+
+* The <u>hernia</u> sac is covered by the <u>amniotic membrane</u> and the <u>peritoneum</u>.
+
+* <u>Epidemiology</u>
+
+* Approx. 1:4,000 <u>live births</u> in the US
+
+* Sex: <u>♂</u> > <u>♀</u>
+
+* Etiology
+
+* Frequently observed in <u>trisomies</u> (<u>trisomy 21</u>, <u>trisomy 18</u>, and <u>trisomy 13</u>) and <u>Beckwith-Wiedemann syndrome</u>
+
+* Often associated with additional <u>malformations</u> (e.g., cardiac, gastrointestinal, genitourinary, and <u>neural tube defects</u>)
+
+* Pathophysiology: persistent <u>herniation</u> of the <u>midgut</u> derivatives due to impaired closure of the <u>lateral umbilical folds</u>
+
+* Clinical features
+
+* Most commonly affects <u>premature infants</u>
+
+* <u>Umbilical hernia</u> sac (may contain intestine, <u>liver</u>, and <u>gall bladder</u>)
+
+* Features of associated conditions
+
+* Diagnosis [[13]](https://coursology-qbank.com/amboss/article/Nba-FQ)
+
+* <u>Clinical diagnosis</u> at <u>birth</u>
+
+* Can be detected prenatally
+
+* <u>Ultrasonography</u>: <u>polyhydramnios</u> in utero
+
+* ↑ <u>Maternal serum alpha-fetoprotein</u> (<u>MSAFP</u>)
+
+* Treatment
+
+* <u>Cesarean delivery</u> to prevent rupture of the sac of large <u>omphalocele</u>; especially if the <u>liver</u> is contained in the <u>hernia</u> sac
+
+* Vaginal delivery is possible in cases with small <u>omphalocele</u>
+
+* Wrapping of the <u>hernia</u> sac with sterile saline dressings covered with plastic wrap
+
+* Nasogastric suction
+
+* <u>IV fluids</u> to avoid abdominal distention and to compensate fluid loss
+
+* <u>Surgery</u> (within the first 24 hours of life)
+
+* Usually primary abdominal wall closure
+
+* Alternatively, secondary closure following:
+
+* Staged silo repair
+
+* <u>Skin graft</u> or <u>dermal</u> patch
+
+* Complications
+
+* Rupture of <u>hernia</u> sac with infection (<u>peritonitis</u>)
+
+* Secondary intestinal wall <u>atresia</u> as a result of injury
+
+* Prognosis
+
+* Dependent on the size of the defect and <u>birth</u> weight
+
+* Survival rate over 90% in the absence of additional <u>malformations</u>
+
+
+
+
+
+![Omphalocele](../../../../../media/tw6hv8vx54dq879ecbeh7tal.jpg)
+
+Omphalocele
+
+![Congenital malformations of the anterior abdominal wall](../../../../../media/cs8owgyyuphaqh6yqfipvsi8.jpg)
+
+Congenital malformations of the anterior abdominal wall
+
+---
+
+## Gastroschisis
+
+* Definition: a <u>ventral wall defect</u> that results in paraumbilical <u>herniation</u> of the intestine through the abdominal wall without formation of a <u>hernia</u> sac
+
+* <u>Epidemiology</u>: approx. 1:2,000 <u>live births</u> in the US
+
+* Pathophysiology
+
+* Failed formation of a sufficiently large <u>peritoneal cavity</u> → growing bowel leads to rupture of the <u>anterior abdominal wall</u> at its weakest point  → <u>herniation</u> of bowel sections
+
+* Because the <u>malformation</u> occurs relatively late in development, additional anomalies are rarely present (in contrast to <u>omphalocele</u>)
+
+* Clinical features
+
+* Protrusion of intestinal content usually on the right side of the <u>umbilicus</u>
+
+* The intestine is not contained in a <u>hernia</u> sac and appears <u>edematous</u>, <u>erythematous</u>, and dull.
+
+* Shortened bowel
+
+* <u>Malabsorption</u> caused by <u>mucosal</u> damage
+
+* <u>Peritonitis</u>
+
+* Isolated in most cases;Seen especially in <u>premature infants</u> and associated with <u>cryptorchidism</u> and gastrointestinal stenoses or <u>atresia</u>
+
+* Diagnosis
+
+* Usually <u>clinical diagnosis</u>
+
+* Can be detected prenatally (see “Diagnosis” of <u>omphalocele</u> above)
+
+* Treatment
+
+* <u>Cesarean delivery</u> has no advantage over vaginal delivery.
+
+* See “Treatment” of <u>omphalocele</u> above
+
+* Emergency <u>surgery</u> 
+
+* Primary abdominal wall closure (success rate of 70%)
+
+* Alternative: staged silo repair (see “Treatment” of <u>omphalocele</u> above)
+
+* Prognosis
+
+* Survival rates are generally high (> 90%).
+
+* <u>Short bowel syndrome</u> is a common complication.
+
+* 20% of children develop <u>necrotizing enterocolitis</u>. [[14]](https://coursology-qbank.com/amboss/article/dcYoYL)
+
+
+
+
+
+> [!TIP]
+> Unlike in cases of <u>omphalocele</u>, <u>gastroschisis</u> does not manifest with a <u>hernia</u> sac.
+
+
+
+
+> [!NOTE]
+> Omphalocele keeps your gut O-sealed (covered with <u>peritoneum</u>), but in Gastroschisis, the Gut freezes (herniates through the abdominal wall without being covered by <u>peritoneum</u>).
+
+
+
+
+![Gastroschisis](../../../../../media/x963ilowb8p0mke8jm0a9kyq.jpg)
+
+Gastroschisis
+
+![Congenital malformations of the anterior abdominal wall](../../../../../media/cs8owgyyuphaqh6yqfipvsi8.jpg)
+
+Congenital malformations of the anterior abdominal wall
+
+![Visual mnemonic for omphalocele and gastroschisis](../../../../../media/xqkhjzujsvf1h97ug5x1mvnm.jpg)
+
+Visual mnemonic for omphalocele and gastroschisis
+
+---
+
+## Other complex abdominal wall defects
+
+### Bladder exstrophy
+
+
+
+
+* Definition: embryological defect of <u>ventral</u> abdominal wall due to an overdeveloped <u>cloacal membrane</u>
+
+* <u>Epidemiology</u> [[15]](https://coursology-qbank.com/amboss/article/ULXbCA)
+
+* <u>Prevalence</u> is 3 per 100,000 <u>live births</u>
+
+* More common in males
+
+* Clinical features
+
+* <u>Bladder</u> and <u>urethra</u> herniated through a defect in the abdominal wall
+
+* Incontinence
+
+* Genital abnormalities
+
+* Males: shortened <u>penis</u> with <u>dorsal</u> penile curvature and <u>epispadias</u>
+
+* Females: bifid <u>clitoris</u> with labia separated anteriorly and <u>epispadias</u>
+
+* Widely separated <u>pubic symphysis</u>
+
+* Associated <u>malformations</u>
+
+* <u>Omphalocele</u>
+
+* Often a low set <u>umbilicus</u>, <u>indirect inguinal hernia</u> , and anteriorly displaced <u>anus</u>
+
+* Possibly <u>hip dysplasia</u>, <u>bicornuate uterus</u>, cardiac <u>dysplasia</u>
+
+* Diagnostics
+
+* Largely a <u>clinical diagnosis</u>
+
+* <u>Prenatal ultrasound</u> with inability to visualize <u>bladder</u>, lower abdominal wall mass, low set <u>umbilical cord</u>, abnormal genitalia, and <u>pubic bone</u> diastasis
+
+* Treatment  
+
+* Staged or primary surgical repair and reconstruction 
+* Timing depends on <u>surgeon</u> preference and <u>infant</u>'s anatomy: within first 2–3 days of life (immediate) or between 6–12 weeks of age (delayed)
+
+* Iliac <u>osteotomy</u> may be required if the diastasis is extreme or after first 2–3 days of life as <u>pelvis</u> becomes less malleable
+
+* Complications
+
+* Persistent incontinence
+
+* <u>Urinary tract infections</u> (<u>UTIs</u>), <u>epididymitis</u>
+
+* <u>Bladder stones</u>, <u>fistulas</u>
+
+* <u>Vesicoureteral reflux</u>
+
+* Vaginal and <u>rectal prolapse</u>
+
+* Possible <u>infertility</u> in males
+
+* <u>Bladder</u> <u>adenocarcinoma</u>
+
+* Prognosis: life-long management necessary with focus on <u>bladder</u> and renal function, psychological status, and sexual function and <u>fertility</u>
+
+---
+
+## Biliary tract malformations
+
+### Biliary atresia
+
+
+
+
+* Definition: obliteration or discontinuity of the extrahepatic <u>biliary system</u>, most commonly of the <u>common bile duct</u>
+
+* <u>Epidemiology</u>
+
+* Approx. 1:10,000–15,000 <u>live births</u> in the US
+
+* <u>♀</u> > <u>♂</u>
+
+* Etiology
+
+* Exact etiology unknown, most likely an embryonal <u>malformation</u> or acquired lesion
+
+* Approx. 10–35% of cases involve additional anatomical <u>malformations</u> (e.g., <u>situs inversus</u>, <u>asplenia</u>, polysplenia, cardiac anomalies)
+
+* Pathophysiology: discontinuity of the <u>biliary system</u> due to obliteration or <u>fibrosis</u> → obstruction of <u>bile</u> flow (<u>cholestasis</u>) → <u>secondary biliary cirrhosis</u> and <u>portal hypertension</u>
+
+* Clinical features
+
+* <u>Jaundice</u>
+
+* <u>Prolonged neonatal jaundice</u> (> 2 weeks)
+
+* Onset 2 weeks after <u>birth</u> is possible.
+
+* Acholic stools, dark urine
+
+* <u>Hepatomegaly</u>
+
+* Diagnosis
+
+* <u>Laboratory analysis</u>
+
+* <u>Conjugated hyperbilirubinemia</u>
+
+* ↑ <u>Aminotransferases</u> and <u>alkaline phosphatase</u>
+
+* ↑ <u>GGT</u>
+
+* <u>Ultrasonography</u>
+
+* Absence of the <u>gallbladder</u>
+
+* No dilatation of the biliary tree
+
+* <u>Liver biopsy</u>
+
+* Active inflammation with <u>bile</u> duct degeneration and <u>fibrosis</u>
+
+* <u>Bile</u> duct <u>proliferation</u>
+
+* Portal stromal <u>edema</u>
+
+* <u>Hepatobiliary scintiscanning</u> (<u>HBSS</u>): failed excretion of the tracer into the bowel
+
+* Intraoperative <u>cholangiography</u> to confirm diagnosis
+
+* Treatment
+
+* Kasai procedure (<u>hepatoportoenterostomy</u>): a connection is created between the <u>liver</u> and the <u>small intestine</u> to allow for <u>bile</u> drainage.
+
+* In cases of <u>liver cirrhosis</u>: <u>liver transplantation</u> (primary reason for <u>liver transplantation</u> in children)
+
+* Complications
+
+* If undetected
+
+* Early biliary <u>liver cirrhosis</u> (at approx. 9 weeks of age)
+
+* Children may die within the first 2 years of life
+
+* Postoperative
+
+* <u>Cholangitis</u> in 50% of cases
+
+* <u>Portal hypertension</u> in > 60% of cases
+
+
+
+
+
+![Biliary atresia fact sheet](../../../../../media/vr8v92dex0bmj2x8e0dfs7mb.jpg)
+
+Biliary atresia fact sheet
+
+
+
+
+### Alagille syndrome
+
+
+
+
+* Description: a genetic condition that is characterized by intrahepatic biliary duct <u>aplasia</u> or <u>hypoplasia</u>
+
+* <u>Epidemiology</u>: Approx. 1:30,000–45,000 <u>live births</u> in the US
+
+* Etiology
+
+* <u>Autosomal-dominant</u> inheritance
+
+* Mutation in the JAG1 <u>gene</u> on <u>chromosome</u> 20 in 90% of patients
+
+* Clinical features
+
+* Hepatic manifestations
+
+* <u>Cholestasis</u>
+
+* <u>Jaundice</u>
+
+* <u>Pruritus</u>
+
+* <u>Cirrhosis</u>
+
+* Facial dysmorphism
+
+* Triangular face
+
+* Deep set eyes
+
+* Broad nasal bridge
+
+* <u>Congenital heart defects</u> (e.g., peripheral <u>pulmonary stenosis</u>)
+
+* <u>Butterfly vertebrae</u>
+
+* <u>Posterior embryotoxon</u>
+
+* <u>Renal dysplasia</u>
+
+* Diagnosis
+
+* Laboratory findings
+
+* <u>Conjugated hyperbilirubinemia</u>
+
+* ↑ Serum <u>aminotransferases</u>
+
+* ↑ <u>γ-GT</u>
+
+* <u>Liver biopsy</u>: decreased number of interlobular <u>bile</u> ducts
+
+* Confirmation via <u>genetic testing</u>: detection of JAG1 <u>gene</u> mutation
+
+* Treatment
+
+* Depends on the affected organ systems
+
+* <u>Conservative management</u> of <u>cholestasis</u> and <u>pruritus</u> (e.g., <u>ursodeoxycholic acid</u>, <u>cholestyramine</u>)
+
+---

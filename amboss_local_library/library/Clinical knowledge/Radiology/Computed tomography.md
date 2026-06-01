@@ -1,0 +1,13 @@
+# Computed tomography
+
+*Categories: Clinical knowledge > Radiology > Computed tomography*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/KN0UXg)
+
+---
+
+## Summary
+
+Computed tomography (CT) is an imaging technique that employs a rotating <u>x-ray</u> generator and multiple detectors to produce a large number of cross-sectional images on several planes. Like traditional <u>radiography</u>, CT creates images by projecting <u>x-ray</u> beams at an object and registering the amount of radiation that passes through. The resulting images visualize the inside of the object according to the amount of <u>x-rays</u> the constituent materials (e.g., different types of tissue) absorb or allow to pass through. The denser the material, the higher the attenuation and the brighter it will appear on the image. However, unlike traditional <u>radiography</u>, which produces projectional images of structures superimposed on each other, CT visualizes slices of the patient only a few millimeters thick, eliminating the problem of superimposition. The resulting images can be viewed individually or they can be digitally reconstructed into a 3D image. Furthermore, CT assigns each <u>voxel</u>, the basic unit of CT-image calculation, a specific value (<u>Hounsfield unit</u>; HU) according to the density of the material scanned. Postprocessing of the images allows the radiologist to map a range of <u>voxel</u> values to specific HU ranges (<u>windowing</u>), allowing for greater differentiation of densities than with traditional <u>radiography</u>. A CT scan can be performed with or without contrast to better visualize certain tissues. <u>CT angiography</u> employs a contrast medium to visualize <u>blood vessels</u>. The advantages of CT scan besides allowing for image manipulation and 3D reconstruction include shorter study time and lower cost than <u>MRI</u> and higher resolution than <u>projectional radiography</u>, while disadvantages include lower resolution than <u>MRI</u> and, especially, exposure to <u>ionizing radiation</u>. For example, radiation exposure from a chest CT scan is approximately equivalent to natural radiation exposure within a 4-year period and is ∼ 80 times higher than two-phase <u>x-ray</u> imaging. Accordingly, as with all imaging modalities that employ <u>ionizing radiation</u>, the <u>radiation dose</u> should be maintained as low as reasonably possible (<u>ALARA principle</u>) and appropriate safety measures should be observed.
+
+---

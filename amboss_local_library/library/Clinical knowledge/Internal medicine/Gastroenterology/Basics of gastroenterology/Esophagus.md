@@ -1,0 +1,255 @@
+# Esophagus
+
+*Categories: Clinical knowledge > Internal medicine > Gastroenterology > Basics of gastroenterology > Esophagus*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/f60k4S)
+
+---
+
+## Summary
+
+The esophagus is the muscular tube derived from the <u>foregut</u> that carries food and liquid from the <u>oropharynx</u> to the <u>stomach</u>. It crosses the <u>diaphragm</u> at the <u>esophageal hiatus</u>, which is located at the level of the tenth <u>thoracic vertebra</u> (T10). The esophagus has an upper sphincter, which prevents the entry of air, and a lower sphincter, which prevents the reflux of <u>gastric acid</u>. Food is transported by <u>peristaltic</u> movements of the esophageal muscles. The esophagus is supplied by the esophageal branches of the <u>inferior thyroid artery</u>, the <u>thoracic aorta</u>, and the left gastric <u>arteries</u>. The <u>veins</u> of the esophagus drain into the <u>systemic circulation</u> via the azygos and the hemiazygos <u>veins</u> and into the portal circulation via the <u>left gastric veins</u>. <u>Portal hypertension</u> results in <u>esophageal varices</u>, which are supplied by the <u>left gastric veins</u>. The esophageal wall consists of four concentric layers: <u>mucosal</u>, <u>submucosal</u>, muscular, and adventitia. The <u>mucosa</u> is lined by nonkeratinizing <u>stratified</u> <u>squamous epithelium</u> that transitions to <u>columnar epithelium</u> at the <u>gastroesophageal junction</u>. In <u>gastroesophageal reflux disease</u> (<u>GERD</u>), chronic acid exposure induces <u>metaplasia</u> of the lower esophageal <u>squamous epithelium</u> to gastric <u>columnar epithelium</u> (<u>Barrett esophagus</u>). Other diseases that may affect the esophagus include <u>esophageal stricture</u>, <u>esophageal atresia</u>, <u>achalasia</u>, and <u>esophageal cancer</u>.
+
+---
+
+## Gross anatomy
+
+### Overview
+
+
+
+
+* Tube that connects the <u>pharynx</u> (at the level of C6) to the <u>stomach</u> (at the level of T11)
+
+* Length: ∼ 25 cm
+
+* Located between <u>trachea</u> and <u>spine</u>
+
+* Crosses the <u>diaphragm</u> at T10 through the <u>esophageal hiatus</u>
+
+* The thoracic esophagus is extraperitoneal.
+
+* The abdominal part is <u>intraperitoneal</u>.
+
+* Constrictions of esophagus  
+
+* Cricopharyngeal sphincter at C6
+
+* Crossing of <u>aortic arch</u> at T4/5
+
+* Crossing of left main <u>bronchus</u> at T5/6
+
+* Crossing of <u>diaphragm</u> (<u>esophageal hiatus</u>; T10)
+
+
+
+
+
+![The esophagus](../../../../../media/zufrl0yyg8k4evzovjb411lf.jpg)
+
+The esophagus
+
+![Sections of the esophagus](../../../../../media/zgjk4dv9m985kbq7xlwsz6ot.jpg)
+
+Sections of the esophagus
+
+![Esophageal constriction](../../../../../media/ckql1uqbnyhwfvisc7tnvuln.jpg)
+
+Esophageal constriction
+
+![Cross-section of the thorax](../../../../../media/r2o835zk279a2s2ox11fnmu3.jpg)
+
+Cross-section of the thorax
+
+![Lateral views of the mediastinum](../../../../../media/yevoik6ucwyapo35iopfjcnt.jpg)
+
+Lateral views of the mediastinum
+
+
+
+
+### Function
+
+
+
+* Passage for food and liquids between the <u>oropharynx</u> and <u>stomach</u>
+* <u>Peristaltic</u> contractions of the esophageal muscles assist in moving food downwards.
+
+
+
+
+### Vasculature
+
+
+
+
+|  | Cervical portion | Thoracic portion | Abdominal portion |
+| --- | --- | --- | --- |
+| Vasculature |  |  |  |
+| <u>Arteries</u> | <br>* Esophageal branches of <u>inferior thyroid artery</u><br><br> | <br>* Esophageal branches of <u>thoracic aorta</u><br><br> | <br>* Esophageal branches of left gastric <u>arteries</u><br><br> |
+| <u>Veins</u> | <br>* Inferior <u>thyroid</u> <u>vein</u><br><br> | <br>* Azygos and hemiazygos <u>veins</u><br><br> | <br>* <u>Left gastric vein</u> (which drains into the portal circulation)<br><br> |
+| <u>Lymphatics</u> |  |  |  |
+|  | <br>* <u>Mediastinal lymph nodes</u><br><br> |  |  |
+| Innervation |  |  |  |
+| Sensation | <br>* <u>Vagus nerve</u><br><br> |  |  |
+| <u>Sympathetic</u> | <br>* Cervical and <u>thoracic sympathetic trunk</u>: decrease <u>peristalsis</u> and glandular activity; transmit <u>pain</u><br><br> |  |  |
+| <u>Parasympathetic</u> | <br>* <u>Vagus nerve</u>: innervates esophageal muscles and glands <br><br>* <u>Striated muscle</u> (mostly in upper ⅓ of esophagus): recurrent laryngeal branches of the <u>vagus nerve</u> (descend from the <u>nucleus ambiguus</u>)<br><br>* <u>Smooth muscle</u> and <u>lower esophageal sphincter</u>: <u>parasympathetic</u> fibers (descend from the <u>dorsal</u> motor <u>nucleus</u> of vagus)<br><br> |  |  |
+| <u>Enteric nervous system</u> | <br>* <u>Auerbach plexus</u> and <u>Meissner plexus</u><br><br> |  |  |
+
+
+
+
+
+|  | <u>Arteries</u> | <u>Veins</u> | <u>Lymphatics</u> |
+| --- | --- | --- | --- |
+| Cervical portion | <br>* Esophageal branches of <u>inferior thyroid artery</u><br><br> | <br>* Inferior <u>thyroid</u> <u>vein</u><br><br> | <br>* <u>Mediastinal lymph nodes</u><br><br> |
+| Thoracic portion | <br>* Esophageal branches of <u>thoracic aorta</u><br><br> | <br>* Azygos and hemiazygos <u>veins</u><br><br> |  |
+| Abdominal portion | <br>* Esophageal branches of left gastric <u>arteries</u><br><br> | <br>* <u>Left gastric vein</u> (which drains into the portal circulation)<br><br> |  |
+
+
+
+
+
+![Blood supply of the esophagus](../../../../../media/qwcbvtrtuiqp33waktw5u4q9.jpg)
+
+Blood supply of the esophagus
+
+
+
+
+### Innervation
+
+
+
+
+* <u>Vagus nerve</u> 
+
+* Gross sensation of esophagus
+
+* Innervates esophageal muscles and glands: Responsible for initiation of <u>peristalsis</u> and glandular activity.
+
+* <u>Striated muscle</u> (mostly in upper ⅓ of esophagus): recurrent laryngeal branches of the <u>vagus nerve</u> (descend from the <u>nucleus ambiguus</u>)
+
+* <u>Smooth muscle</u> and <u>lower esophageal sphincter</u>: <u>parasympathetic</u> fibers (descend from the <u>dorsal</u> motor <u>nucleus</u> of vagus)
+
+* Cervical and <u>thoracic sympathetic trunk</u> 
+
+* <u>Sympathetic</u> function: Decreases <u>peristalsis</u> and glandular activity
+
+* <u>Pain</u>
+
+* <u>Enteric nervous system</u>: <u>Auerbach plexus</u> and <u>Meissner plexus</u>
+* Influenced by <u>sympathetic</u> and <u>parasympathetic</u> nervous systems
+
+
+
+
+
+![Sympathetic and parasympathetic innervation of the esophagus](../../../../../media/ici5wn2ylrpqa2guhink9bt0.jpg)
+
+Sympathetic and parasympathetic innervation of the esophagus
+
+![Esophageal plexus](../../../../../media/sq7xnicenofffuz1oepvbfcp.jpg)
+
+Esophageal plexus
+
+---
+
+## Microscopic anatomy
+
+* Four concentric layers
+
+* <u>Mucosal</u> (innermost)
+
+* Nonkeratinizing <u>stratified</u> <u>squamous epithelium</u>
+
+* Transitions to <u>columnar epithelium</u> at the gastroesophageal junction
+
+* <u>Submucosal</u>
+* Contains <u>blood vessels</u>, <u>Meissner's plexus</u>, and <u>glandular epithelium</u>
+
+* Muscular
+
+* Contains inner circular and outer longitudinal muscle fibers. The <u>Auerbach's plexus</u> lies in between the two layers.
+
+* <u>Proximal</u> ⅓ → mostly <u>striated muscle</u>
+
+* <u>Distal</u> ⅔ → mostly <u>smooth muscle</u>
+
+* Adventitia (outermost)
+* Consists of <u>dense connective tissue</u>;  and <u>elastic fibers</u>
+
+
+
+
+![Squamous epithelium and esophageal glands](../../../../../media/uxdgb1sfsgj5z0djv0noxife.jpg)
+
+Squamous epithelium and esophageal glands
+
+![Mucosal layers of the esophagus](../../../../../media/vp84vdriypbv7ds6t91h47vz.jpg)
+
+Mucosal layers of the esophagus
+
+![Gastroesophageal junction](../../../../../media/h0awd5jaw5jvcd7uf73k2x1b.jpg)
+
+Gastroesophageal junction
+
+---
+
+## Embryology
+
+* Derived from the embryonic <u>foregut</u>
+
+* Fusion of <u>lateral</u> mesodermal ridges in the midline separates the esophagus from the <u>trachea</u> at 26 days' <u>gestation</u>
+
+---
+
+## Clinical significance
+
+* <u>Esophagitis</u>
+
+* <u>GERD</u>
+
+* <u>Eosinophilic esophagitis</u>
+
+* <u>Corrosive esophagitis</u>
+
+* <u>CMV esophagitis</u>
+
+* <u>Candida esophagitis</u>
+
+* <u>Herpes esophagitis</u>
+
+* <u>Drug-induced esophagitis</u>
+
+* <u>Esophageal strictures</u>: typically a sequela of <u>caustic ingestion</u> or a <u>complication of GERD</u>
+
+* <u>Esophageal motility disorders</u>
+
+* <u>Achalasia</u>
+
+* <u>Diffuse esophageal spasm</u>
+
+* <u>Scleroderma esophageal dysmotility</u>
+
+* <u>Esophageal cancer</u>
+
+* <u>Squamous cell carcinoma</u>: associated with <u>cigarette smoking</u> and <u>alcohol</u>
+
+* <u>Adenocarcinoma</u>: associated with <u>cigarette smoking</u> and <u>Barrett esophagus</u>
+
+* Others
+
+* <u>Esophageal varices</u>
+
+* <u>Esophageal atresia</u>
+
+* <u>Zenker diverticulum</u>
+
+* <u>Boerhaave syndrome</u>
+
+* <u>Mallory-Weiss syndrome</u>
+
+* <u>Plummer-Vinson syndrome</u>
+
+---

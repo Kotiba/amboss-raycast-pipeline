@@ -1,0 +1,616 @@
+# Pancreas
+
+*Categories: Clinical knowledge > Internal medicine > Gastroenterology > Basics of gastroenterology > Pancreas*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/260T4S)
+
+---
+
+## Summary
+
+The pancreas is a glandular organ located in the <u>retroperitoneum</u> between the <u>duodenal</u> curvature and the <u>splenic hilum</u>. It has both exocrine and endocrine functions and is anatomically classified into four parts: the head, neck, body, and tail. Because it is embryologically derived from the <u>foregut</u>, the pancreas receives arterial supply from the <u>celiac trunk</u> and its branches. The <u>veins</u> of the pancreas drain into the <u>portal vein</u> and the <u>lymphatics</u> eventually drain into the celiac, superior <u>mesenteric</u>, and splenic <u>lymph nodes</u>. The pancreas receives both <u>sympathetic</u> and <u>parasympathetic</u> innervation via the <u>celiac ganglia</u>. Histologically, the pancreas has two functional structures: the exocrine <u>acinar glands</u> and the endocrine <u>pancreatic islets</u>. The <u>exocrine glands</u> produce digestive enzymes, which are secreted into the <u>duodenum</u>, and the endocrine islets produce blood <u>glucose</u>-regulating <u>hormones</u> such as <u>insulin</u> and <u>glucagon</u>, which are secreted into the blood.
+
+
+
+
+![Organ fact sheet: pancreas](../../../../../media/po9a8devuy3d27y63xm2gc4y.jpg)
+
+Organ fact sheet: pancreas
+
+---
+
+## Gross anatomy
+
+### Overview
+
+
+
+
+* Characteristics
+
+* Glandular organ
+
+* Length: 12–15 cm
+
+* Weight: approx. 80 g
+
+* Location
+
+* In the <u>abdominal cavity</u>, between the <u>duodenal</u> curvature and the <u>splenic hilum</u>
+
+* Secondary <u>retroperitoneal</u> organ
+
+* <u>Caudal</u> to the <u>omental bursa</u>
+
+* At <u>vertebral</u> level L1/L2
+
+* Function
+
+* Endocrine: produces <u>somatostatin</u>, <u>glucagon</u>, and <u>insulin</u>
+
+* Exocrine
+
+* Produces digestive enzymes that aid the absorption of <u>macronutrients</u>
+
+* Produces <u>bicarbonate</u>, which neutralizes <u>chyme</u>
+
+
+
+
+
+![Peritoneal localization of abdominal organs](../../../../../media/gpm71snzkxq9fkdlts3zgyfx.jpg)
+
+Peritoneal localization of abdominal organs
+
+![Abdominal organs](../../../../../media/czi6xqznu4e7wsvr6uwj58y2.jpg)
+
+Abdominal organs
+
+![Lesser sac and peritoneal cavity](../../../../../media/dcsuv2nyr2haarmsew8p3il4.jpg)
+
+Lesser sac and peritoneal cavity
+
+![Peritoneal cavity (sagittal section)](../../../../../media/bhq06f7ra96vbyk0jk1wchfh.jpg)
+
+Peritoneal cavity (sagittal section)
+
+
+
+
+### Anatomical subdivisions of the pancreas [[1]](https://coursology-qbank.com/amboss/article/ES08Yf)[[2]](https://coursology-qbank.com/amboss/article/iRYJ5K)
+
+
+
+
+* Head
+
+* Located within the C-shaped <u>duodenal</u> curvature
+
+* Contains the <u>pancreatic duct</u> and <u>distal</u> <u>common bile duct</u>
+
+* Uncinate process of pancreas: an extension of the pancreatic head that is located <u>posterior</u> to the superior <u>mesenteric vessels</u> (the remainder of the pancreas is not)
+
+* Neck: lies <u>anterior</u> to the <u>portal vein</u>
+
+* Body: lies <u>anterior</u> to the aorta and extends to the left <u>kidney</u>
+
+* Tail
+
+* Lies in the <u>splenorenal ligament</u> and extends to the <u>splenic hilum</u>
+
+* The <u>distal</u> segment is <u>intraperitoneal</u>.
+
+
+
+
+
+> [!TIP]
+> The uncinate process is <u>posterior</u> to the superior <u>mesenteric vessels</u>. The head, body, and tail of the pancreas lie <u>anterior</u> to the superior <u>mesenteric vessels</u>.
+
+
+
+
+### <u>Pancreatic ducts</u> [[1]](https://coursology-qbank.com/amboss/article/ES08Yf)[[2]](https://coursology-qbank.com/amboss/article/iRYJ5K)
+
+
+
+
+* Pancreatic duct (<u>duct of Wirsung</u>): extends from the tail to the head of the pancreas
+
+* Ventral pancreatic duct: drains the <u>ventral</u> bud of the developing pancreas; merges with the <u>dorsal pancreatic duct</u> to form the <u>main pancreatic duct</u>
+
+* Dorsal pancreatic duct: drains the <u>dorsal</u> bud of the developing pancreas; merges with the <u>ventral pancreatic duct</u> to form the <u>main pancreatic duct</u>
+
+* Joins with the <u>common bile duct</u> → together they form the <u>hepatopancreatic ampulla</u> (<u>ampulla of Vater</u>) → empties into the <u>major duodenal papilla</u>
+
+* Hepatopancreatic sphincter (<u>sphincter of Oddi</u>): controls the secretion of <u>bile</u> and pancreatic fluid into the <u>duodenum</u>
+
+* Accessory pancreatic duct (<u>duct of Santorini</u>): begins in the head and drains the pancreatic head and body → empties at the <u>minor duodenal papilla</u>
+
+
+
+
+
+> [!TIP]
+> Tumors in the pancreatic head often cause <u>bile duct obstruction</u> and can manifest with painless <u>jaundice</u> (<u>Courvoisier sign</u>).
+
+
+
+
+> [!TIP]
+> <u>Gallstones</u> that block the <u>ampulla of Vater</u> can result in both <u>pancreatitis</u> and <u>cholangitis</u> (<u>double duct sign</u>).
+
+
+
+
+![Bile and pancreatic ducts](../../../../../media/eu05ctiv3oq96yg7853b53gh.jpg)
+
+Bile and pancreatic ducts
+
+![Pancreatic regional anatomy](../../../../../media/nu5cebyn15y6zltr5db8rybx.jpg)
+
+Pancreatic regional anatomy
+
+
+
+
+### Vasculature, <u>lymphatics</u>, and innervation of the pancreas [[1]](https://coursology-qbank.com/amboss/article/ES08Yf)[[2]](https://coursology-qbank.com/amboss/article/iRYJ5K)
+
+
+
+
+* <u>Arteries</u> 
+
+* Head and neck
+
+* Superior pancreaticoduodenal branches (from the <u>gastroduodenal artery</u>)
+
+* Inferior pancreaticoduodenal branches (from the <u>superior mesenteric artery</u>)
+
+* Body and tail: branches of the <u>splenic artery</u> (itself a branch of the <u>celiac trunk</u>)
+
+* <u>Veins</u>
+
+* Head and neck: <u>pancreatic veins</u> → <u>superior mesenteric vein</u> → <u>portal vein</u>
+
+* Body and tail: <u>pancreatic veins</u> → <u>splenic vein</u> → <u>portal vein</u>
+
+* <u>Lymphatics</u>: celiac, superior <u>mesenteric</u>, and splenic <u>lymph nodes</u> → <u>paraaortic lymph nodes</u>
+
+* Innervation: <u>celiac ganglia</u>
+
+* <u>Sympathetic</u> fibers from T6–12
+
+* <u>Parasympathetic</u> fibers from the <u>vagus nerve</u>
+
+
+
+
+
+![Arterial supply of the duodenum, pancreas, and spleen](../../../../../media/dbemup68g967ifq27s6egc6r.jpg)
+
+Arterial supply of the duodenum, pancreas, and spleen
+
+![Tributaries of the hepatic portal vein](../../../../../media/metm17z61xb20p4cwmoyv0y7.jpg)
+
+Tributaries of the hepatic portal vein
+
+---
+
+## Microscopic anatomy
+
+![Microscopic anatomy of the pancreas](../../../../../media/axoem5k3k8j994g0y1pewebc.jpg)
+
+Microscopic anatomy of the pancreas
+
+
+
+
+### <u>Exocrine pancreas</u> [[1]](https://coursology-qbank.com/amboss/article/ES08Yf)
+
+
+
+
+* > 90% of the pancreas
+
+* Produces digestive enzymes that are secreted into the <u>gastrointestinal tract</u> (see ”<u>Exocrine pancreas</u>” below)
+
+* Composed of serous <u>glandular tissue</u> that is separated into lobules by collagenous septae
+
+* Pancreatic acini 
+
+* Units of secretory acinar cells surrounding a small lumen
+
+* Secrete <u>proenzymes</u> (e.g., <u>trypsinogen</u>, chymotrypsinogen) into intercalated ducts → ducts eventually merge to form the <u>pancreatic duct</u> → duct carries the enzymes out of the pancreas and to the <u>duodenum</u>
+
+* Centroacinar cells: pale cells in the center of the acini, which secrete <u>bicarbonate</u> ions into the pancreatic fluid
+
+* Electron micrographs of acinar cells show:
+
+* <u>Basophilic</u> <u>rough endoplasmic reticulum</u> at the basal pole
+
+* Eosinophilic <u>proenzyme</u> granules at the apical pole
+
+
+
+
+
+> [!NOTE]
+> Histologically, the <u>exocrine pancreas</u> closely resembles the <u>salivary glands</u>. However, unlike the <u>salivary glands</u>, the pancreatic <u>exocrine glands</u> lack <u>myoepithelial cells</u> in the acini and do not possess striated ducts. Additionally, <u>centroacinar cells</u> are unique to the pancreas.
+
+
+
+
+![Microstructure of the exocrine pancreas](../../../../../media/p7sr64w5pu8w90fkqmdi1q67.jpg)
+
+Microstructure of the exocrine pancreas
+
+![Exocrine acini and endocrine islets of Langerhans](../../../../../media/ll5jgmmla3xqh57yx28dmvvb.jpg)
+
+Exocrine acini and endocrine islets of Langerhans
+
+
+
+
+### <u>Endocrine pancreas</u> [[1]](https://coursology-qbank.com/amboss/article/ES08Yf)
+
+
+
+
+* Produces different <u>hormones</u> that are primarily involved in the regulation of blood <u>glucose</u> levels (see “<u>Endocrine pancreas</u>” below)
+
+* Composed of <u>islets of Langerhans</u> embedded within the <u>exocrine pancreas</u> 
+* <u>Islet cell</u> types are dispersed throughout the pancreas.
+
+* <u>Alpha cells</u> produce glucagon.
+
+* <u>Beta cells</u> produce <u>insulin</u>.
+
+* <u>Delta cells</u> produce <u>somatostatin</u>.
+
+* <u>Epsilon cells</u> produce <u>ghrelin</u>.
+
+* <u>Pancreatic polypeptide cells</u> (formerly gamma cells) produce <u>pancreatic polypeptide</u> (PP).
+
+
+
+
+
+> [!NOTE]
+> <u>Beta cells</u>, which are located on the INSide of <u>islets of Langerhans</u>, produce INSulin.
+
+
+
+
+![Parenchyma of pancreas](../../../../../media/iwta4qidjh8zd3juqrx1xxur.jpg)
+
+Parenchyma of pancreas
+
+![Pancreatic acini and islets of Langerhans](../../../../../media/odpmidz85ut5q9cfmrve2bcm.jpg)
+
+Pancreatic acini and islets of Langerhans
+
+
+
+
+### <u>Pancreatic ducts</u> [[1]](https://coursology-qbank.com/amboss/article/ES08Yf)
+
+
+
+
+* Smaller ducts have <u>cuboidal epithelium</u>.
+
+* Larger <u>interlobular ducts</u> have <u>columnar epithelium</u>.
+
+* Most pancreatic malignancies are <u>adenocarcinomas</u> that originate in the ductal <u>epithelium</u>. [[1]](https://coursology-qbank.com/amboss/article/ES08Yf)
+
+
+
+
+
+![Parenchyma of the pancreas](../../../../../media/ka907h4uvs25o5slfg0u76r2.jpg)
+
+Parenchyma of the pancreas
+
+---
+
+## Exocrine pancreas
+
+### Exocrine secretions
+
+
+
+
+The pancreatic fluid is isotonic. It contains the following:
+
+
+
+
+* Digestive pancreatic enzymes
+
+* Pancreatic <u>proteases</u>: digestion of <u>proteins</u>
+
+* Secreted as inactive <u>proenzymes</u> (<u>zymogens</u>) by <u>pancreatic acinar cells</u> into the <u>pancreatic duct</u>
+
+* <u>Trypsin</u> and <u>chymotrypsin</u>
+
+* <u>Proenzymes</u>: <u>trypsinogen</u> and chymotrypsinogen
+
+* Activated in the <u>duodenum</u>: <u>Trypsinogen</u> is activated to <u>trypsin</u> by enterokinases, which are located at the brush border of the <u>duodenal</u> and <u>jejunal</u> <u>mucosa</u>.
+
+* Once activated, <u>trypsin</u> activates chymotrypsinogen to form <u>chymotrypsin</u> and, furthermore, converts additional <u>trypsinogen</u> molecules to <u>trypsin</u> (positive feedback loop).
+
+* <u>Elastase</u> (activated by <u>trypsin</u>)
+
+* Digestion of <u>elastin</u> fibers
+
+* Activated by <u>trypsin</u>
+
+* <u>Carboxypeptidase</u>: activated by <u>trypsin</u>
+
+* Pancreatic <u>amylase</u> (secreted in active form): <u>digestion of carbohydrates</u>
+
+* <u>Pancreatic lipase</u>: digestion of lipids
+
+* <u>Phospholipase A</u>: digestion of phospholipids
+
+* Nucleases: digestion of <u>RNA</u>/<u>DNA</u>
+
+* <u>Electrolytes</u> (Na<sup>+</sup>, <u>K<sup>+</sup></u>, <u>Cl<sup>-</sup></u>, <u>HCO<sub>3</sub><sup>-</sup></u>): Concentration of <u>Cl<sup>-</sup></u> and <u>HCO<sub>3</sub><sup>-</sup></u> increases with the rate of pancreatic juice secretion
+
+* Water
+
+
+
+
+
+> [!TIP]
+> <u>Cystic fibrosis</u> is caused by a defective <u>chloride</u> channel that impairs pancreatic water and <u>electrolyte</u> secretion. This results in obstruction of the <u>pancreatic ducts</u>, with subsequent <u>maldigestion</u> and <u>malabsorption</u>.
+
+
+
+
+### Feedback mechanisms
+
+
+
+
+* Stimulation
+
+* <u>Cholecystokinin</u> (<u>CCK</u>): from <u>enteroendocrine cells</u> of the <u>duodenum</u>
+
+* <u>Secretin</u>: from <u>enteroendocrine cells</u> of the <u>duodenum</u>
+
+* Inhibition: <u>somatostatin</u>
+
+
+
+
+
+> [!TIP]
+> <u>Acute pancreatitis</u> leads to activation of the <u>pancreatic enzymes</u> within the <u>pancreatic ducts</u>, which also leads to subsequent autodigestion of pancreatic tissue.
+
+
+
+
+> [!TIP]
+> Elevations in serum <u>lipase</u> and <u>amylase</u> can be seen in <u>acute pancreatitis</u>.
+
+
+
+
+![Pancreatic bicarbonate secretion](../../../../../media/fxhaf1j6uinplhnlejbnmg5e.jpg)
+
+Pancreatic bicarbonate secretion
+
+---
+
+## Endocrine pancreas
+
+### Main endocrine cell types and <u>hormones</u> produced
+
+
+
+
+| Overview of islets of Langerhans cell types |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Cell types | Substance secreted | Function | Stimulation | Inhibition |
+| α-cells | <br>* Glucagon<br><br> | <br>* <u>Catabolic</u> effect (opposes the effects of <u>insulin</u>)<br><br>* ↑ <u>Gluconeogenesis</u><br><br>* ↑ <u>Glycogenolysis</u><br><br>* ↑ <u>Lipolysis</u><br><br>* ↑ <u>Ketogenesis</u><br><br> | <br>* <u>Hypoglycemia</u><br><br> | <br>* <u>Hyperglycemia</u>, <u>insulin</u>, <u>somatostatin</u><br><br> |
+| β-cells | <br>* <u>Insulin</u><br><br> | <br>* <u>Anabolic</u> effect<br><br>* ↑ <u>Glucose</u> uptake in <u>skeletal muscle</u> and <u>adipose tissue</u><br><br>* ↑ <u>Glycogenesis</u><br><br>* Lipid synthesis<br><br>* <u>Protein synthesis</u> in <u>skeletal muscle</u><br><br>* <u>K<sup>+</sup></u> uptake into cells<br><br>* Renal Na<sup>+</sup> retention<br><br>* ↓ <u>Lipolysis</u> (adipose)<br><br> | <br><br>* <u>Hyperglycemia</u>: <u>glucose</u> enters <u>β-cells</u> (via <u>GLUT</u> 2) → <u>glucokinase</u> converts <u>glucose</u> to <u>glucose 6-phosphate</u> → <u>ATP</u> is generated (via <u>glycolysis</u>) → <u>ATP</u> closes <u>K<sup>+</sup></u> channels → <u>depolarization</u> → opening of <u>voltage-gated Ca<sup>2+</sup> channels</u> → <u>Ca<sup>2+</sup></u> influx → <u>insulin</u> exocytosis<br><br>* <u>β<sub>2</sub>-adrenergic receptor</u> <u>agonism</u><br><br>* <u>Incretins</u><br><br><br> | <br>* α<sub>2</sub>-<u>Adrenergic receptor</u> <u>agonism</u><br><br> |
+| δ-cells | <br>* <u>Somatostatin</u><br><br> | <br><br>* ↓ <u>Insulin</u> and <u>glucagon</u> secretion<br><br>* ↓ <u>Growth hormone</u> secretion<br><br>* ↓ <u>Gastric acid</u> and <u>pepsinogen</u> secretion<br><br>* ↓ Pancreatic and <u>small bowel</u> fluid secretion<br><br>* ↓ <u>Gallbladder</u> contraction → ↓ biliary drainage<br><br>* <u>Splanchnic</u> <u>vasoconstriction</u><br><br>* Analog: octreotide used to treat <u>acromegaly</u>, <u>carcinoid syndrome</u>, and <u>variceal bleeding</u><br><br><br> | <br>* <u>Gastric acid</u> (low <u>pH</u>)<br><br> | <br>* <u>Vagus nerve</u><br><br> |
+| ε-cells | <br>* <u>Ghrelin</u><br><br> | <br><br>* Stimulates appetite and hunger (<u>lateral hypothalamus</u>)<br><br>* Promotes release of <u>growth hormone</u> (<u>anterior pituitary</u>)<br><br><br> | <br>* <u>Fasting</u>, <u>sleep deprivation</u><br><br> | <br>* Intake of food<br><br> |
+| <br>PP cells (formerly <u>γ-cells</u>) | <br>* Pancreatic polypeptide<br><br> | <br><br>* ↑ Gastric secretion of <u>gastric acid</u><br><br>* ↓ Pancreatic exocrine secretions<br><br>* Promotes satiety<br><br><br> | <br>* <u>Fasting</u><br><br> | <br>* Intake of food<br><br> |
+
+
+
+
+
+### <u>Insulin synthesis</u> and regulation
+
+
+
+
+* Insulin synthesis [[3]](https://coursology-qbank.com/amboss/article/OlYIC6)[[4]](https://coursology-qbank.com/amboss/article/h1XcgC)
+1. * <u>Insulin</u> <u>gene transcription</u> and <u>translation</u> in the <u>rER</u> of pancreatic <u>β-cells</u> → preproinsulin (precursor protein)
+2. * Signal <u>proteases</u> remove the signal <u>peptide</u> of <u>preproinsulin</u> → proinsulin
+3. * <u>Protein folding</u> and formation of one <u>disulfide bridge</u> in the <u>α-chain</u> and two <u>disulfide bridges</u> between the <u>α-chain</u> and β-chain
+4. * <u>Proinsulin</u> is transported to the <u>Golgi apparatus</u> → packaged in membrane-bound secretory granules with proprotein convertases
+5. * <u>Proinsulin</u> is cleaved by <u>proteases</u> → mature <u>insulin</u> and C-peptide
+6. * Secretion of <u>insulin</u> and <u>C-peptide</u> via exocytosis
+
+* Regulation: The secretion of <u>insulin</u> is chiefly regulated by the levels of serum blood <u>glucose</u>. [[4]](https://coursology-qbank.com/amboss/article/h1XcgC)
+
+* <u>Insulin</u> secretory pathway: <u>GLUT2</u>-mediated transfer of <u>glucose</u> into the pancreatic <u>β cells</u> → ↑ <u>glucose</u> metabolism → ↑ <u>ATP</u> production → closure of <u>ATP</u>-sensitive <u>potassium</u> channels → <u>cell membrane</u> <u>depolarization</u> → opening of <u>voltage-gated calcium channels</u> → ↑ intracellular <u>calcium</u> levels → ↑ <u>insulin</u> secretion
+
+* <u>Insulin</u> release stimulants [[5]](https://coursology-qbank.com/amboss/article/n1X7hC)[[6]](https://coursology-qbank.com/amboss/article/L1XwhC)
+
+* <u>Glucose</u> (because of <u>incretin</u> secretion following food ingestion, oral administration stimulates more <u>insulin</u> release than IV <u>glucose</u>)
+
+* <u>β<sub>2</sub>agonists</u>
+
+* Free <u>fatty acids</u>  [[7]](https://coursology-qbank.com/amboss/article/K1XU3C)
+
+* <u>Amino acids</u>  [[8]](https://coursology-qbank.com/amboss/article/61Xj3C)
+
+* <u>Incretins</u> (e.g., <u>GLP-1</u> and <u>GIP</u>) [[9]](https://coursology-qbank.com/amboss/article/p1XL3C)
+
+* <u>Insulin</u> release inhibitors [[6]](https://coursology-qbank.com/amboss/article/L1XwhC)
+
+* α<sub>2</sub><u>agonists</u>
+
+* <u>Epinephrine</u>
+
+* <u>Cortisol</u>
+
+* <u>Glucagon</u>
+
+* <u>Somatostatin</u> [[10]](https://coursology-qbank.com/amboss/article/o1X03C)
+
+* Clearance: via <u>liver</u> and <u>kidney</u>
+
+
+
+
+
+> [!NOTE]
+> <u>C-peptide</u> is released by the <u>β-cells</u> in an equimolar <u>proportion</u> to <u>insulin</u> but is not present in <u>exogenous</u> <u>insulin</u>. It can, therefore, be used to differentiate between <u>endogenous</u> (e.g., <u>insulinoma</u>, <u>sulfonylurea</u> use) and <u>exogenous</u> <u>hyperinsulinism</u>.
+
+
+
+
+> [!TIP]
+> Oral <u>glucose</u> results in a greater increase in <u>insulin</u> levels than IV administration.
+
+
+
+
+![Structure and biosynthesis of insulin](../../../../../media/p94pzcnz7plw2moz2mblbjw2.jpg)
+
+Structure and biosynthesis of insulin
+
+![Insulin secretion pathway](../../../../../media/le47w9phjze5gix5p4abdx6i.jpg)
+
+Insulin secretion pathway
+
+---
+
+## Embryology
+
+* Origin: derived from the <u>foregut</u> (<u>endoderm</u>)
+
+* Steps  
+1. * The <u>endoderm</u> forms <u>ventral</u> and <u>dorsal</u> pancreatic buds. 
+
+* <u>Ventral</u> pancreatic bud: <u>main pancreatic duct</u>, uncinate process, lower part of pancreatic head
+
+* <u>Dorsal</u> pancreatic bud: rest of pancreatic head, neck, body, tail, and <u>accessory pancreatic duct</u>
+2. * <u>Foregut</u> rotation: <u>ventral</u> pancreatic bud fuses with the <u>dorsal</u> pancreatic bud
+3. * <u>Secondary retroperitonealization</u>
+4. * The pancreas comes to rest under the <u>lesser sac</u> (<u>omental bursa</u>).
+
+* Impaired development [[11]](https://coursology-qbank.com/amboss/article/oPY0f6)[[12]](https://coursology-qbank.com/amboss/article/BUYz2o)
+
+* <u>Annular pancreas</u>: failure of the <u>ventral</u> pancreatic bud rotation → fusion of the <u>ventral</u> and <u>dorsal</u> buds → formation of a pancreatic ring around the second part of the <u>duodenum</u> → <u>duodenal</u> compression (preampullary or postampullary)
+
+* Associated with <u>Down syndrome</u>
+
+* Clinical features
+
+* Antenatal: <u>polyhydramnios</u>
+
+* Postnatal: feeding difficulties, nonbilious or <u>bilious</u> <u>vomiting</u>, abdominal distention
+
+* Adults: abdominal <u>postprandial</u> distention, epigastric <u>pain</u>, nonbilious or <u>bilious</u> <u>vomiting</u>
+
+* Imaging findings: <u>double bubble sign</u> on <u>x-ray</u> (if <u>duodenal stenosis</u> is present)
+
+* <u>Pancreas divisum</u>: failure of the <u>ventral</u> and <u>dorsal</u> buds to fuse by the 8<sup>th</sup> week of <u>gestation</u> results in separate drainage of the <u>dorsal</u> and <u>ventral pancreatic ducts</u> via minor and major <u>duodenal</u> <u>papillae</u> respectively
+
+* Most common congenital defect of the pancreas
+
+* Clinical features: usually asymptomatic but may cause <u>chronic abdominal pain</u> or <u>pancreatitis</u> in some cases
+
+* See also “<u>Embryology of the gastrointestinal tract</u>” and "<u>Congenital anomalies of the pancreas</u>."
+
+
+
+
+
+![Embryological development of the pancreas](../../../../../media/l3jts0xtawxggk5vk8ckhwyj.jpg)
+
+Embryological development of the pancreas
+
+![Duodenal stenosis from annular pancreas](../../../../../media/fm4dm0tm05och0gpow1si3o5.jpg)
+
+Duodenal stenosis from annular pancreas
+
+![Annular pancreas](../../../../../media/biq9oix1w2xvuscbvgbmhs7i.jpg)
+
+Annular pancreas
+
+---
+
+## Clinical significance
+
+### <u>Exocrine pancreas</u>
+
+
+
+
+* <u>Cystic fibrosis</u>
+
+* <u>Acute pancreatitis</u>
+
+* <u>Chronic pancreatitis</u>
+
+* <u>Pancreatic cancer</u>
+
+* <u>Gallstone pancreatitis</u>
+
+* <u>Cholangitis</u>
+
+* <u>Mumps</u>
+
+* <u>Pancreatic pseudocyst</u>
+
+
+
+
+
+### <u>Endocrine pancreas</u>
+
+
+
+
+* <u>Diabetes mellitus</u>
+
+* <u>Pancreatic neuroendocrine tumors</u>
+
+* <u>Insulinoma</u>
+
+* <u>Gastrinoma</u> (<u>Zollinger-Ellison syndrome</u>)
+
+* <u>Glucagonoma</u>
+
+* <u>Somatostatinoma</u>
+
+* <u>VIPoma</u>
+
+* <u>MEN 1 syndrome</u>
+
+* <u>Hemochromatosis</u>
+
+
+
+
+
+### <u>Embryology of the pancreas</u>
+
+
+
+
+* <u>Annular pancreas</u>
+
+* <u>Pancreas divisum</u>
+
+---

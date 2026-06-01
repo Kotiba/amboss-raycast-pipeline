@@ -1,0 +1,202 @@
+# Cardiac imaging
+
+*Categories: Clinical knowledge > Internal medicine > Cardiology and angiology > Basics of cardiology > Cardiac imaging*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/p80Ln3)
+
+---
+
+## Summary
+
+Cardiac imaging is used to evaluate cardiac structure, function, and pathophysiology. <u>Echocardiography</u> is the most common cardiac imaging modality. It can evaluate cardiac structure and ventricular function and assess for abnormalities (e.g., wall motion abnormalities, <u>thrombi</u>, vegetations). <u>Cardiac CT</u> and <u>cardiac MRI</u> (<u>CMR</u>) provide high-resolution <u>cross-sectional imaging</u>. <u>Radionuclide myocardial perfusion imaging</u> uses radioactive tracers to evaluate <u>myocardial</u> viability, detect <u>ischemia</u>, and assess <u>perfusion</u> and <u>left ventricular</u> function.
+
+
+
+
+<u>Cardiac catheterization</u>, <u>ECG</u>, <u>POCUS in acute heart failure</u>, and <u>chest x-ray (heart)</u> are covered separately.
+
+---
+
+## Echocardiography
+
+### Transthoracic echocardiography (<u>TTE</u>)  [[1]](https://coursology-qbank.com/amboss/article/iPbJeF)[[2]](https://coursology-qbank.com/amboss/article/XBW9zn0)
+
+
+
+
+* Description: : noninvasive <u>ultrasound</u> <u>examination of the heart</u> (most frequently used cardiologic imaging modality)
+
+* Common techniques
+
+* Two-dimensional <u>TTE</u>
+
+* Three-dimensional <u>TTE</u>
+
+* <u>Doppler mode</u>
+
+* <u>Stress echocardiography</u>
+
+* <u>Contrast echocardiography</u>
+
+* Common uses
+
+* Initial evaluation of pathological <u>heart murmurs</u> [[3]](https://coursology-qbank.com/amboss/article/8VXOwC)
+
+* Assessment of valvular function by determining:   [[4]](https://coursology-qbank.com/amboss/article/-FXDk-)
+
+* Average pressure gradient
+
+* Valve area: decreased in valvular stenosis
+
+* Amount of <u>regurgitation</u> (determined using <u>color Doppler ultrasound</u>): increased in valvular insufficiency
+
+* Assessment of <u>myocardial contractility</u>, e.g., in <u>heart failure</u>, <u>myocardial infarction</u>, <u>pulmonary embolism</u>
+
+* Evaluation of other pathologies, e.g., septal defects, <u>aneurysms</u>, <u>thrombi</u>, vegetations, <u>pericardial effusions</u>
+
+
+
+
+
+![Echocardiogram subxiphoid view](../../../../../media/ssiu0zh9u247a3o9os755trt.jpg)
+
+Echocardiogram subxiphoid view
+
+
+
+
+### Transesophageal echocardiography (<u>TEE</u>) [[1]](https://coursology-qbank.com/amboss/article/iPbJeF)[[5]](https://coursology-qbank.com/amboss/article/pBWLbL0)
+
+
+
+
+* Description
+
+* An <u>ultrasound</u> <u>examination of the heart</u>, coronary vessels, and <u>thoracic aorta</u> performed by endoscopically inserting a transducer into the <u>esophagus</u>
+
+* Allows for better visualization of <u>posterior</u> structures than <u>TTE</u>
+
+* Common uses
+
+* Valve evaluation in suspected <u>endocarditis</u>
+
+* Evaluation for a <u>cardiac emboli</u> source (e.g., suspected embolic <u>stroke</u>)
+
+* Exclusion of <u>thrombi</u> before <u>cardioversion</u> in patients with <u>atrial fibrillation</u>
+
+* Evaluation for <u>aortic dissection</u>
+
+* During cardiac surgeries and procedures
+
+
+
+
+
+> [!TIP]
+> <u>TEE</u> is often preceded by <u>TTE</u> to determine necessity.
+
+
+
+
+![Thrombus in the left atrial appendage](../../../../../media/v2x2jn055pwpch70tbly8r0k.jpg)
+
+Thrombus in the left atrial appendage
+
+---
+
+## Cardiac CT
+
+<u>Cardiac CT</u> is a radiological study that uses <u>multidetector CT</u> techniques to assess cardiac structure and function (e.g., chamber and valve anatomy, <u>coronary artery</u> <u>calcium</u> and/or stenosis).
+
+
+
+
+### <u>Coronary artery calcium score</u> (<u>CAC score</u>) [[6]](https://coursology-qbank.com/amboss/article/SyWyeL0)[[7]](https://coursology-qbank.com/amboss/article/W-WPwL0)[[8]](https://coursology-qbank.com/amboss/article/b-bHDw)
+
+
+
+
+* Description: a <u>CAD</u> risk <u>stratification</u> score based on the amount of calcification in the <u>coronary arteries</u> on low-dose <u>cardiac CT</u>
+
+* Common uses [[9]](https://coursology-qbank.com/amboss/article/Urdbgr0)[[10]](https://coursology-qbank.com/amboss/article/OS1I-T0)
+
+* Evaluation for <u>CAD</u> in selected patients
+
+* To guide treatment decisions regarding preventive <u>statin</u> therapy in asymptomatic patients with borderline or intermediate <u>ASCVD risk</u>
+
+
+
+
+
+### Coronary CT angiography (<u>CCTA</u>) [[10]](https://coursology-qbank.com/amboss/article/OS1I-T0)[[11]](https://coursology-qbank.com/amboss/article/xEXEB-)[[12]](https://coursology-qbank.com/amboss/article/ucdpVK0)
+
+
+
+
+* Description: a noninvasive contrast-enhanced radiological study used to visualize the <u>coronary arteries</u> on <u>cardiac CT</u>   [[13]](https://coursology-qbank.com/amboss/article/yEXdy-)
+
+* Common uses
+
+* Evaluation for <u>CAD</u> in selected patients, e.g., with <u>stable angina</u> and intermediate to high <u>PTP for obstructive CAD</u> [[14]](https://coursology-qbank.com/amboss/article/b1dH2K0)
+
+* Assessment after <u>revascularization</u>
+
+* Evaluation of cardiac structure and function, e.g., in adult <u>congenital heart disease</u>, <u>heart failure</u>, or valvular disease
+
+
+
+
+
+> [!TIP]
+> <u>Coronary CT angiography</u> is a noninvasive method that can be used to detect <u>obstructive CAD</u> in patients at low to intermediate risk and those with contraindications for <u>stress</u> testing.
+
+
+
+
+![Calcified and noncalcified coronary artery plaques](../../../../../media/simskxbser5t2ji2vtipnsue.jpg)
+
+Calcified and noncalcified coronary artery plaques
+
+---
+
+## Radionuclide myocardial perfusion imaging
+
+### Description [[19]](https://coursology-qbank.com/amboss/article/NyW-2L0)[[20]](https://coursology-qbank.com/amboss/article/myWVfL0)
+
+
+
+
+<u>Radionuclide myocardial perfusion imaging</u> is an imaging technique that uses a radioactive tracer to evaluate <u>myocardial</u> viability, detect <u>ischemia</u>, and assess <u>perfusion</u> and <u>left ventricular</u> function.
+
+
+
+
+### Modalities
+
+
+
+
+* Cardiac PET
+
+* Cardiac <u>SPECT</u>
+
+* <u>Stress MPI</u>
+
+
+
+
+
+### Common uses
+
+
+
+
+* <u>Diagnosis of CAD</u>  [[10]](https://coursology-qbank.com/amboss/article/OS1I-T0)
+
+* Risk <u>stratification</u> for, e.g., cardiac mortality, cardiac events  [[21]](https://coursology-qbank.com/amboss/article/lyWv2L0)
+
+* Assessment of <u>myocardial</u> viability before <u>revascularization</u>
+
+* Evaluation of treatment response in <u>CAD</u>
+
+---

@@ -1,0 +1,340 @@
+# Mallory-Weiss syndrome
+
+*Categories: Clinical knowledge > Internal medicine > Gastroenterology > Diseases of the esophagus > Mallory-Weiss syndrome*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/9g0Nx2)
+
+---
+
+## Summary
+
+Mallory-Weiss syndrome is characterized by acute <u>upper gastrointestinal bleeding</u> caused by <u>mucous membrane</u> <u>lacerations</u> at the <u>gastroesophageal junction</u>; <u>lacerations</u> may also extend above and/or below the junction. These <u>lacerations</u> are often caused by forceful <u>vomiting</u> in patients with gastric <u>mucosal</u> injury, usually related to <u>heavy alcohol use</u>. Patients typically present with a history of epigastric <u>pain</u> and <u>hematemesis</u>. Patients with severe bleeding may be <u>hemodynamically unstable</u> and, therefore, <u>immediate hemodynamic support</u> (e.g., <u>IV fluid resuscitation</u> and/or <u>blood transfusion</u>) may be necessary. <u>EGD</u> is used in both the diagnosis of Mallory-Weiss syndrome and its treatment, as it may involve simultaneous <u>hemostasis</u>. If <u>EGD</u> is unsuccessful, <u>angiography</u> may be considered; <u>surgery</u> is rarely required. Pharmacological treatment (e.g., <u>antiemetic therapy</u>, acid suppression) should be initiated in all patients with Mallory-Weiss syndrome; further treatment is often not required in patients without active bleeding.
+
+---
+
+## Epidemiology
+
+* Sex: <u>♂</u> > <u>♀</u> (3:1)
+
+* Mallory-Weiss lesions account for approx. 5% of cases of <u>gastrointestinal bleeding</u> [[1]](https://coursology-qbank.com/amboss/article/NDX-eZ0)
+
+
+
+
+Epidemiological data refers to the US, unless otherwise specified.
+
+---
+
+## Etiology
+
+* Mechanism: a sudden and severe rise in the esophageal intraluminal pressure results in tearing of the esophageal <u>mucous membrane</u>, as well as the <u>submucosal</u> <u>arteries</u> and <u>veins</u>
+
+* Precipitating factors
+
+* Severe <u>vomiting</u>
+
+* <u>Blunt abdominal trauma</u>
+
+* Strained defecation
+
+* Predisposing conditions
+
+* <u>Alcohol use disorder</u>
+
+* <u>Bulimia nervosa</u>
+
+* <u>Hiatal hernia</u> (higher pressure gradient)
+
+* <u>Gastroesophageal reflux disease</u> (<u>GERD</u>)
+
+---
+
+## Clinical features
+
+* May be asymptomatic
+
+* Epigastric or <u>back pain</u>
+
+* <u>Hematemesis</u>
+
+* Possible <u>shock</u> with <u>massive hemorrhage</u>
+
+---
+
+## Diagnosis
+
+### Approach [[2]](https://coursology-qbank.com/amboss/article/6Z1jc20)[[3]](https://coursology-qbank.com/amboss/article/odX0IC)[[4]](https://coursology-qbank.com/amboss/article/ACcRue0)[[5]](https://coursology-qbank.com/amboss/article/-CcDue0)[[6]](https://coursology-qbank.com/amboss/article/tybXSw)
+
+
+
+
+Suspect Mallory-Weiss syndrome in patients with <u>upper GI bleeding</u> and a history of precipitating factors or predisposing conditions; see “Etiology.”
+
+
+
+
+* Follow a <u>diagnostic approach for overt GI bleeding</u>. 
+
+* Perform an <u>ABCDE survey</u> and assess for <u>clinical features of shock</u>.
+
+* Obtain an initial diagnostic workup.
+
+* Assess for high-risk features of <u>GI bleeding</u> (e.g., <u>anemia</u>, <u>coagulopathy</u>, ↑ <u>BUN</u>).
+
+* Rule out differential diagnoses (e.g., <u>acute coronary syndrome</u>).
+
+* Confirm the diagnosis.
+
+* Consult gastroenterology for <u>EGD</u>.
+
+* Consider <u>angiography</u> if <u>EGD</u> is unsuccessful or unavailable.
+
+
+
+
+
+> [!TIP]
+> Blood loss may initially be concealed because of the large volume of the <u>GI tract</u>.
+
+
+
+
+![Management of acute upper gastrointestinal bleeding](../../../../../media/wtd3r5r5oclspy71he85xew9.jpg)
+
+Management of acute upper gastrointestinal bleeding
+
+
+
+
+### Initial studies [[4]](https://coursology-qbank.com/amboss/article/ACcRue0)
+
+
+
+
+* <u>CBC</u>: may reveal <u>anemia</u>  and/or <u>thrombocytopenia</u>
+
+* <u>Coagulation studies</u>: may reveal <u>coagulopathy</u> (see also “<u>Laboratory findings in bleeding disorders</u>”)
+
+* <u>BMP</u>: may show ↑ <u>BUN:creatinine ratio</u>
+
+* <u>Pretransfusion testing</u>: <u>blood typing</u> and <u>crossmatching</u>
+
+* <u>Cardiac enzymes</u> and bedside <u>ECG</u>: to rule out <u>acute coronary syndrome</u>
+
+
+
+
+
+### <u>EGD</u> [[2]](https://coursology-qbank.com/amboss/article/6Z1jc20)[[3]](https://coursology-qbank.com/amboss/article/odX0IC)[[5]](https://coursology-qbank.com/amboss/article/-CcDue0)[[7]](https://coursology-qbank.com/amboss/article/rDYffr)[[8]](https://coursology-qbank.com/amboss/article/xCcE8e0)
+
+
+
+
+<u>EGD</u> is the <u>gold standard test</u> and can rule out other <u>differential diagnoses of upper GI bleeding</u>.
+
+
+
+
+* Indications
+
+* Should be performed in all patients to confirm the diagnosis
+
+* The need for urgent evaluation will depend on the severity of the bleeding; see “<u>Glasgow-Blatchford bleeding score</u>.”
+
+* Typical findings  
+
+* Often a single longitudinal tear (but multiple tears are possible) in the <u>mucosa</u> at the <u>gastroesophageal junction</u>;  or in the <u>cardia</u> of the <u>stomach</u> which are limited to the <u>mucosa</u> and <u>submucosa</u>
+
+* A <u>fibrin</u> <u>crust</u> over the split, a clot, or active bleeding may be evident.
+
+
+
+
+
+> [!NOTE]
+> MaLLory-Weiss: Longitudinal Lacerations
+
+
+
+
+### <u>Angiography</u> [[3]](https://coursology-qbank.com/amboss/article/odX0IC)[[5]](https://coursology-qbank.com/amboss/article/-CcDue0)[[6]](https://coursology-qbank.com/amboss/article/tybXSw)[[9]](https://coursology-qbank.com/amboss/article/7DY4fr)
+
+
+
+
+* Indications
+
+* Signs of active bleeding without successful location of the tear on <u>EGD</u>
+
+* <u>EGD</u> unavailable
+
+* Typical findings: contrast extravasation at the site of active bleeding
+
+---
+
+## Differential diagnoses
+
+See “<u>Differential diagnoses of upper GI bleeding</u>” for details.
+
+
+
+
+* <u>Boerhaave syndrome</u>
+
+* <u>Esophagitis</u>
+
+* Esophageal <u>ulcers</u>
+
+* <u>Peptic ulcer disease</u>
+
+
+
+
+
+![Mallory-Weiss syndrome and Boerhaave syndrome](../../../../../media/tvd991ds95zs4njtppbioer0.jpg)
+
+Mallory-Weiss syndrome and Boerhaave syndrome
+
+
+
+
+The differential diagnoses listed here are not exhaustive.
+
+---
+
+## Treatment
+
+There are no specific guidelines for the management of Mallory-Weiss syndrome; recommendations are based on guidelines for the management of <u>upper GI bleeding</u>. [[2]](https://coursology-qbank.com/amboss/article/6Z1jc20)[[5]](https://coursology-qbank.com/amboss/article/-CcDue0)[[6]](https://coursology-qbank.com/amboss/article/tybXSw)[[8]](https://coursology-qbank.com/amboss/article/xCcE8e0)
+
+
+
+
+### Approach [[2]](https://coursology-qbank.com/amboss/article/6Z1jc20)[[4]](https://coursology-qbank.com/amboss/article/ACcRue0)[[5]](https://coursology-qbank.com/amboss/article/-CcDue0)[[6]](https://coursology-qbank.com/amboss/article/tybXSw)
+
+
+
+
+* Start <u>initial management of overt GI bleeding</u>, potentially including:
+
+* <u>Immediate hemodynamic support</u>
+
+* <u>Emergency blood transfusion</u> and correction of <u>coagulopathy</u>
+
+* <u>Empiric medical therapy for GI bleeding</u>
+
+* Start pharmacological therapy: to control precipitating factors and predisposing conditions (e.g., <u>nausea</u> and/or <u>vomiting</u>)
+
+* Evaluate the need for interventional therapy.
+
+* In patients without active bleeding, noninterventional management is often sufficient.
+
+* Consult specialists early (e.g., gastroenterology, interventional radiology )
+
+* Treat the underlying condition: e.g., <u>counseling on alcohol use disorder</u> , treatment of <u>bulimia nervosa</u>
+
+
+
+
+
+> [!WARNING]
+> The use of large volumes of IV fluid during resuscitation in patients with ongoing bleeding increases the risk of dilutional <u>coagulopathy</u>, which can worsen the hemorrhage. Consider <u>blood products</u> early.
+
+
+
+
+### Pharmacological treatment [[2]](https://coursology-qbank.com/amboss/article/6Z1jc20)[[5]](https://coursology-qbank.com/amboss/article/-CcDue0)[[6]](https://coursology-qbank.com/amboss/article/tybXSw)
+
+
+
+
+The goal is to promote <u>mucosal</u> recovery.
+
+
+
+
+* Acid suppression
+
+* IV <u>PPI</u> therapy: e.g., <u>esomeprazole</u> DOSAGE or high-dose <u>esomeprazole</u> (<u>off label</u>) DOSAGE  [[10]](https://coursology-qbank.com/amboss/article/Ab1Rw20)
+
+* Consider prior to <u>EGD</u> as part of <u>empiric medical therapy for GI bleeding</u>.
+
+* Consider continuation for 72 hours after endoscopy in patients at high risk for rebleeding.
+
+* Oral <u>PPI</u> therapy (e.g., <u>omeprazole</u> DOSAGE or <u>pantoprazole</u> DOSAGE)
+
+* Initiate in all patients after IV <u>PPI</u> therapy has been discontinued (<u>off-label use</u>).
+
+* The recommended dosage (e.g., every 12–24 hours) and duration (e.g., 2–8 weeks) of therapy varies; consult a specialist.
+
+* <u>Anticoagulant reversal</u>: Consider for life-threatening bleeding.
+
+* <u>Antiemetic therapy</u> (e.g., <u>ondansetron</u>, <u>promethazine</u>): Consider in patients with <u>nausea</u>, retching, and/or <u>vomiting</u>.
+
+
+
+
+
+> [!WARNING]
+> Initiation of pharmacological therapy should not delay endoscopy.
+
+
+
+
+> [!TIP]
+> <u>Conservative treatment</u> with <u>PPI</u> therapy alone is usually sufficient for patients without active bleeding.
+
+
+
+
+### Endoscopic treatment [[2]](https://coursology-qbank.com/amboss/article/6Z1jc20)[[3]](https://coursology-qbank.com/amboss/article/odX0IC)[[5]](https://coursology-qbank.com/amboss/article/-CcDue0)[[6]](https://coursology-qbank.com/amboss/article/tybXSw)[[8]](https://coursology-qbank.com/amboss/article/xCcE8e0)
+
+
+
+
+* Indication: first-line treatment for actively bleeding Mallory-Weiss tears
+
+* Techniques [[5]](https://coursology-qbank.com/amboss/article/-CcDue0)
+
+* Injection of an <u>epinephrine</u> solution;   or a <u>fibrin</u> sealant
+
+* Electrocoagulation or argon plasma coagulation
+
+* <u>Endoscopic band ligation</u>
+
+* Hemoclip placement
+
+
+
+
+
+### Angiographic treatment [[3]](https://coursology-qbank.com/amboss/article/odX0IC)[[4]](https://coursology-qbank.com/amboss/article/ACcRue0)[[5]](https://coursology-qbank.com/amboss/article/-CcDue0)[[6]](https://coursology-qbank.com/amboss/article/tybXSw)[[9]](https://coursology-qbank.com/amboss/article/7DY4fr)
+
+
+
+
+* Indications
+
+* Second-line treatment for actively bleeding Mallory-Weiss tears if <u>EGD</u> is unsuccessful
+
+* Alternative to <u>EGD</u> in patients at high risk for endoscopic complications  or if <u>EGD</u> is unavailable
+
+* Techniques
+
+* Embolization of the <u>left gastric artery</u>
+
+* <u>Vasopressin infusion</u>
+
+
+
+
+
+### Surgical treatment [[4]](https://coursology-qbank.com/amboss/article/ACcRue0)[[6]](https://coursology-qbank.com/amboss/article/tybXSw)
+
+
+
+
+* Indication: only considered if <u>EGD</u> and angiographic treatment are unsuccessful and bleeding is ongoing
+
+* Technique: surgical ligation of bleeding vessels
+
+---

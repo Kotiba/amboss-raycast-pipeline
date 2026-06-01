@@ -1,0 +1,281 @@
+# Small intestinal bacterial overgrowth
+
+*Categories: Clinical knowledge > Emergency medicine > Gastrointestinal disorders > Small intestinal bacterial overgrowth*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/z80r63)
+
+---
+
+## Summary
+
+Small intestinal bacterial overgrowth (SIBO) is excessive growth of bacteria in the <u>small intestine</u> that causes gastrointestinal symptoms. Causes include structural abnormalities (e.g., due to postsurgical complications), motility disorders, biochemical abnormalities, and immune dysregulation. Growth is typically a mixture of aerobic and anaerobic gram-negative coliforms, which produce gas through fermentation of small intestinal contents and impair intestinal function. Clinical features include flatulence, <u>bloating</u>, abdominal discomfort, and <u>diarrhea</u>. Severe SIBO can cause <u>malabsorption</u>, <u>micronutrient</u> deficiencies, and weight loss. Diagnosis is performed with a quantitative culture of <u>duodenal aspirate</u> (<u>gold standard test</u>) or a <u>hydrogen breath test</u>. Treatment involves <u>antibiotics</u>, and further management is based on the underlying condition and/or nutritional deficiencies.
+
+
+
+
+<u>Intestinal methanogen overgrowth</u> is characterized by pathological overgrowth of <u>methane</u>-producing <u>archaea</u>. Symptoms include <u>constipation</u>. Diagnosis is confirmed with a <u>methane</u> breath test, and treatment involves <u>antibiotics</u>.
+
+---
+
+## Definitions
+
+SIBO is a pathologically excessive growth of bacteria in the <u>small intestine</u> that causes gastrointestinal symptoms. [[2]](https://coursology-qbank.com/amboss/article/QFcu3V0)[[3]](https://coursology-qbank.com/amboss/article/D3d1kp0)
+
+---
+
+## Etiology
+
+* Structural abnormalities [[2]](https://coursology-qbank.com/amboss/article/QFcu3V0)
+
+* Postsurgical complications, e.g.:
+
+* <u>Short bowel syndrome</u>
+
+* Blind loop syndrome: bacterial overgrowth in the bypassed intestinal segment (blind loop), e.g., due to <u>gastrectomy</u>
+
+* Adhesions
+
+* Strictures and/or <u>fistulae</u> e.g., due to <u>Crohn disease</u>, <u>radiation injury</u>
+
+* <u>Small bowel diverticulosis</u>
+
+* <u>Volvulus</u> or <u>intussusception</u>
+
+* <u>Small-bowel cancer</u>
+
+* Motility disorders [[2]](https://coursology-qbank.com/amboss/article/QFcu3V0)
+
+* <u>Irritable bowel syndrome</u> (<u>IBS</u>)
+
+* <u>Paralytic ileus</u>, e.g., due to <u>opiate</u> use
+
+* Systemic disorders, e.g., <u>diabetic autonomic neuropathy</u>, <u>systemic sclerosis</u>, <u>amyloidosis</u>
+
+* Biochemical abnormalities [[2]](https://coursology-qbank.com/amboss/article/QFcu3V0)
+
+* <u>Achlorhydria</u>, e.g., due to <u>atrophic gastritis</u>, <u>proton pump inhibitors</u>
+
+* <u>Chronic pancreatitis</u>, <u>exocrine pancreatic insufficiency</u>
+
+* <u>Liver</u> disease, <u>cirrhosis</u>
+
+* Immune disorders [[2]](https://coursology-qbank.com/amboss/article/QFcu3V0)
+
+* <u>Common variable immunodeficiency</u>
+
+* <u>Selective IgA deficiency</u>
+
+* <u>HIV</u>
+
+* <u>Inflammatory bowel disease</u> [[4]](https://coursology-qbank.com/amboss/article/4XV3yG0)
+
+* Multifactorial [[3]](https://coursology-qbank.com/amboss/article/D3d1kp0)
+
+* <u>CKD</u>
+
+* Advanced age
+
+
+
+
+
+> [!TIP]
+> SIBO is caused by conditions that impair stool movement, create a favorable microenvironment for bacteria, and/or reduce immune defenses.
+
+---
+
+## Pathophysiology
+
+The following result from bacterial overgrowth. [[5]](https://coursology-qbank.com/amboss/article/hDbcVD)
+
+
+
+
+* ↑ Deconjugation of the <u>bile acids</u>
+
+* ↑ Production of <u>folate</u>
+
+* Rare: ↓ absorption of <u>vitamin B<sub>12</sub></u>, <u>fat-soluble vitamins</u>, <u>zinc</u>, and <u>iron</u>
+
+---
+
+## Clinical features
+
+Symptoms are caused by bacterial fermentation of intestinal contents, intestinal inflammation, and/or changes in intestinal permeability and motility. [[2]](https://coursology-qbank.com/amboss/article/QFcu3V0)[[3]](https://coursology-qbank.com/amboss/article/D3d1kp0)
+
+
+
+
+* Common symptoms [[2]](https://coursology-qbank.com/amboss/article/QFcu3V0)[[3]](https://coursology-qbank.com/amboss/article/D3d1kp0)
+
+* <u>Bloating</u>
+
+* Flatulence
+
+* Abdominal <u>pain</u> or discomfort
+
+* <u>Diarrhea</u> (more common in SIBO) and/or <u>constipation</u> (more common in <u>intestinal methanogen overgrowth</u>)
+
+* <u>Nausea</u>
+
+* Signs of severe disease: rare; typically caused by structural abnormalities, e.g., <u>blind loop syndrome</u> [[2]](https://coursology-qbank.com/amboss/article/QFcu3V0)[[3]](https://coursology-qbank.com/amboss/article/D3d1kp0)
+
+* <u>Steatorrhea</u>
+
+* Weight loss
+
+* Other signs of <u>malabsorption</u>, e.g.:
+
+* <u>Signs of anemia</u>
+
+* Signs of <u>micronutrient</u> deficiencies, e.g., <u>vitamin B<sub>12</sub> deficiency</u>
+
+---
+
+## Diagnosis
+
+### Approach [[2]](https://coursology-qbank.com/amboss/article/QFcu3V0)
+
+
+
+
+* Consider SIBO in patients with typical clinical features and a condition or anatomic abnormality associated with SIBO (e.g., <u>IBS</u>). [[2]](https://coursology-qbank.com/amboss/article/QFcu3V0)
+
+* Consider routine <u>laboratory studies</u> to assess for signs of nutritional deficiencies, e.g., <u>iron-deficiency anemia</u>.
+
+* Confirm SIBO with one of the following:
+
+* <u>Hydrogen breath testing</u> (most commonly used)
+
+* <u>Small bowel aspirate</u>
+
+* Consider further investigations, e.g., endoscopy, to detect underlying conditions guided by <u>patient history</u> and examination.
+
+* Consider gastroenterology referral to assess for alternative diagnoses, e.g., other <u>causes of malabsorption</u>.
+
+
+
+
+
+### <u>Laboratory studies</u> [[2]](https://coursology-qbank.com/amboss/article/QFcu3V0)[[3]](https://coursology-qbank.com/amboss/article/D3d1kp0)
+
+
+
+
+<u>Laboratory studies</u> are not routinely indicated. Findings may be normal or show nonspecific abnormalities.
+
+
+
+
+* <u>CBC</u>: <u>anemia</u>, e.g., due to <u>iron deficiency</u> and/or <u>vitamin B<sub>12</sub> deficiency</u>
+
+* Abnormal <u>micronutrient</u> levels, e.g.:  [[2]](https://coursology-qbank.com/amboss/article/QFcu3V0)[[3]](https://coursology-qbank.com/amboss/article/D3d1kp0)
+
+* ↑ <u>Folate</u>
+
+* ↓ <u>Vitamin B<sub>12</sub></u>
+
+* ↑ or ↓ <u>Vitamin K</u>
+
+
+
+
+
+### <u>Confirmatory tests</u>
+
+
+
+
+#### <u>Hydrogen breath testing</u> [[2]](https://coursology-qbank.com/amboss/article/QFcu3V0)[[6]](https://coursology-qbank.com/amboss/article/v3dA4p0)
+
+
+
+
+<u>Hydrogen breath testing</u> is generally preferred for confirming SIBO and is usually performed in combination with a <u>methane</u> breath test for <u>IMO</u>.
+
+
+
+
+* Procedure
+
+* Discontinue <u>antibiotics</u> for 4 weeks and <u>prokinetic agents</u> and <u>laxatives</u> for 1 week before testing.
+
+* Measure exhaled hydrogen after patient consumes a <u>carbohydrate</u> load.  [[2]](https://coursology-qbank.com/amboss/article/QFcu3V0)
+
+* Repeat testing may be needed, as <u>sensitivity</u> and <u>specificity</u> are limited. [[2]](https://coursology-qbank.com/amboss/article/QFcu3V0)
+
+* Options
+
+* <u>Glucose hydrogen breath test</u>: higher <u>sensitivity</u> and <u>specificity</u>  [[6]](https://coursology-qbank.com/amboss/article/v3dA4p0)
+
+* <u>Lactulose hydrogen breath test</u>
+
+* Findings: An increase of ≥ 20 ppm above baseline within 90 minutes confirms SIBO.  [[2]](https://coursology-qbank.com/amboss/article/QFcu3V0)
+
+
+
+
+
+#### <u>Small bowel aspirate</u> [[2]](https://coursology-qbank.com/amboss/article/QFcu3V0)[[3]](https://coursology-qbank.com/amboss/article/D3d1kp0)
+
+
+
+
+<u>Small bowel aspirate</u> is the <u>gold standard test</u>; however, collection is invasive, and the risk of contamination is high.
+
+
+
+
+* Procedure
+
+* <u>Duodenal</u> or <u>jejunal</u> fluid is aspirated during endoscopy.
+
+* Obtain quantitative aerobic and anaerobic cultures.
+
+* Findings
+
+* Typically mixed <u>colonic</u> flora (most commonly gram-negative coliforms, e.g., <u>Escherichia coli</u>)
+
+* A bacterial count of ≥ 10<sup>3</sup><u>CFU</u>/mL confirms SIBO. [[2]](https://coursology-qbank.com/amboss/article/QFcu3V0)[[3]](https://coursology-qbank.com/amboss/article/D3d1kp0)
+
+---
+
+## Treatment
+
+### General principles [[2]](https://coursology-qbank.com/amboss/article/QFcu3V0)[[3]](https://coursology-qbank.com/amboss/article/D3d1kp0)
+
+
+
+
+* Identify and treat underlying conditions.
+
+* Start <u>antibiotic therapy</u> to modulate gut flora and control symptoms.
+
+* Correct nutritional deficiencies as needed, e.g., via parenteral <u>vitamin B<sub>12</sub></u> replacement.
+
+* Existing evidence does not support <u>probiotic therapy</u> or <u>fecal transplant</u>.
+
+
+
+
+
+### <u>Antibiotic</u> treatment [[3]](https://coursology-qbank.com/amboss/article/D3d1kp0)
+
+
+
+
+* There is limited data to guide treatment decisions.
+
+* Empiric treatment recommendations cover aerobic and <u>anaerobic bacteria</u>.  [[2]](https://coursology-qbank.com/amboss/article/QFcu3V0)[[3]](https://coursology-qbank.com/amboss/article/D3d1kp0)
+
+* Options include:
+
+* <u>Rifaximin</u> (<u>off-label</u>) DOSAGE for 7–10 days [[3]](https://coursology-qbank.com/amboss/article/D3d1kp0)
+
+* <u>Amoxicillin/clavulanate</u> (<u>off-label</u>)
+
+* <u>Ciprofloxacin</u> (<u>off-label</u>)
+
+* <u>Doxycycline</u> (<u>off-label</u>)
+
+---

@@ -1,0 +1,849 @@
+# Abdominal hernias
+
+*Categories: Clinical knowledge > Emergency medicine > Gastrointestinal disorders > Abdominal hernias*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/030eSf)
+
+---
+
+## Summary
+
+Abdominal <u>hernias</u> are a protrusion of intraabdominal contents through a congenital or acquired defect in the abdominal wall. Abdominal <u>hernias</u> are broadly classified by location (<u>anterior</u> wall, <u>lateral</u> wall, groin, or <u>pelvis</u>) and presentation (reducible, irreducible, obstructed, or strangulated). Physiological states that increase <u>intraabdominal pressure</u> (e.g., <u>ascites</u>, <u>pregnancy</u>, <u>obesity</u>, intraabdominal tumors, <u>chronic cough</u>) increase the risk of developing an abdominal <u>hernia</u>. Clinical presentation ranges from an asymptomatic mass in <u>reducible hernias</u>, to <u>pain</u>, <u>bowel obstruction</u>, and systemic symptoms in <u>strangulated hernias</u>. Abdominal <u>hernias</u> are typically a <u>clinical diagnosis</u> made on <u>physical examination</u>. Imaging (e.g., <u>ultrasound</u>, <u>CT scan</u>) may be used if the examination is difficult or atypical, and before <u>surgery</u>. Treatment is primarily surgical repair with or without a mesh, though observation may be adequate in some patients. Emergency <u>surgery</u> is always required for an obstructed or strangulated (i.e., <u>ischemic</u>) <u>hernia</u>. <u>Congenital umbilical hernias</u> typically close spontaneously by 5 years of age and have a wide neck, and the risk of complications is low; surgical intervention is rarely necessary.
+
+
+
+
+See “<u>Inguinal hernias</u>” and ”<u>Femoral hernias</u>” for more detail on these <u>hernia types</u>.
+
+---
+
+## Classification
+
+### By anatomical location [[1]](https://coursology-qbank.com/amboss/article/uz0pui)[[2]](https://coursology-qbank.com/amboss/article/HKcK3W0)
+
+
+
+
+* Anterior abdominal wall hernias
+
+* <u>Umbilical hernia</u>: midline <u>ventral hernia</u> at the level of the <u>umbilicus</u>  [[3]](https://coursology-qbank.com/amboss/article/sKct3W0)[[4]](https://coursology-qbank.com/amboss/article/yKcdQW0)
+
+* Epigastric hernia: protrusion of intraabdominal contents through the <u>linea alba</u>, between the <u>xiphoid process</u> and the <u>umbilicus</u>
+
+* <u>Incisional hernia</u>: protrusion of intraabdominal contents through an <u>abdominal wall defect</u> due to previous <u>surgery</u>
+
+* <u>Parastomal hernia</u>: a subset of <u>incisional hernias</u> in which intraabdominal contents protrude through the <u>abdominal wall defect</u> created during <u>stoma</u> placement (e.g., <u>colostomy</u>)
+
+* <u>Lateral</u> abdominal wall <u>hernias</u> 
+
+* Lumbar hernia 
+
+* Superior <u>lumbar hernia</u>: <u>herniation</u> through the <u>superior lumbar triangle</u>
+
+* Inferior <u>lumbar hernia</u>: <u>herniation</u> through the <u>inferior lumbar triangle</u>
+
+* Lumbar <u>incisional hernia</u>: <u>herniation</u> following <u>surgery</u> involving the posterolateral abdominal wall (e.g., <u>nephrectomy</u>, <u>aortic aneurysm</u> repair) [[5]](https://coursology-qbank.com/amboss/article/qKcChW0)
+
+* <u>Spigelian hernia</u>: <u>herniation</u> along the <u>semilunar line</u>; commonly adjacent to the <u>arcuate line</u> (i.e., below the <u>umbilicus</u>)   [[6]](https://coursology-qbank.com/amboss/article/LxcwCe0)[[7]](https://coursology-qbank.com/amboss/article/oxc0xe0)
+
+* Groin <u>hernias</u>
+
+* <u>Inguinal hernia</u> (direct or indirect)
+
+* <u>Femoral hernia</u>
+
+* <u>Pelvic</u> <u>hernias</u>  [[8]](https://coursology-qbank.com/amboss/article/rycfgU0)[[9]](https://coursology-qbank.com/amboss/article/7yc4gU0)
+
+* Obturator hernia: <u>herniation</u> through the <u>obturator foramen</u>
+
+* Perineal hernia: <u>herniation</u> through the <u>pelvic floor</u>   [[9]](https://coursology-qbank.com/amboss/article/7yc4gU0)
+
+* Sciatic hernia: <u>herniation</u> through the <u>greater sciatic foramen</u> or <u>lesser sciatic foramen</u>
+
+
+
+
+
+![Epigastric hernia](../../../../media/nc9voencpvtat1fnljxj3fwh.jpg)
+
+Epigastric hernia
+
+![Epigastric hernia](../../../../media/bkmcwvr4xo5xf135mllohv9w.jpg)
+
+Epigastric hernia
+
+![Epigastric hernia with colocutaneous fistula](../../../../media/lab1iittjswnreyvjlwm0tyc.jpg)
+
+Epigastric hernia with colocutaneous fistula
+
+![Parastomal hernia](../../../../media/zgsw6xfsko5cbzsasnvueuuz.jpg)
+
+Parastomal hernia
+
+![Lumbar hernias](../../../../media/qpik06n04g3etu0gmwgaugx6.jpg)
+
+Lumbar hernias
+
+![Spigelian hernia](../../../../media/tevoxvqrdtt1i3ssac0nyjah.jpg)
+
+Spigelian hernia
+
+![Spigelian hernia](../../../../media/vjz10ezww0sm2u38mbxsm7l1.jpg)
+
+Spigelian hernia
+
+![Direct and indirect inguinal hernias](../../../../media/ygvbkfxe54dip2i8eu9eak3q.jpg)
+
+Direct and indirect inguinal hernias
+
+![Inguinal hernia](../../../../media/ifvq3dkqjbcxh29b0mz3x6gs.jpg)
+
+Inguinal hernia
+
+![Femoral hernia](../../../../media/favb4km8p6c9dubylwlyboxp.jpg)
+
+Femoral hernia
+
+![Femoral hernia](../../../../media/zl9dlrd0fol7ji48y5q5mkk2.jpg)
+
+Femoral hernia
+
+![Obturator hernia](../../../../media/udlbigvencxb6vknfsx4tdjf.jpg)
+
+Obturator hernia
+
+![Perineal hernias](../../../../media/q89dspav5wd2s0egbx5zf93b.jpg)
+
+Perineal hernias
+
+![Sciatic hernias](../../../../media/dj6rd5aj7psdio8x2gwxk1e1.jpg)
+
+Sciatic hernias
+
+
+
+
+### By degree of complication [[1]](https://coursology-qbank.com/amboss/article/uz0pui)[[10]](https://coursology-qbank.com/amboss/article/1iX2qB)
+
+
+
+
+* Reducible hernia: <u>Hernia</u> contents can be completely returned to the <u>peritoneal cavity</u>.
+
+* Irreducible hernia (also known as <u>incarcerated hernia</u>): <u>Hernia</u> contents cannot be completely returned to the <u>peritoneal cavity</u>.  [[11]](https://coursology-qbank.com/amboss/article/KCcUGe0)
+
+* Obstructed hernia: a <u>hernia</u> in which the lumen of the intestine within the hernial sac has become completely obstructed
+
+* Strangulated hernia
+
+* A <u>hernia</u> in which the contents of the hernial sac (e.g., <u>omentum</u>, bowel) have become <u>ischemic</u> due to a compromised vascular supply
+
+* Richter hernia: a subset of <u>strangulated hernias</u> in which only the antimesenteric portion of the intestinal wall is trapped by the <u>abdominal wall defect</u>, causing <u>ischemia</u> without obstruction  [[12]](https://coursology-qbank.com/amboss/article/tycXSU0)[[13]](https://coursology-qbank.com/amboss/article/AycR3U0)
+
+* Complex <u>hernia</u>: a <u>hernia</u> that is technically challenging to repair, requires a longer operative time, and has greater associated perioperative <u>morbidity</u> than a simple <u>hernia</u>  [[14]](https://coursology-qbank.com/amboss/article/IKcY3W0)
+
+
+
+
+
+> [!NOTE]
+> Intermediate-sized <u>abdominal wall defects</u> have the highest risk of causing an <u>incarcerated hernia</u>. Small wall defects are less likely to allow a <u>visceral</u> protrusion and large wall defects are less likely to cause mechanical impingement of the contents of the hernial sac.
+
+
+
+
+![Components of an abdominal or inguinal hernia](../../../../media/ltco76u1wrsoutu21ifqx6cy.jpg)
+
+Components of an abdominal or inguinal hernia
+
+![Reducible, irreducible, and strangulated hernias](../../../../media/nhujj3rnewazuhm3tuu81pgo.jpg)
+
+Reducible, irreducible, and strangulated hernias
+
+---
+
+## Clinical features
+
+### <u>Reducible hernia</u> [[15]](https://coursology-qbank.com/amboss/article/TG06Ah)[[16]](https://coursology-qbank.com/amboss/article/EKc8RW0)[[17]](https://coursology-qbank.com/amboss/article/39cSMe0)
+
+
+
+
+* History
+
+* Symptomatic or asymptomatic mass or fullness
+
+* Size decreases with <u>recumbency</u>
+
+* Size increases with sitting, standing, and/or straining
+
+* <u>Physical examination</u>
+
+* Nontender mass that returns to the <u>peritoneal cavity</u> with mild, externally applied pressure
+
+* Visible or palpable cough impulse: expansion of the mass with increased abdominal pressure
+
+* Edges of the fascial defect may be palpable.
+
+* <u>Bowel sounds</u> may be present over the mass if part of the bowel is present in the hernial sac.
+
+
+
+
+
+### Irreducible (incarcerated) <u>hernia</u> [[15]](https://coursology-qbank.com/amboss/article/TG06Ah)[[16]](https://coursology-qbank.com/amboss/article/EKc8RW0)[[17]](https://coursology-qbank.com/amboss/article/39cSMe0)
+
+
+
+
+* Chronic incarceration: nontender or minimally tender mass
+
+* Acute incarceration: Mass may be painful.
+
+* Neither <u>recumbency</u> nor external pressure significantly reduce mass size.
+
+* <u>Cough impulse</u> may be present.
+
+
+
+
+
+### <u>Obstructed hernia</u> [[15]](https://coursology-qbank.com/amboss/article/TG06Ah)[[16]](https://coursology-qbank.com/amboss/article/EKc8RW0)[[17]](https://coursology-qbank.com/amboss/article/39cSMe0)
+
+
+
+
+* <u>Acute pain</u> at the site of the <u>hernia</u>
+
+* <u>Symptoms of bowel obstruction</u>
+
+* Absent <u>cough impulse</u>
+
+
+
+
+
+### <u>Strangulated hernia</u> [[15]](https://coursology-qbank.com/amboss/article/TG06Ah)[[16]](https://coursology-qbank.com/amboss/article/EKc8RW0)[[17]](https://coursology-qbank.com/amboss/article/39cSMe0)
+
+
+
+
+* History
+
+* <u>Acute pain</u> at the site of the <u>hernia</u>
+
+* Symptoms of <u>bowel obstruction</u> (if part of the bowel is present in the hernial sac)
+
+* <u>Physical examination</u>
+
+* Tender, <u>nonreducible hernia</u>
+
+* Absent <u>cough impulse</u>
+
+* <u>Edematous</u>, <u>erythematous</u>, warm overlying <u>skin</u>
+
+* Systemic symptoms: <u>fever</u>, <u>signs of sepsis</u>
+
+
+
+
+
+> [!NOTE]
+> Intestinal strangulation can lead to <u>gangrene</u>, which can be fatal if not treated promptly.
+
+
+
+
+![Strangulated inguinal hernia](../../../../media/rcc3jjsuogay9ky6lel89am1.jpg)
+
+Strangulated inguinal hernia
+
+
+
+
+### Atypical manifestations [[1]](https://coursology-qbank.com/amboss/article/uz0pui)[[15]](https://coursology-qbank.com/amboss/article/TG06Ah)[[16]](https://coursology-qbank.com/amboss/article/EKc8RW0)[[17]](https://coursology-qbank.com/amboss/article/39cSMe0)
+
+
+
+
+#### <u>Pelvic</u> <u>hernias</u>
+
+
+
+
+* <u>Obturator hernia</u>: <u>pain</u> and <u>paresthesia</u> in the <u>pelvis</u> and inner thigh, episodic <u>intestinal obstruction</u>
+
+* <u>Perineal hernia</u>: <u>pelvic pain</u>, mass on <u>rectovaginal examination</u>
+
+* <u>Sciatic hernia</u>: <u>symptoms of bowel obstruction</u>, mass in the gluteal or intragluteal area
+
+
+
+
+
+#### Spigelian hernia (spontaneous <u>lateral ventral hernia</u>, <u>hernia of semilunar line</u>)
+
+
+
+
+* Definition: protrusion of abdominal contents and/or <u>peritoneum</u> through a defect in the lower <u>anterior</u> abdomen adjacent to the <u>semilunar line</u>
+
+* <u>Epidemiology</u>: very rare (0.1–2% of all <u>ventral hernias</u>) [[18]](https://coursology-qbank.com/amboss/article/_BW5WL0)
+
+* Etiology: ↑ <u>intraabdominal pressure</u> (e.g., <u>obesity</u>, <u>pregnancy</u>, <u>ascites</u>), trauma to the abdominal wall (e.g., prior <u>incisions</u>), and/or degeneration of the abdominal aponeurotic layers → defect between the <u>rectus abdominis</u> and the <u>semilunar line</u> in the Spigelian <u>aponeurosis</u> → protrusion of abdominal contents and/or <u>peritoneum</u> [[19]](https://coursology-qbank.com/amboss/article/zBWrWL0)
+
+* <u>Risk factors</u>: older age, disorders of <u>collagen synthesis</u> (e.g., <u>Ehlers-Danlos syndrome</u>), smoking [[18]](https://coursology-qbank.com/amboss/article/_BW5WL0)[[19]](https://coursology-qbank.com/amboss/article/zBWrWL0)
+
+* Clinical features: variable
+
+* Abdominal <u>pain</u>
+
+* Palpable mass along the Spigelian <u>fascia</u>  [[19]](https://coursology-qbank.com/amboss/article/zBWrWL0)
+
+* Diagnostics: <u>ultrasound</u> and <u>CT scan</u>
+
+* Treatment: All <u>Spigelian hernias</u> must be repaired surgically because of the high risk of incarceration and/or obstruction.
+
+---
+
+## Diagnosis
+
+### General principles
+
+
+
+
+* An abdominal <u>hernia</u> is usually a <u>clinical diagnosis</u> made on <u>physical examination</u>.
+
+* Imaging may be necessary if the examination is difficult (e.g., due to tenderness, <u>obesity</u>, scarring) or presentation is atypical, and for surgical planning.
+
+* <u>Laboratory studies</u> are indicated if strangulation or obstruction is suspected and as part of <u>preoperative preparation</u>.
+
+* For patients presenting with <u>acute abdominal pain</u>, see also “<u>Approach to acute abdomen</u>.”
+
+
+
+
+
+### Imaging [[4]](https://coursology-qbank.com/amboss/article/yKcdQW0)[[20]](https://coursology-qbank.com/amboss/article/hRXc5B)[[21]](https://coursology-qbank.com/amboss/article/K6cUNW0)
+
+
+
+
+#### Indications [[22]](https://coursology-qbank.com/amboss/article/Yr0nfh)
+
+
+
+
+* Unclear diagnosis, e.g., abdominal wall <u>pain</u> without a clinically apparent <u>hernia</u>
+
+* Suspected complication, e.g., <u>bowel obstruction</u> or strangulation
+
+* <u>Obesity</u> (<u>BMI</u> > 35 kg/m<sup>2</sup>)
+
+* Recurrence of <u>incisional hernias</u>
+
+* Planning for surgical repair
+
+
+
+
+
+#### Modalities
+
+
+
+
+* CT abdomen 
+
+* Sensitive imaging study for suspected <u>bowel obstruction</u> or strangulation  [[10]](https://coursology-qbank.com/amboss/article/1iX2qB)
+
+* Typically performed with both IV and PO contrast (unless contraindicated because of obstruction)
+
+* Can facilitate planning for complex <u>hernia</u> repair [[23]](https://coursology-qbank.com/amboss/article/p6cLNW0)
+
+* <u>Ultrasound</u>
+
+* Consider in children and for nonacute adult groin <u>hernias</u>.
+
+* Allows for dynamic assessment: The patient can perform a <u>Valsalva maneuver</u> or <u>reposition</u> themselves to induce a <u>hernia</u>.
+
+* <u>MRI</u> abdomen
+
+* Indications: to rule out musculoskeletal disorders and occult groin <u>hernia</u> [[24]](https://coursology-qbank.com/amboss/article/OnbIt8)
+
+* Like <u>ultrasound</u>, <u>MRI</u> allows for dynamic assessment.
+
+* <u>Abdominal x-ray</u>: may be used to rapidly evaluate for <u>bowel obstruction</u> and perforation
+
+
+
+
+
+![Epigastric hernia with colocutaneous fistula](../../../../media/lab1iittjswnreyvjlwm0tyc.jpg)
+
+Epigastric hernia with colocutaneous fistula
+
+
+
+
+#### Findings
+
+
+
+
+* Direct visualization and quantification of the fascial defect(s)
+
+* Presence of <u>viscera</u> in the hernial sac
+
+* <u>Strangulated hernia</u>: signs of <u>visceral</u> <u>ischemia</u>  [[25]](https://coursology-qbank.com/amboss/article/Eyc8SU0)
+
+* <u>Obstructed hernia</u>: <u>radiological signs of mechanical bowel obstruction</u>
+
+
+
+
+
+![Spigelian hernia](../../../../media/at8p39ztmm414e4sedc61c0z.jpg)
+
+Spigelian hernia
+
+![Epigastric hernia with colocutaneous fistula](../../../../media/lab1iittjswnreyvjlwm0tyc.jpg)
+
+Epigastric hernia with colocutaneous fistula
+
+![Small bowel obstruction](../../../../media/u5k7uf0tdco7xzg2awfjwif2.jpg)
+
+Small bowel obstruction
+
+
+
+
+### <u>Laboratory studies</u> [[26]](https://coursology-qbank.com/amboss/article/m6cVlW0)
+
+
+
+
+<u>Laboratory studies</u> may show characteristic findings if a <u>hernia</u> is obstructed and/or strangulated, including:
+
+
+
+
+* Findings that suggest <u>bowel ischemia</u>, e.g.:
+
+* ↑ <u>Leukocytes</u>
+
+* ↑ <u>Lactate</u>
+
+* <u>Laboratory findings that suggest hypovolemia</u>, e.g.:
+
+* <u>Electrolyte</u> abnormalities
+
+* ↑ <u>Hematocrit</u>
+
+---
+
+## Differential diagnoses
+
+### Differential diagnoses of <u>ventral hernias</u>
+
+
+
+
+* <u>Diastasis recti</u>
+
+* Abdominal wall <u>tumor</u> (e.g., <u>desmoid tumor</u>)
+
+* <u>Lipoma</u>
+
+* In <u>newborns</u>: <u>omphalocele</u>, <u>gastroschisis</u>
+
+
+
+
+
+![Diastasis recti](../../../../media/i4a996j3kdm5u34ghygvcoaw.jpg)
+
+Diastasis recti
+
+
+
+
+#### Rectus sheath hematoma
+
+
+
+
+* Definition: an accumulation of blood within the <u>rectus sheath</u> that most commonly arises from the disruption of a branch of the <u>inferior epigastric artery</u>
+
+* Etiology [[27]](https://coursology-qbank.com/amboss/article/dlXoDy)[[28]](https://coursology-qbank.com/amboss/article/VlXGDy)
+
+* Blunt or <u>penetrating trauma</u>
+
+* Spontaneous
+
+* <u>Risk factors</u>
+
+* Age > 70 years
+
+* Anticoagulation or <u>antiplatelet therapy</u>
+
+* <u>Coagulation disorders</u>
+
+* <u>Pregnancy</u> [[29]](https://coursology-qbank.com/amboss/article/elXxDy)
+
+* Clinical features [[28]](https://coursology-qbank.com/amboss/article/VlXGDy)
+
+* Acute onset abdominal <u>pain</u>
+
+* Palpable abdominal mass
+
+* Abdominal tenderness and/or guarding
+
+* Carnett sign
+
+* The patient is in the <u>supine position</u> and asked to sit upright while the point of maximal abdominal tenderness is palpated
+
+* Positive if the tenderness remains unchanged or increases during contraction of the <u>rectus abdominis muscles</u>
+
+* Fothergill sign
+
+* The patient is asked to lie in the <u>supine position</u> and contract the abdominal muscles, e.g., by lifting the head or lower limbs
+
+* Positive if the palpable abdominal mass does not cross the midline and remains palpable after contraction of the <u>rectus abdominis muscles</u>
+
+* <u>Cullen sign</u> (periumbilical <u>ecchymosis</u>)
+
+* <u>Grey Turner sign</u> (flank <u>ecchymosis</u>)
+
+* Signs of <u>hypovolemic shock</u> (e.g., <u>tachycardia</u>, <u>hypotension</u>)
+
+* Diagnostics [[27]](https://coursology-qbank.com/amboss/article/dlXoDy)[[29]](https://coursology-qbank.com/amboss/article/elXxDy)
+
+* Serial measurement of <u>hematocrit</u> and/or <u>hemoglobin</u> levels; <u>anemia</u> and/or <u>leukocytosis</u> may be present.
+
+* <u>CT scan</u> (<u>confirmatory test</u>): <u>hematoma</u> confined to the abdominal wall
+
+* Abdominal <u>ultrasound</u>: alternative modality to CT for children and pregnant women
+
+* Treatment [[27]](https://coursology-qbank.com/amboss/article/dlXoDy)
+
+* Compression of the <u>hematoma</u>
+
+* Correction of abnormal coagulation
+
+* <u>IV fluid resuscitation</u> and/or <u>blood transfusion</u>
+
+* <u>Hemodynamically unstable</u> patients with expanding <u>hematoma</u>
+
+* <u>Angiography</u> with <u>arterial embolization</u>
+
+* Surgical evacuation of the <u>hematoma</u> and ligation of the <u>artery</u>
+
+
+
+
+
+![Rectus sheath hematoma](../../../../media/vljqx9ws28es3p02wqko7t7k.jpg)
+
+Rectus sheath hematoma
+
+
+
+
+### Differential diagnoses of other <u>hernias</u>
+
+
+
+
+* <u>Pelvic</u> and groin <u>hernias</u>
+
+* Inguinal <u>lymphadenopathy</u>
+
+* <u>Cryptorchid testes</u>
+
+* <u>Lipoma</u>
+
+* <u>Femoral artery aneurysm</u>
+
+* <u>Strangulated hernia</u>
+
+* <u>Abscess</u>
+
+* <u>Hematoma</u>
+
+* <u>Lymphadenitis</u> (strangulated groin <u>hernias</u>)
+
+
+
+
+
+The differential diagnoses listed here are not exhaustive.
+
+---
+
+## Treatment
+
+Surgical repair is the definitive treatment for abdominal wall <u>hernias</u>, but management with <u>watchful waiting</u> may be appropriate in select patients. See also “<u>Incisional hernia</u>” and “<u>Umbilical hernia</u>” for management specific to these <u>hernia types</u>.
+
+
+
+
+### Initial management [[30]](https://coursology-qbank.com/amboss/article/a6bQju)[[31]](https://coursology-qbank.com/amboss/article/R6clkW0)
+
+
+
+
+* <u>Reducible hernia</u> or chronically <u>irreducible hernia</u>
+
+* Obtain outpatient surgical consult for further management, e.g., <u>conservative management</u> vs. elective <u>hernia</u> repair.
+
+* Provide <u>analgesia</u> as needed.
+
+* Acutely <u>irreducible hernia</u> without signs of obstruction or strangulation
+
+* Obtain urgent surgical consult.
+
+* Provide <u>analgesia</u> as needed.
+
+* Consider <u>manual hernia reduction</u> as a temporizing measure.
+
+* Continue to observe the patient for <u>signs of strangulation</u> and obstruction.
+
+* Strangulated or <u>obstructed hernia</u>
+
+* Obtain emergency <u>surgery</u> consult and begin <u>supportive care</u> as needed.
+
+* Keep the patient <u>NPO</u>; consider <u>nasogastric tube insertion</u>.
+
+* Begin <u>IV fluid resuscitation</u>.
+
+* Administer <u>parenteral analgesics</u> and <u>antiemetics</u>.
+
+* <u>Obstructed hernia</u> without <u>signs of strangulation</u>: Consider <u>manual hernia reduction</u>.  [[32]](https://coursology-qbank.com/amboss/article/3iXSrB)[[33]](https://coursology-qbank.com/amboss/article/q6cCNW0)
+
+* <u>Signs of strangulation</u>: Consider IV <u>broad-spectrum antibiotics</u> (see “<u>Empiric antibiotic therapy for intraabdominal infection</u>”).  [[10]](https://coursology-qbank.com/amboss/article/1iX2qB)[[34]](https://coursology-qbank.com/amboss/article/mpcVJW0)
+
+
+
+
+
+> [!WARNING]
+> Treat <u>strangulated hernias</u> and <u>obstructed hernias</u> as surgical emergencies, for which operative repair is indicated within hours to prevent complications (e.g., <u>intestinal ischemia</u>, <u>sepsis</u>, and <u>death</u>).
+
+
+
+
+### Manual hernia reduction [[31]](https://coursology-qbank.com/amboss/article/R6clkW0)[[32]](https://coursology-qbank.com/amboss/article/3iXSrB)[[33]](https://coursology-qbank.com/amboss/article/q6cCNW0)
+
+
+
+
+* Indications: acutely <u>incarcerated hernias</u> with no <u>signs of strangulation</u>
+
+* Preparation
+
+* Obtain <u>informed consent</u>.
+
+* Administer <u>analgesia</u>; consider the need for <u>procedural sedation</u>.
+
+* Procedure
+
+* Ask the patient to lie in the <u>supine position</u>.
+
+* Apply ice or a cold compress over the <u>hernia</u>.
+
+* Apply slow, steady pressure to the <u>hernia</u> sac for up to 20 minutes.
+
+* Next steps
+
+* Reduction successful
+
+* Typically, patients are admitted for observation for at least 12 hours.
+
+* Schedule early surgical repair (often performed during the same admission).
+
+* Unsuccessful reduction or new <u>signs of strangulation</u>: prompt surgical intervention
+
+* Complications: <u>visceral</u> rupture or perforation, <u>peritonitis</u>, worsened <u>ischemia</u>
+
+
+
+
+
+> [!WARNING]
+> Do not attempt to reduce a <u>strangulated hernia</u>! Gangrenous bowel may be forced into the <u>abdominal cavity</u>, which can lead to <u>peritonitis</u> and <u>sepsis</u>. [[30]](https://coursology-qbank.com/amboss/article/a6bQju)
+
+
+
+
+### Nonoperative and <u>preoperative management</u>
+
+
+
+
+* <u>Watchful waiting</u> may be considered in selected patients.  [[4]](https://coursology-qbank.com/amboss/article/yKcdQW0)[[22]](https://coursology-qbank.com/amboss/article/Yr0nfh)[[23]](https://coursology-qbank.com/amboss/article/p6cLNW0)
+
+* Asymptomatic patients with high perioperative risk and/or low risk of <u>hernia</u> complications (e.g., small <u>umbilical hernias</u>)
+
+* Asymptomatic patients with <u>modifiable risk factors</u> that may be treated preoperatively
+
+* If elective <u>hernia</u> repair is anticipated, consider starting <u>preoperative lifestyle modifications</u> (e.g., <u>smoking cessation</u>, weight loss) and optimization of chronic illnesses. [[4]](https://coursology-qbank.com/amboss/article/yKcdQW0)[[35]](https://coursology-qbank.com/amboss/article/kpcmpW0)
+
+* <u>Hernia trusses</u> and binders may improve patient comfort but have not been found to reduce the risk of acute <u>hernia</u> complications. [[36]](https://coursology-qbank.com/amboss/article/D6c1MW0)
+
+
+
+
+
+### Surgical management [[1]](https://coursology-qbank.com/amboss/article/uz0pui)
+
+
+
+
+* Indications
+
+* Emergency <u>surgery</u> for any <u>obstructed hernias</u> or <u>strangulated hernias</u>
+
+* Elective <u>surgery</u> for all symptomatic <u>hernias</u> and asymptomatic <u>hernias</u> at risk for complications
+
+* Techniques (open or <u>laparoscopic</u>): include <u>hernioplasty</u> (i.e., with mesh) and <u>herniorrhaphy</u> (i.e., with sutures)  [[23]](https://coursology-qbank.com/amboss/article/p6cLNW0)[[30]](https://coursology-qbank.com/amboss/article/a6bQju)[[35]](https://coursology-qbank.com/amboss/article/kpcmpW0)
+
+* Complications following <u>surgery</u> include: [[23]](https://coursology-qbank.com/amboss/article/p6cLNW0)[[35]](https://coursology-qbank.com/amboss/article/kpcmpW0)
+
+* Recurrence  [[35]](https://coursology-qbank.com/amboss/article/kpcmpW0)
+
+* Infection
+
+* Others: e.g., <u>seroma</u>, <u>wound dehiscence</u>, <u>enterocutaneous fistula</u>, <u>chronic pain</u>
+
+---
+
+## Incisional hernia
+
+* Definition: <u>herniation</u> of intraabdominal contents through an <u>abdominal wall defect</u> due to previous abdominal <u>surgery</u>
+
+* <u>Incidence</u>: up to 20% after abdominal <u>surgery</u>  [[37]](https://coursology-qbank.com/amboss/article/Npc-pW0)[[38]](https://coursology-qbank.com/amboss/article/RyclUU0)
+
+* <u>Risk factors</u>  [[22]](https://coursology-qbank.com/amboss/article/Yr0nfh)[[30]](https://coursology-qbank.com/amboss/article/a6bQju)[[38]](https://coursology-qbank.com/amboss/article/RyclUU0)
+
+* <u>Laparotomy</u>, especially via midline <u>incision</u>
+
+* Postoperative wound infection
+
+* Patient factors: smoking history, <u>diabetes mellitus</u>, <u>obesity</u>, <u>immunosuppression</u>, <u>malnourishment</u>, older age [[35]](https://coursology-qbank.com/amboss/article/kpcmpW0)
+
+* Emergency abdominal <u>surgery</u>
+
+* <u>Pregnancy</u> [[1]](https://coursology-qbank.com/amboss/article/uz0pui)
+
+* Clinical features [[22]](https://coursology-qbank.com/amboss/article/Yr0nfh)[[39]](https://coursology-qbank.com/amboss/article/5pciJW0)
+
+* Mass or protrusion at the site of the incisional <u>scar</u> that increases with <u>coughing</u>/straining
+
+* Edges of the hernial defect are palpable upon reduction of the <u>hernia</u>
+
+* Patients may be asymptomatic or present with nonspecific symptoms such as <u>postprandial</u> fullness.
+
+* Treatment [[22]](https://coursology-qbank.com/amboss/article/Yr0nfh)[[39]](https://coursology-qbank.com/amboss/article/5pciJW0)
+
+* Elective surgical repair (usually with mesh) is typically recommended.  [[30]](https://coursology-qbank.com/amboss/article/a6bQju)[[39]](https://coursology-qbank.com/amboss/article/5pciJW0)[[40]](https://coursology-qbank.com/amboss/article/MpcMJW0)
+
+* <u>Conservative management</u> may be considered in patients at high risk for perioperative <u>morbidity</u>, e.g., patients with <u>COPD</u>. [[41]](https://coursology-qbank.com/amboss/article/npc7JW0)
+
+* Complications [[22]](https://coursology-qbank.com/amboss/article/Yr0nfh)[[35]](https://coursology-qbank.com/amboss/article/kpcmpW0)
+
+* Strangulation or obstruction: Up to 20% of patients with a <u>ventral hernia</u> will require emergency <u>surgery</u>. [[30]](https://coursology-qbank.com/amboss/article/a6bQju)
+
+* Recurrence after repair: ∼ 15–25% of repaired <u>incisional hernias</u> recur [[35]](https://coursology-qbank.com/amboss/article/kpcmpW0)
+
+* Parastomal hernia  [[1]](https://coursology-qbank.com/amboss/article/uz0pui)[[42]](https://coursology-qbank.com/amboss/article/JpcsqW0)
+
+* A type of <u>incisional hernia</u> in which intraabdominal contents protrude through the <u>abdominal wall defect</u> created during <u>stoma</u> placement (e.g., <u>colostomy</u>)
+
+* Diagnosis: usually clinical; imaging (CT or <u>ultrasound</u>) may be considered if the diagnosis is uncertain.
+
+* Management
+
+* Consult ostomy nurse to help with management.
+
+* Asymptomatic <u>parastomal hernias</u> may be <u>managed conservatively</u> with a support garment (e.g., ostomy belt).
+
+* Symptomatic <u>parastomal hernias</u>  may require surgical repair.
+
+
+
+
+
+![Incisional hernia](../../../../media/ejv4k3ko3pxhiqmara0tdy2y.jpg)
+
+Incisional hernia
+
+![Incisional hernia](../../../../media/ry3xwbuddqguxcivdlhkgcg5.jpg)
+
+Incisional hernia
+
+![Parastomal hernia](../../../../media/dgksbtl7a6tum37fslhvixrn.jpg)
+
+Parastomal hernia
+
+![Parastomal hernia](../../../../media/zgsw6xfsko5cbzsasnvueuuz.jpg)
+
+Parastomal hernia
+
+---
+
+## Umbilical hernia
+
+<u>Umbilical hernias</u> are defined as midline <u>hernias</u> at the level of the <u>umbilicus</u>. Ninety percent of <u>umbilical hernias</u> are acquired, usually as a result of increased abdominal pressure. [[2]](https://coursology-qbank.com/amboss/article/HKcK3W0)[[3]](https://coursology-qbank.com/amboss/article/sKct3W0)
+
+
+
+
+| <br>Congenital vs. <u>acquired umbilical hernias</u> [[43]](https://coursology-qbank.com/amboss/article/dr0oTh)<br> |  |  |
+| --- | --- | --- |
+|  | <br>Congenital umbilical hernia [[44]](https://coursology-qbank.com/amboss/article/6ycjTU0)[[45]](https://coursology-qbank.com/amboss/article/pycLTU0)[[46]](https://coursology-qbank.com/amboss/article/JycsTU0)<br> | <br>Acquired umbilical hernia  [[1]](https://coursology-qbank.com/amboss/article/uz0pui)[[4]](https://coursology-qbank.com/amboss/article/yKcdQW0)<br> |
+| <u>Epidemiology</u> | <br>* 10–20% of <u>infants</u> <u>born at term</u> have a congenital <u>hernia</u><br><br> | <br>* ∼ 10% of all adult abdominal <u>hernias</u> are <u>acquired umbilical hernias</u> [[3]](https://coursology-qbank.com/amboss/article/sKct3W0)<br><br> |
+| Site of hernial defect | <br>* Umbilical orifice<br><br> | <br><br>* Direct: umbilical orifice<br><br>* Indirect (paraumbilical hernia): adjacent to the umbilical orifice<br><br><br> |
+| Etiology | <br><br>* Delayed spontaneous closure of the umbilical ring following physiological <u>herniation</u> of the <u>midgut</u> → patent umbilical orifice<br><br>* For more information, see “<u>Embryology</u>” in “<u>Gastrointestinal tract</u>.”<br><br><br> | <br>* Reopening of the previously closed umbilical ring or surrounding tissue<br><br> |
+| <u>Risk factors</u> | <br><br>* Persistently raised <u>intraabdominal pressure</u><br><br>* Other congenital anomalies (e.g., <u>Down syndrome</u>, <u>trisomy 18</u>, <u>congenital hypothyroidism</u>)<br><br><br> | <br>* Persistently raised <u>intraabdominal pressure</u><br><br> |
+| Clinical features | <br><br>* Mass that protrudes through the <u>umbilicus</u> covered by <u>skin</u><br><br>* Mass increases with increased abdominal pressure (e.g., as a result of crying, <u>coughing</u>, straining)<br><br>* Reduces in size in <u>recumbent position</u><br><br>* <u>Hernia</u> can be completely reduced (unless incarcerated).<br><br><br> | <br><br>* Direct <u>hernia</u>: mass that protrudes symmetrically through the <u>umbilicus</u><br><br>* Indirect <u>hernia</u>: mass that protrudes adjacent to the umbilical orifice, pushing the <u>umbilicus</u> into a crescent shape<br><br>* Fascial defect is often small.<br><br><br> |
+| <br>Risk of developing complications (incarceration, obstruction, strangulation, or rupture) | <br>* Low<br><br> | <br>* Low, but higher than in <u>congenital umbilical hernias</u>  [[43]](https://coursology-qbank.com/amboss/article/dr0oTh)<br><br> |
+| Treatment | <br><br>* Conservative: ∼ 90% will spontaneously close by 2 years of age<br><br>* <u>Surgery</u> (rarely necessary)<br><br>* Large <u>umbilical hernias</u> (defect > 1.5–2 cm) in children > 2–3 years of age<br><br>* No evidence of spontaneous closure by 5 years of age<br><br>* Patients with incarcerated, obstructed, or strangulated <u>umbilical hernias</u><br><br><br> | <br><br>* Surgical repair, usually with mesh<br><br>* <u>Conservative management</u> may be appropriate for small, asymptomatic <u>hernias</u><br><br><br> |
+| Differential diagnosis | <br><br>* <u>Omphalocele</u>, <u>gastroschisis</u> (see “<u>Overview of abdominal wall defects</u>”)<br><br>* <u>Epigastric hernia</u><br><br><br> | <br><br>* <u>Epigastric hernia</u><br><br>* <u>Spigelian hernia</u><br><br>* <u>Incisional hernia</u>  [[30]](https://coursology-qbank.com/amboss/article/a6bQju)<br><br><br> |
+
+
+
+
+
+> [!TIP]
+> Up to 20% of patients with <u>cirrhosis</u> develop an <u>umbilical hernia</u>. [[30]](https://coursology-qbank.com/amboss/article/a6bQju)
+
+
+
+
+![Umbilical hernia](../../../../media/fm4d97pyu87lzikm761llaql.jpg)
+
+Umbilical hernia
+
+![Congenital malformations of the anterior abdominal wall](../../../../media/cs8owgyyuphaqh6yqfipvsi8.jpg)
+
+Congenital malformations of the anterior abdominal wall
+
+![Congenital umbilical hernia](../../../../media/kev69nliy8quitabst66lril.jpg)
+
+Congenital umbilical hernia
+
+![Paraumbilical hernia](../../../../media/oisxh9mp1f9144zhp9uddr7z.jpg)
+
+Paraumbilical hernia
+
+![Umbilical hernia](../../../../media/pkc9yzw9u8k9adu94wf4yk23.jpg)
+
+Umbilical hernia
+
+![Paraumbilical hernia](../../../../media/yoyabein4vqq7ir1z049ach8.jpg)
+
+Paraumbilical hernia
+
+---

@@ -1,0 +1,1219 @@
+# Postoperative management
+
+*Categories: Clinical knowledge > Anesthesiology > Postoperative management*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/550ikg)
+
+---
+
+## Summary
+
+Postoperative management of the surgical patient has two important components: supporting the patient's return to baseline health and recognizing and treating <u>adverse events</u> that may occur following <u>surgery</u>. Facilitating early oral intake, early mobilization, optimal <u>pain control</u>, and adequate hydration are some of the key elements required to ensure that the patient returns to baseline health. Preventative measures include ambulation, <u>incentive spirometry</u>, and <u>ulcer</u> and <u>DVT prophylaxis</u>. Postoperative <u>adverse events</u> are common and vigilance for early signs of infection, hemorrhage, <u>ileus</u>, and <u>urinary retention</u> is required. <u>Fever</u> is a common manifestation of <u>postoperative complications</u> and must be approached systematically to reach a definitive diagnosis.
+
+
+
+
+See also “<u>Preoperative management</u>.”
+
+---
+
+## Prevention and early identification of postoperative complications
+
+This section discusses the routine inpatient management of postoperative patients. For management immediately following <u>procedural sedation</u>, see “<u>Recovery and discharge after procedural sedation</u>.” For patients requiring intensive care, see “<u>Care of the critically ill patient</u>.”
+
+
+
+
+### Approach [[1]](https://coursology-qbank.com/amboss/article/4J13830)
+
+
+
+
+* Monitor and support postoperative recovery.
+
+* Prevent, identify, and treat any <u>postoperative complications</u>.
+
+* Implement surgical <u>wound management</u> to promote <u>wound healing</u>.
+
+* Consider <u>multidisciplinary care</u> and consults for medically complex or older patients.
+
+
+
+
+
+### Monitoring [[2]](https://coursology-qbank.com/amboss/article/n5c7k10)[[3]](https://coursology-qbank.com/amboss/article/DJ11w30)[[4]](https://coursology-qbank.com/amboss/article/uz0pui)
+
+
+
+
+Based on the type of <u>surgery</u> and patient factors, obtain and monitor the following frequently.
+
+
+
+
+* <u>Vital signs</u>
+
+* Focused <u>physical examination</u>, including assessment of the surgical site
+
+* Input & output values
+
+* IV fluid intake
+
+* Urine output: If output is < 0.5 mL/kg/hour for > 6 hours, [[5]](https://coursology-qbank.com/amboss/article/b9bHND)
+
+* Check catheter patency.
+
+* Consider possible causes of <u>AKI</u>; (see also “<u>Diagnostic criteria of AKI</u>”).
+
+* Surgical drain output
+
+* Total output over 24 hours  [[6]](https://coursology-qbank.com/amboss/article/Hv1KYQ0)
+
+* Appearance of drainage (e.g., serous, bloody, <u>purulent</u>, feculent )
+
+* Stool output
+
+
+
+
+
+### Postoperative preventive measures [[1]](https://coursology-qbank.com/amboss/article/4J13830)[[2]](https://coursology-qbank.com/amboss/article/n5c7k10)[[7]](https://coursology-qbank.com/amboss/article/kJ1m830)[[8]](https://coursology-qbank.com/amboss/article/CqWq050)
+
+
+
+
+The following measures are initiated after <u>surgery</u> to prevent common <u>postoperative complications</u>. For preventative measures performed prior to <u>surgery</u>, see “<u>Preoperative assessment</u>.”
+
+
+
+
+* Initiate the following as soon as possible:
+
+* Oral intake or <u>enteral nutrition</u> to prevent villous <u>atrophy</u> [[9]](https://coursology-qbank.com/amboss/article/qJ1CE30)[[10]](https://coursology-qbank.com/amboss/article/IJ1Yv30)
+
+* Early mobilization: Consider <u>physical therapy</u> and/or <u>occupational therapy</u> consults.  [[11]](https://coursology-qbank.com/amboss/article/xqWE050)
+
+* Deep breathing with or without <u>incentive spirometry</u>  [[12]](https://coursology-qbank.com/amboss/article/mJ1Vu30)[[13]](https://coursology-qbank.com/amboss/article/wqWh050)
+
+* Removal of lines, tubes, and drains to <u>prevent healthcare-associated infections</u>
+
+* Assess the need for and, if indicated, provide:
+
+* <u>Acute pain management</u>
+
+* <u>IV fluid therapy</u>, e.g., <u>ongoing fluid loss replacement</u>, <u>maintenance fluid therapy</u>
+
+* <u>Electrolyte repletion</u>
+
+* <u>Inpatient management of hyperglycemia</u> [[14]](https://coursology-qbank.com/amboss/article/9qWN050)[[15]](https://coursology-qbank.com/amboss/article/UIWbX50)
+
+* Initiate prophylactic interventions based on individual <u>risk factors</u>. 
+
+* <u>Stress ulcer prophylaxis</u>  [[16]](https://coursology-qbank.com/amboss/article/NJ1-830)
+
+* <u>Venous thromboembolism prophylaxis</u>, typically with low-dose <u>LMWH</u> or <u>UFH</u>, before and after <u>surgery</u> [[17]](https://coursology-qbank.com/amboss/article/bebHxs)
+
+* Main indications include immobility, especially if bedridden
+
+* <u>LMWH</u> is preferred after most major (non-neurosurgical) procedures in patients who do not have a high risk of bleeding (see “<u>Periprocedural bleeding risk assessment</u>”).
+
+* <u>UFH</u> is preferred in patients with severe <u>renal insufficiency</u>.
+
+* See “<u>Approach to VTE prophylaxis</u>” for additional information.
+
+* <u>Aspiration precautions</u> [[2]](https://coursology-qbank.com/amboss/article/n5c7k10)
+
+
+
+
+
+### Surgical <u>wound management</u> [[18]](https://coursology-qbank.com/amboss/article/vJ1AD30)
+
+
+
+
+* Frequently examine the <u>incision</u> site to monitor the <u>wound healing</u> process.
+
+* Mild tenderness and redness are often present during the initial <u>phases of wound healing</u>.
+
+* Signs of <u>surgical site infection</u> include <u>fever</u>, severe tenderness, <u>erythema</u>, <u>purulent</u> drainage, and induration.
+
+* Manage wound dressings.
+
+* Leave the initial postoperative dressing in place for at least 48 hours. [[18]](https://coursology-qbank.com/amboss/article/vJ1AD30)
+
+* Change the dressing regularly to facilitate healing.
+
+* Provide adequate <u>analgesia</u> during dressing changes if needed.
+
+* Counsel patients on <u>wound care</u>. [[19]](https://coursology-qbank.com/amboss/article/0q1eC30)
+
+* Recommend avoiding trauma and maneuvers that increase tension around the surgical site
+
+* Educate patients on outpatient dressing changes; order home nurse visits if needed.
+
+---
+
+## Postoperative complications
+
+| <br><u>Postoperative complications</u> [[1]](https://coursology-qbank.com/amboss/article/4J13830)[[4]](https://coursology-qbank.com/amboss/article/uz0pui)[[20]](https://coursology-qbank.com/amboss/article/-J1D930)[[21]](https://coursology-qbank.com/amboss/article/bq1HC30)<br> |  |
+| --- | --- |
+| General | <br><br>* <u>Complications of procedural sedation</u><br><br>* <u>Postoperative fever</u><br><br>* <u>Anastomotic leak</u><br><br><br> |
+| Cardiac | <br><br>* <u>Myocardial infarction</u><br><br>* <u>Arrhythmias</u> (especially <u>atrial fibrillation</u>)<br><br>* <u>Acute heart failure</u><br><br>* <u>Hypotension</u><br><br><br> |
+| <br>Pulmonary [[22]](https://coursology-qbank.com/amboss/article/aq1QC30)<br> | <br><br>* <u>Postoperative respiratory failure</u><br><br>* <u>Acute respiratory distress syndrome</u><br><br>* <u>Pulmonary embolism</u><br><br>* <u>Pneumothorax</u><br><br>* <u>Bronchospasm</u><br><br>* <u>Postoperative pulmonary edema</u><br><br>* <u>Pleural effusion</u><br><br>* <u>Postoperative atelectasis</u><br><br>* Pulmonary <u>aspiration</u><br><br>* <u>Pneumonia</u><br><br><br> |
+| Gastrointestinal | <br><br>* Following any type of <u>surgery</u><br><br>* <u>Postoperative nausea and vomiting</u><br><br>* <u>Postoperative ileus</u><br><br>* Postoperative <u>stress ulcer</u><br><br>* Hepatic dysfunction (e.g., <u>liver</u> inflammation or <u>necrosis</u> due to <u>hypoxia</u>, <u>hypotension</u>, drug toxicity, or <u>sepsis</u>)<br><br>* <u>Acute cholecystitis</u><br><br>* <u>Clostridium difficile colitis</u><br><br>* Following abdominal <u>surgery</u><br><br>* <u>Abdominal compartment syndrome</u><br><br>* <u>Pancreatitis</u><br><br><br> |
+| Renal and <u>urinary tract</u> | <br><br>* <u>Acute kidney injury</u> (<u>AKI</u>) <br><br>* <u>Prerenal AKI</u> (e.g., due to renal <u>hypoperfusion</u> caused by <u>hypovolemia</u>, <u>hypotension</u>, or decreased <u>cardiac output</u> during <u>surgery</u>)<br><br>* Renal <u>AKI</u> (e.g., due to <u>AIN</u> caused by infection or <u>allergic reaction</u> or <u>ATN</u> caused by <u>hypoperfusion</u> or <u>nephrotoxic substances</u>)<br><br>* <u>Postrenal AKI</u> (e.g., due to obstruction of the <u>urinary tract</u> caused by catheter obstruction, <u>BPH</u>, or stones)<br><br>* <u>Postoperative urinary retention</u><br><br>* <u>Urinary tract infection</u> (e.g., <u>catheter-associated urinary tract infection</u>)<br><br><br> |
+| Hematologic | <br><br>* <u>Perioperative hemorrhage</u><br><br>* <u>Deep vein thrombosis</u><br><br>* <u>Suppurative thrombophlebitis</u><br><br>* <u>Heparin-induced thrombocytopenia</u><br><br>* <u>Anemia</u><br><br><br> |
+| Neurological | <br><br>* <u>Stroke</u><br><br>* Postoperative <u>delirium</u><br><br><br> |
+| <u>Skin</u> and <u>soft tissue</u> | <br><br>* Surgical wound-related complications<br><br>* <u>Hematoma</u> and/or <u>seroma</u><br><br>* <u>Surgical site infection</u><br><br>* <u>Wound dehiscence</u><br><br>* <u>Sternal dehiscence</u><br><br>* <u>Fascial dehiscence</u><br><br>* <u>Incisional hernia</u> (late)<br><br>* <u>Pressure ulcers</u><br><br><br> |
+
+---
+
+## Postoperative fever
+
+### Definition [[20]](https://coursology-qbank.com/amboss/article/-J1D930)
+
+
+
+
+Temperature > 38Â°C (> 100.4Â°F) in the postoperative period
+
+
+
+
+### Etiology
+
+
+
+
+| <br>Etiology of postoperative fever [[4]](https://coursology-qbank.com/amboss/article/uz0pui)[[20]](https://coursology-qbank.com/amboss/article/-J1D930)[[21]](https://coursology-qbank.com/amboss/article/bq1HC30)<br> |  |  |  |
+| --- | --- | --- | --- |
+| Onset of <u>fever</u> |  | Infectious cause | Noninfectious cause |
+| Immediate | Intraoperatively or within a few hours after <u>surgery</u> | <br>* Infection acquired prior to <u>surgery</u><br><br> | <br><br>* <u>Transfusion reaction</u> (e.g., <u>febrile nonhemolytic transfusion reaction</u>)<br><br>* <u>Surgery</u>-related trauma<br><br>* <u>Atelectasis</u>  [[23]](https://coursology-qbank.com/amboss/article/pLYLAp)<br><br>* Medication-related etiologies<br><br>* <u>Malignant hyperthermia</u><br><br>* <u>Anticholinergic syndrome</u> (rare) [[24]](https://coursology-qbank.com/amboss/article/2q1TB30)<br><br>* <u>Neuroleptic malignant syndrome</u> (rare) [[25]](https://coursology-qbank.com/amboss/article/Uq1bB30)<br><br>* <u>Adrenal insufficiency</u> [[26]](https://coursology-qbank.com/amboss/article/Sq1yB30)<br><br><br> |
+| Acute | ≤ 1 week after <u>surgery</u> | <br><br>* <u>Urinary tract infection</u>, e.g., due to:<br><br>* <u>Postoperative urinary retention</u><br><br>* Prolonged hospital stay: increased risk of <u>nosocomial UTI</u> (e.g., <u>catheter-associated UTI</u>)<br><br>* <u>Pneumonia</u>, e.g.:<br><br>* <u>Ventilator-associated pneumonia</u><br><br>* <u>Hospital-acquired pneumonia</u><br><br>* <u>Aspiration pneumonia</u><br><br>* <u>Surgical site infection</u><br><br>* <u>Catheter-related bloodstream infection</u><br><br><br> | <br><br>* <u>Pancreatitis</u><br><br>* <u>Acalculous cholecystitis</u> [[27]](https://coursology-qbank.com/amboss/article/-D1DSQ0)<br><br>* <u>Myocardial infarction</u><br><br>* <u>DVT</u><br><br>* <u>Pulmonary embolism</u><br><br>* <u>Thrombophlebitis</u><br><br>* <u>Alcohol withdrawal</u><br><br>* <u>Acute gout</u><br><br>* <u>Anastomotic leak</u>  [[28]](https://coursology-qbank.com/amboss/article/gq1FB30)[[29]](https://coursology-qbank.com/amboss/article/zD1rSQ0)<br><br><br> |
+| Subacute | 1 week–1 month after <u>surgery</u> | <br><br>* <u>Surgical site infection</u><br><br>* <u>Catheter-related bloodstream infection</u><br><br>* <u>C. difficile colitis</u><br><br>* <u>Intraabdominal abscess</u><br><br><br> | <br><br>* <u>Febrile drug reaction</u><br><br>* <u>Thrombophlebitis</u><br><br>* <u>DVT</u><br><br>* <u>Pulmonary embolism</u><br><br>* <u>Acalculous cholecystitis</u> [[27]](https://coursology-qbank.com/amboss/article/-D1DSQ0)<br><br><br> |
+| Delayed | > 1 month after <u>surgery</u> | <br><br>* <u>Surgical site infection</u> due to indolent organisms (e.g., <u>coagulase-negative staphylococci</u>)<br><br>* Delayed <u>cellulitis</u> [[30]](https://coursology-qbank.com/amboss/article/Zw1ZhQ0)<br><br>* Viral infection (e.g., <u>hepatitis</u>, <u>CMV</u>, <u>HIV</u>)<br><br>* Parasitic infection (e.g., <u>toxoplasmosis</u>)<br><br>* <u>Infective endocarditis</u><br><br><br> | <br><br>* <u>DVT</u><br><br>* <u>Pulmonary embolism</u> [[31]](https://coursology-qbank.com/amboss/article/371SlR0)[[32]](https://coursology-qbank.com/amboss/article/R71llR0)<br><br><br> |
+
+
+
+
+
+#### Immediately life-threatening causes of postoperative fever [[33]](https://coursology-qbank.com/amboss/article/0w1ehQ0)
+
+
+
+
+To avoid poor outcomes, immediately life-threatening causes of <u>fever</u> should be promptly identified and managed.
+
+
+
+
+* <u>Necrotizing soft tissue infection</u>
+
+* <u>Pulmonary embolism</u>
+
+* <u>Alcohol withdrawal</u>
+
+* <u>Adrenal insufficiency</u>
+
+* <u>Malignant hyperthermia</u>
+
+* <u>Anastomotic leak</u>
+
+* <u>Myocardial infarction</u>
+
+
+
+
+
+### Diagnostics [[1]](https://coursology-qbank.com/amboss/article/4J13830)[[4]](https://coursology-qbank.com/amboss/article/uz0pui)
+
+
+
+
+* Perform a thorough clinical evaluation, including <u>patient history</u> and focused <u>physical examination</u>.
+
+* Rule out <u>life-threatening causes of postoperative fever</u>.
+
+* Consider diagnostic studies based on clinical presentation and time of onset.
+
+* If infection is suspected, consider:
+
+* Routine <u>laboratory studies</u> (e.g., <u>CBC</u>, <u>urinalysis</u>)
+
+* Cultures (e.g., <u>blood cultures</u>, <u>urine cultures</u>, and/or wound cultures)
+
+* Imaging (e.g., <u>chest x-ray</u>)
+
+* Consider further imaging (e.g., CT abdomen and <u>pelvis</u>, <u>lower extremity venous ultrasound</u>) in patients with persistent <u>fever</u> without an identifiable cause.
+
+
+
+
+
+> [!TIP]
+> The most common infectious <u>causes of postoperative fever</u> include <u>surgical site infections</u> (SSIs), <u>pneumonia</u>, <u>catheter-associated UTIs</u>, and primary <u>bloodstream infections</u>. The most common noninfectious causes include <u>febrile drug reactions</u> and <u>venous thromboembolism</u>. [[33]](https://coursology-qbank.com/amboss/article/0w1ehQ0)
+
+
+
+
+### Treatment [[4]](https://coursology-qbank.com/amboss/article/uz0pui)[[28]](https://coursology-qbank.com/amboss/article/gq1FB30)
+
+
+
+
+* Treat the underlying <u>cause of postoperative fever</u>.
+
+* Minimize <u>risk factors</u> for preventable causes.
+
+* Discontinue all unnecessary medications.
+
+* Ensure <u>source control for sepsis</u> (e.g., remove or replace IV catheters).
+
+* Treatment of suspected infection may involve:
+
+* <u>Antibiotic therapy</u>
+
+* In <u>hemodynamically unstable</u> patients, initiate immediate <u>broad-spectrum antibiotic</u> therapy if there is concern for <u>sepsis</u> or <u>septic shock</u>. [[34]](https://coursology-qbank.com/amboss/article/1Ba2-5)
+
+* In stable patients with suspected infection, initiate appropriate <u>antibiotics</u> based on the type of infection.
+
+* Surgical intervention (e.g., <u>abscess</u> drainage, <u>debridement</u> of <u>SSI</u>)
+
+* Start <u>antipyretics</u> (e.g., <u>acetaminophen</u>) as needed.
+
+
+
+
+
+> [!TIP]
+> Early (< 2 days) <u>postoperative fever</u> does not always require treatment if <u>life-threatening causes of postoperative fever</u> have been ruled out and there is no suspicion of infection. [[1]](https://coursology-qbank.com/amboss/article/4J13830)[[4]](https://coursology-qbank.com/amboss/article/uz0pui)
+
+---
+
+## Perioperative hemorrhage
+
+### Etiology [[35]](https://coursology-qbank.com/amboss/article/Iq1Y-30)
+
+
+
+
+| <br>Etiology of perioperative hemorrhage [[36]](https://coursology-qbank.com/amboss/article/dx1ovQ0)[[37]](https://coursology-qbank.com/amboss/article/Vx1GvQ0)<br> |  |  |
+| --- | --- | --- |
+| Onset |  | Cause |
+| <br>Intraoperative hemorrhage<br> |  | <br><br>* Injury to <u>blood vessels</u><br><br>* Undiagnosed <u>hemostasis and bleeding disorders</u><br><br><br> |
+| Postoperative hemorrhage | <br>< 24 hours<br> | <br><br>* Mechanical causes<br><br>* Slipped ligature<br><br>* Lysed or dislodged <u>thrombus</u><br><br>* Unidentified injured vessel<br><br>* <u>Hemostasis and bleeding disorders</u><br><br>* Preexisting <u>bleeding disorders</u><br><br>* Coagulopathies due to severe intraoperative hemorrhage<br><br>* <u>Consumption coagulopathy</u><br><br>* Dilutional <u>coagulopathy</u> due to <u>massive blood transfusion</u><br><br>* <u>Hypothermia</u>-induced <u>coagulopathy</u> due to postoperative <u>hypothermia</u> [[4]](https://coursology-qbank.com/amboss/article/uz0pui)<br><br><br> |
+| 1–7 days | <br><br>* Dilutional <u>coagulopathy</u> due to <u>massive blood transfusion</u><br><br>* <u>Consumption coagulopathy</u><br><br><br> |  |
+| <br>> 1 week<br> | <br>* <u>Erosion</u> of <u>blood vessels</u> due to extrinsic factors, e.g.:<br><br>* <u>Surgical site infection</u><br><br>* Mechanical pressure<br><br>* Inflammation<br><br> |  |
+
+
+
+
+
+> [!TIP]
+> Bleeding can occur at sites other than the surgical wound (e.g., during <u>central line insertion</u>) in patients with <u>hemostasis and bleeding disorders</u>.
+
+
+
+
+### Clinical features
+
+
+
+
+* Signs of <u>hemorrhagic shock</u>, e.g., <u>tachycardia</u>, <u>hypotension</u>, decreased urine output
+
+* <u>Hematoma</u> and/or <u>ecchymoses</u>
+
+* <u>Signs of anemia</u>
+
+
+
+
+
+### Diagnostics [[38]](https://coursology-qbank.com/amboss/article/rq1f-30)
+
+
+
+
+* Primarily a <u>clinical diagnosis</u>
+
+* Routine <u>laboratory studies</u>: ↓ <u>Hb</u>, ↓ <u>Hct</u>
+
+* Obtain further diagnostic studies depending on the suspected cause, e.g.:
+
+* <u>Diagnostic workup of bleeding disorders</u>
+
+* Targeted imaging (e.g., CT, <u>MRI</u>) to assess for mechanical causes
+
+
+
+
+
+> [!TIP]
+> Recognition of bleeding is the first step in diagnosis.
+
+
+
+
+### Treatment [[38]](https://coursology-qbank.com/amboss/article/rq1f-30)
+
+
+
+
+* <u>Hemodynamically unstable</u> patients: Initiate immediate <u>management of hemorrhagic shock</u>.
+
+* Pursue immediate surgical management for mechanical causes.
+
+* Provide supportive management as indicated.
+
+* Initiate <u>management of acute bleeding in patients with bleeding disorders</u>.
+
+* In patients with <u>hemorrhagic shock</u> and/or <u>severe anemia</u>, initiate immediate <u>packed red blood cell transfusion</u> (see also “<u>Indications for pRBC transfusion</u>”).
+
+* See also “<u>Massive transfusion</u>.”
+
+---
+
+## Hematomas and seromas
+
+### Definition [[4]](https://coursology-qbank.com/amboss/article/uz0pui)
+
+
+
+
+* <u>Hematoma</u>: a collection of blood due to unsuccessful <u>hemostasis</u> or coagulation
+
+* Seroma: a collection of serum, lymphatic fluid, and liquified fat often due to the presence of an empty cavity following <u>surgery</u>
+
+
+
+
+
+### Clinical features
+
+
+
+
+* Most commonly occurs several days after <u>surgery</u>
+
+* May be asymptomatic
+
+* Localized swelling
+
+* <u>Pain</u> or discomfort
+
+* Drainage of fluid
+
+* <u>Hematoma</u>: dark
+
+* <u>Seroma</u>: clear
+
+* <u>Hematoma</u>: purple discoloration
+
+
+
+
+
+### Treatment [[4]](https://coursology-qbank.com/amboss/article/uz0pui)
+
+
+
+
+* Small or asymptomatic: <u>expectant management</u>
+
+* Large or symptomatic ;  [[4]](https://coursology-qbank.com/amboss/article/uz0pui)
+
+* Exploration and drainage
+
+* Wound packing until <u>granulation tissue</u> is formed
+
+* Wound closed by delayed <u>primary intention</u> or by secondary intention
+
+* Monitor for wound infections (bacteria can access deep layers of the <u>fascia</u> and can multiply in the stagnant fluid).
+
+---
+
+## Surgical site infection (SSI)
+
+### Definition [[39]](https://coursology-qbank.com/amboss/article/ey0xVi)
+
+
+
+
+An incisional <u>skin and soft tissue infection</u> or organ/space infection located at the site of recent <u>surgery</u>, typically arising within 30 days postoperatively
+
+
+
+
+### <u>Epidemiology</u>
+
+
+
+
+* Accounts for ∼ 20% of all <u>health care-associated infections</u> [[39]](https://coursology-qbank.com/amboss/article/ey0xVi)
+
+* Most common <u>nosocomial infection</u> among patients undergoing <u>surgery</u> [[40]](https://coursology-qbank.com/amboss/article/Om0Ifg)
+
+* <u>Incidence</u>: ∼ 2% of all surgical wounds [[41]](https://coursology-qbank.com/amboss/article/jrX_Sz)
+
+
+
+
+
+### Etiology [[39]](https://coursology-qbank.com/amboss/article/ey0xVi)
+
+
+
+
+* Causative pathogens  [[40]](https://coursology-qbank.com/amboss/article/Om0Ifg)[[42]](https://coursology-qbank.com/amboss/article/eD1xWQ0)
+
+* During the first 48–72 hours (uncommon): includes selected pathogens that cause <u>necrotizing fasciitis</u>
+
+* <u>Group A Streptococcus</u> (<u>GAS</u>), e.g., <u>S. pyogenes</u>
+
+* <u>Clostridium</u> spp., e.g., <u>C. perfringens</u>  [[43]](https://coursology-qbank.com/amboss/article/1x12vQ0)
+
+* 48–72 hours after <u>surgery</u>; : <u>SSI</u> due to <u>endogenous</u> organisms at the surgical site, e.g., bacteria on the <u>skin</u> (e.g., <u>S. aureus</u>) or in the genital or gastrointestinal tracts (e.g., <u>E. coli</u>)
+
+* > 30 days after <u>surgery</u>: indolent organisms (e.g., <u>coagulase-negative staphylococci</u>)  [[44]](https://coursology-qbank.com/amboss/article/uC1pFQ0)
+
+* <u>Risk factors</u> [[45]](https://coursology-qbank.com/amboss/article/giXFIB)[[46]](https://coursology-qbank.com/amboss/article/Cv1qXQ0)
+
+* Patient-related factors
+
+* <u>Corticosteroid</u> therapy
+
+* <u>Malnutrition</u>
+
+* <u>Obesity</u>
+
+* <u>Diabetes mellitus</u>
+
+* Older age
+
+* Smoking
+
+* Preexisting infections or microbial <u>colonization</u> (e.g., with <u>S. aureus</u>)
+
+* <u>Immunosuppression</u> or altered <u>immune response</u>
+
+* Prolonged preoperative hospital stay
+
+* Procedure-related factors
+
+* Suboptimal preparation
+
+* Environmental: inadequate ventilation and increased traffic in the operating room
+
+* High degree of wound contamination (e.g., class III or IV surgical wound)
+
+* Prolonged <u>surgery</u>
+
+* Incorrect surgical technique
+
+* Improper <u>sterile technique</u> or instruments
+
+
+
+
+
+### Classification of surgical wounds [[45]](https://coursology-qbank.com/amboss/article/giXFIB)[[47]](https://coursology-qbank.com/amboss/article/-E1Dyi0)
+
+
+
+
+Wounds can be classified preoperatively and/or postoperatively based on clinical characteristics. The classification may be used to predict the risk of developing an <u>SSI</u> and the necessity of <u>perioperative antibiotic prophylaxis</u>.
+
+
+
+
+| <br>Surgical wound classification [[45]](https://coursology-qbank.com/amboss/article/giXFIB)<br> |  |  |
+| --- | --- | --- |
+|  | Definition | <br>Rate of infection [[4]](https://coursology-qbank.com/amboss/article/uz0pui)<br> |
+| Class I (clean) | <br>* All of the following:<br><br>* Noninflamed operative wound<br><br>* The respiratory, alimentary, genital, or urinary tracts have not been entered during <u>surgery</u>.<br><br>* <u>Primary wound closure</u> with or without a drain<br><br> | <br>* 1–3%<br><br> |
+| Class II (clean-contaminated) | <br><br>* Noninflamed and uninfected operative wound<br><br>* The respiratory, alimentary, genital, and/or urinary tracts have been entered during <u>surgery</u> without contamination.<br><br><br> | <br>* 5–8%<br><br> |
+| Class III (contaminated) | <br><br>* Fresh, open, and accidental wounds<br><br>* Inflamed operative wound without <u>purulent</u> drainage<br><br>* Clean or <u>clean-contaminated wound</u> with a break in <u>sterile technique</u> during <u>surgery</u><br><br><br> | <br>* 20–25%<br><br> |
+| Class IV (dirty or infected) | <br><br>* Old traumatic wounds with evidence of infection, <u>necrotic</u> tissue, and/or <u>visceral</u> perforation<br><br>* Inflamed operative wound with <u>purulent</u> drainage<br><br><br> | <br>* 30–40%<br><br> |
+
+
+
+
+
+### Classification and <u>clinical features of SSI</u> [[39]](https://coursology-qbank.com/amboss/article/ey0xVi)[[45]](https://coursology-qbank.com/amboss/article/giXFIB)
+
+
+
+
+| Classification of <u>surgical site infections</u> (SSIs) |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  |  | Clinical features of SSIs |  | Onset | Tissue involvement |
+| <u>Superficial</u> incisional <u>SSI</u> |  |  | <br><br>* <u>Purulent</u> discharge from the <u>incision</u><br><br>* In some cases, <u>postoperative fever</u><br><br>* Localized tenderness, <u>erythema</u>, warmth, and/or swelling<br><br><br> | <br>* Within 30 days postoperatively<br><br> | <br>* <u>Skin</u> and <u>subcutaneous tissue</u> at the <u>incision</u> site<br><br> |
+| Deep incisional <u>SSI</u> |  |  | <br><br>* <u>Purulent</u> discharge from deep within the <u>incision</u><br><br>* <u>Postoperative fever</u><br><br>* Tenderness at the <u>incision</u> site<br><br>* <u>Wound dehiscence</u><br><br>* <u>Necrotizing fasciitis</u>: cloudy gray discharge, possible <u>crepitus</u> of tissue surrounding the wound<br><br><br> | <br>* Within 30–90 days postoperatively  [[40]](https://coursology-qbank.com/amboss/article/Om0Ifg)<br><br> | <br>* Involves deeper <u>soft tissue</u> (i.e., <u>fascia</u> and muscle layers) at the <u>incision</u> site than <u>superficial</u> incisional SSIs<br><br> |
+| Organ/space <u>SSI</u> |  |  | <br><br>* <u>Purulent</u> discharge from a drain placed within the organ or space, or an <u>abscess</u><br><br>* <u>Postoperative fever</u><br><br>* Additional features depend on the organs affected.<br><br><br> | <br>* Can involve any part of the body deeper than the <u>fascia</u> or muscle layers that was opened or manipulated during <u>surgery</u><br><br> |  |
+
+
+
+
+
+### Diagnostics [[40]](https://coursology-qbank.com/amboss/article/Om0Ifg)
+
+
+
+
+* Routine <u>laboratory studies</u>
+
+* <u>CBC</u>: <u>leukocytosis</u>
+
+* <u>Inflammatory markers</u> (e.g., <u>ESR</u>, <u>CRP</u>): may be elevated
+
+* <u>Creatinine</u>: to establish baseline renal function to adjust <u>antibiotic</u> dosage
+
+* Microbiological studies
+
+* Wound culture and <u>Gram stain</u> (e.g., for incisional <u>SSI</u>): sample of <u>purulent</u> drainage collected using <u>sterile techniques</u>
+
+* <u>Abscess</u> culture (e.g., for organ/space <u>SSI</u>): sample obtained from drainage catheter or image-guided drainage
+
+* Imaging: targeted study (e.g., <u>ultrasound</u>, CT, <u>MRI</u>) to assess for deep tissue or organ/space infection (e.g., <u>abscess</u>)
+
+
+
+
+
+### Treatment
+
+
+
+
+#### General principles
+
+
+
+
+* Immediately initiate treatment of life-threatening <u>skin and soft tissue infections</u>, e.g.:
+
+* <u>Necrotizing soft tissue infections</u>
+
+* <u>Staphylococcal toxic shock syndrome</u>
+
+* Pursue surgical management for all SSIs.
+
+* Start <u>empiric antibiotic therapy</u> in patients with any of the following: 
+
+* <u>Erythema</u> and induration extending ≥ 5 cm from the wound edge
+
+* <u>Fever</u> â¥ 38.5Â°C (â¥ 101.3Â°F)
+
+* <u>Heart rate</u> ≥ 110/minute
+
+* <u>WBC count</u> â¥ 12,000/mmÂ³
+
+* Initiate <u>targeted antibiotic therapy</u> once <u>bacterial culture</u> results are available.
+
+* Consider infectious diseases consult.
+
+* For intraabdominal organ/space SSIs, see “<u>Intraabdominal abscess</u>.”
+
+
+
+
+
+> [!TIP]
+> Not all patients with an <u>SSI</u> need <u>antibiotics</u>; surgical management alone may be sufficient.
+
+
+
+
+> [!TIP]
+> If <u>antibiotics</u> are indicated, obtain samples for microbiological studies prior to starting <u>empiric antibiotic therapy</u>, if possible.
+
+
+
+
+#### Surgical management [[4]](https://coursology-qbank.com/amboss/article/uz0pui)[[48]](https://coursology-qbank.com/amboss/article/Pv1WZQ0)
+
+
+
+
+* Suture removal, <u>incision</u>, and drainage [[40]](https://coursology-qbank.com/amboss/article/Om0Ifg)
+
+* <u>Debridement</u> of <u>necrotic</u> tissue (e.g., <u>necrotizing soft tissue infection</u>).
+
+* Regular dressing changes and daily wound inspections
+
+* Delayed closure once the infection has resolved
+
+* See “<u>Secondary wound closure</u>” for more details.
+
+
+
+
+
+#### Empiric antibiotic therapy for SSI [[40]](https://coursology-qbank.com/amboss/article/Om0Ifg)
+
+
+
+
+Choose initial <u>empiric antibiotics</u> based on the location of <u>surgery</u> (e.g., intraabdominal, genital) and presence of complications (e.g., necrotizing infection). <u>Antibiotic</u> duration depends on the severity and extent of the infection.
+
+
+
+
+* Incisional <u>SSI</u> not involving the genital or GI tracts
+
+* Low risk of <u>MRSA</u>: <u>cefazolin</u> DOSAGE OR <u>oxacillin</u> DOSAGE [[40]](https://coursology-qbank.com/amboss/article/Om0Ifg)
+
+* High risk of <u>MRSA</u>: <u>vancomycin</u> DOSAGE, <u>daptomycin</u>DOSAGE, OR <u>linezolid</u> DOSAGE [[40]](https://coursology-qbank.com/amboss/article/Om0Ifg)
+
+* Incisional <u>SSI</u> involving the <u>perineum</u>, <u>axilla</u>, or GI or genital tracts
+
+* <u>Third-generation cephalosporin</u>;  (e.g., <u>ceftriaxone</u> DOSAGE) PLUS <u>metronidazole</u> DOSAGE [[40]](https://coursology-qbank.com/amboss/article/Om0Ifg)
+
+* <u>Levofloxacin</u>  DOSAGE PLUS <u>metronidazole</u> DOSAGE [[40]](https://coursology-qbank.com/amboss/article/Om0Ifg)
+
+* <u>Carbapenem</u> (e.g., <u>meropenem</u> DOSAGE) [[40]](https://coursology-qbank.com/amboss/article/Om0Ifg)
+
+* Suspected <u>necrotizing soft tissue infection</u>
+
+* Unclear <u>pathogen</u> or mixed infection: <u>broad-spectrum antibiotic</u> therapy (see “<u>Empiric antibiotic therapy for skin and soft tissue infections</u>” for dosages)
+
+* <u>Group A Streptococcus</u> or <u>C. perfringens</u>: <u>penicillin</u>  DOSAGE PLUS <u>clindamycin</u> DOSAGE [[40]](https://coursology-qbank.com/amboss/article/Om0Ifg)
+
+* Presence of surgical implant or device: Regimens vary based on the infected area (see “<u>Device-related infections</u>” for dosages).
+
+* Intraabdominal organ/space infection: See “<u>Empiric antibiotic therapy for intraabdominal infections</u>.”
+
+
+
+
+
+> [!WARNING]
+> <u>Necrotizing soft tissue infections</u> are a <u>medical emergency</u> and require immediate surgical consultation and treatment.
+
+
+
+
+### Complications
+
+
+
+
+* <u>Wound dehiscence</u>
+
+* <u>Secondary hemorrhage</u>
+
+* <u>Bloodstream infection</u>, which may lead to <u>sepsis</u> and <u>septic shock</u>
+
+
+
+
+
+### Prevention [[41]](https://coursology-qbank.com/amboss/article/jrX_Sz)[[49]](https://coursology-qbank.com/amboss/article/yecdYb0)
+
+
+
+
+* Optimize blood <u>glucose</u> levels.
+
+* Encourage <u>smoking cessation</u> one month before <u>surgery</u>.
+
+* Delay elective procedures until all infections, even those remote from the surgical site, have resolved.
+
+* Adequate <u>skin preparation</u> in the operating room
+
+* <u>Perioperative antibiotic prophylaxis</u> if required
+
+* See “<u>Prevention of surgical site infections</u>” for detailed preventive measures.
+
+---
+
+## Sternal dehiscence
+
+### Definition [[50]](https://coursology-qbank.com/amboss/article/YbWnHP0)
+
+
+
+
+A gap at the site of the sternal division following median <u>sternotomy</u>, which may or may not be accompanied by infection
+
+
+
+
+### <u>Risk factors</u> [[51]](https://coursology-qbank.com/amboss/article/cbWasP0)[[52]](https://coursology-qbank.com/amboss/article/1bW2sP0)
+
+
+
+
+* Patient-related factors
+
+* <u>Obesity</u>
+
+* <u>Diabetes mellitus</u>
+
+* Smoking
+
+* <u>Chronic obstructive pulmonary disease</u>
+
+* <u>Chronic cough</u>
+
+* <u>Heart failure</u>
+
+* <u>Osteoporosis</u>
+
+* Previous <u>sternotomy</u>
+
+* Procedure-related factors
+
+* Prolonged <u>cardiopulmonary bypass</u>
+
+* <u>Coronary artery bypass grafting</u>
+
+* Harvesting of bilateral <u>internal mammary arteries</u>
+
+* Excessive <u>blood transfusions</u>
+
+* Paramedian <u>sternotomy</u>
+
+
+
+
+
+### Pathomechanism [[52]](https://coursology-qbank.com/amboss/article/1bW2sP0)[[53]](https://coursology-qbank.com/amboss/article/XbW9HP0)
+
+
+
+
+The <u>sternum</u> can either heal normally, resolving postoperative sternal instability, or develop a dehiscence due to <u>fractures</u> of the bone and sternal wires.
+
+
+
+* Factors contributing to sternal instability include:
+
+* Primary <u>nonunion</u>
+
+* Poor surgical technique (e.g., insufficient holding power of sutures)
+
+* Mechanical stresses on the wound (e.g., chest exploration, <u>intubation</u> > 7 days or chronic ventilator dependence, premature overexertion)
+
+* Poor <u>wound healing</u>
+
+
+
+
+### Clinical features [[52]](https://coursology-qbank.com/amboss/article/1bW2sP0)[[54]](https://coursology-qbank.com/amboss/article/bbWHHP0)
+
+
+
+
+* Instability of the <u>sternum</u>
+
+* <u>Pain</u>, <u>chest wall</u> discomfort at rest
+
+* Tenderness on palpation
+
+* Audible click during chest movements (e.g., <u>coughing</u>)
+
+* Increased wound drainage
+
+* Patients can be completely asymptomatic.
+
+
+
+
+
+### Diagnosis [[55]](https://coursology-qbank.com/amboss/article/hbWctP0)
+
+
+
+
+Early radiographic imaging is important to facilitate timely therapy.
+
+
+
+
+* <u>Chest x-ray</u>
+
+* Evidence of dehiscence can be detected on <u>x-ray</u> up to 3 days before clinical manifestations.
+
+* Findings: <u>lateral</u> displacement of sternal wires, vertically-oriented midsternal lucent stripe (not always present)
+
+* <u>CT scan</u>: used to differentiate between simple wire migration and <u>sternal dehiscence</u>
+
+
+
+
+
+### Management [[51]](https://coursology-qbank.com/amboss/article/cbWasP0)
+
+
+
+* Surgical wound closure
+
+* Immediate closure (rewiring or sternal <u>plate fixation</u>): indicated in clinically stable patients with a <u>sternum</u> that can be reapproximated and stabilized, and if there is no infection in the deep <u>mediastinal</u> space
+
+* Immediate closure using muscle flaps (e.g., <u>pectoralis major</u>, <u>latissimus dorsi</u>, <u>rectus abdominis</u>) and/or <u>omental</u> flaps: indicated in clinically stable patients with a <u>sternum</u> that cannot be reapproximated and stabilized, and if there is no infection in the deep <u>mediastinal</u> space
+
+
+
+
+### Complications [[55]](https://coursology-qbank.com/amboss/article/hbWctP0)[[56]](https://coursology-qbank.com/amboss/article/kbWmFP0)
+
+
+
+
+* <u>Soft tissue</u> dehiscence
+
+* Deep sternal wound infection (postoperative acute mediastinitis) [[51]](https://coursology-qbank.com/amboss/article/cbWasP0)[[57]](https://coursology-qbank.com/amboss/article/gbWFGP0)[[58]](https://coursology-qbank.com/amboss/article/3bWStP0)
+
+* <u>Risk factors</u> [[51]](https://coursology-qbank.com/amboss/article/cbWasP0)[[57]](https://coursology-qbank.com/amboss/article/gbWFGP0)
+
+* <u>Obesity</u>
+
+* <u>Diabetes mellitus</u>
+
+* Smoking
+
+* Nasal <u>colonization</u> with <u>Staphylococcus aureus</u>
+
+* Infections at any site
+
+* <u>Chronic obstructive pulmonary disease</u>
+
+* <u>Hypoalbuminemia</u>
+
+* Clinical features
+
+* Signs of infection such as <u>purulent</u> drainage, local <u>erythema</u>, and <u>fever</u>
+
+* <u>Tachycardia</u>, <u>hypotension</u>
+
+* <u>Pain</u>, <u>crepitus</u> and/or <u>chest wall</u> discomfort
+
+* Diagnostics [[57]](https://coursology-qbank.com/amboss/article/gbWFGP0)[[58]](https://coursology-qbank.com/amboss/article/3bWStP0)
+
+* <u>Laboratory studies</u>: <u>leukocytosis</u> and increased <u>erythrocyte sedimentation rate</u>
+
+* Microbiological studies
+
+* <u>Blood cultures</u>
+
+* Deep tissue cultures
+
+* Imaging
+
+* <u>Chest x-ray</u>: shows <u>widening of the mediastinum</u>, <u>pleural effusion</u>, <u>pneumomediastinum</u>, and/or <u>mediastinal</u> <u>air-fluid levels</u>
+
+* <u>CT scan</u>: used to assess the extent of <u>mediastinal</u> infection if present
+
+* Management [[51]](https://coursology-qbank.com/amboss/article/cbWasP0)
+
+* Surgical drainage and <u>debridement</u>
+
+* <u>Delayed wound closure</u> (<u>negative pressure wound therapy</u> is applied before definitive surgical wound closure with flaps)
+
+* Long-term <u>antibiotics</u> (minimum of 4–6 weeks)
+
+* Sternal instability
+
+* <u>Pneumonia</u>
+
+* Wire displacement: may lead to hemorrhage (resulting from puncture of e.g., great vessels, <u>right ventricle</u>, a main <u>bronchus</u>, the <u>pleural space</u>)
+
+* Sternal <u>osteomyelitis</u>
+
+
+
+
+
+### Prevention [[59]](https://coursology-qbank.com/amboss/article/WbWPsP0)
+
+
+
+
+* Identification and correction of <u>risk factors</u>
+
+* Preoperative prevention and reduction of infection risk (e.g., <u>antibiotic prophylaxis</u> with <u>cephalosporins</u> and/or <u>vancomycin</u>)
+
+* Optimization of glycemic control and <u>nutritional status</u>
+
+* <u>Smoking cessation</u>
+
+---
+
+## Postoperative nausea and vomiting
+
+### <u>Epidemiology</u> [[60]](https://coursology-qbank.com/amboss/article/2y0Tei)
+
+
+
+
+* <u>Incidence</u>
+
+* 30–50% among postsurgical patients in the general population
+
+* Up to 80% in high-risk groups
+
+* Sex: <u>♀</u> > <u>♂</u>
+
+
+
+
+
+### <u>Risk factors</u> [[60]](https://coursology-qbank.com/amboss/article/2y0Tei)
+
+
+
+
+| PONV risk factors |  |  |
+| --- | --- | --- |
+|  | Adults | Children |
+| Patient-related | <br><br>* Female sex<br><br>* Past history of <u>PONV</u><br><br>* History of <u>motion sickness</u><br><br>* Non-smoker<br><br>* Age < 50 years<br><br><br> | <br><br>* Age > 3 years<br><br>* Past history or <u>family history</u> of <u>PONV</u><br><br><br> |
+| Procedure or treatment related | <br><br>* Volatile general <u>anesthetics</u> including <u>nitrous oxide</u><br><br>* Perioperative <u>opiate</u> use<br><br>* Emetogenic procedure (<u>laparoscopy</u>, gynecological procedures, and <u>cholecystectomy</u>)<br><br><br> | <br><br>* <u>Surgery</u> lasting ≥ 30 minutes<br><br>* <u>Strabismus surgery</u><br><br><br> |
+| <br>* <u>Middle ear</u> <u>surgery</u> [[61]](https://coursology-qbank.com/amboss/article/pVXLvC)<br><br> |  |  |
+
+
+
+
+
+### Differential diagnosis
+
+
+
+
+* < 1 week after <u>surgery</u>; : <u>self-limiting</u> gastric or intestinal atony; , or a more severe <u>paralytic ileus</u>
+
+* > 1 week after abdominal <u>surgery</u>; : early <u>mechanical bowel obstruction</u>
+
+* See also <u>differential diagnoses of nausea and vomiting</u>
+
+
+
+
+
+### PONV prophylaxis
+
+
+
+
+* Reduction of baseline risk:
+
+* Choose <u>regional anesthesia</u> over <u>general anesthesia</u> whenever possible.
+
+* If <u>general anesthesia</u> is required, avoid the use of <u>nitrous oxide</u> and <u>volatile anesthetics</u>; use a <u>propofol</u> infusion instead.
+
+* Minimize the perioperative use of <u>opiates</u>.
+
+* Adequate hydration
+
+* Additional measures:
+
+* 0–1 <u>PONV risk factors</u> (low <u>PONV</u> risk; ): no antiemetic
+
+* 2 <u>PONV risk factors</u> (medium <u>PONV</u> risk; ): one antiemetic
+
+* ≥ 3 <u>PONV risk factors</u> (high <u>PONV</u> risk; ): two or more <u>antiemetics</u> of different classes
+
+
+
+
+
+### Treatment of <u>PONV</u> [[60]](https://coursology-qbank.com/amboss/article/2y0Tei)[[62]](https://coursology-qbank.com/amboss/article/YIYnYq)
+
+
+
+
+* Address any contributing factors (e.g., discontinue <u>opioid analgesics</u>, start bowel regimen).
+
+* Use an antiemetic that was not used for prophylaxis (see <u>antiemetics</u>).
+
+* <u>5-HT<sub>3</sub> antagonists</u>
+
+* <u>Ondansetron</u> DOSAGE
+
+* <u>Granisetron</u> DOSAGE
+
+* Tropisetron DOSAGE
+
+* Alternatives
+
+* <u>Dexamethasone</u> DOSAGE
+
+* Droperidol DOSAGE
+
+* <u>Promethazine</u> DOSAGE
+
+
+
+
+
+### Acute management checklist for PONV
+
+
+
+
+* Identify and treat <u>acute abdomen</u>.
+
+* Rule out alternative etiologies (see <u>differential diagnoses for nausea and vomiting</u>).
+
+* Address any contributing factors
+
+* Small, frequent meals
+
+* <u>IV fluids</u>
+
+* Start <u>antiemetic therapy</u>.
+
+
+
+
+
+### Complications
+
+
+
+
+* Prolonged hospital stay
+
+* Increased risk of <u>aspiration pneumonia</u>
+
+* <u>Secondary hemorrhage</u> due to retching
+
+* <u>Mallory Weiss syndrome</u>
+
+---
+
+## Postoperative urinary retention
+
+### Definition [[63]](https://coursology-qbank.com/amboss/article/uq1pZR0)
+
+
+
+
+Inability to adequately void spontaneously after <u>surgery</u>
+
+
+
+
+### <u>Risk factors</u> [[63]](https://coursology-qbank.com/amboss/article/uq1pZR0)
+
+
+
+
+* Patient-related factors
+
+* Age > 50 years
+
+* Male sex
+
+* Preexisting <u>urinary tract obstruction</u> (e.g., <u>BPH</u>)
+
+* Neurological disease (e.g., <u>multiple sclerosis</u>, <u>diabetic neuropathy</u>)
+
+* Procedure-related factors
+
+* Long procedure duration
+
+* <u>Inguinal hernia</u> repair, gynecological or anorectal <u>surgery</u>, <u>joint</u> <u>arthroplasty</u>
+
+* Severe postoperative <u>pain</u>
+
+* Administration of excessive <u>intravenous fluids</u> (> 750 mL) [[63]](https://coursology-qbank.com/amboss/article/uq1pZR0)
+
+* Use of spinal or <u>epidural anesthesia</u>
+
+* Use of sedatives;  and/or <u>opioid analgesics</u>
+
+* Perioperative administration of alpha <u>agonists</u> or <u>anticholinergics</u> (e.g., <u>atropine</u>)
+
+
+
+
+
+### Clinical features
+
+
+
+
+* Suprapubic discomfort and/or <u>pain</u>
+
+* Sensation of <u>bladder</u> fullness
+
+* Palpable <u>bladder</u>
+
+
+
+
+
+> [!TIP]
+> <u>Urinary retention</u> may be asymptomatic in patients with sensory deficits (e.g., due to <u>spinal cord injuries</u> or <u>stroke</u>) or after recent <u>regional anesthesia</u>.
+
+
+
+
+### Diagnostics [[63]](https://coursology-qbank.com/amboss/article/uq1pZR0)
+
+
+
+
+* Primarily a <u>clinical diagnosis</u>
+
+* Consider the following to support the diagnosis as necessary:
+
+* <u>Bladder ultrasound</u>;  or <u>bladder scanner</u>: preferred methods of assessing <u>bladder</u> volume
+
+* <u>Bladder catheterization</u>
+
+* Further evaluation is usually not necessary in patients with <u>postoperative urinary retention</u>; see “<u>Diagnostics of urinary retention</u>” for the assessment of other potential causes.
+
+
+
+
+
+### Management [[63]](https://coursology-qbank.com/amboss/article/uq1pZR0)
+
+
+
+
+* Patients catheterized preoperatively: Assess for urinary catheter obstruction (e.g., kinking, blockage).
+
+* Noncatheterized patients
+
+* <u>Conservative management</u>, e.g.:
+
+* Trial of void
+
+* Consider application of a suprapubic hot pack or gauze soaked with lukewarm water.  [[64]](https://coursology-qbank.com/amboss/article/aw1QhQ0)
+
+* If > 600 mL urine retained over 2 hours: <u>bladder catheterization</u> (<u>intermittent catheterization</u> or <u>indwelling urine catheter</u>) [[63]](https://coursology-qbank.com/amboss/article/uq1pZR0)
+
+* Consider <u>anuria</u> or <u>oliguria</u> due to <u>acute kidney injury</u> in patients with decreased urine output.
+
+* If symptoms persist despite adequate management, consider other <u>causes of urinary tract obstruction</u> and <u>urinary retention</u>.
+
+* Offer <u>pain management</u> (e.g., <u>NSAIDs</u>) as needed.
+
+
+
+
+
+### Complications [[63]](https://coursology-qbank.com/amboss/article/uq1pZR0)
+
+
+
+
+* Acute <u>hydronephrosis</u> (postrenal cause of <u>AKI</u>)
+
+* <u>Urinary tract infection</u>
+
+* <u>Hospital-acquired infection</u> due to prolonged hospital stay
+
+---
+
+## Postoperative ileus
+
+* <u>Postoperative ileus</u> is one of the most common causes of <u>paralytic ileus</u>.
+
+* Details are covered separately; see “<u>Postoperative ileus</u>.”
+
+---

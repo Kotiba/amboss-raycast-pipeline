@@ -1,0 +1,427 @@
+# Myelodysplastic syndromes
+
+*Categories: Clinical knowledge > Internal medicine > Hematology and oncology > White blood cell and bone marrow disorders > Myelodysplastic syndromes*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/3T0Sq2)
+
+---
+
+## Summary
+
+Myelodysplastic syndromes (MDSs) are a group of clonal <u>hematopoietic stem cell</u> <u>neoplasms</u> characterized by impaired <u>proliferation</u> and differentiation of myeloid <u>stem cells</u> within the <u>bone marrow</u>. Primary (<u>idiopathic</u>) MDS, likely related to spontaneous mutations, is most common; secondary MDS may result from inciting events such as exposure to <u>chemotherapy</u>. MDS is typically seen in older adults and is evidenced by laboratory abnormalities, symptoms of <u>cytopenia</u>(s), and findings of <u>extramedullary hematopoiesis</u>. To diagnose and classify MDS, other <u>causes of cytopenia and/or dysplasia</u> must be excluded and <u>bone marrow</u> and genetic studies should be conducted. These studies typically show <u>dysplasia</u> and <u>cytopenia</u> in at least one mature <u>myeloid cell line</u> on <u>CBC</u>, <u>bone marrow</u> hypercellularity of myeloid precursors, and MDS-associated genetic abnormalities. All patients should receive supportive therapy as needed, including <u>transfusions</u> and treatment of associated <u>iron overload</u>. Additional treatment is guided by <u>risk stratification in MDS</u>. Individuals with high-risk disease are treated with <u>hypomethylating agents</u> and possibly intensive <u>chemotherapy</u>; they should also all be assessed for fitness for <u>allogeneic hematopoietic stem cell transplantation</u>, which is the only curative option. Treatment options for individuals with low-risk disease include <u>expectant management</u>, <u>hypomethylating agents</u>, and drugs such as <u>lenalidomide</u>. Close surveillance is required to determine treatment response and monitor for disease progression (e.g., to <u>acute myelogenous leukemia</u> or <u>bone marrow</u> failure).
+
+---
+
+## Etiology
+
+* Primary MDS (90% of cases) [[1]](https://coursology-qbank.com/amboss/article/uWbpMs)
+
+* Most commonly manifests in older adults [[1]](https://coursology-qbank.com/amboss/article/uWbpMs)
+
+* <u>Idiopathic</u>: likely due to spontaneous mutations [[1]](https://coursology-qbank.com/amboss/article/uWbpMs)
+
+* Secondary MDS (10% of cases): due to <u>exogenous</u> <u>bone marrow</u> damage [[2]](https://coursology-qbank.com/amboss/article/HeYKZo)
+
+* Treatment-related: following cytostatic therapy (<u>alkylating agents</u>, <u>topoisomerase II inhibitors</u>, <u>azathioprine</u>, etc.)
+
+* <u>Benzene</u> and other organic solvents
+
+* Radiation damage: therapeutic radiation, <u>radioiodine therapy</u>, <u>ionizing radiation</u>
+
+* <u>Paroxysmal nocturnal hemoglobinuria</u>
+
+
+
+
+
+![Hematological malignancies – Part 1a: Hematopoeisis, Acute Leukemia, and Lymphomas](../../../../../media/small_5dfa1a9977057.jpg)
+
+Hematological malignancies – Part 1a: Hematopoeisis, Acute Leukemia, and Lymphomas
+
+![Hematological malignancies – Part 1b: Myeloproliferative Neoplasms and Myelodysplastic Syndromes](../../../../../media/small_5dfa1aa115dfc.jpg)
+
+Hematological malignancies – Part 1b: Myeloproliferative Neoplasms and Myelodysplastic Syndromes
+
+![Hematological Malignancies – Part 2A: FAB Classification and Lymphomas](../../../../../media/small_5dfa1ab1a80f2.jpg)
+
+Hematological Malignancies – Part 2A: FAB Classification and Lymphomas
+
+![Hematological Malignancies – Part 2B: Myeloproliferative Neoplasms and Leukemic Hiatus](../../../../../media/small_5dfa1ad910919.jpg)
+
+Hematological Malignancies – Part 2B: Myeloproliferative Neoplasms and Leukemic Hiatus
+
+---
+
+## Classification
+
+| <br>Classifications of MDS [[3]](https://coursology-qbank.com/amboss/article/ELW8zN0)[[4]](https://coursology-qbank.com/amboss/article/vLWAzN0)<br> |  |
+| --- | --- |
+| 2022 <u>World Health Organization</u> (WHO) 5<sup>th</sup> edition | <br><br>* MDS with defining genetic abnormalities<br><br>* MDS with low blasts and isolated 5q deletion (MDS-5q)<br><br>* MDS with low blasts and  either SF3B1 mutation (MDS-SF3B1) OR ≥ 15% <u>ring sideroblasts</u><br><br>* MDS with biallelic <u>TP53</u> inactivation (MDS-bi<u>TP53</u>)<br><br>* MDS, morphologically defined<br><br>* MDS with low blasts (MDS-LB)<br><br>* MDS, <u>hypoplastic</u> (MDS-h)  [[3]](https://coursology-qbank.com/amboss/article/ELW8zN0)<br><br>* MDS with increased blasts (MDS-IB)  [[3]](https://coursology-qbank.com/amboss/article/ELW8zN0)<br><br><br> |
+| 2022 International Consensus Classification (ICC) | <br><br>* Lower-risk: MDS without excess blasts<br><br>* MDS with mutated SF3B1 (MDS-SF3B1)<br><br>* MDS with del(5q) [MDS-del(5q)]<br><br>* MDS, NOS<br><br>* Higher risk<br><br>* MDS with excess blasts (MDS-EB)  [[4]](https://coursology-qbank.com/amboss/article/vLWAzN0)<br><br>* MDS with mutated <u>TP53</u><br><br>* MDS/<u>AML</u><br><br><br> |
+
+
+
+
+
+> [!TIP]
+> MDS and <u>AML</u> are differentiated based on the number of <u>myeloblasts</u> in <u>bone marrow</u> or peripheral blood cells: < 20% in MDS and ≥ 20% in <u>AML</u>. [[3]](https://coursology-qbank.com/amboss/article/ELW8zN0)[[4]](https://coursology-qbank.com/amboss/article/vLWAzN0)
+
+
+
+
+> [!NOTE]
+> In a previous WHO classification system, refractory <u>anemia</u> was a subtype of MDS. [[5]](https://coursology-qbank.com/amboss/article/hqWcym0)
+
+---
+
+## Clinical features
+
+* Asymptomatic in 20% of cases
+
+* Depending on the affected cell line: [[6]](https://coursology-qbank.com/amboss/article/ACaRu5)
+
+* Erythrocytopenia ; (70% of cases) → <u>symptoms of anemia</u>
+
+* <u>Leukocytopenia</u> with increased susceptibility to bacterial infections, especially of the <u>skin</u>
+
+* <u>Thrombocytopenia</u> ; with impaired <u>primary hemostasis</u> → <u>petechial</u> bleeding
+
+* <u>Hepatosplenomegaly</u>  (uncommon)
+
+---
+
+## Diagnosis
+
+### Approach [[7]](https://coursology-qbank.com/amboss/article/8LWOzN0)[[8]](https://coursology-qbank.com/amboss/article/_U15fT0)[[9]](https://coursology-qbank.com/amboss/article/FVXgwC)
+
+
+
+
+Workup for MDS may be prompted by symptoms related to <u>cytopenias</u> or by the discovery of incidental <u>cytopenia</u>.
+
+
+
+
+* Obtain initial studies, including workup for other <u>causes of cytopenia</u> and <u>dysplasia</u>.
+
+* If the cause is still unexplained, refer to <u>hematology</u>-oncology for:
+
+* Advanced diagnostic studies (i.e., <u>bone marrow</u> and genetic studies)
+
+* Confirmation of diagnosis and <u>classification of MDS</u>, based on the presence of ≥ 1 of the following: [[3]](https://coursology-qbank.com/amboss/article/ELW8zN0)[[4]](https://coursology-qbank.com/amboss/article/vLWAzN0)
+
+* ≥ 10% <u>dysplastic</u> cells in ≥ 1 <u>myeloid cell line</u> on <u>bone marrow</u> smear (see “<u>Myeloid cell line abnormalities in MDS</u>”)
+
+* Increased <u>myeloblasts</u>  [[3]](https://coursology-qbank.com/amboss/article/ELW8zN0)
+
+* MDS-associated genetic abnormality
+
+
+
+
+
+> [!TIP]
+> MDS is often identified during evaluation for unexplained <u>cytopenia</u>.
+
+
+
+
+### Initial studies [[7]](https://coursology-qbank.com/amboss/article/8LWOzN0)[[8]](https://coursology-qbank.com/amboss/article/_U15fT0)[[10]](https://coursology-qbank.com/amboss/article/Mg1MDT0)
+
+
+
+
+* <u>CBC</u> with <u>peripheral smear</u>: will show <u>myeloid cell line abnormalities in MDS</u>
+
+* Studies to exclude other <u>causes of cytopenia and/or dysplasia</u>
+
+* Infectious disease studies (e.g., <u>HIV test</u>, <u>viral hepatitis panel</u>)
+
+* <u>Micronutrient</u> levels (e.g., B<sub>12</sub>, <u>folate</u>, <u>copper</u>, <u>iron</u>)  [[11]](https://coursology-qbank.com/amboss/article/tg1XCT0)
+
+* <u>BMP</u>: to assess for <u>chronic kidney disease</u>
+
+* <u>Liver chemistries</u>: to assess for <u>chronic liver disease</u>
+
+* Possible additional studies: may show nonspecific abnormalities [[9]](https://coursology-qbank.com/amboss/article/FVXgwC)
+
+* ↑ <u>LDH</u>
+
+* ↑ <u>Uric acid</u>
+
+* <u>Gamma globulins</u>: may be decreased or elevated (both monoclonal and polyclonal gammopathies)
+
+
+
+
+
+### Advanced studies for MDS [[3]](https://coursology-qbank.com/amboss/article/ELW8zN0)[[7]](https://coursology-qbank.com/amboss/article/8LWOzN0)[[12]](https://coursology-qbank.com/amboss/article/kIYm1q)
+
+
+
+
+* <u>Bone marrow</u> studies (<u>aspiration</u> and/or <u>biopsy</u>): to evaluate for <u>myeloid cell line abnormalities in MDS</u>
+
+* Genetic evaluation  [[4]](https://coursology-qbank.com/amboss/article/vLWAzN0)
+
+* <u>Karyotype</u> +/- <u>FISH</u>: to evaluate for <u>chromosomal aberrations</u> (e.g., 5q or 7q deletion)  [[13]](https://coursology-qbank.com/amboss/article/uLWpzN0)
+
+* Mutation analysis: to evaluate for specific mutations (e.g., SF3B1 and <u>TP53</u>)
+
+
+
+
+
+> [!TIP]
+> Genetic evaluation is required for <u>classification of MDS</u>, as well as for risk-<u>stratification</u> of patients to estimate prognosis and guide treatment. [[3]](https://coursology-qbank.com/amboss/article/ELW8zN0)[[7]](https://coursology-qbank.com/amboss/article/8LWOzN0)
+
+
+
+
+![Myelodysplastic syndrome: 5q deletion](../../../../../media/wrhctlywxnw5kpo98z3n3dsl.jpg)
+
+Myelodysplastic syndrome: 5q deletion
+
+
+
+
+### Overview of hematological findings in MDS [[12]](https://coursology-qbank.com/amboss/article/kIYm1q)[[14]](https://coursology-qbank.com/amboss/article/rKWf3m0)[[15]](https://coursology-qbank.com/amboss/article/fLakCO)
+
+
+
+
+| <br>Myeloid cell line abnormalities in MDS [[12]](https://coursology-qbank.com/amboss/article/kIYm1q)[[14]](https://coursology-qbank.com/amboss/article/rKWf3m0)[[15]](https://coursology-qbank.com/amboss/article/fLakCO)<br> |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  |  | <u>Peripheral smear</u> |  | <u>Bone marrow</u> studies |
+| <br>Cell count [[12]](https://coursology-qbank.com/amboss/article/kIYm1q)<br> |  | <br>* Decreased cell counts in ≥ 1 <u>myeloid cell line</u> (e.g., <u>anemia</u>, <u>leukopenia</u>, <u>thrombocytopenia</u>)  [[3]](https://coursology-qbank.com/amboss/article/ELW8zN0)[[4]](https://coursology-qbank.com/amboss/article/vLWAzN0)<br><br> |  | <br>* Hypercellular <u>bone marrow</u> (for age)<br><br> |
+| <br>Dysplasias<br> | <u>Erythrocyte</u> lineage | <br><br>* <u>Macrocytosis</u><br><br>* Nucleated <u>erythrocytes</u><br><br>* <u>Anisocytosis</u> and <u>poikilocytosis</u><br><br>* <u>Howell-Jolly bodies</u><br><br>* <u>Basophilic stippling</u><br><br><br> |  | <br>* <u>Erythrocyte</u> precursors with<br><br>* Nuclear abnormalities (e.g., <u>megaloblasts</u>)<br><br>* <u>Ringed sideroblasts</u><br><br> |
+| <u>Leukocyte</u> lineage | <br><br>* Hypogranulated <u>neutrophils</u><br><br>* <u>Dohle bodies</u><br><br>* <u>Pseudo-Pelger-Huet anomaly</u> (<u>neutrophils</u> with hyposegmented, usually bilobed <u>nuclei</u>)<br><br><br> |  | <br>* <u>Granulocyte</u> precursors (i.e., <u>myeloblasts</u>) that are:<br><br>* Hypogranulated<br><br>* Hyposegmented<br><br> |  |
+| <u>Thrombocyte</u> lineage | <br>* Large, agranular <u>thrombocytes</u><br><br> |  | <br>* <u>Thrombocyte</u> precursors with reduced or abnormal <u>nuclei</u> (micromegakaryocytes)<br><br> |  |
+
+
+
+
+
+> [!TIP]
+> <u>Anemia</u> is the most common <u>cytopenia</u> in MDS, and may manifest as <u>macrocytic anemia</u> or <u>normocytic anemia</u>. [[9]](https://coursology-qbank.com/amboss/article/FVXgwC)
+
+
+
+
+> [!NOTE]
+> The <u>pseudo-Pelger-Huet anomaly</u> is also seen in patients receiving certain medications (e.g., <u>chemotherapy</u>, transplant medications) and in other hematological disorders (e.g., <u>myeloproliferative disorders</u>). [[16]](https://coursology-qbank.com/amboss/article/IU1YeT0)[[17]](https://coursology-qbank.com/amboss/article/Fg1gCT0)
+
+
+
+
+![Anisocytosis and poikilocytosis](../../../../../media/r39rc5f1l5ibmr5sm7mx90ja.jpg)
+
+Anisocytosis and poikilocytosis
+
+![Howell-Jolly bodies](../../../../../media/ophtplhx97ykmczd7g7w1t0x.jpg)
+
+Howell-Jolly bodies
+
+![Pseudo-Pelger-Huet anomaly](../../../../../media/hvc3zdzg1fo72eai1w9o67sr.jpg)
+
+Pseudo-Pelger-Huet anomaly
+
+---
+
+## Treatment
+
+### Approach [[7]](https://coursology-qbank.com/amboss/article/8LWOzN0)[[10]](https://coursology-qbank.com/amboss/article/Mg1MDT0)[[13]](https://coursology-qbank.com/amboss/article/uLWpzN0)
+
+
+
+
+Refer all patients to <u>hematology</u>-oncology for management.
+
+
+
+
+* All patients
+
+* Assess for comorbidities and <u>discuss goals of care</u>.
+
+* Use scoring systems for <u>risk stratification in MDS</u>.
+
+* Provide supportive therapy for symptomatic and/or significant <u>cytopenia</u>(s).
+
+* Offer enrollment in clinical trials.
+
+* Monitor regularly for treatment response and disease progression.
+
+* Identify and treat complications (e.g., <u>iron overload</u>, infections, bleeding).
+
+* High-risk MDS
+
+* Start <u>pharmacotherapy for MDS</u>, which may include <u>hypomethylating agents</u> and <u>chemotherapy</u>.
+
+* Assess suitability for <u>allogeneic hematopoietic stem cell transplantation</u> (<u>HSCT</u>).  [[7]](https://coursology-qbank.com/amboss/article/8LWOzN0)[[13]](https://coursology-qbank.com/amboss/article/uLWpzN0)
+
+* Low-risk MDS: Screen for indications for <u>pharmacotherapy for MDS</u>.
+
+* If therapy is indicated:
+
+* Treat accordingly, e.g., with <u>hypomethylating agents</u>, <u>lenalidomide</u> (for 5q deletion), or <u>immunosuppressive agents</u>.
+
+* If disease is refractory to treatment, consider <u>HSCT</u>.
+
+* If therapy is not indicated: <u>Expectant management</u> (i.e., “<u>watch and wait</u>”) may be appropriate.  [[7]](https://coursology-qbank.com/amboss/article/8LWOzN0)
+
+
+
+
+
+> [!TIP]
+> <u>Allogeneic stem cell transplantation</u> is the only curative option for MDS.
+
+
+
+
+### Risk stratification in MDS [[7]](https://coursology-qbank.com/amboss/article/8LWOzN0)[[10]](https://coursology-qbank.com/amboss/article/Mg1MDT0)[[13]](https://coursology-qbank.com/amboss/article/uLWpzN0)
+
+
+
+
+* To determine treatment, patients with MDS are categorized as having either low-risk or high-risk MDS.
+
+* Clinical scoring systems include:
+
+* Revised International Prognostic Scoring System (<u>IPSS</u>-R)
+
+* Molecular International Prognostic Scoring System (<u>IPSS</u>-M)  [[19]](https://coursology-qbank.com/amboss/article/gpWFKm0)[[20]](https://coursology-qbank.com/amboss/article/SpWyKm0)
+
+* Common high-risk features:
+
+* Patient > 60 years of age [[10]](https://coursology-qbank.com/amboss/article/Mg1MDT0)
+
+* Significant or multiple <u>cytopenias</u>
+
+* Increased <u>myeloblasts</u> (≥ 5%) in the <u>bone marrow</u>
+
+* Multiple and/or unfavorable genetic abnormalities
+
+
+
+
+
+> [!TIP]
+> Patients with a high-risk feature may still have low-risk MDS if the total prognostic score is below the cutoff value for high-risk MDS.
+
+
+
+
+![MDS Revised International Prognostic Scoring System (IPSS-R)](../../../../../media/rtrz6ey7hkslltugxl71cluk.jpg)
+
+MDS Revised International Prognostic Scoring System (IPSS-R)
+
+
+
+
+### Supportive therapy [[7]](https://coursology-qbank.com/amboss/article/8LWOzN0)[[10]](https://coursology-qbank.com/amboss/article/Mg1MDT0)[[13]](https://coursology-qbank.com/amboss/article/uLWpzN0)
+
+
+
+
+#### Disease-related <u>cytopenias</u>
+
+
+
+
+* <u>Anemia</u>
+
+* <u>pRBC transfusion</u>
+
+* <u>Erythropoietin-stimulating agents</u> (e.g., <u>recombinant EPO</u>)   [[13]](https://coursology-qbank.com/amboss/article/uLWpzN0)
+
+* <u>Neutropenia</u>: recombinant <u>granulocyte colony-stimulating factor</u> (<u>G-CSF</u>) may be used in select cases  [[10]](https://coursology-qbank.com/amboss/article/Mg1MDT0)
+
+* <u>Thrombocytopenia</u>: <u>platelet transfusions</u>   [[10]](https://coursology-qbank.com/amboss/article/Mg1MDT0)[[13]](https://coursology-qbank.com/amboss/article/uLWpzN0)
+
+
+
+
+
+#### Treatment-associated complications
+
+
+
+
+* <u>Iron overload</u>: Provide <u>iron chelation</u> (e.g., deferasirox) to <u>transfusion</u>-dependent patients with elevated <u>ferritin</u> levels.  [[13]](https://coursology-qbank.com/amboss/article/uLWpzN0)
+
+* Infection
+
+* Suspected and/or confirmed infections: Treat with <u>antibiotics</u> (e.g., <u>febrile neutropenia management</u>).
+
+* <u>Neutropenia</u> in patients on <u>immunosuppressive treatment</u>: Consider <u>prophylactic antibiotic therapy</u>. [[13]](https://coursology-qbank.com/amboss/article/uLWpzN0)
+
+* See also “<u>Anticancer treatment-related complications</u>” in “<u>Principles of cancer care</u>.”
+
+
+
+
+
+### Pharmacotherapy for MDS [[7]](https://coursology-qbank.com/amboss/article/8LWOzN0)[[10]](https://coursology-qbank.com/amboss/article/Mg1MDT0)[[13]](https://coursology-qbank.com/amboss/article/uLWpzN0)
+
+
+
+* Pharmacotherapy is noncurative but aims to:
+
+* Increase cell counts
+
+* Improve symptoms and quality of life
+
+* Reduce <u>transfusion</u> burden
+
+* Delay progression to <u>AML</u>
+
+
+
+
+| <br>MDS treatment by risk <u>stratification</u> [[7]](https://coursology-qbank.com/amboss/article/8LWOzN0)[[13]](https://coursology-qbank.com/amboss/article/uLWpzN0)<br> |  |  |
+| --- | --- | --- |
+|  | Indications | Treatment |
+| Higher-risk MDS | <br><br>* Prior to <u>hematopoietic stem cell transplantation</u> (<u>HSCT</u>)<br><br>* Unsuitable for transplant<br><br><br> | <br><br>* <u>Hypomethylating agents</u> (e.g., azacitidine, decitabine)<br><br>* Second-line: <u>chemotherapy</u> (e.g., <u>cytarabine</u>)<br><br><br> |
+| Lower-risk MDS | <br>* <u>Anemia</u> with <u>ring sideroblasts</u> refractory to <u>ESA</u><br><br> | <br>* Luspatercept<br><br> |
+| <br>* <u>Anemia</u> with 5q deletion<br><br> | <br>* <u>Lenalidomide</u><br><br> |  |
+| <br>* <u>Thrombocytopenia</u> without excess blasts<br><br> | <br>* <u>TPO</u> <u>receptor</u> <u>agonists</u> (used with caution)<br><br> |  |
+| <br><br>* Multiple (multilinear) <u>cytopenias</u><br><br>* Failure of supportive therapy alone (e.g., <u>transfusion</u>-dependent patients)<br><br><br> | <br>* <u>Hypomethylating agents</u> (e.g., azacitidine, decitabine)<br><br> |  |
+| <br><br>* Autoimmune-mediated MDS<br><br>* <u>Hypocellular</u>/<u>hypoplastic</u> marrow<br><br><br> | <br>* <u>Immunosuppressive therapies</u><br><br> |  |
+
+
+
+
+
+> [!WARNING]
+> <u>Lenalidomide</u> may cause significant <u>neutropenia</u> and <u>thrombocytopenia</u>. [[7]](https://coursology-qbank.com/amboss/article/8LWOzN0)
+
+
+
+
+> [!TIP]
+> Inadequate response to <u>hypomethylating agents</u> is associated with a poor prognosis. [[13]](https://coursology-qbank.com/amboss/article/uLWpzN0)
+
+---
+
+## Complications
+
+* Depending on the <u>chromosomal aberrations</u> detected in <u>pluripotent</u> <u>stem cells</u>, up to 30% of MDS cases may progress to <u>acute myelogenous leukemia</u>.   [[21]](https://coursology-qbank.com/amboss/article/seYtZo)
+
+* See “Clinical features” above.
+
+
+
+
+
+![Acute leukemia in myelodysplastic syndrome](../../../../../media/clv1t57e2zrvdokdjdfpp9zw.jpg)
+
+Acute leukemia in myelodysplastic syndrome
+
+
+
+
+We list the most important complications. The selection is not exhaustive.
+
+---

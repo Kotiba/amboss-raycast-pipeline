@@ -1,0 +1,227 @@
+# Approach to psychosis
+
+*Categories: Clinical knowledge > Emergency medicine > Psychiatric disorders > Approach to psychosis*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/4H03qh)
+
+---
+
+## Summary
+
+<u>Psychosis</u> is an impaired perception of reality. It may be caused by a psychiatric disorder (<u>primary psychosis</u>) or it may be the result of substance use, an underlying medical condition, or a <u>mood disorder</u> (<u>secondary psychosis</u>). Acute <u>psychosis</u> is a psychiatric emergency. The <u>management of acute psychosis</u> includes ensuring patient and staff safety, reducing patient <u>agitation</u>, ruling out a medical cause for the thought disturbance, and facilitating the appropriate disposition. Patient <u>agitation</u> may need to be managed before an assessment can be completed; nonpharmacological methods should be attempted first, but rapid escalation to pharmacotherapy may be necessary. Diagnostic testing is guided by the patient's history and clinical presentation. The use of broad, nondirected panels of tests is discouraged. Treatment depends on the underlying cause, but most patients require admission and <u>psychiatry</u> consultation.
+
+---
+
+## Etiology
+
+### Causes of primary psychosis
+
+
+
+
+#### Schizophrenia spectrum disorders
+
+
+
+
+The <u>DSM-5-TR</u> also considers <u>schizotypal personality disorder</u> to be a <u>schizophrenia spectrum disorder</u> (see the section on “<u>Personality disorders</u>” for details). [[2]](https://coursology-qbank.com/amboss/article/Nta-dm)
+
+
+
+
+| <br><u>Schizophrenia</u> spectrum and other <u>psychotic disorders</u> [[2]](https://coursology-qbank.com/amboss/article/Nta-dm)<br> |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | Duration of symptoms | Clinical features |  | Social and occupational functioning |
+| <u>Schizophrenia</u> | <br>* ≥ 6 months, including ≥ 1 month of active-phase symptoms (see clinical features)<br><br> | <br><br>* ≥ 2 of the following symptoms, with ≥ 1 of these from the first three listed:<br><br>* <u>Delusions</u><br><br>* <u>Hallucinations</u><br><br>* <u>Disorganized speech</u><br><br>* Grossly disorganized or <u>catatonic behavior</u><br><br>* <u>Negative symptoms</u><br><br>* The majority of patients with <u>schizophreniform disorder</u> subsequently develop <u>schizophrenia</u> or <u>schizoaffective disorder</u>, while one-third experience no further disturbance.<br><br><br> |  | <br>* Impaired<br><br> |
+| Schizophreniform disorder | <br>* 1–6 months<br><br> | <br>* May be impaired<br><br> |  |  |
+| Brief psychotic disorder | <br>* > 1 day but ≤ 1 month<br><br> | <br><br>* ≥ 1 of the following symptoms, with ≥ 1 of these from the first three listed:<br><br>* <u>Delusions</u><br><br>* <u>Hallucinations</u><br><br>* <u>Disorganized speech</u><br><br>* Grossly disorganized or <u>catatonic behavior</u><br><br>* <u>Brief psychotic disorder</u> usually develops after stressful life events.<br><br><br> |  | <br>* Impaired<br><br> |
+| Schizoaffective disorder | <br>* Variable<br><br> | <br><br>* A continuous illness episode where both of the following occur concurrently:<br><br>* <u>Psychotic symptoms</u> that meet the criteria for <u>schizophrenia</u><br><br>* Features of a major mood episode (<u>major depressive episode</u> OR <u>manic episode</u> OR mixed episode)<br><br>* <u>Delusions</u> or <u>hallucinations</u> occur at least once for ≥ 2 weeks in the absence of <u>mood disorder</u> symptoms. [[6]](https://coursology-qbank.com/amboss/article/muWV7M0)<br><br>* <u>Mood disorder</u> symptoms are present for the majority of the disease.<br><br><br> |  | <br>* Impaired<br><br> |
+| Delusional disorder | <br>* ≥ 1 month<br><br> | <br><br>* At least one <u>delusion</u><br><br>* No other prominent <u>psychotic symptoms</u> (e.g., <u>disorganized speech</u>, <u>negative symptoms</u>)  [[6]](https://coursology-qbank.com/amboss/article/muWV7M0)<br><br>* E.g., delusional parasitosis: the fixed belief that the body is infested with a <u>parasite</u> despite the lack of supporting evidence [[7]](https://coursology-qbank.com/amboss/article/HpWKIm0)[[8]](https://coursology-qbank.com/amboss/article/lpWvpm0)<br><br><br> |  | <br>* Not markedly impaired<br><br> |
+| Other <u>psychotic disorder</u>: <u>delusional symptoms in the context of a relationship with an individual with prominent delusions</u> | <br>* Not determined<br><br> | <br>* <u>Delusional</u> themes in an individual with <u>delusional disorder</u> are mirrored in the <u>delusional</u> beliefs of another person in the context of a relationship<br><br> |  | <br>* Normal<br><br> |
+
+
+
+
+
+![Symptom-duration criteria for diagnosis of psychotic disorders](../../../../media/ihja6m4ohm44jun3kbypq4nj.jpg)
+
+Symptom-duration criteria for diagnosis of psychotic disorders
+
+
+
+
+#### <u>Mood disorders</u> and <u>anxiety disorders</u>
+
+
+
+
+* Mood disorder with psychotic features
+
+* Duration of symptoms
+
+* <u>Major depressive episode</u> for at least 2 weeks
+
+* <u>Manic episode</u> lasting ≥ 1 week
+
+* Clinical features
+
+* Mood symptoms with or without <u>psychotic symptoms</u>
+
+* <u>Psychotic symptoms</u> appear exclusively during <u>manic</u> or depressive episodes.
+
+* Social and occupational functioning: Impaired
+
+* <u>Anxiety disorders</u> with <u>psychotic features</u>: e.g., <u>posttraumatic stress disorder</u> [[9]](https://coursology-qbank.com/amboss/article/AwcRle0)
+
+
+
+
+
+> [!TIP]
+> <u>Mood-congruent</u> <u>delusions</u> are usually seen in severe <u>depression</u>/<u>mania</u> (e.g., <u>delusion</u> of worthlessness in <u>depression</u>, <u>grandiose delusions</u> in <u>mania</u>), whereas <u>schizoaffective disorder</u> manifests with <u>delusions</u> that are not congruent with the mood.
+
+
+
+
+#### <u>Personality disorders</u> [[10]](https://coursology-qbank.com/amboss/article/_wc5le0)
+
+
+
+
+* <u>Schizotypal personality disorder</u>
+
+* Odd and eccentric behavior
+
+* <u>Magical thinking</u>
+
+* Discomfort in close relationships
+
+* Short <u>psychotic episodes</u> may occur with less frequency and severity than in <u>schizophrenia</u>.
+
+* Others: <u>Psychotic features</u> can occur in patients with the following <u>personality disorders</u> but are not characteristic.
+
+* <u>Schizoid personality disorder</u>
+
+* Disinterest in social relationships
+
+* Restricted emotional expression and <u>anhedonia</u>
+
+* <u>Paranoid personality disorder</u>
+
+* Distrustful of others
+
+* <u>Superficial</u> relationships
+
+
+
+
+
+### Causes of secondary psychosis [[5]](https://coursology-qbank.com/amboss/article/trcXQd0)
+
+
+
+
+#### Psychotic disorder due to another medical condition
+
+
+
+
+To make this diagnosis, a causal link must be established between <u>psychosis</u> and the underlying condition, and the <u>psychotic symptoms</u> must not occur solely during <u>delirium</u>. The following medical conditions can cause <u>psychosis</u>:
+
+
+
+
+* <u>Multifactorial disorders</u>: : e.g., <u>delirium</u>
+
+* Autoimmune disorders: , e.g., <u>systemic lupus erythematosus</u>, <u>anti-NMDA receptor encephalitis</u>
+
+* Endocrine disorders: , e.g., <u>hyperthyroidism</u> or <u>thyrotoxicosis</u>, <u>hypercortisolism</u>, <u>Wilson disease</u>
+
+* Metabolic disorders: , e.g., <u>porphyria</u>, <u>vitamin B<sub>12</sub> deficiency</u>
+
+* Neurological illness: , e.g., <u>dementia</u>, <u>traumatic brain injury</u>, <u>neoplasm</u> (<u>brain tumors</u>), <u>encephalitis</u>, <u>seizure disorders</u> (e.g., <u>temporal lobe epilepsy</u>)
+
+
+
+
+
+#### Substance-induced psychotic disorder
+
+
+
+
+To make this diagnosis, <u>psychosis</u> should be identified as a direct consequence of substance use or withdrawal. The following substances can induce <u>psychosis</u>:
+
+
+
+
+* <u>Recreational substances</u> with psychoactive effects
+
+* <u>Alcohol</u>
+
+* Hallucinogens (e.g., <u>phencyclidine</u>)
+
+* <u>Amphetamines</u>
+
+* <u>Cocaine</u>
+
+* <u>Cannabis</u>
+
+* Medications with adverse psychoactive effects
+
+* <u>Analgesics</u> (e.g., <u>opioids</u>)
+
+* Sedatives or hypnotics
+
+* <u>Muscle relaxants</u> (e.g., <u>cyclobenzaprine</u>)
+
+* <u>Antihistamines</u> (e.g., <u>diphenhydramine</u>)
+
+* <u>Antidepressants</u> (e.g., <u>SSRIs</u>)
+
+* Cardiovascular medications (e.g., <u>clonidine</u>)
+
+* <u>Antihypertensive medications</u> (e.g., <u>methyldopa</u>)
+
+* <u>Anticonvulsants</u> (e.g., <u>levetiracetam</u>)
+
+* <u>Antiparkinson medications</u> (e.g., dopaminergics)
+
+* <u>Chemotherapy agents</u> (e.g., <u>bleomycin</u>)
+
+* <u>Corticosteroids</u>
+
+
+
+
+
+> [!TIP]
+> Treatment typically includes <u>pharmacotherapy for acute psychosis</u>, abstinence from the triggering substance, and treatment of related <u>substance use disorders</u>. [[11]](https://coursology-qbank.com/amboss/article/YpWnLm0)
+
+
+
+
+> [!TIP]
+> Patients with <u>substance-induced psychosis</u> are more likely to develop <u>primary psychosis</u> over their lifetime. [[11]](https://coursology-qbank.com/amboss/article/YpWnLm0)
+
+---
+
+## Clinical features
+
+* Key <u>clinical features of psychosis</u> (see “<u>Mental status examination</u>”) [[4]](https://coursology-qbank.com/amboss/article/_Vc5CY0)[[12]](https://coursology-qbank.com/amboss/article/x8dEK70)
+
+* <u>Hallucinations</u>, e.g., auditory, visual, somatic
+
+* <u>Delusions</u>, e.g., <u>grandiosity</u>, <u>persecutory delusions</u>, <u>delusions of reference</u>
+
+* <u>Disorganized thinking</u> and <u>disorganized speech</u>, e.g., <u>loose associations</u>, <u>word salad</u>, <u>tangential speech</u>
+
+* Associated clinical features: These features depend on the underlying etiology and may appear as a <u>prodrome</u>, concurrently with <u>psychosis</u>, or after <u>psychosis</u> has resolved.
+
+* Primary <u>psychotic disorders</u>: e.g., disorganized motor behavior, <u>catatonia</u>, <u>negative symptoms</u> , cognitive impairment, mood symptoms, <u>suicidal ideation</u>
+
+* <u>Substance-induced psychotic disorder</u>: symptoms related to intoxication, withdrawal, and/or <u>substance use disorder</u>
+
+* Underlying neurological conditions: e.g., <u>headaches</u>, <u>focal neurological deficits</u>, <u>seizures</u>
+
+---

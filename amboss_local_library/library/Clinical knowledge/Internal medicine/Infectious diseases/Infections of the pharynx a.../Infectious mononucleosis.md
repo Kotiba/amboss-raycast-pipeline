@@ -1,0 +1,547 @@
+# Infectious mononucleosis
+
+*Categories: Clinical knowledge > Internal medicine > Infectious diseases > Infections of the pharynx and respiratory tract > Infectious mononucleosis*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/Lf0w52)
+
+---
+
+## Summary
+
+Infectious mononucleosis, also called <u>mono</u> or the kissing disease, is an acute condition most commonly caused by the <u>Epstein-Barr virus</u> (<u>EBV</u>). The disease is highly contagious and spreads via bodily secretions, especially saliva. Infection is often asymptomatic in young children, but <u>adolescents</u> and young adults usually develop symptoms. Symptomatic cases typically last for 2–4 weeks and manifest with <u>fever</u>, <u>malaise</u>, fatigue, <u>acute pharyngitis</u>, <u>tonsillitis</u>, <u>lymphadenopathy</u>, and/or <u>splenomegaly</u>. Infectious mononucleosis is also sometimes associated with a <u>measles</u>-like <u>maculopapular rash</u>, especially in individuals prescribed <u>beta-lactam antibiotics</u> (e.g., <u>ampicillin</u>, <u>amoxicillin</u>). There is no standardized diagnostic approach to infectious mononucleosis. <u>EBV serology</u> confirms the diagnosis, but staged testing using supportive studies is often performed as an alternative because it is lower cost and more accessible. Infectious mononucleosis is usually <u>self-limiting</u> and is typically <u>treated conservatively</u>. Physical activity (e.g., contact sports) should be limited to lower the risk of <u>splenic rupture</u>. <u>Malignancy</u> (e.g., <u>Hodgkin lymphoma</u>, <u>Burkitt lymphoma</u>) is a rare complication.
+
+
+
+
+![Infectious mononucleosis fact sheet](../../../../../media/bwkw2xl7epgw0u1mti71nnc5.jpg)
+
+Infectious mononucleosis fact sheet
+
+---
+
+## Epidemiology
+
+* General: Approx. 90–95% of adults are <u>EBV</u>-seropositive worldwide. [[1]](https://coursology-qbank.com/amboss/article/OMXIKA)
+
+* Peak <u>incidence</u>:  (of symptomatic disease): 15–24 years of age  [[2]](https://coursology-qbank.com/amboss/article/K2WUik0)
+
+* <u>Incidence</u>: 5/1000 per year [[2]](https://coursology-qbank.com/amboss/article/K2WUik0)
+
+
+
+
+Epidemiological data refers to the US, unless otherwise specified.
+
+---
+
+## Etiology
+
+* Pathogens: [[3]](https://coursology-qbank.com/amboss/article/WWdP4K0)
+
+* Most common: <u>EBV</u>
+
+* Approximately 10% of cases are caused by <u>cytomegalovirus</u> (<u>CMV</u>).
+
+* Transmission: spreads via bodily secretions, especially saliva  [[3]](https://coursology-qbank.com/amboss/article/WWdP4K0)
+
+* <u>Incubation period</u>: ∼ 6 weeks [[4]](https://coursology-qbank.com/amboss/article/mMXV6A)
+
+---
+
+## Pathophysiology
+
+<u>EBV</u> infects <u>B lymphocytes</u> in <u>mucosal</u> <u>epithelium</u> (e.g., <u>oropharynx</u>, <u>cervix</u>) via the <u>CD21 receptor</u>;  → infected <u>B lymphocytes</u> induce a <u>humoral</u> (<u>B-cell</u>) as well as a cellular (<u>T-cell</u>) <u>immune response</u>  → an increased concentration of atypical lymphocytes in the bloodstream, which are <u>CD8+</u> <u>cytotoxic T cells</u> that fight infected <u>B lymphocytes</u>
+
+
+
+
+> [!NOTE]
+> “You must Be (<u>B lymphocytes</u>) 21 (<u>CD21</u>) to drink in a BAR (Epstein-BARr <u>virus</u>).”
+
+---
+
+## Clinical features
+
+* Clinical course [[3]](https://coursology-qbank.com/amboss/article/WWdP4K0)[[5]](https://coursology-qbank.com/amboss/article/AN1Rdh0)[[6]](https://coursology-qbank.com/amboss/article/Bedza60)
+
+* Symptoms most commonly occur in <u>adolescents</u> and young adults and last for 2–4 weeks.
+
+* Young children are often asymptomatic.
+
+* Signs and symptoms [[3]](https://coursology-qbank.com/amboss/article/WWdP4K0)[[5]](https://coursology-qbank.com/amboss/article/AN1Rdh0)[[6]](https://coursology-qbank.com/amboss/article/Bedza60)
+
+* <u>Splenomegaly</u>, <u>fever</u>, fatigue, <u>malaise</u>
+
+* <u>Pharyngitis</u> and/or <u>tonsillitis</u>;  (reddened, enlarged <u>tonsils</u> covered in <u>pus</u>), palatal <u>petechiae</u>
+
+* Bilateral <u>cervical lymphadenopathy</u> (especially <u>posterior</u>) that may become generalized and can, in severe cases, lead to <u>airway obstruction</u>
+
+* Abdominal <u>pain</u>
+
+* Possible <u>hepatomegaly</u> and <u>jaundice</u>
+
+* <u>Maculopapular rash</u> (similar appearance to <u>measles</u>)
+
+* ∼ 5–15% caused by the infection itself [[7]](https://coursology-qbank.com/amboss/article/ihdJdp0)
+
+* Most commonly caused by <u>antibiotic</u> use (e.g., <u>aminopenicillins</u>)   [[7]](https://coursology-qbank.com/amboss/article/ihdJdp0)
+
+
+
+
+
+> [!WARNING]
+> <u>Splenomegaly</u> can lead to a potentially life-threatening <u>splenic rupture</u>.
+
+
+
+
+> [!TIP]
+> In most cases, a <u>maculopapular rash</u> is caused by <u>empiric administration of antibiotics</u> rather than <u>EBV</u> infection. [[7]](https://coursology-qbank.com/amboss/article/ihdJdp0)
+
+
+
+
+![Infectious mononucleosis](../../../../../media/xxfikigplnvz9ogw1lp12kbb.jpg)
+
+Infectious mononucleosis
+
+![Membranous tonsillitis](../../../../../media/ebw0cf94krqsl2fk4zyavnxk.jpg)
+
+Membranous tonsillitis
+
+![Exudative tonsillopharyngitis](../../../../../media/cywxvje152z20w5i09judkmt.jpg)
+
+Exudative tonsillopharyngitis
+
+![Lymphadenopathy in a patient with mononucleosis](../../../../../media/ekn7h29sd1zhxq5192kcyzun.jpg)
+
+Lymphadenopathy in a patient with mononucleosis
+
+![Aminopenicillin-related exanthem in infectious mononucleosis](../../../../../media/a71dh3zt22yclhy1onvp5way.jpg)
+
+Aminopenicillin-related exanthem in infectious mononucleosis
+
+![Examination of the Spleen - Clinical Examination](../../../../../media/small_60753a8a76ea0.jpg)
+
+Examination of the Spleen - Clinical Examination
+
+![Examination of the Liver  - Clinical Examination](../../../../../media/small_60753ca6dc112.jpg)
+
+Examination of the Liver  - Clinical Examination
+
+---
+
+## Diagnosis
+
+There is no standardized diagnostic approach to infectious mononucleosis.
+
+
+
+
+### General principles [[3]](https://coursology-qbank.com/amboss/article/WWdP4K0)[[6]](https://coursology-qbank.com/amboss/article/Bedza60)[[8]](https://coursology-qbank.com/amboss/article/OhdIVp0)
+
+
+
+
+* Infectious mononucleosis can be <u>diagnosed clinically</u>, but <u>laboratory studies</u> are usually performed.  [[3]](https://coursology-qbank.com/amboss/article/WWdP4K0)[[6]](https://coursology-qbank.com/amboss/article/Bedza60)[[8]](https://coursology-qbank.com/amboss/article/OhdIVp0)[[9]](https://coursology-qbank.com/amboss/article/Efd8L60)
+
+* <u>EBV serology</u> is the most reliable way to diagnose infection but is usually slow and expensive.
+
+* Staged testing is often performed as an alternative:  [[3]](https://coursology-qbank.com/amboss/article/WWdP4K0)
+
+* Order supportive <u>laboratory studies</u> (e.g., <u>CBC</u>, <u>monospot test</u>).
+
+* Initiate management if findings suggest infectious mononucleosis.
+
+* Request <u>EBV serology</u> if findings are inconclusive.
+
+* Additional studies (i.e., <u>diagnostics for CMV</u>, <u>HIV testing</u>) are performed if: [[3]](https://coursology-qbank.com/amboss/article/WWdP4K0)[[8]](https://coursology-qbank.com/amboss/article/OhdIVp0)[[10]](https://coursology-qbank.com/amboss/article/U1YbTL)
+
+* Patient is pregnant.
+
+* <u>EBV serology</u> is inconclusive.
+
+* Manifestation is atypical.
+
+* Patient is <u>immunocompromised</u>.
+
+* If concurrent <u>bacterial tonsillitis</u> is suspected, consider <u>diagnostics for acute tonsillitis</u>.  [[3]](https://coursology-qbank.com/amboss/article/WWdP4K0)[[11]](https://coursology-qbank.com/amboss/article/Lhdwep0)
+
+
+
+
+
+### Confirmatory <u>laboratory studies</u>
+
+
+
+
+#### EBV serology [[3]](https://coursology-qbank.com/amboss/article/WWdP4K0)[[6]](https://coursology-qbank.com/amboss/article/Bedza60)[[9]](https://coursology-qbank.com/amboss/article/Efd8L60)
+
+
+
+
+<u>EBV serology</u> is the most reliable laboratory study to diagnose infectious mononucleosis.
+
+
+
+
+* Antiviral capsid antigen antibodies (anti-VCA) for <u>EBV</u>
+
+* <u>Anti-VCA IgM</u> alone is sufficient to diagnose acute infection.
+
+* <u>Anti-VCA IgG</u> <u>titers</u> peak 2 weeks after symptom onset and may persist for life.
+
+* EBV nuclear antigen antibodies are detectable ≥ 6 weeks after symptom onset and may persist for life.
+
+
+
+
+
+| <br>Interpretation of <u>VCA serology</u> for <u>EBV</u> [[3]](https://coursology-qbank.com/amboss/article/WWdP4K0)[[6]](https://coursology-qbank.com/amboss/article/Bedza60)<br> |  |  |  |
+| --- | --- | --- | --- |
+|  | <u>anti-VCA IgM</u> | <u>anti-VCA IgG</u> | <u>anti-EBNA IgG</u> |
+| Acute infection (0–6 weeks) | ↑ | ↑ (<u>titers</u> peak at 2 weeks) | Undetectable |
+| Past infection (≥ 6 weeks) | Undetectable | ↑ | ↑ |
+
+
+
+
+
+> [!TIP]
+> The presence of <u>anti-VCA IgG</u> without <u>anti-VCA IgM</u> indicates past infection. [[6]](https://coursology-qbank.com/amboss/article/Bedza60)
+
+
+
+
+![EBV serology in infectious mononucleosis](../../../../../media/tv0bglrohou937bt0ezymt8p.jpg)
+
+EBV serology in infectious mononucleosis
+
+
+
+
+#### <u>Nucleic acid amplification test</u> (<u>NAAT</u>)
+
+
+
+
+* Not routinely used [[8]](https://coursology-qbank.com/amboss/article/OhdIVp0)
+
+* Consider <u>NAAT</u>  for <u>immunocompromised</u> patients or in complex cases. [[6]](https://coursology-qbank.com/amboss/article/Bedza60)
+
+
+
+
+
+### Supportive <u>laboratory studies</u>
+
+
+
+
+The following studies have low <u>specificity</u> but can support the diagnosis in patients with <u>clinical features of infectious mononucleosis</u>. [[6]](https://coursology-qbank.com/amboss/article/Bedza60)
+
+
+
+
+* <u>CBC with differential</u> [[3]](https://coursology-qbank.com/amboss/article/WWdP4K0)
+
+* Findings suggestive of infectious mononucleosis include: 
+
+* Absolute <u>lymphocyte</u> count > 4,000/mmÂ³  [[8]](https://coursology-qbank.com/amboss/article/OhdIVp0)
+
+* > 50% <u>lymphocytes</u>
+
+* > 10% <u>atypical lymphocytes</u>
+
+* <u>Anemia</u> and/or <u>thrombocytopenia</u> may also be present (see “<u>Complications of infectious mononucleosis</u>”).
+
+* <u>Liver chemistries</u>: Mild elevation of <u>aminotransferase</u> is a common but nonspecific finding.  [[3]](https://coursology-qbank.com/amboss/article/WWdP4K0)[[6]](https://coursology-qbank.com/amboss/article/Bedza60)
+
+* Monospot (heterophile antibody) test: a latex agglutination rapid test that uses <u>red blood cells</u> from horses to detect heterophile <u>antibodies</u> against <u>EBV</u> ;  [[3]](https://coursology-qbank.com/amboss/article/WWdP4K0)[[12]](https://coursology-qbank.com/amboss/article/2fdTl60)[[13]](https://coursology-qbank.com/amboss/article/GhdB2p0)
+
+* <u>False negatives</u> are more likely in:
+
+* Adults tested within 1 week of symptom onset
+
+* Children < 5 years of age
+
+* <u>False positives</u> are more likely in patients with previous infection, <u>HIV</u>, autoimmune disease, and viral <u>hepatitis</u>.
+
+
+
+
+
+![Atypical lymphocytosis in infectious mononucleosis](../../../../../media/xj4s0ntpood8240k8o00mb5t.jpg)
+
+Atypical lymphocytosis in infectious mononucleosis
+
+![Infectious mononucleosis (peripheral blood smear)](../../../../../media/iyhma262vh1qh5ock30h9fk6.jpg)
+
+Infectious mononucleosis (peripheral blood smear)
+
+![Reactive lymphocytes in infectious mononucleosis](../../../../../media/bq2mspmqxj0re39yswb3it4h.jpg)
+
+Reactive lymphocytes in infectious mononucleosis
+
+
+
+
+### Imaging [[3]](https://coursology-qbank.com/amboss/article/WWdP4K0)[[8]](https://coursology-qbank.com/amboss/article/OhdIVp0)
+
+
+
+
+* Imaging is not routinely recommended.
+
+* <u>Ultrasonography</u> shows <u>splenomegaly</u> in almost all patients and is therefore unnecessary.    [[8]](https://coursology-qbank.com/amboss/article/OhdIVp0)
+
+* CT abdomen with contrast is recommended for patients with <u>clinical features of splenic rupture</u>.
+
+
+
+
+
+![Splenomegaly](../../../../../media/hq1gtcmn6kxjf9b3g24aisxp.jpg)
+
+Splenomegaly
+
+![Hemoperitoneum](../../../../../media/wvgm9wl49ji4c6k9wty9xfjk.jpg)
+
+Hemoperitoneum
+
+---
+
+## Pathology
+
+In patients with infectious mononucleosis, <u>lymph node</u> <u>biopsy</u> findings typically show: [[14]](https://coursology-qbank.com/amboss/article/rWaf5j)[[15]](https://coursology-qbank.com/amboss/article/7Wa45j)[[16]](https://coursology-qbank.com/amboss/article/HWaK5j)[[17]](https://coursology-qbank.com/amboss/article/sWat5j)
+
+
+
+
+* <u>Reactive follicular hyperplasia</u> due to increased activation of <u>B lymphocytes</u>
+
+* Paracortical expansion through numerous, large <u>immunoblasts</u> (<u>B cells</u> and <u>T cells</u>), later expanding throughout the entire node
+
+* Atypical <u>Reed-Sternberg-like cells</u> may be observed, which is why the disease is sometimes mistaken for <u>Hodgkin disease</u>.
+
+---
+
+## Differential diagnoses
+
+* Mononucleosis-like syndromes [[18]](https://coursology-qbank.com/amboss/article/GWaB5j)
+
+* <u>Streptococcal pharyngitis</u>, <u>tonsillitis</u>
+
+* <u>Acute HIV infection</u>
+
+* Viral <u>hepatitis</u>
+
+* <u>Toxoplasmosis</u>
+
+* <u>Diphtheria</u>
+
+* <u>Acute leukemia</u>
+
+* <u>Chronic fatigue syndrome</u>
+
+
+
+
+
+> [!TIP]
+> <u>Tonsillitis</u> is an important differential diagnosis that is often treated with <u>aminopenicillins</u> (e.g., <u>ampicillin</u>). However, if given to a patient with infectious mononucleosis, the patient often develops a <u>maculopapular rash</u> after 2–10 days. [[7]](https://coursology-qbank.com/amboss/article/ihdJdp0)[[8]](https://coursology-qbank.com/amboss/article/OhdIVp0)
+
+
+
+
+> [!TIP]
+> In patients with fatigue lasting > 6 months, in whom <u>EBV</u> was not confirmed, consider alternative diagnoses (e.g., <u>chronic fatigue syndrome</u>). [[9]](https://coursology-qbank.com/amboss/article/Efd8L60)
+
+
+
+
+The differential diagnoses listed here are not exhaustive.
+
+---
+
+## Treatment
+
+### Approach [[3]](https://coursology-qbank.com/amboss/article/WWdP4K0)[[6]](https://coursology-qbank.com/amboss/article/Bedza60)
+
+
+
+
+* Treat infectious mononucleosis based on the underlying cause:
+
+* <u>EBV</u>: supportive treatment only  [[6]](https://coursology-qbank.com/amboss/article/Bedza60)
+
+* <u>CMV</u>: Consider adding <u>antiviral therapy</u> (see “<u>Treatment of CMV</u>”).
+
+* Educate patients on:
+
+* How to <u>prevent infectious mononucleosis transmission</u>
+
+* Symptoms of serious <u>complications of infectious mononucleosis</u>
+
+* Limiting the following physical activities to reduce fatigue and the risk of <u>splenic rupture</u> [[8]](https://coursology-qbank.com/amboss/article/OhdIVp0)
+
+* Strenuous activity for at least 21 days  [[3]](https://coursology-qbank.com/amboss/article/WWdP4K0)[[6]](https://coursology-qbank.com/amboss/article/Bedza60)[[19]](https://coursology-qbank.com/amboss/article/MMXM6A)
+
+* Contact sports (e.g., football, wrestling) for at least 4 weeks  [[3]](https://coursology-qbank.com/amboss/article/WWdP4K0)[[6]](https://coursology-qbank.com/amboss/article/Bedza60)[[8]](https://coursology-qbank.com/amboss/article/OhdIVp0)[[19]](https://coursology-qbank.com/amboss/article/MMXM6A)
+
+* Avoiding <u>hepatotoxic</u> substances, e.g., <u>alcohol</u>  [[3]](https://coursology-qbank.com/amboss/article/WWdP4K0)
+
+* Manage patient expectations:
+
+* Fatigue is common and can last ≥ 6 months.  [[6]](https://coursology-qbank.com/amboss/article/Bedza60)
+
+* Athletes may require 3–6 months to return to prior fitness levels. [[6]](https://coursology-qbank.com/amboss/article/Bedza60)
+
+
+
+
+
+### Supportive treatment [[3]](https://coursology-qbank.com/amboss/article/WWdP4K0)[[6]](https://coursology-qbank.com/amboss/article/Bedza60)
+
+
+
+
+* <u>Sore throat</u>
+
+* <u>Treatment of acute tonsillitis</u>, e.g.:
+
+* <u>Analgesia</u>
+
+* <u>Treatment of dehydration</u>
+
+* <u>Antibiotics</u> are not usually required. [[3]](https://coursology-qbank.com/amboss/article/WWdP4K0)
+
+* Indicated only in confirmed bacterial <u>coinfection</u> (e.g., with group A Streptococcus)
+
+* Avoid <u>aminopenicillins</u> and consider alternatives (see “<u>Recommended antibiotic regimens for acute GAS pharyngitis</u>”).
+
+* <u>Fever</u>: <u>antipyretics</u>
+
+* Short courses of <u>corticosteroids</u>, e.g., <u>prednisone</u> (<u>off-label</u>) DOSAGE, can be used in complicated cases, e.g.: [[6]](https://coursology-qbank.com/amboss/article/Bedza60)
+
+* Tonsillar <u>hypertrophy</u> causing impending <u>airway obstruction</u>
+
+* <u>Massive splenomegaly</u>
+
+* <u>Myocarditis</u>
+
+* <u>Hemolytic anemia</u>
+
+* Severe <u>thrombocytopenia</u>
+
+* <u>Hemophagocytic lymphohistiocytosis</u>
+
+---
+
+## Complications
+
+<u>Immunocompromised</u> patients have a higher risk of developing complications. [[20]](https://coursology-qbank.com/amboss/article/n3a7Q4)
+
+
+
+
+* Nervous system
+
+* <u>Guillain-Barré syndrome</u>
+
+* <u>Meningoencephalitis</u>
+
+* <u>Cranial nerve disorders</u> (especially <u>CN VII</u>)
+
+* <u>Primary CNS lymphoma</u>
+
+* <u>Multiple sclerosis</u> [[21]](https://coursology-qbank.com/amboss/article/A8bR6v)
+
+* Hematologic system
+
+* Hemophagocytic lymphohistiocytosis (<u>HLH</u>): a life-threatening hematologic disorder involving <u>pancytopenia</u> and severe inflammation due to increased activity of <u>cytotoxic T cells</u> and <u>macrophages</u> [[22]](https://coursology-qbank.com/amboss/article/nMX76A)
+
+* Other secondary causes: <u>malignancy</u> (e.g., <u>colon cancer</u>) [[23]](https://coursology-qbank.com/amboss/article/wbbhDH)
+
+* Clinical features: <u>fever</u>, <u>hepatosplenomegaly</u>, weight loss
+
+* Laboratory findings: <u>pancytopenia</u>, ↑ serum <u>ferritin</u>, <u>cholestasis</u>
+
+* <u>Bone marrow biopsy</u>: <u>phagocytosis</u> of <u>hematopoietic</u> cells
+
+* <u>Autoimmune hemolytic anemia</u>, <u>thrombocytopenia</u>
+
+* <u>TTP</u>, <u>HUS</u>
+
+* <u>DIC</u>
+
+* Other organ systems 
+
+* <u>Upper airway</u> obstruction due to oropharyngeal inflammation and <u>enlarged lymph nodes</u>
+
+* <u>Splenic rupture</u>
+
+* <u>Oral hairy leukoplakia</u> (typically in <u>HIV</u> patients)
+
+* <u>Acute renal failure</u>
+
+* <u>Pericarditis</u>/<u>myocarditis</u>
+
+* <u>Pneumonia</u>
+
+* <u>Otitis media</u>
+
+* Associated malignancies
+
+* <u>Burkitt lymphoma</u> (BL), a <u>non-Hodgkin lymphoma</u> 
+
+* Associated with <u>EBV</u> infection (EBNA-1 <u>antigen</u>) [[24]](https://coursology-qbank.com/amboss/article/_8b56v)
+
+* <u>Endemic</u> BL
+
+* Occurs mainly in Africa
+
+* Typically affects the <u>jaw</u> and <u>facial bones</u>
+
+* Sporadic BL: manifests with abdominal masses or <u>bone marrow</u> involvement
+
+* <u>Immunodeficiency</u>-related BL: similar to sporadic BL (typically in <u>HIV</u> patients)
+
+* <u>Hodgkin lymphoma</u>
+
+* <u>Nasopharyngeal carcinoma</u> (common in Asian adult population)
+
+* Post-transplant lymphoproliferative disorder: a group of aggressive and rapidly progressive complications of <u>solid organ transplantation</u> and <u>allogeneic hematopoietic stem cell transplantation</u>
+
+* Associated with <u>EBV</u> reactivation in patients with severe <u>immunosuppression</u> (e.g., post-<u>transplantation</u> medications)
+
+* Clinical features: <u>fever</u>, weight loss, fatigue, <u>lymphadenopathy</u>, <u>hepatosplenomegaly</u>
+
+* Commonly progresses to <u>B-cell lymphoma</u>: poor prognosis
+
+* Treatment: reduce <u>immunosuppressive therapy</u>
+
+
+
+
+
+![Hemophagocytosis](../../../../../media/lyg0zaofq6j1xud0ja4k5fzz.jpg)
+
+Hemophagocytosis
+
+![HIV patient with oral hairy leukoplakia](../../../../../media/nuqzlm5flsjycbfwe02l9j8q.jpg)
+
+HIV patient with oral hairy leukoplakia
+
+![Anterior mediastinal mass in Hodgkin lymphoma](../../../../../media/nbgttdtso9gd6t46l7m0hqvs.jpg)
+
+Anterior mediastinal mass in Hodgkin lymphoma
+
+
+
+
+We list the most important complications. The selection is not exhaustive.
+
+---

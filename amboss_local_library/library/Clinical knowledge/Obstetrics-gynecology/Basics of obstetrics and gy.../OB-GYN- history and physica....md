@@ -1,0 +1,13 @@
+# OB/GYN: history and physical examination
+
+*Categories: Clinical knowledge > Obstetrics/gynecology > Basics of obstetrics and gynecology > OB/GYN: history and physical examination*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/1r02Th)
+
+---
+
+## Summary
+
+The process of taking a history and performing a <u>physical examination</u> (H&P) in <u>OB/GYN</u> patients presents unique challenges. Because of the intimate aspect of an <u>OB/GYN</u> examination, it is important to establish trust and a private and relaxing setting for the patient. This article provides an overview of the possible content of the H&P of the <u>OB/GYN</u> patient. Depending on the patient's symptoms, additional and/or more targeted questions may also be relevant. See the “<u>Medical history</u>” and “<u>Physical examination</u>” articles for more information on general <u>clinical examination</u>.
+
+---

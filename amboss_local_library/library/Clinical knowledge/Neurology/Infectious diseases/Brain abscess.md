@@ -1,0 +1,382 @@
+# Brain abscess
+
+*Categories: Clinical knowledge > Neurology > Infectious diseases > Brain abscess*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/1R02Nf)
+
+---
+
+## Summary
+
+A <u>brain</u> <u>abscess</u> is a focal intracerebral infection that begins as localized inflammation and undergoes central <u>necrosis</u> and <u>liquefaction</u>. It may be caused by the direct spread of sinus, <u>ear</u>, and/or dental infections, hematogenous spread from distant infective foci, or direct <u>inoculation</u> of pathogens following neurosurgical procedures or <u>open skull fractures</u>. Causative organisms can be bacterial, fungal, or parasitic and may include <u>opportunistic pathogens</u>. Clinical manifestations include <u>headache</u>, <u>fever</u>, neurological deficits, and <u>features of elevated intracranial pressure</u>. <u>Brain</u> imaging (<u>MRI</u> or CT) reveals one or more intraparenchymal <u>ring-enhancing lesions</u>. Diagnostic confirmation using direct sampling is often required to differentiate <u>brain</u> <u>abscesses</u> from tumors and other causes of <u>intracranial lesions with ring enhancement</u>. <u>Treatment of brain abscesses</u> typically involves surgical drainage or excision followed by systemic <u>antimicrobial therapy</u>.
+
+---
+
+## Epidemiology
+
+* Sex: <u>♂</u> > <u>♀</u> [[1]](https://coursology-qbank.com/amboss/article/LedwzK0)
+
+* Mean age: 30–40 years [[1]](https://coursology-qbank.com/amboss/article/LedwzK0)
+
+
+
+
+Epidemiological data refers to the US, unless otherwise specified.
+
+---
+
+## Etiology
+
+### Common bacterial pathogens [[1]](https://coursology-qbank.com/amboss/article/LedwzK0)[[2]](https://coursology-qbank.com/amboss/article/kEXmD-)[[3]](https://coursology-qbank.com/amboss/article/hC0c7R)
+
+
+
+
+| <br>Causes of bacterial (pyogenic) brain abscesses [[1]](https://coursology-qbank.com/amboss/article/LedwzK0)[[2]](https://coursology-qbank.com/amboss/article/kEXmD-)[[3]](https://coursology-qbank.com/amboss/article/hC0c7R)<br> |  |  |  |
+| --- | --- | --- | --- |
+| Mechanism of infection | Predisposing conditions | Common pathogens | Typical features |
+| <br>Contiguous spread (most common)<br> | <br><br>* Otogenic infections, e.g., <u>otitis media</u>, <u>mastoiditis</u><br><br>* <u>Sinusitis</u><br><br>* <u>Odontogenic infections</u><br><br>* <u>Meningitis</u><br><br><br> | <br><br>* <u>Streptococcus</u> spp., e.g.: <u>S. pneumonia</u>, <u>S. milleri</u><br><br>* <u>Staphylococcus</u> spp.<br><br>* <u>Gram-negative bacteria</u>, e.g.: <u>Hemophilus</u> spp., <u>P. aeruginosa</u><br><br>* <u>Anaerobes</u> (common with dental infections), e.g.: <u>Bacteroides</u> spp.<br><br><br> | <br><br>* Single <u>abscess</u><br><br>* Polymicrobial<br><br>* <u>Temporal lobe</u> and <u>cerebellum</u> (from otogenic infections)<br><br>* <u>Frontal lobe</u> (from sinus infections)<br><br><br> |
+| <br>* Direct <u>inoculation</u> from <u>head trauma</u> or neurosurgery<br><br> | <br><br>* <u>Staphylococcus</u> spp., e.g.: <u>S. aureus</u>, <u>CoNS</u><br><br>* <u>Streptococcus pyogenes</u><br><br>* <u>Anaerobes</u><br><br><br> | <br>* Polymicrobial<br><br> |  |
+| <br>Hematogenous dissemination<br> | <br><br>* <u>Infective endocarditis</u><br><br>* <u>Right-to-left shunt</u>, e.g.: due to <u>cyanotic congenital heart disease</u>, <u>arteriovenous malformations</u><br><br>* Distant infectious foci<br><br><br> | <br><br>* <u>Staphylococcus</u> spp., e.g.: <u>S. aureus</u><br><br>* <u>Streptococcus</u> spp., e.g.: <u>S. viridans</u><br><br>* <u>Gram-negative bacteria</u>, e.g.: <u>Klebsiella pneumoniae</u><br><br>* <u>HACEK organisms</u><br><br>* <u>Anaerobes</u><br><br><br> | <br><br>* Multiple <u>abscesses</u><br><br>* <u>Middle cerebral artery</u> distribution<br><br>* Located at the gray-<u>white matter</u> junction<br><br><br> |
+| <br>Cryptogenic<br> | <br>* Source of infection cannot be identified<br><br> |  |  |
+
+
+
+
+
+> [!TIP]
+> Some <u>brain</u> <u>abscesses</u> are polymicrobial, especially those due to contiguous or homogenous spread from otogenic, <u>odontogenic</u>, sinus, or <u>skin infections</u>. [[2]](https://coursology-qbank.com/amboss/article/kEXmD-)[[4]](https://coursology-qbank.com/amboss/article/Ded1a60)
+
+
+
+
+### Atypical and <u>opportunistic pathogens</u> [[1]](https://coursology-qbank.com/amboss/article/LedwzK0)[[2]](https://coursology-qbank.com/amboss/article/kEXmD-)[[3]](https://coursology-qbank.com/amboss/article/hC0c7R)
+
+
+
+
+* In <u>immunocompromised</u> states 
+
+* <u>Opportunistic fungal infections</u>, e.g.: <u>Aspergillus</u>, <u>Candida</u>, <u>Mucormycosis</u>, <u>Cryptococcus neoformans</u>
+
+* <u>Nocardia</u> spp.
+
+* <u>Toxoplasma</u> gondii (<u>cerebral toxoplasmosis</u>)
+
+* <u>Mycobacterium tuberculosis</u> (<u>Tuberculoma</u>)
+
+* <u>Parasites</u>: e.g., Taenia soleum (<u>neurocysticercosis</u>), <u>Echinococcus</u> (<u>hydatid cyst</u>)
+
+---
+
+## Pathophysiology
+
+Entry of pathogens via contiguous spread, direct <u>inoculation</u>, or hematogenous spread can result in the following: [[5]](https://coursology-qbank.com/amboss/article/PC0WHR)
+
+
+
+
+* Early <u>cerebritis</u>
+
+* Occurs during the first 3–5 days
+
+* Infiltration of <u>neutrophils</u> and <u>cerebral edema</u>
+
+* Late <u>cerebritis</u>
+
+* Occurs after 2–3 weeks
+
+* <u>Necrosis</u>, <u>liquefaction</u>, and infiltration of <u>macrophages</u>
+
+* Eventually results in the formation of a <u>fibrotic</u> capsule around the lesion
+
+---
+
+## Clinical features
+
+Clinical features depend on the size and location of the lesion.  [[6]](https://coursology-qbank.com/amboss/article/axaQE5)
+
+
+
+
+* Dull persistent <u>headache</u> (a ruptured <u>abscess</u> is associated with a sudden worsening of <u>headache</u> and <u>meningism</u>)
+
+* <u>Focal neurological deficits</u> (commonly <u>oculomotor nerve palsy</u> or <u>abducens nerve palsy</u> secondary to <u>increased intracranial pressure</u>)
+
+* <u>Symptoms of increased intracranial pressure</u> (e.g., <u>vomiting</u>, <u>papilledema</u>, <u>altered mental status</u>)
+
+* <u>Fever</u>
+
+* Generalized or <u>focal seizures</u>
+
+---
+
+## Diagnosis
+
+### Approach
+
+
+
+
+Obtain infectious diseases and neurosurgery consults.
+
+
+
+
+* Initial studies
+
+* <u>Brain</u> imaging (CT/<u>MRI</u>)
+
+* <u>Laboratory studies</u>, including <u>blood cultures</u>
+
+* Confirmatory study: <u>abscess</u> sampling, usually done by neurosurgery
+
+* Consider additional testing based on the suspected underlying cause.
+
+
+
+
+
+### <u>Brain</u> imaging [[3]](https://coursology-qbank.com/amboss/article/hC0c7R)[[7]](https://coursology-qbank.com/amboss/article/ned7zK0)
+
+
+
+
+<u>Brain</u> imaging is used as an initial test to confirm and characterize intracranial lesions, then to monitor treatment response.
+
+
+
+
+* <u>MRI</u> <u>brain</u> with and without contrast (preferred) 
+
+* <u>T1 weighted</u>: <u>hypointense</u> fluid collection, <u>hyperintense</u> <u>ring enhancement</u>, <u>hypointense</u> <u>vasogenic edema</u>
+
+* <u>T2 weighted</u>: <u>hyperintense</u> fluid collection, <u>hypointense</u> <u>ring enhancement</u>, <u>hyperintense</u> <u>vasogenic edema</u>
+
+* <u>Diffusion</u> weighted (<u>DWI</u>): <u>hyperintense</u> and <u>diffusion</u>-restricted <u>necrotic</u> center  [[3]](https://coursology-qbank.com/amboss/article/hC0c7R)
+
+* CT head with IV contrast: intraparenchymal lesions with a central <u>hypodense</u> (<u>necrotic</u>) area and peripheral <u>ring enhancement</u>
+
+
+
+
+
+![Brain lesion](../../../../media/d9amk9ho278642fngsqwyfi1.jpg)
+
+Brain lesion
+
+![Ring-enhancing lesion left temporal lobe](../../../../media/s1bb2u2emhskz32l0cr8vogb.jpg)
+
+Ring-enhancing lesion left temporal lobe
+
+
+
+
+### <u>Laboratory studies</u> [[3]](https://coursology-qbank.com/amboss/article/hC0c7R)[[7]](https://coursology-qbank.com/amboss/article/ned7zK0)
+
+
+
+
+* <u>Inflammatory markers</u>: ↑ <u>CRP</u>; , ↑ <u>ESR</u>, <u>leukocytosis</u>  [[1]](https://coursology-qbank.com/amboss/article/LedwzK0)[[4]](https://coursology-qbank.com/amboss/article/Ded1a60)
+
+* <u>Blood cultures</u>: Obtain prior to starting <u>antibiotics</u>.  [[3]](https://coursology-qbank.com/amboss/article/hC0c7R)
+
+* <u>HIV testing</u>: Consider in all patients with nontraumatic <u>brain</u> <u>abscesses</u>. [[7]](https://coursology-qbank.com/amboss/article/ned7zK0)
+
+* <u>CSF</u> studies: not routinely obtained 
+
+* <u>CSF analysis</u>: may be normal or show <u>pleocytosis</u>, ↑ protein, ↓ <u>glucose</u>
+
+* <u>CSF</u> cultures: often negative
+
+
+
+
+
+> [!WARNING]
+> <u>Lumbar puncture</u> is <u>relatively contraindicated</u> in patients with a suspected <u>brain</u> <u>abscess</u> and not routinely performed. [[3]](https://coursology-qbank.com/amboss/article/hC0c7R)[[7]](https://coursology-qbank.com/amboss/article/ned7zK0)
+
+
+
+
+### <u>Abscess</u> sampling [[7]](https://coursology-qbank.com/amboss/article/ned7zK0)[[8]](https://coursology-qbank.com/amboss/article/oed0-K0)
+
+
+
+
+* Indication
+
+* Diagnostic confirmation (<u>gold standard</u>) and identification of causative organisms and their <u>antibiotic sensitivities</u>
+
+* May be combined with therapeutic <u>abscess</u> drainage or excision
+
+* Timing: ideally within 24 hours of radiological diagnosis and prior to starting <u>antibiotics</u>  [[7]](https://coursology-qbank.com/amboss/article/ned7zK0)[[8]](https://coursology-qbank.com/amboss/article/oed0-K0)
+
+* Procedure: See “Interventional management” in “Treatment.”
+
+* Testing: Order tests in consultation with infectious diseases.
+
+* <u>Gram stain</u> and bacterial cultures
+
+* Other tests based on clinical suspicion: e.g., fungal culture
+
+
+
+
+
+### Additional testing [[7]](https://coursology-qbank.com/amboss/article/ned7zK0)
+
+
+
+
+Based on the suspected underlying <u>etiology of brain abscess</u>, e.g.:
+
+
+
+
+* Contiguous spread: ENT examination, dental examination
+
+* Hematogenous spread
+
+* <u>Echocardiography</u>: to assess for <u>endocarditis</u>
+
+* CT chest, abdomen, and <u>pelvis</u>: to assess for a distant source of infection
+
+* <u>Immunocompromised state</u>: testing for <u>opportunistic infections</u>, e.g., <u>tuberculosis</u>, <u>toxoplasmosis</u>, <u>cryptococcosis</u>
+
+---
+
+## Differential diagnoses
+
+* Other <u>CNS</u> infections [[2]](https://coursology-qbank.com/amboss/article/kEXmD-)
+
+* <u>Bacterial meningitis</u>
+
+* Epidural <u>abscess</u>
+
+* Subdural <u>empyema</u>
+
+* Differential diagnosis of intracranial lesions with ring enhancement
+
+* <u>Brain</u> <u>abscess</u>
+
+* <u>Malignancy</u>: primary <u>brain tumors</u> (e.g., <u>primary CNS lymphoma</u>; , <u>glioblastoma</u>), brain <u>metastases</u>
+
+* Subacute hemorrhage and/or <u>infarction</u>
+
+* Radiation <u>necrosis</u>
+
+* <u>Demyelinating</u> <u>plaque</u>
+
+
+
+
+The differential diagnoses listed here are not exhaustive.
+
+---
+
+## Treatment
+
+### Approach
+
+
+
+
+* Consult neurosurgery for <u>abscess</u> drainage or excision.
+
+* Recommended in most patients for diagnostic and therapeutic purposes [[7]](https://coursology-qbank.com/amboss/article/ned7zK0)
+
+* May be deferred for small (< 2.5 cm) uncomplicated <u>abscesses</u> with a known <u>pathogen</u> [[7]](https://coursology-qbank.com/amboss/article/ned7zK0)[[8]](https://coursology-qbank.com/amboss/article/oed0-K0)
+
+* Initiate <u>empiric antimicrobial therapy for brain abscess</u> in consultation with infectious diseases.
+
+* Unstable patients: Start immediately.
+
+* Stable patients: Start within 24 hours of diagnosis, preferably after diagnostic sampling.
+
+* Treat complications, e.g.: [[2]](https://coursology-qbank.com/amboss/article/kEXmD-)[[7]](https://coursology-qbank.com/amboss/article/ned7zK0)
+
+* <u>Dexamethasone</u> for the <u>management of elevated ICP</u>
+
+* <u>Acute seizure management</u>
+
+
+
+
+
+### Interventional management
+
+
+
+
+For diagnostic purposes and therapeutic decompression
+
+
+
+
+* Indications include:  
+
+* All <u>pyogenic</u> <u>abscesses</u> ≥ 2.5 cm
+
+* <u>Abscesses</u> causing <u>brain</u> shift and risk of <u>herniation</u>
+
+* Inadequate response to <u>antimicrobial therapy</u>
+
+* Timing: as soon as feasible; preferably within 24 hours of diagnosis and prior to starting <u>antibiotics</u>
+
+* Procedures
+
+* <u>Abscess</u> drainage (e.g., stereotactic <u>aspiration</u>) [[2]](https://coursology-qbank.com/amboss/article/kEXmD-)[[8]](https://coursology-qbank.com/amboss/article/oed0-K0)
+
+* Surgical excision [[2]](https://coursology-qbank.com/amboss/article/kEXmD-)
+
+
+
+
+
+> [!TIP]
+> In patients with <u>HIV</u> and positive <u>Toxoplasma</u> <u>IgG</u>, <u>abscess</u> drainage may be deferred in favor of presumptive <u>cerebral toxoplasmosis treatment</u>. [[7]](https://coursology-qbank.com/amboss/article/ned7zK0)
+
+
+
+
+### <u>Antimicrobial therapy</u> [[2]](https://coursology-qbank.com/amboss/article/kEXmD-)[[7]](https://coursology-qbank.com/amboss/article/ned7zK0)
+
+
+
+
+Consult infectious diseases as there is no clear consensus.
+
+
+
+
+* Select regimen based on most likely source, suspected causative agents, and patient's immune status.
+
+* Adjust treatment based on culture results.
+
+* Duration of treatment is guided by infectious diseases; typically given IV for 4–8 weeks
+
+
+
+
+
+| <br>Example regimens for empiric antimicrobial therapy for brain abscess [[2]](https://coursology-qbank.com/amboss/article/kEXmD-)[[7]](https://coursology-qbank.com/amboss/article/ned7zK0)<br> |  |
+| --- | --- |
+| Immunocompetent patients | <br><br>* <u>Third-generation cephalosporin</u>, e.g., <u>ceftriaxone</u> (<u>off-label</u>) DOSAGE, PLUS <u>metronidazole</u> (<u>off-label</u>) DOSAGE [[2]](https://coursology-qbank.com/amboss/article/kEXmD-)[[7]](https://coursology-qbank.com/amboss/article/ned7zK0)<br><br>* Suspected <u>staphylococcal infection</u>: Add <u>vancomycin</u>. DOSAGE  [[2]](https://coursology-qbank.com/amboss/article/kEXmD-)<br><br><br> |
+| <br><u>Immunocompromised</u> patients <br> | <br>* <u>Third-generation cephalosporin</u>, e.g., <u>ceftriaxone</u> (<u>off-label</u>) DOSAGE, PLUS all of the following: [[2]](https://coursology-qbank.com/amboss/article/kEXmD-)[[7]](https://coursology-qbank.com/amboss/article/ned7zK0)<br><br>* <u>Metronidazole</u> (<u>off-label</u>) DOSAGE [[7]](https://coursology-qbank.com/amboss/article/ned7zK0)<br><br>* <u>Voriconazole</u> DOSAGE [[2]](https://coursology-qbank.com/amboss/article/kEXmD-)[[7]](https://coursology-qbank.com/amboss/article/ned7zK0)<br><br>* <u>Trimethoprim/sulfamethoxazole</u> (<u>off-label</u>) DOSAGE [[2]](https://coursology-qbank.com/amboss/article/kEXmD-)[[7]](https://coursology-qbank.com/amboss/article/ned7zK0)<br><br> |
+| Postneurosurgery patients | <br>* <u>Meropenem</u> (<u>off-label</u>) DOSAGE PLUS one of the following: [[7]](https://coursology-qbank.com/amboss/article/ned7zK0)<br><br>* <u>Vancomycin</u> DOSAGE [[7]](https://coursology-qbank.com/amboss/article/ned7zK0)<br><br>* <u>Linezolid</u> (<u>off-label</u>) DOSAGE [[7]](https://coursology-qbank.com/amboss/article/ned7zK0)<br><br> |
+
+
+
+
+
+> [!TIP]
+> In patients with <u>HIV</u>, consider empiric coverage with <u>RIPE TB regimen</u> if they have <u>risk factors for tuberculosis</u>, and <u>treatment for cerebral toxoplasmosis</u> if <u>toxoplasma</u> <u>IgG</u> is positive. [[2]](https://coursology-qbank.com/amboss/article/kEXmD-)
+
+
+
+
+> [!WARNING]
+> Repeat <u>brain</u> imaging and seek specialist advice immediately if there is clinical deterioration. [[7]](https://coursology-qbank.com/amboss/article/ned7zK0)
+
+---

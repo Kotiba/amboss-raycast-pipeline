@@ -1,0 +1,266 @@
+# Irritant diaper dermatitis
+
+*Categories: Clinical knowledge > Dermatology > Localized disorders > Irritant diaper dermatitis*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/1t02c3)
+
+---
+
+## Summary
+
+Irritant <u>diaper dermatitis</u> is the most common cause of <u>diaper dermatitis</u> (<u>diaper rash</u>), a cutaneous reaction localized to the diaper area. While it can affect any individual who wears diapers, it most commonly affects <u>infants</u> 9–12 months of age. The underlying cause is persistent moisture (e.g., from urine and feces) in the diaper area, often due to infrequent diaper changes. Irritant <u>diaper dermatitis</u> is <u>diagnosed clinically</u>. Diagnostic studies are reserved for severe manifestations, diagnostic uncertainty, or to evaluate for other <u>causes of diaper dermatitis</u>. Management includes <u>diaper hygiene</u> with or without low-<u>potency</u> topical <u>glucocorticoids</u>.
+
+---
+
+## Etiology
+
+* Persistent moisture (e.g., from urine and feces); often due to infrequent diaper changes  [[2]](https://coursology-qbank.com/amboss/article/zqdrar0)
+
+* Friction between the diaper and <u>skin</u>
+
+* Hygiene products (e.g., scented soaps, wipes, or moisturizers)
+
+---
+
+## Clinical features
+
+* Location
+
+* Affects <u>convex</u> <u>skin</u> surfaces in contact with the diaper
+
+* <u>Skin</u> folds are characteristically spared.
+
+* Appearance: well-defined <u>erythema</u> that differs by severity
+
+* Severity
+
+* Mild: painless, scattered red <u>papules</u> with minimal <u>erythema</u>
+
+* Moderate: widespread <u>erythema</u> with painful <u>maceration</u> and <u>superficial</u> <u>erosions</u>
+
+* Severe  : widespread <u>erythema</u> with painful <u>papules</u>, <u>nodules</u>, and punched-out <u>erosions</u>
+
+
+
+
+
+![Diaper dermatitis](../../../../media/xxbt4yc9phfn3117s3job0gn.jpg)
+
+Diaper dermatitis
+
+![Diaper dermatitis](../../../../media/cfmm919smh38aw7mtnp4is08.jpg)
+
+Diaper dermatitis
+
+---
+
+## Diagnosis
+
+* Irritant <u>diaper dermatitis</u> is a <u>clinical diagnosis</u> based on history and <u>physical examination</u>.
+
+* Diagnostic studies are reserved for severe infection, diagnostic uncertainty, and to rule out alternative conditions. [[2]](https://coursology-qbank.com/amboss/article/zqdrar0)[[3]](https://coursology-qbank.com/amboss/article/gIdFXr0)[[4]](https://coursology-qbank.com/amboss/article/fIdkXr0)
+
+* Fungal studies (e.g., <u>KOH test</u>, fungal culture) for suspected severe fungal infection and/or poor response to empiric topical <u>antifungals</u>  [[2]](https://coursology-qbank.com/amboss/article/zqdrar0)[[4]](https://coursology-qbank.com/amboss/article/fIdkXr0)
+
+* <u>Rapid strep test</u> and culture of the perianal region for suspected perianal <u>streptococcal</u> infection [[5]](https://coursology-qbank.com/amboss/article/_Dd5SH0)
+
+* Bacterial cultures for suspected severe bacterial infection and/or poor response to <u>empiric antibiotics</u>  [[2]](https://coursology-qbank.com/amboss/article/zqdrar0)[[4]](https://coursology-qbank.com/amboss/article/fIdkXr0)
+
+* <u>Patch testing</u> for diagnostic uncertainty in suspected <u>allergic contact dermatitis</u> [[6]](https://coursology-qbank.com/amboss/article/3IdScr0)
+
+
+
+
+
+> [!TIP]
+> Consider other <u>causes of diaper dermatitis</u> in individuals with severe or systemic symptoms, cutaneous lesions extending outside the diaper region, or lesions that persist or recur despite appropriate management. [[4]](https://coursology-qbank.com/amboss/article/fIdkXr0)[[6]](https://coursology-qbank.com/amboss/article/3IdScr0)[[7]](https://coursology-qbank.com/amboss/article/5IdiWr0)
+
+---
+
+## Differential diagnoses
+
+### Common <u>causes of diaper dermatitis</u>
+
+
+
+
+| <br>Comparison of common causes of diaper dermatitis [[1]](https://coursology-qbank.com/amboss/article/qG1CZi0)[[2]](https://coursology-qbank.com/amboss/article/zqdrar0)[[4]](https://coursology-qbank.com/amboss/article/fIdkXr0)[[6]](https://coursology-qbank.com/amboss/article/3IdScr0)<br> |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Condition | Etiology | Distinguishing clinical features | Diagnosis | Management |
+| <br>Irritant <u>diaper dermatitis</u> (most common cause) [[3]](https://coursology-qbank.com/amboss/article/gIdFXr0)[[4]](https://coursology-qbank.com/amboss/article/fIdkXr0)[[6]](https://coursology-qbank.com/amboss/article/3IdScr0)<br> | <br><br>* Persistent moisture (e.g., from urine and feces)<br><br>* Often due to infrequent diaper changes<br><br><br> | <br><br>* Well-defined <u>erythematous</u> lesions<br><br>* May progress to <u>maceration</u>, <u>nodules</u>, and <u>erosions</u><br><br>* Affects <u>convex</u> <u>skin</u> surfaces<br><br>* <u>Skin</u> folds are typically spared.<br><br><br> | <br>* <u>Clinical diagnosis</u><br><br> | <br><br>* <u>Diaper hygiene</u><br><br>* Consider a low-<u>potency</u> topical <u>glucocorticoid</u>.<br><br><br> |
+| <br><u>Candida diaper dermatitis</u> (second most common cause) [[8]](https://coursology-qbank.com/amboss/article/Bedza60)[[9]](https://coursology-qbank.com/amboss/article/lPWvUl0)<br> | <br>* Infection with <u>C. albicans</u><br><br> | <br><br>* Dark red <u>plaques</u> with peripheral <u>scaling</u><br><br>* Satellite lesions<br><br>* Involves <u>skin</u> folds (<u>intertriginous areas</u>)<br><br>* Often associated with:<br><br>* Recent <u>glucocorticoid</u> or <u>antibiotic</u> use<br><br>* <u>Oropharyngeal candidiasis</u><br><br><br> | <br><br>* <u>Clinical diagnosis</u><br><br>* Diagnostic uncertainty<br><br>* <u>KOH test</u><br><br>* Fungal culture<br><br><br> | <br><br>* <u>Diaper hygiene</u><br><br>* Topical <u>antifungals</u><br><br>* See “<u>Candida diaper dermatitis</u>.”<br><br><br> |
+| <u>Impetigo</u> | <br>* Infection with <u>S. aureus</u> or <u>S. pyogenes</u><br><br> | <br><br>* <u>Vesicles</u>, <u>pustules</u>, or <u>bullae</u><br><br>* Oozing lesions, <u>honey-colored crusts</u><br><br><br> | <br><br>* <u>Clinical diagnosis</u><br><br>* Diagnostic uncertainty: <u>bacterial culture</u><br><br><br> | <br><br>* <u>Diaper hygiene</u><br><br>* Topical and/or oral <u>antibiotics</u><br><br>* See “<u>Management of impetigo</u>.”<br><br><br> |
+| <br><u>Perianal streptococcal dermatitis</u> [[8]](https://coursology-qbank.com/amboss/article/Bedza60)[[10]](https://coursology-qbank.com/amboss/article/Om0Ifg)<br> | <br>* Infection with <u>S. pyogenes</u><br><br> | <br><br>* Sharply demarcated, concentric, perianal <u>erythema</u><br><br>* Pseudoexudate, crusting, and/or <u>superficial</u> <u>anal fissures</u><br><br>* <u>Pruritus</u>, painful defecation, blood-streaked stools [[2]](https://coursology-qbank.com/amboss/article/zqdrar0)[[11]](https://coursology-qbank.com/amboss/article/LIdwWr0)<br><br>* Often associated with <u>strep throat</u><br><br><br> | <br>* <u>S. pyogenes</u> on rapid strep or culture of the perianal region<br><br> | <br><br>* <u>Diaper hygiene</u><br><br>* Oral <u>amoxicillin</u><br><br><br> |
+| <br><u>Allergic contact dermatitis</u> [[12]](https://coursology-qbank.com/amboss/article/I6cYmW0)<br> | <br>* A <u>type IV hypersensitivity reaction</u> to <u>allergens</u> (e.g., fragrances, preservatives, adhesives) in diapers, disposable wipes, moisturizers.   [[3]](https://coursology-qbank.com/amboss/article/gIdFXr0)[[6]](https://coursology-qbank.com/amboss/article/3IdScr0)[[13]](https://coursology-qbank.com/amboss/article/DDd1gH0)[[14]](https://coursology-qbank.com/amboss/article/0CdeqH0)<br><br> | <br><br>* Temporal association with an offending agent<br><br>* Occurs ∼1–3 weeks after first exposure [[3]](https://coursology-qbank.com/amboss/article/gIdFXr0)<br><br>* Resolves within 2–4 weeks of removal [[3]](https://coursology-qbank.com/amboss/article/gIdFXr0)[[12]](https://coursology-qbank.com/amboss/article/I6cYmW0)<br><br>* <u>Erythema</u>, <u>edema</u>, <u>papules</u>, and <u>vesicles</u> with serous oozing<br><br>* Distinct borders corresponding to sites of exposure<br><br>* May involve <u>skin</u> folds<br><br>* Severe <u>pruritus</u><br><br><br> | <br><br>* <u>Clinical diagnosis</u><br><br>* Diagnostic uncertainty: <u>patch testing</u> [[6]](https://coursology-qbank.com/amboss/article/3IdScr0)<br><br><br> | <br><br>* <u>Diaper hygiene</u><br><br>* <u>Management of allergic contact dermatitis</u><br><br>* Avoid identified <u>allergens</u>.<br><br>* Prescribe a low-<u>potency</u> topical <u>glucocorticoid</u>.<br><br>* Symptomatic care (e.g., cool compresses)<br><br><br> |
+
+
+
+
+
+> [!WARNING]
+> Suspect severe infections such as <u>staphylococcal scalded skin syndrome</u> (<u>SSSS</u>) or <u>herpes simplex virus (HSV) infection</u> in individuals with systemic symptoms, rapidly evolving <u>rash</u>, and/or <u>vesicles</u>. [[3]](https://coursology-qbank.com/amboss/article/gIdFXr0)
+
+
+
+
+![Diaper dermatitis](../../../../media/xxbt4yc9phfn3117s3job0gn.jpg)
+
+Diaper dermatitis
+
+![Diaper dermatitis](../../../../media/cfmm919smh38aw7mtnp4is08.jpg)
+
+Diaper dermatitis
+
+![Diaper dermatitis](../../../../media/suheg2i7mvk0vv0nzistd0h0.jpg)
+
+Diaper dermatitis
+
+![Candida diaper dermatitis](../../../../media/qxdd3jta8pc0jdld3twel10l.jpg)
+
+Candida diaper dermatitis
+
+
+
+
+### Less common <u>causes of diaper dermatitis</u>
+
+
+
+
+* Chronic <u>skin</u> conditions [[6]](https://coursology-qbank.com/amboss/article/3IdScr0)
+
+* <u>Seborrheic dermatitis</u>
+
+* <u>Atopic dermatitis</u>
+
+* <u>Psoriasis</u> (e.g., napkin psoriasis)
+
+* <u>Lichen sclerosus</u>
+
+* Other [[4]](https://coursology-qbank.com/amboss/article/fIdkXr0)[[6]](https://coursology-qbank.com/amboss/article/3IdScr0)
+
+* <u>Child maltreatment</u> (e.g., neglect, nonaccidental <u>burns</u>)   [[4]](https://coursology-qbank.com/amboss/article/fIdkXr0)[[15]](https://coursology-qbank.com/amboss/article/PIdW1r0)
+
+* <u>Scabies</u>  [[3]](https://coursology-qbank.com/amboss/article/gIdFXr0)[[4]](https://coursology-qbank.com/amboss/article/fIdkXr0)
+
+* <u>Folliculitis</u>
+
+* <u>Langerhans cell histiocytosis</u>
+
+* <u>Acrodermatitis enteropathica</u>
+
+
+
+
+
+> [!TIP]
+> Consider <u>child maltreatment</u> in patients with chronic and/or severe <u>diaper dermatitis</u>. [[4]](https://coursology-qbank.com/amboss/article/fIdkXr0)[[15]](https://coursology-qbank.com/amboss/article/PIdW1r0)
+
+
+
+
+![Napkin psoriasis](../../../../media/sqj1xdr8c45zs1ab9ivv4dig.jpg)
+
+Napkin psoriasis
+
+![Pediatric lichen sclerosus](../../../../media/oazh1mtmvi0s0o31keqekbua.jpg)
+
+Pediatric lichen sclerosus
+
+![Child maltreatment: immersion scald injuries](../../../../media/zec7d4nx4rrl8diutn8r94kq.jpg)
+
+Child maltreatment: immersion scald injuries
+
+![Scabies](../../../../media/c7xnut7ue48boe28m18lebm7.jpg)
+
+Scabies
+
+![Folliculitis](../../../../media/jufmqdo8ok2upsdc82irs9cl.jpg)
+
+Folliculitis
+
+![Acrodermatitis enteropathica](../../../../media/dgsxl18efele7ki3eaofkmu1.jpg)
+
+Acrodermatitis enteropathica
+
+
+
+
+The differential diagnoses listed here are not exhaustive.
+
+---
+
+## Management
+
+### Approach [[4]](https://coursology-qbank.com/amboss/article/fIdkXr0)[[6]](https://coursology-qbank.com/amboss/article/3IdScr0)[[7]](https://coursology-qbank.com/amboss/article/5IdiWr0)
+
+
+
+
+* Start appropriate treatment.
+
+* All patients: Start <u>diaper hygiene</u>.
+
+* Inflammation: Consider short-term use ; (i.e., < 2 weeks) of a low-<u>potency</u> topical <u>glucocorticoid</u> (e.g., <u>hydrocortisone</u> DOSAGE).   [[3]](https://coursology-qbank.com/amboss/article/gIdFXr0)[[4]](https://coursology-qbank.com/amboss/article/fIdkXr0)[[16]](https://coursology-qbank.com/amboss/article/mCdVsH0)
+
+* Infectious causes: Provide treatment for identified infections.
+
+* Consider alternative causes and/or dermatology referral for:
+
+* Inadequate response to treatment  [[7]](https://coursology-qbank.com/amboss/article/5IdiWr0)
+
+* Unexplained recurrent episodes
+
+* Diagnostic uncertainty
+
+
+
+
+
+### Diaper hygiene (ABCDE) [[3]](https://coursology-qbank.com/amboss/article/gIdFXr0)[[4]](https://coursology-qbank.com/amboss/article/fIdkXr0)[[6]](https://coursology-qbank.com/amboss/article/3IdScr0)[[17]](https://coursology-qbank.com/amboss/article/nId7Wr0)
+
+
+
+
+* Air: Allow diaper-free time to let the <u>skin</u> fully dry out.
+
+* Barrier
+
+* Liberally apply barrier <u>emollients</u> containing <u>zinc oxide</u> and/or <u>petrolatum</u>.
+
+* Avoid combination products that contain a <u>glucocorticoid</u>.
+
+* Clean
+
+* Gently clean the diaper area with lukewarm water with or without a mild cleanser.
+
+* Do not remove <u>emollients</u>; reapply if needed to maintain barrier protection.
+
+* Diaper
+
+* Recommend more frequent diaper changes.
+
+* Recommend superabsorbent, breathable diapers.
+
+* Education: Discuss the treatment plan.
+
+
+
+
+
+> [!WARNING]
+> Avoid using diaper powders (e.g., talc, cornstarch) due to the risk for inhalation <u>pneumonitis</u>. [[2]](https://coursology-qbank.com/amboss/article/zqdrar0)[[7]](https://coursology-qbank.com/amboss/article/5IdiWr0)[[18]](https://coursology-qbank.com/amboss/article/MIdMWr0)
+
+
+
+
+> [!TIP]
+> Ointments and pastes are preferred to creams. [[19]](https://coursology-qbank.com/amboss/article/ADdRSH0)
+
+
+
+
+> [!WARNING]
+> Use <u>glucocorticoids</u> cautiously in candidal and bacterial infections as they can mask or worsen symptoms. [[20]](https://coursology-qbank.com/amboss/article/LnWwFN0)
+
+---

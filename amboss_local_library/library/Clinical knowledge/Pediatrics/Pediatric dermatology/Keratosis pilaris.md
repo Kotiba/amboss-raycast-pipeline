@@ -1,0 +1,13 @@
+# Keratosis pilaris
+
+*Categories: Clinical knowledge > Pediatrics > Pediatric dermatology > Keratosis pilaris*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/e80xl3)
+
+---
+
+## Summary
+
+Keratosis pilaris is a benign <u>skin</u> condition caused by increased <u>keratinization</u> and the formation of <u>keratin</u> plugs in <u>hair follicles</u>. It commonly affects children and <u>adolescents</u> and frequently improves with age. Keratosis pilaris manifests as dry, rough <u>skin</u> with small follicular <u>papules</u> and perifollicular <u>erythema</u>, typically on the facial cheeks and extensor surfaces of the <u>proximal</u> arms and thighs. Diagnosis is clinical. Treatment (e.g., <u>emollients</u>, <u>keratolytics</u>, <u>topical retinoids</u>) may be considered for symptomatic improvement and cosmesis. Laser therapy may be considered for refractory lesions.
+
+---

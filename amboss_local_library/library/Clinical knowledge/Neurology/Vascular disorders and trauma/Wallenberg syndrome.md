@@ -1,0 +1,52 @@
+# Wallenberg syndrome
+
+*Categories: Clinical knowledge > Neurology > Vascular disorders and trauma > Wallenberg syndrome*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/1i02qf)
+
+---
+
+## Summary
+
+Wallenberg syndrome is a neurological condition caused by a <u>lateral</u> medullary <u>infarction</u>, which results from occlusion of either the <u>posterior inferior cerebellar artery</u> (PICA) or the <u>vertebral artery</u>. For this reason, it is also referred to as <u>lateral</u> medullary syndrome or PICA syndrome. Symptoms include <u>ipsilateral</u> <u>Horner syndrome</u>, <u>palate</u> <u>weakness</u>, <u>hemiataxia</u>, and <u>contralateral</u> sensory disturbances. Management is supportive, and may include <u>swallowing</u> and <u>speech therapy</u>, as well as a <u>feeding tube</u> in some cases.
+
+
+
+
+![Wallenberg syndrome](../../../../media/odl56v1a1ryhx2044g47t5ub.jpg)
+
+Wallenberg syndrome
+
+---
+
+## Etiology
+
+* <u>Ischemic</u> occlusion of the:
+
+* <u>Vertebral artery</u>
+
+* <u>Posterior inferior cerebellar artery</u> (PICA)
+
+---
+
+## Clinical features
+
+| <br>Overview [[1]](https://coursology-qbank.com/amboss/article/JQasC4) |  |  |
+| --- | --- | --- |
+| Clinical features |  | Structure affected |
+| <u>Ipsilateral</u> | <br><br>* <u>Dysphagia</u><br><br>* ↓ Gag reflex<br><br>* <u>Hoarseness</u>, <u>dysphonia</u><br><br><br> | <br>* <u>Nucleus ambiguus</u> (motor <u>neuron</u>)<br><br> |
+| <br>* <u>Ataxia</u>, <u>dysmetria</u>, <u>dysdiadochokinesia</u><br><br> | <br>* <u>Inferior cerebellar peduncle</u><br><br> |  |
+| <br><br>* <u>Horner syndrome</u><br><br>* Uncontrollable <u>hiccups</u><br><br><br> | <br>* <u>Sympathetic</u> fibers<br><br> |  |
+| <br><br>* <u>Vertigo</u> (with falling towards the same side of the lesion) → <u>vomiting</u><br><br>* <u>Nystagmus</u> that changes direction with gaze change  <u>diplopia</u><br><br><br> | <br>* <u>Vestibular nuclei</u><br><br> |  |
+| <br><br>* Facial <u>pain</u> [[2]](https://coursology-qbank.com/amboss/article/lqXvA_)<br><br>* Loss of <u>pain</u> and temperature in the face<br><br><br> | <br>* <u>Trigeminal</u> <u>nucleus</u> and tract (sensory)<br><br> |  |
+| <u>Contralateral</u> | <br>* Loss of <u>pain</u> and temperature in the trunk and limbs<br><br> | <br>* <u>Lateral</u> <u>spinothalamic tract</u> (sensory)<br><br> |
+
+---
+
+## Treatment
+
+* See “<u>Stroke</u>.”
+
+* Additional supportive therapy: speech and <u>swallowing</u> therapy
+
+---

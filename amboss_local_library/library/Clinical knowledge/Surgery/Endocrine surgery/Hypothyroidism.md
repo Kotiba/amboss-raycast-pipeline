@@ -1,0 +1,1002 @@
+# Hypothyroidism
+
+*Categories: Clinical knowledge > Surgery > Endocrine surgery > Hypothyroidism*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/cg0a82)
+
+---
+
+## Summary
+
+Hypothyroidism is a condition in which the <u>thyroid gland</u> is underactive, resulting in a deficiency of the <u>thyroid hormones</u> <u>triiodothyronine</u> (T<sub>3</sub>) and <u>thyroxine</u> (T<sub>4</sub>). Rarely, <u>hormone</u> production remains sufficient, but <u>thyroid hormones</u> may have insufficient peripheral effects. Hypothyroidism may be congenital or acquired. <u>Congenital hypothyroidism</u> is usually caused by <u>thyroid dysplasia</u> or <u>aplasia</u>. The most common cause of acquired hypothyroidism in both adults and children is <u>Hashimoto thyroiditis</u>; other causes include <u>iatrogenic harm</u>. The pathophysiology of hypothyroidism is characterized mainly by a reduction of the <u>basal metabolic rate</u> and generalized <u>myxedema</u>. Clinical features include fatigue, cold intolerance, dry <u>skin</u>, and <u>constipation</u>. More severe manifestations include myxedematous <u>heart</u> disease and <u>myxedema coma</u>, which may be fatal if untreated. In adults, diagnosis is established based on serum <u>thyroid-stimulating hormone</u> (<u>TSH</u>) and free T<sub>4</sub> levels (FT<sub>4</sub>). Hypothyroidism in children may be acquired or congenital. <u>Congenital hypothyroidism</u> is usually detected during <u>neonatal screening</u>, but it may also manifest with distinct features (e.g., <u>macroglossia</u>, large <u>posterior fontanelle</u>, <u>umbilical hernia</u>, prolonged <u>jaundice</u>). If untreated, <u>congenital hypothyroidism</u> can lead to severe <u>developmental delay</u>.
+
+
+
+
+![Hypothyroidism fact sheet](../../../../media/qra4nv5lnfuejo2946lcmte7.jpg)
+
+Hypothyroidism fact sheet
+
+---
+
+## Etiology
+
+* Primary hypothyroidism: insufficient <u>thyroid hormone production</u>
+
+* <u>Hashimoto thyroiditis</u>
+
+* The most common cause of hypothyroidism in <u>iodine</u>-sufficient regions [[2]](https://coursology-qbank.com/amboss/article/ZIYZYq)
+
+* Associated with <u>HLA-DR3</u> and other autoimmune diseases (e.g., <u>vitiligo</u>, <u>pernicious anemia</u>, <u>type 1 diabetes</u>, and <u>systemic lupus erythematosus</u>)
+
+* <u>Postpartum thyroiditis</u> (<u>subacute lymphocytic thyroiditis</u>)  [[2]](https://coursology-qbank.com/amboss/article/ZIYZYq)
+
+* <u>De Quervain thyroiditis</u> (<u>subacute granulomatous thyroiditis</u>): often subsequent to a <u>flu-like</u> illness [[2]](https://coursology-qbank.com/amboss/article/ZIYZYq)
+
+* <u>Iatrogenic</u>: e.g., post <u>thyroidectomy</u>, <u>radioiodine therapy</u>, antithyroid medication (e.g., <u>amiodarone</u>, <u>lithium</u>)
+
+* Nutritional (insufficient intake of <u>iodine</u>): most common <u>cause of hypothyroidism</u> worldwide, particularly in <u>iodine</u>-deficient regions
+
+* <u>Riedel thyroiditis</u>: occurs in IgG<sub>4</sub>-related systemic disease
+
+* <u>Wolff-Chaikoff effect</u>
+
+* Thyroid dysplasia: a disorder of embryologic development characterized by abnormal development and/or location of <u>thyroid</u> tissue (e.g., <u>lingual thyroid</u>)
+
+* Secondary hypothyroidism: <u>pituitary</u> disorders (e.g., <u>pituitary adenoma</u>) → <u>TSH</u> deficiency
+
+* Tertiary hypothyroidism: <u>hypothalamic</u> disorders → <u>TRH</u> deficiency
+
+
+
+
+
+| Overview of common causes of primary hypothyroidism |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  | <br><u>Hashimoto thyroiditis</u> [[2]](https://coursology-qbank.com/amboss/article/ZIYZYq)<br> | <br><u>Postpartum thyroiditis</u> [[3]](https://coursology-qbank.com/amboss/article/zqYraq)<br> | <br><u>Subacute granulomatous thyroiditis</u> (De Quervain) [[4]](https://coursology-qbank.com/amboss/article/-qYDaq)<br> | <br><u>Congenital hypothyroidism</u> [[5]](https://coursology-qbank.com/amboss/article/AqYRaq)[[6]](https://coursology-qbank.com/amboss/article/rAdfOs0)<br> | <br><u>Riedel thyroiditis</u> [[7]](https://coursology-qbank.com/amboss/article/_qY5aq)<br> |
+| <u>Epidemiology</u> |  | <br><br>* Most common cause of hypothyroidism in the US<br><br>* <u>♀</u> > <u>♂</u> (7:1)<br><br><br> | <br>* Within 1 year of delivery in 5:100 of women<br><br> | <br><br>* <u>Incidence</u>: 12:100,000 per year<br><br>* <u>♀</u> > <u>♂</u> (3:1)<br><br><br> | <br><br>* <u>Incidence</u>: 1:2,300 <u>newborns</u> per year<br><br>* <u>♀</u> > <u>♂</u> (2:1)<br><br><br> | <br><br>* <u>Incidence</u>: 1.6:100,000 per year<br><br>* <u>♀</u> > <u>♂</u> (4:1)<br><br><br> |
+| Causes |  | <br><br>* <u>Autoimmune thyroiditis</u><br><br>* Associated with <u>HLA-DR3</u><br><br><br> | <br><br>* <u>Autoimmune thyroiditis</u><br><br>* Variant of <u>subacute lymphocytic thyroiditis</u><br><br><br> | <br>* Viral infections causing damage to follicular cells<br><br> | <br><br>* <u>Thyroid dysgenesis</u> (most common cause in <u>iodine</u>-sufficient regions)<br><br>* <u>Iodine deficiency</u> (most common cause worldwide)<br><br><br> | <br>* <u>Autoimmune thyroiditis</u><br><br> |
+| Clinical course |  | <br><br>* Asymptomatic or transient <u>hyperthyroidism</u> → hypothyroidism<br><br>* <u>Hashitoxicosis</u><br><br>* Early phase: Release of <u>thyroid hormone</u> from damaged <u>thyroid</u> cells causes transient <u>hyperthyroidism</u>.<br><br>* Late phase: Hypothyroidism manifests.<br><br><br> | <br>* Classic triphasic course: hyperthyroid → hypothyroid → recovery<br><br> | <br>* Transient <u>hyperthyroidism</u> → hypothyroidism<br><br> | <br>* Patients are asymptomatic at <u>birth</u>; hypothyroidism manifests later.<br><br> | <br><br>* Hypothyroidism in 30% of patients<br><br>* Most patients without hypothyroidism remain <u>euthyroid</u>.<br><br>* Very few patients present with <u>hyperthyroidism</u>.<br><br><br> |
+| <u>Goiter</u> | Structure | <br><br>* Early stage: rubbery and symmetrically enlarged<br><br>* Late stage: normal-sized or small if extensive <u>fibrosis</u> has occurred<br><br><br> | <br>* Diffuse and firm<br><br> | <br>* Diffuse and firm<br><br> | <br>* Presence and characteristics depend on underlying cause<br><br> | <br>* Slowly growing and stone-hard<br><br> |
+| <u>Pain</u> | <br>* Painless<br><br> | <br>* Painless<br><br> | <br>* Painful<br><br> | <br>* Painless<br><br> |  |  |
+| <u>Antibodies</u> |  | <br>* <u>Anti-TPO</u> and <u>TgAb</u><br><br> | <br>* <u>Anti-TPO</u><br><br> | <br>* Absent<br><br> | <br>* <u>TRAbs</u> may be present if there is a maternal history of <u>autoimmune thyroid disease</u><br><br> | <br>* <u>Anti-TPO</u> (present in less than 50% of patients)<br><br> |
+| <u>Iodine</u> uptake on <u>scintigraphy</u> |  | <br>* Patchy and irregular<br><br> | <br>* Reduced<br><br> | <br>* Reduced<br><br> | <br>* Depends on underlying etiology; absent or patchy in <u>thyroid dysgenesis</u><br><br> | <br>* Normal or reduced<br><br> |
+| Pathology findings |  | <br>* <u>Lymphocytic</u> infiltration with <u>germinal centers</u> and oncocytic-<u>metaplastic</u> cells (<u>Hurthle cells</u>)<br><br> | <br>* <u>Lymphocytic</u> infiltration<br><br> | <br>* <u>Multinucleated giant cells</u> and <u>granuloma</u> formation<br><br> | <br>* Depends on cause<br><br> | <br><br>* Dense and white <u>fibrotic</u> tissue<br><br>* Inflammatory infiltrate<br><br><br> |
+
+---
+
+## Pathophysiology
+
+### <u>Hypothalamic-pituitary-thyroid axis</u> [[8]](https://coursology-qbank.com/amboss/article/ro0fWS)
+
+
+
+
+The <u>hypothalamus</u>, <u>anterior pituitary gland</u>, and <u>thyroid gland</u>, together with their respective <u>hormones</u>, comprise a self-regulatory circuit referred to as the “<u>Hypothalamic-pituitary-thyroid axis</u>.”
+
+
+
+
+* <u>Primary hypothyroidism</u>: peripheral (<u>thyroid</u>) disorders → T<sub>3</sub>/T<sub>4</sub> are not produced (↓ levels) → compensatory ↑ <u>TSH</u>
+
+* <u>Secondary hypothyroidism</u>: <u>pituitary</u> disorders → ↓ <u>TSH</u> levels → ↓ T<sub>3</sub>/T<sub>4</sub> levels
+
+* Tertiary hypothyroidism: <u>hypothalamic</u> disorders → ↓ <u>TRH</u> levels → ↓ <u>TSH</u> levels → ↓ T<sub>3</sub>/T<sub>4</sub> levels
+
+
+
+
+
+![Regulation of thyroid hormone synthesis](../../../../media/dqtcq5t3gppydiusz0rp5igb.jpg)
+
+Regulation of thyroid hormone synthesis
+
+
+
+
+### Effects of hypothyroidism [[8]](https://coursology-qbank.com/amboss/article/ro0fWS)[[9]](https://coursology-qbank.com/amboss/article/p30Ljf)
+
+
+
+
+* Generalized decrease in the basal metabolic rate → decreased oxygen and substrate consumption, leading to:
+
+* <u>CNS</u>: <u>apathy</u>, slowed <u>cognition</u>
+
+* <u>Skin</u> and appendages: <u>skin</u> dryness, <u>alopecia</u>
+
+* <u>Lipid profile</u>: ↑ <u>low-density lipoproteins</u>, ↑ <u>triglycerides</u>
+
+* Cold intolerance
+
+* Decreased <u>sympathetic</u> activity leads to:
+
+* Decreased sweating
+
+* Cold <u>skin</u> (due to decreased blood flow)
+
+* <u>Constipation</u> (due to decreased gastrointestinal motility)
+
+* <u>Bradycardia</u>
+
+* Decreased <u>transcription</u> of <u>sarcolemmal</u> <u>genes</u> (e.g., <u>calcium</u> ATPases) → decreased <u>cardiac output</u>, <u>myopathy</u>
+
+* <u>Hyperprolactinemia</u>: ↑ <u>prolactin</u> production is stimulated by <u>TRH</u> → suppression of <u>LH</u>, <u>FSH</u>, <u>GnRH</u>, and <u>testosterone</u> and stimulation of <u>breast</u> tissue growth
+
+* Myxedema: due to accumulation of <u>glycosaminoglycans</u> and <u>hyaluronic acid</u> within the reticular layer of the <u>dermis</u> 
+
+* Complex protein <u>mucopolysaccharides</u> bind water → <u>nonpitting edema</u>
+
+* Initially, <u>edema</u> is pretibial, but as the condition progresses it can generalize, resulting in a range of symptoms (see “Clinical features” below).
+
+
+
+
+
+![Hormonal feedback control of nontropic hormones](../../../../media/cy9vgie717x7u0qn2ywgz7q2.jpg)
+
+Hormonal feedback control of nontropic hormones
+
+---
+
+## Clinical features
+
+* Symptoms related to decreased metabolic rate
+
+* Fatigue, decreased physical activity
+
+* Cold intolerance
+
+* Decreased sweating
+
+* <u>Hair</u> loss (<u>Queen Anne sign</u>), <u>brittle nails</u>, and cold, dry <u>skin</u>
+
+* Weight gain (despite poor appetite)
+
+* <u>Constipation</u>
+
+* <u>Bradycardia</u>
+
+* <u>Hypothyroid myopathy</u>, <u>myalgia</u>, stiffness, cramps
+
+* Woltman sign: a delayed relaxation of the <u>deep tendon reflexes</u>, which is commonly seen in patients with hypothyroidism, but may also be associated with advanced age, <u>pregnancy</u>, and <u>diabetes mellitus</u>.
+
+* Entrapment syndromes (e.g., <u>carpal tunnel syndrome</u>)
+
+* Symptoms related to generalized <u>myxedema</u>
+
+* Doughy <u>skin</u> texture, puffy appearance
+
+* Myxedematous <u>heart</u> disease (<u>dilated cardiomyopathy</u>, <u>bradycardia</u>, <u>dyspnea</u>)
+
+* Hoarse voice, difficulty articulating words
+
+* Pretibial and <u>periorbital edema</u>, generalized <u>nonpitting edema</u>
+
+* <u>Myxedema coma</u> (see “Complications” below)
+
+* <u>Symptoms of hyperprolactinemia</u>
+
+* Abnormal <u>menstrual cycle</u>;  (esp. <u>secondary amenorrhea</u>;  or <u>menorrhagia</u>)
+
+* <u>Galactorrhea</u>
+
+* Decreased libido, <u>erectile dysfunction</u>, <u>delayed ejaculation</u>, and <u>infertility</u> in men
+
+* Further symptoms
+
+* Impaired <u>cognition</u>;  (concentration, <u>memory</u>), <u>somnolence</u>, <u>depression</u>
+
+* <u>Hypertension</u>  [[10]](https://coursology-qbank.com/amboss/article/hAacjM)
+
+* <u>Goiter</u> (in <u>Hashimoto thyroiditis</u>) or <u>atrophic</u> <u>thyroid</u> (in <u>atrophic</u> thyroiditis)
+
+
+
+
+
+> [!TIP]
+> Older patients may not have typical <u>symptoms of hypothyroidism</u>. Instead, they may appear to have <u>dementia</u> or <u>depression</u>.
+
+---
+
+## Diagnosis
+
+### Approach [[15]](https://coursology-qbank.com/amboss/article/8o0OdS)[[16]](https://coursology-qbank.com/amboss/article/kIYm1q)
+
+
+
+
+* Initial evaluation: <u>thyroid function tests</u> (<u>TFTs</u>)
+
+* Obtain <u>TSH</u> level for all patients: ↑ <u>TSH</u> with classic clinical features is typically diagnostic for <u>primary hypothyroidism</u>.
+
+* Abnormal <u>TSH</u>: Order FT<sub>4</sub>.
+
+* Further investigations: may be indicated to evaluate underlying etiology based on clinical suspicion (See also “<u>Overview of common causes of primary hypothyroidism</u>.”)
+
+* <u>Thyroid</u> <u>antibody</u> testing: Consider if <u>autoimmune thyroiditis</u> is suspected (not routinely indicated).  [[15]](https://coursology-qbank.com/amboss/article/8o0OdS)
+
+* Imaging: Consider if structural pathology (e.g., <u>thyroid nodules</u>, <u>goiters</u>, <u>malignancy</u>) is suspected. [[17]](https://coursology-qbank.com/amboss/article/RbXlt9)[[18]](https://coursology-qbank.com/amboss/article/dTbopG)
+
+
+
+
+
+> [!TIP]
+> Normal <u>TSH</u> levels generally rule out <u>primary hypothyroidism</u> and <u>hyperthyroidism</u> and are therefore the decisive parameter in screening for both conditions. [[19]](https://coursology-qbank.com/amboss/article/2LcTC10)
+
+
+
+
+![Diagnosis of hypothyroidism](../../../../media/ljq63ep954ycu70udzengnk1.jpg)
+
+Diagnosis of hypothyroidism
+
+![Hypothyroidism: A Diagnostic Approach](../../../../media/small_5dfa15ddec957.jpg)
+
+Hypothyroidism: A Diagnostic Approach
+
+
+
+
+### <u>Laboratory studies</u>
+
+
+
+
+#### Thyroid function tests [[15]](https://coursology-qbank.com/amboss/article/8o0OdS)[[16]](https://coursology-qbank.com/amboss/article/kIYm1q)
+
+
+
+
+* <u>TSH</u>
+
+* Best initial <u>screening test</u>; also used to diagnose and monitor <u>primary hypothyroidism</u>
+
+* <u>Reference ranges</u> vary between laboratories and differ in <u>pregnancy</u> and with increasing age.  [[15]](https://coursology-qbank.com/amboss/article/8o0OdS)
+
+* FT<sub>4</sub>
+
+* <u>Confirmatory test</u> for <u>primary hypothyroidism</u> if <u>TSH</u> is elevated
+
+* Primary test in suspected secondary or tertiary hypothyroidism and following <u>treatment for hyperthyroidism</u>
+
+* Free or total T<sub>3</sub>: may be measured alongside FT<sub>4</sub>, but not used for the diagnosis of hypothyroidism
+
+
+
+
+
+| <br>Overview of <u>TFT</u> findings in the evaluation of suspected hypothyroidism [[16]](https://coursology-qbank.com/amboss/article/kIYm1q)[[20]](https://coursology-qbank.com/amboss/article/Y_bn5w)<br> |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  |  | <u>TSH</u> | FT<sub>4</sub> |  | FT<sub>3</sub> |
+| Subclinical hypothyroidism |  | Mildly ↑ | <br>Normal <br> |  | Normal |
+| Overt hypothyroidism | <u>Primary hypothyroidism</u> | ↑ | ↓ |  | <br>Normal or ↓ <br> |
+| Secondary and tertiary hypothyroidism | ↓ |  |  |  |  |
+| <br><u>Euthyroid sick syndrome</u> [[21]](https://coursology-qbank.com/amboss/article/i3cJRX0)<br> | <u>Low T<sub>3</sub> syndrome</u> | Normal | Normal |  | <br>↓ Free T<sub>3</sub> and ↑ <u>reverse T<sub>3</sub></u><br> |
+| <u>Low T<sub>3</sub> low T<sub>4</sub> syndrome</u> | <br>↓ <br> |  | ↓ |  |  |
+
+
+
+
+
+> [!TIP]
+> Avoid routine <u>TSH</u> screening in acutely ill patients unless a <u>thyroid</u> disturbance is the suspected cause (e.g., <u>myxedema coma</u>), since other non-<u>thyroid</u> illnesses can interfere with serum <u>TSH</u> and results may be unreliable. [[15]](https://coursology-qbank.com/amboss/article/8o0OdS)
+
+
+
+
+> [!NOTE]
+> <u>TSH</u> can be abnormal in both <u>hyperthyroidism</u> and hypothyroidism. Peripheral <u>hormones</u> (FT<sub>4</sub> and FT<sub>3</sub>) are elevated in hyperthyroidism as opposed to hypothyroidism, in which levels are reduced. [[16]](https://coursology-qbank.com/amboss/article/kIYm1q)
+
+
+
+
+#### Serum <u>thyroid</u> <u>antibody</u> testing [[15]](https://coursology-qbank.com/amboss/article/8o0OdS)[[22]](https://coursology-qbank.com/amboss/article/13c2hX0)
+
+
+
+
+Serum <u>thyroid</u> <u>antibody</u> testing can confirm suspected <u>autoimmune thyroid disease</u>. <u>Thyroid peroxidase</u> <u>antibody</u> measurements may also be considered in patients with <u>subclinical hypothyroidism</u> or recurring <u>miscarriages</u>.
+
+
+
+
+* <u>Thyroglobulin antibodies</u> (<u>TgAb</u>) and <u>thyroid peroxidase antibodies</u> (<u>TPOAb</u>): detectable in the majority of patients with autoimmune hypothyroidism
+
+* <u>TSH receptor antibodies</u> (<u>TRAbs</u>): detectable in up to 20% of cases of autoimmune hypothyroidism  [[23]](https://coursology-qbank.com/amboss/article/docoaW0)
+
+
+
+
+
+#### Associated laboratory findings [[16]](https://coursology-qbank.com/amboss/article/kIYm1q)
+
+
+
+
+Other routine blood tests are not required for the diagnosis but may show characteristic changes.
+
+
+
+
+* <u>CBC</u>: <u>mild anemia</u>
+
+* <u>BMP</u>: <u>hyponatremia</u> (in acute hypothyroidism) , <u>hypoglycemia</u> (rare) [[24]](https://coursology-qbank.com/amboss/article/RAaljM)[[25]](https://coursology-qbank.com/amboss/article/Toc6YW0)
+
+* <u>Lipid profile</u>: <u>hypercholesterolemia</u> (increased <u>LDL</u>), <u>hyperlipidemia</u>
+
+* <u>Creatine kinase</u>: increased in <u>hypothyroid myopathy</u> [[26]](https://coursology-qbank.com/amboss/article/b3cHSX0)
+
+
+
+
+
+### Imaging [[18]](https://coursology-qbank.com/amboss/article/dTbopG)
+
+
+
+
+Imaging has no role in the primary evaluation of hypothyroidism but may be indicated if structural abnormalities are present or suspected.
+
+
+
+
+* <u>Thyroid ultrasound</u> [[17]](https://coursology-qbank.com/amboss/article/RbXlt9)
+
+* Useful for the assessment of <u>thyroid</u> vascularity, <u>goiters</u>, and <u>thyroid nodules</u>
+
+* Possible findings in hypothyroidism include signs of thyroiditis.
+
+* <u>Nuclear medicine thyroid scan</u> [[27]](https://coursology-qbank.com/amboss/article/isbJuE)
+
+* May be indicated in the <u>workup of thyroid nodules</u> and <u>goiters</u>
+
+* In hypothyroidism, radiotracer activity is decreased.
+
+* <u>MRI</u> <u>brain</u> (including <u>pituitary gland</u>): for suspected <u>central hypothyroidism</u>[[28]](https://coursology-qbank.com/amboss/article/nXV7AG0)[[29]](https://coursology-qbank.com/amboss/article/HAdKOs0)
+
+---
+
+## Differential diagnoses
+
+### Nonthyroidal illness syndrome (NTIS) [[21]](https://coursology-qbank.com/amboss/article/i3cJRX0)[[30]](https://coursology-qbank.com/amboss/article/P3cWiX0)
+
+
+
+
+* Description
+
+* A change in <u>thyroid hormone</u> levels (typically decreased) that occurs in severe illness or severe physical <u>stress</u>
+
+* Common in intensive care patients and associated with <u>morbidity</u> and mortality
+
+* Also known as <u>euthyroid sick syndrome</u> (ESS)
+
+* Pathophysiology: multifactorial and not fully understood [[31]](https://coursology-qbank.com/amboss/article/s3ctPX0)
+
+* <u>Thyroid gland</u> function typically remains normal.
+
+* <u>Cytokines</u> (e.g., <u>interleukin 6</u>) are thought to cause various changes in levels of circulating <u>TSH</u> and <u>thyroid hormones</u>.
+
+* Altered deiodinase enzyme activity leads to:
+
+* ↓ Conversion of T<sub>4</sub> to T<sub>3</sub>
+
+* ↑ Conversion of T<sub>4</sub> to <u>reverse T<sub>3</sub></u> (<u>rT<sub>3</sub></u>) by <u>thyroxine 5-monodeiodinase</u>
+
+* Various factors, e.g., protein loss due to <u>nephrotic syndrome</u>, may also lead to decreased levels of <u>thyroid-binding globulin</u>.
+
+* Clinical features
+
+* Signs and symptoms of the underlying illness
+
+* Typically no classic symptoms of hyper- or hypothyroidism
+
+* Diagnostics
+
+* NTIS is typically diagnosed incidentally following <u>TFT</u> screening done in critically ill patients to rule out <u>thyrotoxicosis</u> or hypothyroidism as the underlying cause, e.g., patients with unexplained <u>tachyarrhythmias</u> or <u>heart failure</u>, suspected <u>myxedema coma</u>, or a strong <u>family history</u> of <u>thyroid disease</u>.
+
+* <u>TSH</u> is typically normal in both <u>low T<sub>3</sub> syndrome</u> and <u>low T<sub>3</sub> low T<sub>4</sub> syndrome</u>.
+
+* Low T<sub>3</sub> syndrome: decrease in both total and FT<sub>3</sub> levels, normal FT<sub>4</sub> and <u>TSH</u>, and normal or increased <u>rT<sub>3</sub></u>
+
+* Low T<sub>3</sub> low T<sub>4</sub> syndrome: FT<sub>4</sub> levels may be low in prolonged courses of illness, indicating a poor prognosis.
+
+* Rarely, <u>TSH</u> may also be slightly low, but not enough to explain the low FT<sub>3</sub> and/or FT<sub>4</sub>.
+
+* Consult <u>endocrinology</u> as the interpretation of <u>TFTs</u> in critically ill patients is complex and can be misleading.
+
+* Treatment
+
+* Continued treatment of underlying illness
+
+* <u>Thyroid hormone</u> replacement is usually not recommended.  [[32]](https://coursology-qbank.com/amboss/article/meXVzC)
+
+
+
+
+
+> [!TIP]
+> Suspect NTIS in critically-ill patients who have a combination of the following: ↓ FT<sub>3</sub><sub>,</sub>normal or ↓ FT<sub>4</sub>, normal or ↓ <u>TSH</u>, and absent typical <u>clinical features of hypothyroidism</u>. [[21]](https://coursology-qbank.com/amboss/article/i3cJRX0)
+
+
+
+
+### Other differential diagnoses [[33]](https://coursology-qbank.com/amboss/article/35YSPp)
+
+
+
+
+The following conditions can mimic one or more manifestations of hypothyroidism:
+
+
+
+
+* <u>Adrenal insufficiency</u>
+
+* <u>Hypopituitarism</u> (can also be a cause of <u>central hypothyroidism</u>)
+
+* <u>CHF</u> and other causes of <u>pulmonary edema</u>
+
+* Other causes of <u>shock</u>
+
+* <u>Sepsis</u> and other systemic infections
+
+* <u>Depression</u>
+
+* <u>Major neurocognitive disorders</u>
+
+* <u>Encephalopathy</u>
+
+* Environmental <u>hypothermia</u>
+
+* Other differential diagnoses of <u>constipation</u>
+
+
+
+
+
+The differential diagnoses listed here are not exhaustive.
+
+---
+
+## Treatment
+
+### General principles [[15]](https://coursology-qbank.com/amboss/article/8o0OdS)[[20]](https://coursology-qbank.com/amboss/article/Y_bn5w)[[32]](https://coursology-qbank.com/amboss/article/meXVzC)
+
+
+
+
+* Hypothyroidism is treated with lifelong <u>hormone</u> substitution.
+
+* Levothyroxine: synthetic form of T<sub>4</sub>
+
+* First-line choice for the <u>treatment of hypothyroidism</u>
+
+* Peripherally converted to T<sub>3</sub> (biologically active metabolite) and <u>rT<sub>3</sub></u> (biologically inactive metabolite)
+
+* Liothyronine: synthetic form of T<sub>3</sub>
+
+* Part of the treatment for <u>myxedema coma</u>
+
+* Not recommended as monotherapy or in combination with <u>levothyroxine</u> for the long-term <u>treatment of hypothyroidism</u>  [[15]](https://coursology-qbank.com/amboss/article/8o0OdS)[[34]](https://coursology-qbank.com/amboss/article/msYVvq)[[35]](https://coursology-qbank.com/amboss/article/F3cg4X0)
+
+* Starting dose and monitoring requirements vary depending on factors such as age and comorbidities.
+
+* Reassess treatment response regularly to avoid undertreatment and overtreatment.
+
+
+
+
+
+### Indications for treatment [[15]](https://coursology-qbank.com/amboss/article/8o0OdS)[[32]](https://coursology-qbank.com/amboss/article/meXVzC)
+
+
+
+
+* <u>Overt hypothyroidism</u>: Initiate treatment.
+
+* <u>Subclinical hypothyroidism</u>: Treat select patients.   [[15]](https://coursology-qbank.com/amboss/article/8o0OdS)[[34]](https://coursology-qbank.com/amboss/article/msYVvq)
+
+* Repeat <u>TSH</u> measurement after 1–3 months to confirm the diagnosis. [[36]](https://coursology-qbank.com/amboss/article/6-bjyw)
+
+* Consider treatment in the following cases:
+
+* <u>TSH</u> â¥ 10 mIU/L
+
+* <u>TSH</u> < 10 mIU/L in addition to one of the following: positive <u>TPOAb</u>, <u>cardiovascular risk factors</u>, planned or current <u>pregnancy</u>
+
+
+
+
+
+> [!TIP]
+> Ensure follow-up is in place for patients with <u>subclinical hypothyroidism</u> if treatment is not initiated.
+
+
+
+
+### Levothyroxine replacement [[15]](https://coursology-qbank.com/amboss/article/8o0OdS)[[32]](https://coursology-qbank.com/amboss/article/meXVzC)
+
+
+
+
+* In <u>primary hypothyroidism</u>, <u>levothyroxine</u> is gradually titrated according to serial <u>TSH</u> measurements targeting a normal level; for example:
+
+* ↑ <u>TSH</u> (suggests ↓ T<sub>4</sub> activity): typically requires a dose increase
+
+* ↓ <u>TSH</u> (suggests ↑ T<sub>4</sub> activity): typically requires a dose decrease
+
+* In <u>secondary hypothyroidism</u>, dosage is titrated according to FT<sub>4</sub> levels.
+
+
+
+
+
+| Dosage and administration of <u>levothyroxine</u> |  |
+| --- | --- |
+| Dosage | <br><br>* <u>Overt hypothyroidism</u> in young, healthy patients: Full-dose <u>levothyroxine</u> may be given. DOSAGE [[32]](https://coursology-qbank.com/amboss/article/meXVzC)<br><br>* <u>Subclinical hypothyroidism</u> or patients aged > 50–60 years: reduced starting dose DOSAGE  [[15]](https://coursology-qbank.com/amboss/article/8o0OdS)[[37]](https://coursology-qbank.com/amboss/article/XDb91D)<br><br>* Preexisting <u>coronary artery disease</u>: reduced starting dose DOSAGE  [[20]](https://coursology-qbank.com/amboss/article/Y_bn5w)[[32]](https://coursology-qbank.com/amboss/article/meXVzC)<br><br><br> |
+| Monitoring and dose adjustments | <br><br>* <u>Primary hypothyroidism</u><br><br>* Check <u>TSH</u> levels 4–6 weeks after start of treatment or dosage change. [[32]](https://coursology-qbank.com/amboss/article/meXVzC)[[38]](https://coursology-qbank.com/amboss/article/zy1r3j0)<br><br>* Titrate in steps of 12.5–25 mcg to achieve normal <u>TSH</u> levels. [[15]](https://coursology-qbank.com/amboss/article/8o0OdS)[[32]](https://coursology-qbank.com/amboss/article/meXVzC)<br><br>* <u>TSH</u> above <u>reference range</u>: Increase <u>levothyroxine</u> dose.<br><br>* <u>TSH</u> below <u>reference range</u>: Reduce <u>levothyroxine</u> dosage.<br><br>* Review <u>TSH</u> 4–6 months after achieving normal <u>TSH</u> levels, then annually.<br><br>* <u>Central hypothyroidism</u>: Monitor FT<sub>4</sub> and aim for FT<sub>4</sub> levels in the <u>upper reference range</u>.<br><br>* Pregnant women with preexisting hypothyroidism [[34]](https://coursology-qbank.com/amboss/article/msYVvq)<br><br>* Patients should increase their <u>levothyroxine</u> dose by two extra doses per week as soon as <u>pregnancy</u> is suspected.<br><br>* <u>TSH</u> and FT<sub>4</sub> should be monitored once a month during the first half of <u>pregnancy</u> and once at around 30 weeks.<br><br><br> |
+| Administration | <br><br>* Time of intake: 30–60 minutes before breakfast, taken separately from interfering drugs<br><br>* Parenteral treatment: IV <u>levothyroxine</u> may be considered if enteral treatment is not possible.  [[15]](https://coursology-qbank.com/amboss/article/8o0OdS)[[32]](https://coursology-qbank.com/amboss/article/meXVzC)<br><br>* Refill: Maintenance of a single preparation is preferred.<br><br><br> |
+| <br>Dosing in consultation with <u>endocrinology</u> is recommended for: [[15]](https://coursology-qbank.com/amboss/article/8o0OdS) <br><br>* <u>Infants</u> and children<br><br>* Pregnant patients and those who are planning <u>conception</u><br><br>* Patients with cardiac disease and/or other endocrine conditions<br><br>* Patients with structural <u>thyroid</u> pathology (e.g., <u>goiter</u>, <u>thyroid nodules</u>)<br><br>* Patients for whom establishing or maintaining <u>euthyroidism</u> is difficult<br><br><br><br> |  |
+
+
+
+
+
+> [!TIP]
+> Titrate <u>thyroid hormone</u> substitution carefully for individuals with preexisting <u>coronary artery disease</u>. [[32]](https://coursology-qbank.com/amboss/article/meXVzC)
+
+
+
+
+> [!WARNING]
+> In patients with hypothyroidism who are pregnant, the <u>levothyroxine</u> dose must be increased in line with increased demand. Hypothyroidism adversely affects the development of the fetal nervous system. [[16]](https://coursology-qbank.com/amboss/article/kIYm1q)
+
+
+
+
+### Long-term therapy considerations [[15]](https://coursology-qbank.com/amboss/article/8o0OdS)[[32]](https://coursology-qbank.com/amboss/article/meXVzC)[[39]](https://coursology-qbank.com/amboss/article/0bXeH9)
+
+
+
+
+* Side effects: Overtreatment can lead to <u>symptoms of thyrotoxicosis</u>.
+
+* Sweating, heat intolerance, <u>tremors</u>
+
+* <u>Tachycardia</u>; , <u>palpitations</u>, <u>arrhythmias</u>
+
+* Weight loss, <u>osteoporosis</u>
+
+* See also “<u>Exogenous thyrotoxicosis</u>.”
+
+* <u>Drug interactions</u>
+
+* Drugs that reduce <u>levothyroxine</u> absorption include <u>PPIs</u>, <u>calcium</u> salts, ferrous sulfate, and <u>bile acid sequestrants</u>.
+
+* Treatment with <u>estrogens</u> may necessitate a dose increase.
+
+* Treatment with <u>androgens</u> may necessitate a dose reduction.
+
+* <u>Glucocorticoids</u> interfere with <u>thyroid hormone</u> metabolism and the dose of <u>levothyroxine</u> may need to be reduced.
+
+* Reasons for treatment failure
+
+* Nonadherence
+
+* <u>Malabsorption</u> due to gastrointestinal conditions (e.g., <u>gastritis</u>, <u>celiac disease</u>)
+
+
+
+
+
+> [!WARNING]
+> Some individuals may misuse synthetic <u>thyroid hormones</u> for weight loss. [[40]](https://coursology-qbank.com/amboss/article/gLcFC10)
+
+---
+
+## Complications
+
+### Myxedema coma [[41]](https://coursology-qbank.com/amboss/article/f3ck3X0)[[42]](https://coursology-qbank.com/amboss/article/IMcYJ10)
+
+
+
+
+* Definition: : extremely rare, potentially life-threatening decompensation of preexisting <u>thyroid hormone</u> deficiency
+
+* Etiology
+
+* Triggers include infections, severe illness or trauma, and certain drugs.
+
+* Prior discontinuation of <u>thyroid</u> supplements is a frequent contributing factor in patients with known hypothyroidism.
+
+* Clinical presentation
+
+* Cardinal symptoms: impaired mental status;  , <u>hypothermia</u>; , and <u>myxedema</u>
+
+* <u>Hypoventilation</u> with <u>hypercapnia</u> and <u>hypoxemia</u>
+
+* <u>Hypotension</u> (possibly <u>shock</u>) and <u>bradycardia</u>
+
+* Diagnosis [[43]](https://coursology-qbank.com/amboss/article/nwb7jD)
+
+* <u>Laboratory studies</u>
+
+* <u>TFTs</u>: ↑ <u>TSH</u> and ↓ T<sub>4</sub> and T<sub>3</sub>
+
+* <u>BMP</u>: <u>hypoglycemia</u> and <u>hyponatremia</u>  [[24]](https://coursology-qbank.com/amboss/article/RAaljM)
+
+* ↓ <u>Cortisol</u> in patients with concomitant <u>adrenal insufficiency</u>
+
+* Other possible findings: ↑ CK and <u>LDH</u>, abnormal clotting
+
+* <u>ECG</u>: low-<u>voltage</u> <u>QRS complexes</u>, nonspecific <u>T-wave</u> changes [[41]](https://coursology-qbank.com/amboss/article/f3ck3X0)
+
+* <u>CSF analysis</u>: slightly ↑ <u>CSF</u> protein [[42]](https://coursology-qbank.com/amboss/article/IMcYJ10)
+
+* Treatment [[32]](https://coursology-qbank.com/amboss/article/meXVzC)[[33]](https://coursology-qbank.com/amboss/article/35YSPp)[[41]](https://coursology-qbank.com/amboss/article/f3ck3X0)
+
+* Immediate measures: <u>airway management</u> and <u>fluid resuscitation</u> (See “<u>ABCDE approach</u>.”)
+
+* Intravenous <u>hormone</u> substitution: <u>levothyroxine</u>  DOSAGE PLUS <u>liothyronine</u> DOSAGE PLUS <u>hydrocortisone</u> DOSAGE  [[32]](https://coursology-qbank.com/amboss/article/meXVzC)
+
+* Supportive treatment: <u>passive rewarming</u>, ventilatory support as indicated, management of precipitating factors, <u>treatment of hypoglycemia</u>
+
+* Disposition: Admission to critical care is typically warranted for ventilatory support, invasive monitoring, and management of <u>electrolytes</u> and fluids. [[33]](https://coursology-qbank.com/amboss/article/35YSPp)
+
+* Prognosis: Even with treatment, <u>mortality rates</u> of up to 60% have been described. [[41]](https://coursology-qbank.com/amboss/article/f3ck3X0)
+
+
+
+
+
+> [!TIP]
+> Remember to evaluate precipitating factors, e.g., screening for infectious causes, or obtaining <u>cardiac enzymes</u> and an <u>ECG</u> to exclude <u>myocardial infarction</u>. [[41]](https://coursology-qbank.com/amboss/article/f3ck3X0)
+
+
+
+
+> [!WARNING]
+> Suspect <u>myxedema coma</u> in patients with typical symptoms and a history of hypothyroidism, and initiate treatment immediately without waiting for laboratory results! [[41]](https://coursology-qbank.com/amboss/article/f3ck3X0)
+
+
+
+
+### Further complications
+
+
+
+
+* Primary thyroid lymphoma
+
+* <u>Hashimoto thyroiditis</u> is the most common <u>cause of hypothyroidism</u> and the only known <u>risk factor</u> for <u>primary thyroid lymphoma</u>. [[44]](https://coursology-qbank.com/amboss/article/MwbMjD)
+
+* Almost all <u>primary thyroid lymphomas</u> are <u>non-Hodgkin</u> large <u>B-cell lymphomas</u>.
+
+* Increased cardiovascular risk
+
+* <u>Carpal tunnel syndrome</u>  [[45]](https://coursology-qbank.com/amboss/article/xo0EVS)
+
+
+
+
+
+We list the most important complications. The selection is not exhaustive.
+
+---
+
+## Special patient groups
+
+Hypothyroidism in children may be acquired or congenital. Tailor diagnosis and management approaches accordingly.
+
+---
+
+## Congenital hypothyroidism
+
+### <u>Epidemiology</u> [[5]](https://coursology-qbank.com/amboss/article/AqYRaq)
+
+
+
+
+* US: affects ∼ 1:2300 <u>newborns</u>
+
+* Worldwide: affects up to 1:2000 <u>newborns</u>
+
+
+
+
+
+### Etiology [[6]](https://coursology-qbank.com/amboss/article/rAdfOs0)[[46]](https://coursology-qbank.com/amboss/article/7Ad4Os0)
+
+
+
+
+#### <u>Permanent congenital hypothyroidism</u>
+
+
+
+
+* Primary congenital hypothyroidism: defects in the <u>thyroid gland</u> or <u>thyroid hormone synthesis</u> 
+
+* Thyroid dysgenesis (most common) 
+
+* <u>Thyroid</u> <u>hypoplasia</u>, <u>dysplasia</u>, or ectopy
+
+* Thyroid aplasia (athyroidism)
+
+* Hereditary dyshormonogenetic <u>goiter</u>: Defects in <u>thyroid hormone synthesis</u> (most commonly in <u>thyroid peroxidase</u>) lead to <u>thyroid</u> <u>hyperplasia</u> and <u>goiter</u>. [[29]](https://coursology-qbank.com/amboss/article/HAdKOs0)
+
+* Central <u>congenital hypothyroidism</u>: rare; usually caused by <u>pituitary</u> disease [[29]](https://coursology-qbank.com/amboss/article/HAdKOs0)
+
+
+
+
+
+#### Transient congenital hypothyroidism [[47]](https://coursology-qbank.com/amboss/article/7ZX419)
+
+
+
+
+* Transplacental transmission of maternal <u>antithyroid antibodies</u>
+
+* Fetal iodine deficiency syndrome: <u>congenital hypothyroidism</u> caused by <u>iodine deficiency</u> in utero (rare in <u>iodine</u>-sufficient areas)  [[47]](https://coursology-qbank.com/amboss/article/7ZX419)
+
+
+
+
+
+> [!TIP]
+> <u>Congenital hypothyroidism</u> may occur as part of another condition or genetic syndrome (e.g., <u>Down syndrome</u>). [[6]](https://coursology-qbank.com/amboss/article/rAdfOs0)
+
+
+
+
+### Clinical features of congenital hypothyroidism [[6]](https://coursology-qbank.com/amboss/article/rAdfOs0)[[29]](https://coursology-qbank.com/amboss/article/HAdKOs0)
+
+
+
+
+* Onset
+
+* Usually few or no features are present at <u>birth</u>, as maternal T<sub>4</sub> can cross the <u>placenta</u>.  [[46]](https://coursology-qbank.com/amboss/article/7Ad4Os0)
+
+* Features develop over weeks to months if hypothyroidism is untreated.
+
+* General features [[6]](https://coursology-qbank.com/amboss/article/rAdfOs0)[[29]](https://coursology-qbank.com/amboss/article/HAdKOs0)[[48]](https://coursology-qbank.com/amboss/article/EAd8ls0)
+
+* Signs and <u>symptoms of hypothyroidism</u>, e.g.:
+
+* <u>Hypothermia</u>
+
+* <u>Bradycardia</u>
+
+* <u>Constipation</u>
+
+* <u>Growth faltering</u> (length affected more than weight) [[49]](https://coursology-qbank.com/amboss/article/GAdBOs0)
+
+* Neonatal features  
+
+* <u>Umbilical hernia</u>
+
+* <u>Prolonged neonatal jaundice</u>
+
+* <u>Hypotonia</u>
+
+* Decreased activity and poor feeding
+
+* Hoarse cry
+
+* Coarse facial features, <u>macroglossia</u>
+
+* Large <u>posterior fontanelle</u>
+
+* Mottled <u>skin</u>
+
+* Abdominal distension [[50]](https://coursology-qbank.com/amboss/article/n-d7Bs0)
+
+* Associated congenital anomalies (e.g. cardiac, renal, gastrointestinal, and skeletal anomalies) [[29]](https://coursology-qbank.com/amboss/article/HAdKOs0)
+
+* Features of severe untreated congenital hypothyroidism [[6]](https://coursology-qbank.com/amboss/article/rAdfOs0)
+
+* <u>Intellectual disability</u>
+
+* <u>Short stature</u>
+
+* <u>Hearing loss</u>
+
+
+
+
+
+> [!WARNING]
+> Most children with <u>congenital hypothyroidism</u> are asymptomatic at <u>birth</u> because maternal <u>thyroid hormone</u> crosses the <u>placenta</u>. <u>Newborn screening</u> is essential to allow early treatment and prevent irreversible <u>intellectual disability</u>. [[6]](https://coursology-qbank.com/amboss/article/rAdfOs0)[[29]](https://coursology-qbank.com/amboss/article/HAdKOs0)
+
+
+
+
+> [!NOTE]
+> The 7 Ps of <u>congenital hypothyroidism</u> are Pot-bellied, Pale, Puffy-faced, Protruding <u>umbilicus</u>, Protuberant <u>tongue</u>, Poor <u>brain development</u>, and Prolonged <u>neonatal jaundice</u>.
+
+
+
+
+### <u>Newborn screening</u> [[6]](https://coursology-qbank.com/amboss/article/rAdfOs0)[[51]](https://coursology-qbank.com/amboss/article/0-deDs0)
+
+
+
+
+* Indication: all <u>infants</u> [[6]](https://coursology-qbank.com/amboss/article/rAdfOs0)
+
+* Methods [[6]](https://coursology-qbank.com/amboss/article/rAdfOs0)
+
+* <u>TSH</u> and/or T<sub>4</sub> measurements [[6]](https://coursology-qbank.com/amboss/article/rAdfOs0)
+
+* Heel-stick blood specimen between 24 hours and 1 week of life (preferably between 48 and 72 hours)
+
+* Interpretation
+
+* Increased <u>TSH</u> levels and/or low T<sub>4</sub>
+
+* Strongly suggest <u>congenital hypothyroidism</u>.
+
+* Confirm diagnosis with <u>thyroid function tests</u> (see "Initial management").
+
+* Normal <u>TSH</u> and T<sub>4</sub>[[6]](https://coursology-qbank.com/amboss/article/rAdfOs0)
+
+* Screen for high-risk features.
+
+* <u>Infants</u> with high-risk features: Repeat screening for hypothyroidism at 2–4 weeks of age. [[6]](https://coursology-qbank.com/amboss/article/rAdfOs0)
+
+
+
+
+
+> [!TIP]
+> <u>Congenital hypothyroidism</u> is among the conditions mandated for <u>newborn screening</u> under federal law. [[52]](https://coursology-qbank.com/amboss/article/SXVyxG0)
+
+
+
+
+### Initial management [[6]](https://coursology-qbank.com/amboss/article/rAdfOs0)
+
+
+
+
+The following outlines management of congenital hypothyrodism picked up on <u>neonatal screening</u>, however, a similar approach should be taken for children with normal <u>neonatal screening</u> or absent <u>neonatal screening</u> who later present with <u>clinical features of hypothyroidism</u>. [[6]](https://coursology-qbank.com/amboss/article/rAdfOs0)
+
+
+
+
+#### Approach
+
+
+
+
+* Consult with pediatric <u>endocrinology</u> to guide diagnosis and management.
+
+* Determine if immediate treatment is required before performing <u>confirmatory tests</u>. [[6]](https://coursology-qbank.com/amboss/article/rAdfOs0)[[51]](https://coursology-qbank.com/amboss/article/0-deDs0) 
+
+* <u>TSH</u> screening result > 40 mIU/L: Start <u>levothyroxine</u> while awaiting confirmatory results.
+
+* <u>TSH</u> screening result â¤ 40 mIU/L: Review full <u>TFTs</u> before initiating treatment.
+
+* Obtain <u>thyroid function tests</u> (ideally within 24 hours) and begin management based on results.  [[6]](https://coursology-qbank.com/amboss/article/rAdfOs0)[[51]](https://coursology-qbank.com/amboss/article/0-deDs0)
+
+* Start <u>levothyroxine</u> if the patient has:
+
+* <u>Overt hypothyroidism</u>
+
+* Normal free T<sub>4</sub> but <u>TSH</u> > 20 mIU/L
+
+* Low or normal <u>TSH</u> and low T<sub>4</sub> (suspected <u>central hypothyroidism</u>)
+
+* If the patient has a normal free T<sub>4</sub> but elevated <u>TSH</u> of â¤ 20 mIU/L:
+
+* Monitor <u>thyroid</u> function every 1–2 weeks.
+
+* Begin <u>levothyroxine</u> if <u>TSH</u> remains > 10 mIU/L after 4 weeks of age.  [[6]](https://coursology-qbank.com/amboss/article/rAdfOs0)[[53]](https://coursology-qbank.com/amboss/article/QXVuBG0)
+
+* Consider imaging and additional diagnostic studies.
+
+* Consider a formal <u>hearing</u> evaluation if there is concern about <u>hearing</u>  [[6]](https://coursology-qbank.com/amboss/article/rAdfOs0)
+
+
+
+
+
+#### <u>Levothyroxine</u> [[6]](https://coursology-qbank.com/amboss/article/rAdfOs0)
+
+
+
+
+* Initiate oral <u>levothyroxine</u> DOSAGE as soon as possible after diagnosis.
+
+* Titrate the dose in consultation with <u>endocrinology</u> with the aim of normalizing: [[6]](https://coursology-qbank.com/amboss/article/rAdfOs0)[[29]](https://coursology-qbank.com/amboss/article/HAdKOs0)
+
+* T<sub>4</sub> levels within 2 weeks
+
+* <u>TSH</u> within 4 weeks
+
+* Lifelong <u>hormone</u> replacement is necessary for children with <u>permanent congenital hypothyroidism</u>.
+
+
+
+
+
+> [!TIP]
+> Adequate dosing and prompt initiation of <u>levothyroxine</u> treatment helps preserve normal long-term neurocognitive function. [[6]](https://coursology-qbank.com/amboss/article/rAdfOs0)[[29]](https://coursology-qbank.com/amboss/article/HAdKOs0)
+
+
+
+
+#### Imaging [[6]](https://coursology-qbank.com/amboss/article/rAdfOs0)[[53]](https://coursology-qbank.com/amboss/article/QXVuBG0)
+
+
+
+
+* <u>Thyroid</u> imaging is only performed if results will change management.
+
+* Can identify <u>thyroid dysgenesis</u>
+
+* Modalities include:
+
+* <u>Ultrasound</u>: no radiation, but <u>sensitivity</u> is lower than <u>scintigraphy</u>
+
+* <u>Scintigraphy</u>: radiation exposure; must be performed when <u>TSH</u> is elevated
+
+
+
+
+
+#### Additional diagnostics based on <u>risk factors</u> [[6]](https://coursology-qbank.com/amboss/article/rAdfOs0)[[46]](https://coursology-qbank.com/amboss/article/7Ad4Os0)
+
+
+
+
+* History of maternal autoimmune disease [[6]](https://coursology-qbank.com/amboss/article/rAdfOs0)
+
+* Obtain <u>TSH receptor antibody</u> (<u>TRAb</u>) levels
+
+* If levels are elevated, continue <u>levothyroxine</u> but advise caregivers that the hypothyroidism is likely transient.
+
+* Features of <u>central hypothyroidism</u> (e.g., low or normal <u>TSH</u> and low T<sub>4</sub>)
+
+* Obtain <u>thyroxine-binding globulin</u> concentration if <u>TSH</u> is low and free T<sub>4</sub> is normal.  [[6]](https://coursology-qbank.com/amboss/article/rAdfOs0)
+
+* Assess for additional <u>pituitary</u> <u>hormone</u> deficits. [[29]](https://coursology-qbank.com/amboss/article/HAdKOs0)
+
+* Consider:
+
+* <u>CNS</u> imaging [[29]](https://coursology-qbank.com/amboss/article/HAdKOs0)
+
+* <u>Genetic testing</u> in consultation with a geneticist [[6]](https://coursology-qbank.com/amboss/article/rAdfOs0)
+
+* Clinical features of a recognizable syndrome or genetic condition: Obtain <u>genetic testing</u>. [[6]](https://coursology-qbank.com/amboss/article/rAdfOs0)
+
+
+
+
+
+### Follow-up
+
+
+
+
+* Ensure regular follow-up throughout <u>infancy</u> and childhood to track growth and development and monitor <u>treatment adherence</u>. [[6]](https://coursology-qbank.com/amboss/article/rAdfOs0)[[6]](https://coursology-qbank.com/amboss/article/rAdfOs0)
+
+* Adjust <u>levothyroxine</u> dose to keep <u>TSH</u> and FT<sub>4</sub> within the age-specific <u>reference range</u>. [[6]](https://coursology-qbank.com/amboss/article/rAdfOs0)
+
+* Monitor <u>thyroid function test</u> results frequently after treatment adjustments. [[6]](https://coursology-qbank.com/amboss/article/rAdfOs0)[[29]](https://coursology-qbank.com/amboss/article/HAdKOs0)
+
+* Permanence of <u>congenital hypothyroidism</u> is confirmed by any of the following: [[6]](https://coursology-qbank.com/amboss/article/rAdfOs0)
+
+* Serum <u>TSH</u> rise by > 10 mIU/L after the first year of life
+
+* <u>Thyroid dysgenesis</u> on imaging
+
+* Trial discontinuation of <u>levothyroxine</u> at 3 years of age; elevated <u>TSH</u> or low free T<sub>4</sub> after 4 weeks
+
+---

@@ -1,0 +1,13 @@
+# Mpox
+
+*Categories: Clinical knowledge > Internal medicine > Infectious diseases > Zoonoses and vector-borne diseases > Mpox*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/1G02yh)
+
+---
+
+## Summary
+
+Mpox (monkeypox) is an infectious disease caused by the <u>Monkeypox virus</u> of the Orthopoxvirus genus. It is <u>endemic</u> in West and Central Africa. In 2022, mpox spread to nonendemic regions and was declared a <u>public health</u> emergency of international concern by the WHO. In the wake of the 2022 <u>epidemic</u>, the WHO changed the name of the disease from monkeypox to mpox because of concerns about stigmatizing language. Mpox is primarily transmitted via <u>skin</u>-to-<u>skin</u> contact with lesions from an infected individual or from a bite or scratch from an infected animal. Clinical features include <u>flu-like symptoms</u>, <u>lymphadenopathy</u>, and a painful, <u>vesicular</u> <u>rash</u> that typically develops 1–4 days after the onset of <u>fever</u>. Diagnosis is confirmed by <u>PCR</u> from a sample of the lesion. Affected individuals generally recover within 2–4 weeks with supportive treatment. Individuals with severe disease may be treated with antivirals. Two <u>vaccines</u> are currently available for use against mpox.
+
+---

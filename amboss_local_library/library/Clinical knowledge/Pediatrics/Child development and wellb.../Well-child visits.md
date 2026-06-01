@@ -1,0 +1,759 @@
+# Well-child visits
+
+*Categories: Clinical knowledge > Pediatrics > Child development and wellbeing > Well-child visits*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/sG0t03)
+
+---
+
+## Summary
+
+The well-child visits are a vital component of pediatric and <u>public health</u> care, allowing for the prevention of disease through immunizations and <u>anticipatory guidance</u>, and early detection of existing individual health issues that require further follow-up. The schedule starts shortly after <u>birth</u> with the first well-child examination conducted at 3–5 days of age. The first 36 months of life is a time of rapid growth and development and children should be closely monitored with a series of regularly scheduled visits at gradually increasing intervals (from every 2 months to every 6 months). From the age of 3 years, children are assessed annually. Important components of the well-child check-up include age-specific <u>screening recommendations</u>, <u>history taking</u> and <u>physical examination</u>, growth and development assessment (including <u>developmental milestones</u>), administering immunizations, and proactive <u>anticipatory guidance for children</u>.
+
+---
+
+## Overview
+
+### Schedule [[2]](https://coursology-qbank.com/amboss/article/qr1CRR0)[[3]](https://coursology-qbank.com/amboss/article/W71PkR0)
+
+
+
+
+* Neonatal visits
+
+* 3–5 days after <u>birth</u>
+
+* Another visit by 1 month of age (typically at 2 weeks or 1 month)
+
+* During the first three years: at 2, 4, 6, 9, 12, 15, 18, 24, and 30 months of age
+
+* 3 years and older: annual visits
+
+
+
+
+
+### Approach
+
+
+
+
+Perform the following at every well-child visit.
+
+
+
+
+* Review the child's:
+
+* <u>Past medical history</u>, including any active medical issues
+
+* Results of <u>pediatric screening</u> questionnaires (e.g., <u>developmental surveillance</u>, risk assessments)
+
+* <u>Vital signs</u> and growth charts
+
+* Perform a thorough <u>review of systems</u> and <u>physical examination</u>.
+
+* Recommend and discuss age-appropriate:
+
+* Immunizations according to the <u>ACIP schedule</u>
+
+* <u>Pediatric screening studies</u>
+
+* <u>Pediatric anticipatory guidance</u>
+
+* Arrange the following:
+
+* Further evaluation for abnormal findings, e.g., studies, treatment, follow-up
+
+* The next well-child visit appointment
+
+* For children ≥ 11 years of age, see also “<u>Adolescent health care</u>.”
+
+
+
+
+
+> [!TIP]
+> A <u>sports physical</u>, or preparticipation examination, involves additional history and <u>physical examination</u> components. [[4]](https://coursology-qbank.com/amboss/article/Nw1-QQ0)
+
+
+
+
+### Overview of visits by age [[3]](https://coursology-qbank.com/amboss/article/W71PkR0)
+
+
+
+
+The following tables are an outline of the recommended content of well-child checks for healthy children with no additional <u>risk factors</u> identified. If additional <u>risk factors</u> are identified at any point (e.g., <u>risk factors for pediatric hypertension</u>, <u>risk factors for lead toxicity</u>), more frequent screenings (e.g., at every visit) may be required.
+
+
+
+
+> [!TIP]
+> Screen children once between <u>birth</u> and 21 years of age for <u>risk factors for hepatitis B</u> and if <u>risk factors</u> are present, send <u>HBV serology</u>, even if the child has been vaccinated. [[3]](https://coursology-qbank.com/amboss/article/W71PkR0)
+
+
+
+
+#### <u>Infancy</u>
+
+
+
+
+| <br>Overview of recommendations for <u>infants</u> by age [[3]](https://coursology-qbank.com/amboss/article/W71PkR0)<br> |  |
+| --- | --- |
+|  | Recommended screening/assessments at visit |
+| All ages | <br><br>* Assess for <u>abnormal pediatric growth</u>.<br><br>* Check <u>immunization</u> status and offer <u>recommended immunizations</u>/catch-up immunizations as appropriate (see “<u>ACIP schedule</u>”).<br><br>* Perform a <u>physical examination</u>.<br><br>* Screen for:<br><br>* Behavioral, social, and emotional disorders<br><br>* <u>Risk factors for pediatric hearing loss</u><br><br>* <u>Risk factors for pediatric vision loss</u><br><br>* <u>Risk factors for pediatric hypertension</u><br><br>* Perform <u>developmental surveillance</u>; with <u>developmental screening</u> using a validated tool if there are any concerns.<br><br><br> |
+| 3–5 days | <br>* Ensure <u>assessment of the newborn</u> and <u>newborn screening</u> has been completed; follow-up abnormal results.<br><br> |
+| By 1 month | <br><br>* Repeat <u>newborn screen</u> if required by state law.<br><br>* Screen for <u>risk factors for tuberculosis</u>.<br><br>* Screen the mother for <u>postpartum depression</u>.<br><br><br> |
+| 2 months | <br><br>* Screen the mother for <u>postpartum depression</u>.<br><br>* Give <u>recommended immunizations</u> (see “Well-child visit immunizations”).<br><br><br> |
+| 4 months | <br><br>* Screen for <u>risk factors for pediatric iron-deficiency anemia</u>.<br><br>* Screen the mother for <u>postpartum depression</u>.<br><br>* Give <u>recommended immunizations</u> (see “Well-child visit immunizations”).<br><br><br> |
+| 6 months | <br><br>* Screen for:<br><br>* <u>Risk factors for lead toxicity</u><br><br>* <u>Risk factors for tuberculosis</u><br><br>* <u>Risk factors for dental caries</u><br><br>* Screen the mother for <u>postpartum depression</u>.<br><br>* Give <u>recommended immunizations</u> (see “Well-child visit immunizations”).<br><br>* Consider application of <u>fluoride</u> varnish.<br><br><br> |
+| 9 months | <br><br>* Perform <u>developmental screening</u> using a validated screening tool.<br><br>* Screen for <u>risk factors for lead toxicity</u> and <u>risk factors for dental caries</u>.<br><br>* Consider application of <u>fluoride</u> varnish.<br><br><br> |
+| 12 months | <br><br>* Obtain a <u>hemoglobin</u> level to screen for <u>anemia</u> (see “<u>Pediatric screening studies</u>”).<br><br>* Perform risk-based or universal <u>blood lead screening</u>, if indicated.<br><br>* Screen for <u>risk factors for tuberculosis</u>.<br><br>* Give <u>recommended immunizations</u> (see “Well-child visit immunizations”).<br><br>* Consider application of <u>fluoride</u> varnish.<br><br><br> |
+
+
+
+
+
+> [!TIP]
+> Screen children for <u>risk factors for dental caries</u> once at 6 months and at 9 months. If the child does not have an established dentist by the recommended age of 12 months, continue to assess for <u>risk factors</u> and the need for <u>fluoride</u> varnish through 6 years of age.[[3]](https://coursology-qbank.com/amboss/article/W71PkR0)
+
+
+
+
+#### <u>Toddlers</u> and preschool children
+
+
+
+
+| <br>Overview of recommendations for <u>toddlers</u> and preschool children by age [[3]](https://coursology-qbank.com/amboss/article/W71PkR0)<br> |  |
+| --- | --- |
+|  | Recommended screening/assessments at visit |
+| All ages | <br><br>* Assess for <u>abnormal pediatric growth</u>.<br><br>* Perform a <u>physical examination</u>.<br><br>* Screen for:<br><br>* Behavioral, social, and emotional disorders<br><br>* <u>Risk factors for pediatric hearing loss</u><br><br>* <u>Risk factors for pediatric vision loss</u><br><br>* <u>Risk factors for pediatric hypertension</u><br><br>* <u>Risk factors for pediatric iron-deficiency anemia</u><br><br>* Perform <u>developmental surveillance</u>; with <u>developmental screening</u> using a validated tool if there are any concerns.<br><br>* Check <u>immunization</u> status and offer <u>recommended immunizations</u>/catch-up immunizations as appropriate (see “<u>ACIP schedule</u>”).<br><br>* For children with no dentist:<br><br>* Screen for <u>risk factors for dental caries</u>.<br><br>* Consider application of <u>fluoride</u> varnish.<br><br><br> |
+| 15 months | <br>* No additional age-specific screenings recommended<br><br> |
+| 18 months | <br><br>* Perform:<br><br>* <u>Developmental screening</u> using a validated screening tool<br><br>* <u>Screening for autism spectrum disorder</u><br><br>* Screen for <u>risk factors for lead toxicity</u><br><br><br> |
+| 24 months | <br><br>* Perform <u>screening for autism spectrum disorder</u><br><br>* Perform risk-based or universal <u>blood lead screening</u>, if indicated.<br><br>* Screen for:<br><br>* <u>Risk factors for pediatric dyslipidemia</u><br><br>* <u>Risk factors for tuberculosis</u><br><br><br> |
+| 30 months | <br>* Perform <u>developmental screening</u> using a validated screening tool.<br><br> |
+| 3 years | <br><br>* Perform <u>pediatric vision screen</u>.<br><br>* Screen for:<br><br>* <u>Risk factors for lead toxicity</u><br><br>* <u>Risk factors for tuberculosis</u><br><br>* Start annual <u>screening for pediatric hypertension</u>.<br><br><br> |
+| 4 years | <br><br>* Perform <u>pediatric vision screen</u> and <u>pediatric hearing screen</u>.<br><br>* Screen for:<br><br>* <u>Risk factors for lead toxicity</u><br><br>* <u>Risk factors for tuberculosis</u><br><br>* <u>Risk factors for pediatric dyslipidemia</u><br><br>* Perform annual <u>screening for pediatric hypertension</u>.<br><br><br> |
+
+
+
+
+
+#### <u>School-aged children</u> and <u>adolescents</u>
+
+
+
+
+| <br>Overview of recommendations for <u>school-aged children</u> by age [[3]](https://coursology-qbank.com/amboss/article/W71PkR0)<br> |  |
+| --- | --- |
+|  | Recommended screening/assessments at visit |
+| All ages | <br><br>* Assess for <u>abnormal pediatric growth</u>.<br><br>* Perform a <u>physical examination</u>.<br><br>* Perform <u>developmental surveillance</u>; with <u>developmental screening</u> using a validated tool if there are any concerns.<br><br>* Screen for:<br><br>* Behavioral, social, and emotional disorders<br><br>* <u>Hypertension</u> (see “<u>Pediatric hypertension screening</u>”)<br><br>* <u>Risk factors for pediatric iron-deficiency anemia</u><br><br>* <u>Risk factors for tuberculosis</u><br><br>* <u>Risk factors for pediatric hearing loss</u>.[[5]](https://coursology-qbank.com/amboss/article/0vdeA70)<br><br>* Check <u>immunization</u> status and offer <u>recommended immunizations</u>/catch-up immunizations as appropriate (see “<u>ACIP schedule</u>”).<br><br><br> |
+| 5 years | <br><br>* Perform:<br><br>* <u>Pediatric vision screen</u><br><br>* <u>Pediatric hearing screen</u><br><br>* Screen for <u>risk factors for lead toxicity</u>.<br><br>* For children with no dental home:<br><br>* Screen for <u>risk factors for dental caries</u>.<br><br>* Consider application of <u>fluoride</u> varnish.<br><br><br> |
+| 6 years | <br><br>* Perform:<br><br>* <u>Pediatric vision screen</u><br><br>* <u>Pediatric hearing screen</u><br><br>* Screen for:<br><br>* <u>Risk factors for lead toxicity</u><br><br>* <u>Risk factors for pediatric dyslipidemia</u><br><br>* For children with no dental home:<br><br>* Screen for <u>risk factors for dental caries</u>.<br><br>* Consider application of <u>fluoride</u> varnish.<br><br><br> |
+| 7 years | <br>* No additional age-specific screenings recommended<br><br> |
+| 8 years | <br><br>* Perform:<br><br>* <u>Pediatric vision screen</u><br><br>* <u>Pediatric hearing screen</u><br><br>* Screen for <u>risk factors for pediatric dyslipidemia</u>.<br><br><br> |
+| 9 years | <br>* Obtain a <u>lipid panel</u> once between 9–11 years of age (see “<u>Pediatric screening studies</u>”).<br><br> |
+| 10 years | <br><br>* Perform:<br><br>* <u>Pediatric vision screen</u><br><br>* <u>Pediatric hearing screen</u><br><br>* <u>Screening for pediatric hypertension</u><br><br>* Girls only: <u>screening for scoliosis</u> [[6]](https://coursology-qbank.com/amboss/article/LcWw140)<br><br>* Obtain a <u>lipid panel</u> once between 9–11 years of age (see “<u>Pediatric screening studies</u>”).<br><br><br> |
+| ≥ 11 years | <br>* See “<u>Adolescent health care</u>.”<br><br> |
+
+---
+
+## Growth
+
+### Approach [[7]](https://coursology-qbank.com/amboss/article/I-1YAj0)[[8]](https://coursology-qbank.com/amboss/article/Od1IJf0)
+
+
+
+
+* Obtain all indicated growth parameters at each visit.
+
+* Plot measurements on a <u>gender</u>-specific growth chart.
+
+* < 2 years: WHO growth charts  [[7]](https://coursology-qbank.com/amboss/article/I-1YAj0)
+
+* ≥ 2 years: <u>CDC growth charts</u>  [[9]](https://coursology-qbank.com/amboss/article/AC1RuQ0)
+
+* Special patient populations: Use a condition-specific growth curve, if available.  [[10]](https://coursology-qbank.com/amboss/article/Rc1lXf0)
+
+* Calculate the <u>mid-parental height</u> in order to [[10]](https://coursology-qbank.com/amboss/article/Rc1lXf0)
+
+* Determine the expected adult height based on genetic potential [[11]](https://coursology-qbank.com/amboss/article/-YaD7Q)
+
+* Compare current growth <u>percentiles</u> to the expected growth <u>percentiles</u>
+
+* Track growth over time to identify <u>pediatric growth patterns</u>.
+
+
+
+
+
+![Length- and weight-for-age percentiles for age (girls 0–24 months)](../../../../media/ej57t4yd4aq92yxpmm0uubmk.jpg)
+
+Length- and weight-for-age percentiles for age (girls 0–24 months)
+
+![Length- and weight-for-age percentiles for age (boys 0–24 months)](../../../../media/jwbqnpv9ls6k52y6tad6oke1.jpg)
+
+Length- and weight-for-age percentiles for age (boys 0–24 months)
+
+![Head circumference-for-age and -weight for length percentiles (girls 0–24 months)](../../../../media/mbhw6sxuo4uvv4l675galig4.jpg)
+
+Head circumference-for-age and -weight for length percentiles (girls 0–24 months)
+
+![Head circumference-for-age and weight-for-length percentiles (boys 0–24 months)](../../../../media/dyod8wlijajb4ehneywm1mnw.jpg)
+
+Head circumference-for-age and weight-for-length percentiles (boys 0–24 months)
+
+![Head circumference-for-age percentiles (boys 0–36 months)](../../../../media/mpmeeq02ia6agttcga010tv3.jpg)
+
+Head circumference-for-age percentiles (boys 0–36 months)
+
+![Head circumference-for-age percentiles (girls 0–36 months)](../../../../media/p1lowidr844rjhws0mckv1ga.jpg)
+
+Head circumference-for-age percentiles (girls 0–36 months)
+
+![Stature- and weight-for-age percentiles (female individuals 2–20 years; 3ʳᵈ–97ᵗʰ percentiles)](../../../../media/zqk7w7rb4t2d8zfh2z93pr8d.jpg)
+
+Stature- and weight-for-age percentiles (female individuals 2–20 years; 3ʳᵈ–97ᵗʰ percentiles)
+
+![Body mass index-for-age percentiles (female individuals 2–20 years; 3ʳᵈ–97ᵗʰ percentiles)](../../../../media/fq3quh9uimrbajzrg4z12dpq.jpg)
+
+Body mass index-for-age percentiles (female individuals 2–20 years; 3ʳᵈ–97ᵗʰ percentiles)
+
+![Stature- and weight-for-age percentiles (male individuals 2–20 years; 3ʳᵈ–97ᵗʰ percentiles)](../../../../media/jrsqfuu00c2rdavcknl62i9o.jpg)
+
+Stature- and weight-for-age percentiles (male individuals 2–20 years; 3ʳᵈ–97ᵗʰ percentiles)
+
+![Body mass index-for-age percentiles (male individuals 2–20 years; 3ʳᵈ–97ᵗʰ percentiles)](../../../../media/zkf1m9zdts89jj7p68d5t8kd.jpg)
+
+Body mass index-for-age percentiles (male individuals 2–20 years; 3ʳᵈ–97ᵗʰ percentiles)
+
+
+
+
+### Pediatric growth patterns [[8]](https://coursology-qbank.com/amboss/article/Od1IJf0)
+
+
+
+
+* Normal pediatric growth
+
+* Proportionate growth parameters
+
+* Growth parameters that follow closely to a <u>percentile</u> curve  [[8]](https://coursology-qbank.com/amboss/article/Od1IJf0)[[10]](https://coursology-qbank.com/amboss/article/Rc1lXf0)
+
+* Expected height within 2 <u>standard deviations</u> (i.e., 10 cm or 4 inches) of the <u>mid-parental height</u>  [[10]](https://coursology-qbank.com/amboss/article/Rc1lXf0)
+
+* Abnormal pediatric growth
+
+* Values that deviate ≥ 2 <u>standard deviations</u> from the mean, i.e. < 3% or > 97% <u>percentiles</u>
+
+* Crossing ≥ 2 major <u>percentile</u> lines on the growth curve  [[8]](https://coursology-qbank.com/amboss/article/Od1IJf0)
+
+* Deviating > 10 cm (4 inches) from the <u>mid-parental height</u>  [[10]](https://coursology-qbank.com/amboss/article/Rc1lXf0)
+
+* Disproportionate parameters
+
+
+
+
+
+> [!TIP]
+> To help identify abnormal growth patterns, compare the child's growth parameter <u>percentiles</u> to their expected adult height (i.e., <u>mid-parental height</u>). [[10]](https://coursology-qbank.com/amboss/article/Rc1lXf0)[[11]](https://coursology-qbank.com/amboss/article/-YaD7Q)
+
+
+
+
+> [!TIP]
+> Children < 2–3 years may cross major <u>percentiles</u>, but after this time should track consistently. [[8]](https://coursology-qbank.com/amboss/article/Od1IJf0)
+
+
+
+
+### Growth parameters [[8]](https://coursology-qbank.com/amboss/article/Od1IJf0)
+
+
+
+
+| <br>Pediatric growth parameters [[8]](https://coursology-qbank.com/amboss/article/Od1IJf0)[[10]](https://coursology-qbank.com/amboss/article/Rc1lXf0)<br> |  |  |  |
+| --- | --- | --- | --- |
+|  | Indications and method | Expected trends | <br>Abnormal growth<br> |
+| Head circumference-for-age | <br><br>* <u>Infants</u> and children ≤ 3 years<br><br>* Measure the fronto-occipital-circumference (FOC) at the widest possible spot  [[12]](https://coursology-qbank.com/amboss/article/0ZWeZP0)<br><br><br> | <br>* Increases most rapidly during the first 3–6 months of life<br><br> | <br>* < 2 SDs below the mean: microcephaly    [[10]](https://coursology-qbank.com/amboss/article/Rc1lXf0)<br><br> |
+| <br>* > 2 SDs above the mean: macrocephaly    [[13]](https://coursology-qbank.com/amboss/article/7u14si0)<br><br> |  |  |  |
+| <br>Linear growth [[8]](https://coursology-qbank.com/amboss/article/Od1IJf0)<br> | <br><br>* < 2 years: <u>supine</u> length with measuring board<br><br>* ≥ 2 years: standing height with stadiometer<br><br><br> | <br><br>* <u>Infants</u> grow 24 cm/year (10 in/year) in the first year of life. [[10]](https://coursology-qbank.com/amboss/article/Rc1lXf0)<br><br>* Length increases ∼ 30% by 5 months and∼ 50% by one year. [[14]](https://coursology-qbank.com/amboss/article/ow10PQ0)[[15]](https://coursology-qbank.com/amboss/article/KcWUW40)<br><br>* At 2 years of age, children have attained half of their adult height. [[16]](https://coursology-qbank.com/amboss/article/daWojP0)<br><br><br> | <br>* Length-for-age or stature-for-age<br><br>* < 2 SDs below the mean: <u>short stature</u><br><br>* > 2 SDs above the mean: <u>tall stature and abnormally rapid growth</u><br><br> |
+| Weight-for-age measurement | <br><br>* Weigh <u>infants</u> in only a diaper.<br><br>* Older children may be weighed in clothes.<br><br><br> | <br><br>* <u>Newborns</u> lose weight and regain it by 2 weeks of age. [[17]](https://coursology-qbank.com/amboss/article/WJXPG_)<br><br>* Breastfed <u>infants</u> may lose up to 10% of birthweight [[18]](https://coursology-qbank.com/amboss/article/aZWQZP0)<br><br>* Formula-fed <u>infants</u> may lose up to 7% of <u>birth</u> weight. [[19]](https://coursology-qbank.com/amboss/article/YZWnZP0)<br><br>* <u>Infants</u> gain 25–30 g/day for the first 3 months of life. [[17]](https://coursology-qbank.com/amboss/article/WJXPG_)<br><br>* <u>Birth</u> weight doubles by 4 months, triples by 1 year, and quadruples by 2 years of age. [[10]](https://coursology-qbank.com/amboss/article/Rc1lXf0)[[20]](https://coursology-qbank.com/amboss/article/TcW6b40)<br><br><br> | <br><br>* < 2 SDs below the mean: <u>failure to thrive</u><br><br>* > 2 SDs above the mean: only significant when compared with other growth parameters<br><br><br> |
+| Weight-for-length OR <u>BMI</u> | <br><br>* < 2 years: weight-for-length [[21]](https://coursology-qbank.com/amboss/article/kzcmGU0)<br><br>* ≥ 2 years: <u>BMI</u>-for-age [[21]](https://coursology-qbank.com/amboss/article/kzcmGU0)<br><br><br> | <br>* A <u>percentile</u> change may occur at 2 years of age.  [[22]](https://coursology-qbank.com/amboss/article/VaWGjP0)<br><br> | <br><br>* < 2 SDs below the mean: underweight<br><br>* > 2 SDs above the mean: <u>obesity</u><br><br><br> |
+
+
+
+
+
+> [!TIP]
+> In children with normal development, examination, and no evidence of rapidly increasing FOC, <u>macrocephaly</u> is most likely benign (e.g., due to familial <u>macrocephaly</u>). If parental FOC suggests a genetic contribution to a child's <u>macrocephaly</u>, management involves reassurance and observation. [[23]](https://coursology-qbank.com/amboss/article/TXd6xo0)
+
+
+
+
+![Microcephaly](../../../../media/yliwww0ummo92gysl98ceezu.jpg)
+
+Microcephaly
+
+![Facial features of Fragile X syndrome](../../../../media/h84ggqaw4dicnh2k660zfleg.jpg)
+
+Facial features of Fragile X syndrome
+
+---
+
+## Physical exam screening
+
+* See also “<u>Pediatric growth</u>” for recommendations on monitoring height and weight.
+
+
+
+
+| <br><u>Pediatric physical exam</u> <u>screening recommendations</u> [[2]](https://coursology-qbank.com/amboss/article/qr1CRR0)[[3]](https://coursology-qbank.com/amboss/article/W71PkR0)[[24]](https://coursology-qbank.com/amboss/article/RI1lcR0)<br> |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Conditions to screen |  | Recommended ages | Method of screening | Actions for abnormal findings |
+| <br><u>Pediatric hearing screening</u> [[25]](https://coursology-qbank.com/amboss/article/nE17wi0)[[26]](https://coursology-qbank.com/amboss/article/dD1oWQ0)[[27]](https://coursology-qbank.com/amboss/article/VD1GWQ0)<br> |  | <br><br>* As a <u>neonate</u> (see “<u>Newborn hearing screen</u>”).<br><br>* Annually between 4–6 years<br><br>* At 8 and 10 years of age<br><br>* Once between <br><br>* 11–14 years<br><br>* 15–17 years<br><br>* 18–21 years<br><br>* At any point if there is caregiver concern for <u>hearing loss</u> or <u>risk factors for pediatric hearing loss</u><br><br><br> | <br>* <u>Pure tone audiometry</u>; see "<u>Pediatric hearing screen</u>" for more information.<br><br> | <br><br>* If the child has no <u>risk factors for pediatric hearing loss</u>, there is no caregiver concern, and this is the first failed screening, repeat the screen once.<br><br>* All other children: Refer to audiology for a full evaluation. [[28]](https://coursology-qbank.com/amboss/article/WD1PWQ0)<br><br>* See also "<u>Diagnosis of pediatric hearing loss</u>."<br><br><br> |
+| <br>Pediatric vision screening [[24]](https://coursology-qbank.com/amboss/article/RI1lcR0)[[29]](https://coursology-qbank.com/amboss/article/qE1C9i0)[[30]](https://coursology-qbank.com/amboss/article/Er18QR0)[[31]](https://coursology-qbank.com/amboss/article/0r1efR0)<br> |  | <br>* <u>Birth</u>–4 years of age [[32]](https://coursology-qbank.com/amboss/article/Qw1uiQ0)[[33]](https://coursology-qbank.com/amboss/article/jLd_xq0)<br><br> | <br>* Visual inspection with<br><br>* <u>Red reflex</u> with <u>Bruckner test</u><br><br>* Assessment of fixation and tracking<br><br>* <u>Hirschberg test</u><br><br> | <br>* Refer to ophthalmology for [[32]](https://coursology-qbank.com/amboss/article/Qw1uiQ0)[[34]](https://coursology-qbank.com/amboss/article/5E1iwi0)[[35]](https://coursology-qbank.com/amboss/article/mE1Vwi0)<br><br>* Failed or unsuccessful screening<br><br>* Indications of poor <u>visual acuity</u><br><br>* Abnormalities on <u>physical examination</u><br><br>* <u>Family history</u> of pediatric <u>eye</u> conditions  [[29]](https://coursology-qbank.com/amboss/article/qE1C9i0)<br><br> |
+| <br>* 1–3 years of age (if instrument-based screening is available)<br><br> | <br>* Instrument-based (photoscreeners and autorefractors), which estimate <u>refractive error</u> and detect <u>risk factors</u> for <u>amblyopia</u>  [[36]](https://coursology-qbank.com/amboss/article/NE1-Di0)<br><br> |  |  |  |
+| <br><br>* Starting at 3 years of age at regularly scheduled intervals  [[30]](https://coursology-qbank.com/amboss/article/Er18QR0)[[31]](https://coursology-qbank.com/amboss/article/0r1efR0)<br><br>* Annually for children with <u>risk factors for pediatric vision loss</u>.<br><br><br> | <br>* <u>Visual acuity</u> testing<br><br> |  |  |  |
+| <br><u>Scoliosis screening</u> [[6]](https://coursology-qbank.com/amboss/article/LcWw140)[[37]](https://coursology-qbank.com/amboss/article/Qr1uSR0)[[38]](https://coursology-qbank.com/amboss/article/Mw1MjQ0)[[39]](https://coursology-qbank.com/amboss/article/FcWgV40)<br> |  | <br><br>* Girls: at 10 years and 12 years of age<br><br>* Boys: once between 13–14 years of age<br><br><br> | <br><br>* Visual inspection and the <u>Adam forward bend test</u><br><br>* Use of <u>scoliometer</u> (if available) to determine degree of <u>scoliosis</u><br><br>* See “<u>Diagnostics of scoliosis</u>.”<br><br><br> | <br>* See “<u>Management of idiopathic scoliosis</u>.”<br><br> |
+| <br>Pediatric hypertension screening [[6]](https://coursology-qbank.com/amboss/article/LcWw140)[[40]](https://coursology-qbank.com/amboss/article/lnYvtp)<br> |  | <br><br>* At every visit, if <u>risk factors for hypertension in children</u> are present<br><br>* Annually from age 3 years old for children without <u>risk factors</u><br><br><br> | <br><br>* In-office <u>blood pressure measurement</u><br><br>* See also “<u>Screening for hypertension in children</u>.”<br><br><br> | <br><br>* <u>Ambulatory blood pressure measurement</u><br><br>* See also “<u>Diagnostics for hypertension in children</u>.”<br><br><br> |
+
+
+
+
+
+> [!TIP]
+> <u>Vision</u> screening identifies conditions, e.g., <u>cataracts</u>, <u>strabismus</u> (in <u>infants</u> ≥ 4 months of age), <u>amblyopia</u>, that require interventions to prevent permanent <u>vision loss</u>. During a fundoscopic evaluation, the absence of a <u>red reflex</u> and/or the presence of <u>leukocoria</u> requires urgent ophthalmology referral and further evaluation. [[41]](https://coursology-qbank.com/amboss/article/nw17jQ0)
+
+
+
+
+> [!TIP]
+> <u>Hearing loss</u> can be mistaken for other conditions. Always perform a <u>pediatric hearing screening</u> in children with communication disorders, <u>neurodevelopmental disorders</u>, and behavioral problems. [[42]](https://coursology-qbank.com/amboss/article/Jv1saQ0)[[43]](https://coursology-qbank.com/amboss/article/qv1CaQ0)
+
+---
+
+## History and examination
+
+### History [[24]](https://coursology-qbank.com/amboss/article/RI1lcR0)
+
+
+
+
+* Review the patient's medical and <u>family history</u>.
+
+* Perform a pediatric <u>review of systems</u>, including 
+
+* <u>Constitutional symptoms</u> (e.g., changes in weight, <u>fevers</u>)
+
+* <u>Sleep</u>-related concerns (e.g., deficient <u>sleep</u>, <u>night terrors</u>, napping, snoring)
+
+* Dietary concerns (e.g., <u>picky eating</u>, unhealthy eating habits, <u>eating disorders</u>)
+
+* <u>Elimination disorders</u> (e.g., daytime continence, <u>encopresis</u>, <u>nocturnal enuresis</u>, <u>constipation in children</u>)
+
+* <u>Menstrual cycles</u> (e.g., <u>menarche</u>, <u>menstrual cycle abnormalities</u>)
+
+* School-related concerns (e.g., <u>ADHD</u> symptoms, <u>learning</u> disorders, academic problems)
+
+* Behavioral concerns (e.g., <u>temper tantrums</u>, <u>anxiety</u>, <u>depression</u>)
+
+* See “<u>Pediatrics: history and physical examination</u>” for more information.
+
+
+
+
+
+### <u>Physical examination</u> [[24]](https://coursology-qbank.com/amboss/article/RI1lcR0)
+
+
+
+
+* Perform a thorough <u>physical examination</u>, including age-specific examinations.
+
+* See “<u>Pediatrics: history and physical examination</u>” for further information.
+
+
+
+
+
+| Age-specific <u>physical examination</u> in children |  |  |
+| --- | --- | --- |
+| Age | Recommended evaluation | Possible findings |
+| <br>Neonatal<br> | <br><br>* Verify that:<br><br>* A full <u>assessment of the newborn</u> was performed<br><br>* <u>Red reflex</u> with <u>Bruckner test</u> has been documented [[32]](https://coursology-qbank.com/amboss/article/Qw1uiQ0)<br><br>* <u>Newborn screening</u> has been completed<br><br>* Take appropriate actions for abnormal results.<br><br>* Repeat <u>newborn screen</u> at 1–2 weeks if required by state law.<br><br>* Perform a full <u>physical examination</u>, including <u>infant hip examination</u><br><br><br> | <br>* See “<u>Clinically relevant neonatal conditions</u>.”<br><br> |
+| <u>Infants</u> | <br><br>* <u>Cranial sutures</u> and <u>fontanelles</u><br><br>* Eyes: <u>Red reflex</u> with <u>Bruckner test</u> (all ages), <u>Hirschberg test</u> (if ≥ 6 months of age) [[32]](https://coursology-qbank.com/amboss/article/Qw1uiQ0)<br><br>* Brachial and femoral pulses  [[57]](https://coursology-qbank.com/amboss/article/lw1vQQ0)<br><br>* <u>Infant hip examination</u> until 6–9 months of age (see “<u>DDH</u>”)<br><br>* Neuro: tone and normal resolution of <u>primitive reflexes</u><br><br>* <u>GU examination</u>: Check for testicular descent.<br><br>* Any change to <u>skin</u> lesions<br><br><br> | <br><br>* Musculoskeletal conditions<br><br>* Abnormal head shape (e.g., <u>craniosynostosis</u>, positional plagiocephaly)<br><br>* <u>Developmental dysplasia of the hip</u> (<u>DDH</u>)<br><br>* <u>Eye</u> conditions<br><br>* <u>Strabismus</u> (abnormal after 4 months of age)  [[58]](https://coursology-qbank.com/amboss/article/IcWYd40)<br><br>* <u>Leukocoria</u><br><br>* GU: <u>cryptorchidism</u>  [[59]](https://coursology-qbank.com/amboss/article/GcWBd40)<br><br>* <u>Skin</u>: <u>cradle cap dermatitis</u><br><br><br> |
+| <u>Toddlers</u> and <u>preschool-aged children</u> | <br><br>* Eyes: same as for <u>infants</u> and, if ≥ 3 years of age, <u>cover tests</u> [[32]](https://coursology-qbank.com/amboss/article/Qw1uiQ0)<br><br>* Brachial and femoral pulses  [[57]](https://coursology-qbank.com/amboss/article/lw1vQQ0)<br><br>* Musculoskeletal<br><br>* Standing and gait evaluation<br><br>* Evaluation for <u>DDH</u>: <u>Galeazzi test</u>, leg length<br><br>* Abdomen: Examine for masses and persistent <u>umbilical hernia</u>.<br><br><br> | <br><br>* <u>Strabismus</u><br><br>* <u>Umbilical hernia</u>  [[60]](https://coursology-qbank.com/amboss/article/CcWqe40)<br><br>* <u>Labial adhesions</u><br><br>* Pediatric lower extremity disorders<br><br>* <u>Genu valgum</u>, <u>genu varum</u><br><br>* <u>Femoral retroversion</u><br><br>* <u>Intoeing</u> of the foot secondary to <u>metatarsus adductus</u>, tibial torsion, or <u>femoral anteversion</u><br><br><br> |
+| <u>School-aged children</u> and <u>adolescents</u> | <br><br>* Very similar to the <u>physical examination</u> in adults<br><br>* <u>Pubertal development</u>: <u>Tanner stages</u><br><br><br> | <br><br>* Delayed or advanced <u>pubertal development</u>: See “<u>Puberty</u>.”<br><br>* <u>Pubertal gynecomastia</u><br><br>* <u>Varicocele</u> or <u>phimosis</u><br><br>* <u>Scoliosis</u><br><br><br> |
+
+
+
+
+
+> [!TIP]
+> Normal <u>pediatric vital signs</u> vary greatly by age.
+
+---
+
+## Anticipatory guidance
+
+<u>Anticipatory guidance</u> involves proactive counseling for expected age-appropriate topics (e.g., safety, healthy lifestyles, nutrition, and dental care). See also “<u>Anticipatory guidance for pediatric development</u>.”
+
+
+
+
+### Pediatric illness anticipatory guidance
+
+
+
+
+* Illness prevention
+
+* Advise adherence to recommended <u>immunizations in children</u>.
+
+* Discuss strategies to prevent disease transmission (e.g., <u>hand hygiene</u>, <u>respiratory hygiene</u>), especially around at-risk populations.
+
+* Educate parents of <u>newborns</u> on <u>neonatal umbilical hygiene</u>.
+
+* Illness management
+
+* Educate parents on signs of illness (e.g., <u>clinical features of neonatal bacterial infection</u>, <u>clinical features of pediatric fever</u>)
+
+* Discuss <u>anticipatory guidance for pediatric fever</u>.
+
+* Give examples of when to:
+
+* Seek emergency care (e.g., <u>signs of respiratory distress</u>, <u>clinical features of dehydration</u>, <u>red flags for pediatric fever</u>)
+
+* Contact the <u>pediatrician</u>'s office
+
+* Follow school or childcare guidance on when to return to childcare or school.
+
+
+
+
+
+### Child safety [[24]](https://coursology-qbank.com/amboss/article/RI1lcR0)[[61]](https://coursology-qbank.com/amboss/article/Jw1sPQ0)[[62]](https://coursology-qbank.com/amboss/article/pw1LPQ0)
+
+
+
+
+* Sleeping [[63]](https://coursology-qbank.com/amboss/article/6D1j2Q0)
+
+* Provide <u>counseling on sudden infant death syndrome</u> and <u>prevention of SIDS</u>.
+
+* Educate on proper swaddling: <u>safe sleep swaddling</u>, <u>healthy hip swaddling</u>.
+
+* <u>Secondhand smoke</u>: Advise caregivers on the risks of <u>secondhand smoke</u> and offer assistance with <u>smoking cessation</u>.
+
+* Child passenger safety: Children ≤ 13 years of age should ride in the back seat in a car safety seat that is approved for their age, weight, and height. ;  [[2]](https://coursology-qbank.com/amboss/article/qr1CRR0)[[64]](https://coursology-qbank.com/amboss/article/y4cdNc0)[[65]](https://coursology-qbank.com/amboss/article/JE1s9i0)[[66]](https://coursology-qbank.com/amboss/article/6w1jPQ0)
+
+* Laws regarding minimum safety requirements for car safety seats vary between states.
+
+* The <u>AAP</u> recommends using car safety seats in the following order; advance to the next seat once the child reaches seat limits: 
+
+* Rear-facing with harness: starting at <u>birth</u> until at least 2 years of age
+
+* Forward-facing with harness (convertible or dedicated forward seat)
+
+* Booster seat
+
+* Lap and shoulder seat belts can be used once they fit correctly.
+
+* Supervision
+
+* Supervision must be provided by a responsible adult who is awake and not under the influence of <u>alcohol</u> or other substances.  [[67]](https://coursology-qbank.com/amboss/article/iXWJBP0)
+
+* 3–5 years: Continuous supervision is necessary. [[68]](https://coursology-qbank.com/amboss/article/_4c5Nc0)
+
+* 6–8 years: Supervision is necessary near bodies of water or during risky activities (e.g., climbing). [[69]](https://coursology-qbank.com/amboss/article/A4cRNc0)
+
+* Bullying and abuse prevention: Teach verbal children (e.g., ≥ 3 years of age) how to recognize, respond to, and report inappropriate interactions.
+
+* Street and recreational safety
+
+* Instruct children to wear protective gear when engaging in activities with an increased risk of injury (e.g., cycling, skateboarding).
+
+* Teach children road safety.
+
+* Water safety: Encourage multiple preventive strategies.
+
+* Do not leave children unattended near bodies of water.
+
+* Consider survival swim lessons at an early age.
+
+* A self-locking fence should be installed around pools.
+
+* <u>Sun safety</u>
+
+* Advise sun avoidance and protective clothing.
+
+* Use sunscreen in children ≥ 6 months of age.
+
+* Childproofing the house
+
+* Pediatric poisoning prevention: Keep the following out of reach of children. [[70]](https://coursology-qbank.com/amboss/article/9vdNXH0)
+
+* Potentially harmful household products (e.g., laundry detergent pods, cleaning products)
+
+* Medications (prescription and nonprescription, including <u>vitamins</u>)
+
+* <u>Alcohol</u> containers and <u>nicotine products</u>
+
+* Set water heaters to 120°F (49°C) maximum temperature.
+
+* Firearms should be locked out of reach of children (unloaded with ammunition stored separately).
+
+* Anchoring furniture to walls can prevent accidental <u>crush injuries</u>.
+
+* Keep areas accessible to children (e.g., floors, tables) clear of small objects.
+
+* Fire safety: Install smoke alarms and formulate a family <u>escape</u> plan.
+
+* Medication safety for children
+
+* All medications should be stored in a secure location that is out of reach of children.
+
+* Educate caregivers on over-the-counter medications to avoid dosing errors. [[71]](https://coursology-qbank.com/amboss/article/cEdau70)
+
+* Ensure the medication is approved for the child's age.
+
+* Use single-ingredient medications whenever possible.
+
+* Follow dosing labels; weight-based dosing is preferred over age-based dosing.
+
+* See also “<u>Home management of pediatric fever</u>.”
+
+* Ask about use of <u>complementary and alternative medicine</u>. [[72]](https://coursology-qbank.com/amboss/article/1Ed2u70)
+
+
+
+
+
+![Child passenger safety](../../../../media/v05deo9zucmc9g0zwh4mtdgo.jpg)
+
+Child passenger safety
+
+
+
+
+### Pediatric lifestyle recommendations [[24]](https://coursology-qbank.com/amboss/article/RI1lcR0)[[73]](https://coursology-qbank.com/amboss/article/xcWEe40)
+
+
+
+
+* Pacifier use [[63]](https://coursology-qbank.com/amboss/article/6D1j2Q0)[[74]](https://coursology-qbank.com/amboss/article/Vw1G3Q0)
+
+* Consider delaying pacifier use until <u>breastfeeding</u> has been well-established.
+
+* To assist in <u>prevention of SIDS</u>, encourage pacifier use during <u>sleep</u> in <u>infants</u> 1–6 months of age.
+
+* Limit pacifiers after 6 months of age to reduce the risk of <u>otitis media</u>.
+
+* Discontinue pacifiers at 2 to 4 years of age to prevent adverse dental effects (e.g., <u>dental malocclusion</u>).
+
+* Behavior and discipline
+
+* Discuss age-appropriate behaviors to manage parent expectations.
+
+* Encourage consistency, <u>positive reinforcement</u>, and age-appropriate discipline.
+
+* For persistent behavioral problems (e.g., <u>temper tantrums</u>, aggression), recommend evidence-based parenting programs.
+
+* Toilet training [[75]](https://coursology-qbank.com/amboss/article/rw1f4Q0)
+
+* Initiation: At 2.5–3 years of age, when children are developmentally mature enough to begin toilet training. [[76]](https://coursology-qbank.com/amboss/article/Iw1Y4Q0)
+
+* Use <u>positive reinforcement</u>.
+
+* Completion: typically by 4 years of age
+
+* Screen time  [[24]](https://coursology-qbank.com/amboss/article/RI1lcR0)[[68]](https://coursology-qbank.com/amboss/article/_4c5Nc0)[[73]](https://coursology-qbank.com/amboss/article/xcWEe40)
+
+* Children aged < 18 months: Avoid screen time, with the exception of video calls.
+
+* Children aged 18–24 months: Limit screen time solely to educational content.
+
+* Children aged 2–5 years: Restrict sedentary screen time to ≤ 1 hour/day.
+
+* For older children:
+
+* Encourage use of an agreed plan for caregiver supervision, limits on screen time, and scheduled screen-free time.
+
+* Avoid screen time within 1 hour of bedtime and keep devices out of children's bedrooms.
+
+* <u>Sleep</u>: See also “<u>Counseling on sleep hygiene</u>.” [[77]](https://coursology-qbank.com/amboss/article/-4cDNc0)
+
+* 3–5 years: A total of 10–13 hours of <u>sleep</u> is recommended (including naps).
+
+* 6–12 years: Children should get 9–12 hours of <u>sleep</u>; daytime naps should not be forced.
+
+* Physical exercise: Ensure at least 60 minutes of daily physical activity.
+
+* Personal hygiene: Establish good hygiene habits, including <u>hand hygiene</u>, <u>respiratory hygiene</u>, regular bathing; in <u>adolescents</u>, this should also include the use of deodorant.
+
+* Counseling on <u>sexual activity</u>, smoking, <u>alcohol</u>, and drug use: See “<u>Adolescent health care</u>.”
+
+
+
+
+
+> [!WARNING]
+> Do not attach pacifiers to sleeping <u>infants</u> or to items that present a suffocation risk (e.g., stuffed animals). [[63]](https://coursology-qbank.com/amboss/article/6D1j2Q0)
+
+
+
+
+### Pediatric nutrition [[24]](https://coursology-qbank.com/amboss/article/RI1lcR0)[[78]](https://coursology-qbank.com/amboss/article/sF1tji0)[[79]](https://coursology-qbank.com/amboss/article/wvahX5)
+
+
+
+
+A healthy diet is essential for normal growth and development and helps prevent a variety of metabolic and other conditions, such as <u>obesity</u> and <u>type 2 diabetes mellitus</u>.
+
+
+
+
+* <u>Infant</u> feeding: See also “<u>Infant nutrition</u>.”
+
+* Encourage <u>exclusive breastfeeding</u> for the first 6 months.   [[24]](https://coursology-qbank.com/amboss/article/RI1lcR0)
+
+* Exclusively breastfed or partially breastfed <u>infants</u> require supplementation.
+
+* <u>Vitamin D</u> DOSAGE from <u>birth</u> until <u>infants</u> meet the <u>recommended daily intake of vitamin D</u> from other food sources
+
+* <u>Iron</u> DOSAGE from 4 months until they meet the <u>recommended daily intake of iron</u> from <u>iron</u>-containing foods  [[80]](https://coursology-qbank.com/amboss/article/Cr1qjR0)
+
+* <u>Introduce complementary foods</u> at 6 months of age if showing <u>signs of complementary feeding readiness</u>.
+
+* In addition to <u>complementary foods</u>, <u>breastmilk</u> and/or formula should be given until 12 months of age.
+
+* Older children
+
+* Once eating <u>solid foods</u>, a healthy diet consists of [[14]](https://coursology-qbank.com/amboss/article/ow10PQ0)
+
+* Three meals and two snacks per day
+
+* Caloric intake appropriate for the child's age and level of activity
+
+* Fruits, vegetables, legumes, beans, grains (preferably whole grain), protein foods, and dairy
+
+* Limited saturated fats, salt, and sugar
+
+* Introduce whole milk (16–24 oz/day) at 12 months of age.  [[78]](https://coursology-qbank.com/amboss/article/sF1tji0)[[81]](https://coursology-qbank.com/amboss/article/Kw1UPQ0)
+
+* At 24 months of age, switch from whole milk to 1% or skim milk. [[82]](https://coursology-qbank.com/amboss/article/yfddK60)
+
+
+
+
+
+> [!TIP]
+> For children on specialized diets (e.g., for medical indications, <u>vegetarians</u>, <u>vegans</u>), consider referral to a dietitian to ensure proper dietary intake of <u>macronutrients</u> and <u>micronutrients</u>. [[83]](https://coursology-qbank.com/amboss/article/Lw1wjQ0)
+
+
+
+
+#### Picky eating [[84]](https://coursology-qbank.com/amboss/article/pr1LRR0)
+
+
+
+
+* Definition
+
+* The refusal to eat certain foods, try new foods, or eat sufficient amounts of food
+
+* Often associated with an excessive preference for certain foods
+
+* Red flags in picky eating that merit further evaluation include:
+
+* <u>Vomiting</u>, <u>diarrhea</u>, or <u>atopy</u> (e.g., <u>eczema</u>)
+
+* <u>Dysphagia</u> (may manifest with <u>coughing</u>, choking, or recurrent <u>lower respiratory tract infections</u>)
+
+* <u>Odynophagia</u> (may manifest with crying while eating)
+
+* <u>Failure to thrive</u>, <u>developmental delay</u>
+
+* Management: depends on the severity of the condition
+
+* Normal growth with no <u>red flags</u>
+
+* Diagnostic studies are not indicated.
+
+* Reassure parents and encourage them to continue offering a wide variety of foods.
+
+* Poor growth and/or <u>red flags in picky eating</u>
+
+* Perform a detailed history, including <u>screening for eating disorders</u>.
+
+* Obtain diagnostics studies as indicated.
+
+* Consider caloric supplementation.
+
+* If indicated, make appropriate referral(s).
+
+
+
+
+
+> [!TIP]
+> Encourage caregivers to offer a variety of foods without pressuring children to eat.
+
+
+
+
+### Dental care and caries prevention in children [[85]](https://coursology-qbank.com/amboss/article/mH1VIR0)[[86]](https://coursology-qbank.com/amboss/article/mw1VjQ0)
+
+
+
+
+* General care
+
+* Avoid juices in <u>infants</u> and limit to 4–6 oz (120–180 mL) per day for children ≥ 1 year of age [[86]](https://coursology-qbank.com/amboss/article/mw1VjQ0)[[87]](https://coursology-qbank.com/amboss/article/5w1ijQ0)
+
+* Introduce a cup at 6 months of age; discourage bottles past 1 year old.
+
+* Before <u>tooth</u> eruption, wipe <u>gums</u> with a clean cloth after meals.
+
+* After <u>tooth</u> eruption
+
+* Brush <u>teeth</u> twice a day with fluoridated toothpaste.
+
+* Floss daily between <u>teeth</u> that touch.
+
+* Encourage dental visits every 6 months beginning with <u>tooth</u> eruption or at 12 months, whichever is first.
+
+* Additional <u>fluoride</u> [[85]](https://coursology-qbank.com/amboss/article/mH1VIR0)
+
+* After <u>tooth</u> eruption: Consider applying <u>fluoride</u> varnish every 3–6 months.   [[85]](https://coursology-qbank.com/amboss/article/mH1VIR0)
+
+* Consider <u>fluoride supplementation</u> in those who drink <u>fluoride</u>-deficient water.   [[85]](https://coursology-qbank.com/amboss/article/mH1VIR0)[[88]](https://coursology-qbank.com/amboss/article/pv1LaQ0)[[89]](https://coursology-qbank.com/amboss/article/c71akR0)
+
+
+
+
+
+#### Oral health concerns
+
+
+
+
+* Teething: the physiological process by which an <u>infant</u>'s <u>deciduous teeth</u> emerge through the <u>gums</u>
+* Usually begins with the lower central <u>incisors</u> between 6 and 10 months of age and ends with the <u>molars</u> at 2–3 years of age [[90]](https://coursology-qbank.com/amboss/article/rcWfd40)
+
+* Teething syndrome: Manifestations fluctuate with the eruption of <u>teeth</u> and include drooling, irritability, disrupted <u>sleep</u>, and/or swelling/inflammation of the <u>gums</u>.
+
+* Providing <u>infants</u> with a chilled <u>teething</u> ring to chew on safely or applying pressure to the baby's <u>gum</u> using clean fingers or wet gauze can reduce discomfort.
+
+* Systemic <u>analgesics</u> (e.g., <u>acetaminophen</u>, <u>ibuprofen</u>) are reserved for <u>teething</u> <u>pain</u> not effectively managed with conservative interventions.
+
+* Advise parents against using topical numbing treatments due to the risk of adverse effects (e.g., <u>methemoglobinemia</u>). [[91]](https://coursology-qbank.com/amboss/article/7cW4d40)
+
+* <u>Dental malocclusion</u>: Discourage nonnutritive sucking habits, including thumb sucking and pacifier use, beyond 3 years of age. [[92]](https://coursology-qbank.com/amboss/article/HcWKd40)
+
+---

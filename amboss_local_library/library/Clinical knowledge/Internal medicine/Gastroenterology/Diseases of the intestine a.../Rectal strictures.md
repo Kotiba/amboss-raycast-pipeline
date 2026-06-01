@@ -1,0 +1,13 @@
+# Rectal strictures
+
+*Categories: Clinical knowledge > Internal medicine > Gastroenterology > Diseases of the intestine and appendix > Rectal strictures*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/690joR)
+
+---
+
+## Summary
+
+Rectal strictures are chronic narrowings of the <u>rectum</u> that obstruct normal intestinal movement. They occur in 2–30% of patients following <u>surgery for colorectal cancer</u>. Other causes include <u>inflammatory bowel disease</u> (<u>IBD</u>), infections (e.g., <u>lymphogranuloma venereum</u>, <u>tuberculosis</u>), and <u>radiation therapy</u>. <u>Bowel obstruction</u>, <u>constipation</u>, <u>overflow diarrhea</u>, <u>tenesmus</u>, and urgency to void are typical clinical features. Diagnosis involves imaging such as <u>CT enterography</u> or <u>MR enterography</u> to evaluate the stricture and assess for underlying conditions or complications, followed by endoscopy and <u>biopsy</u>. Treatment options vary and may include rectal dilation (digital or instrumental), endoscopic therapies (e.g., <u>balloon dilation</u>, <u>incision</u>, or <u>stenting</u>), and surgical interventions such as stricture resection or <u>stricturoplasty</u>.
+
+---

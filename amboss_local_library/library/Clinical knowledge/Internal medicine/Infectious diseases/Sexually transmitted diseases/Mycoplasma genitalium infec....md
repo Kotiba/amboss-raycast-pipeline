@@ -1,0 +1,13 @@
+# Mycoplasma genitalium infection
+
+*Categories: Clinical knowledge > Internal medicine > Infectious diseases > Sexually transmitted diseases > Mycoplasma genitalium infection*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/aE0Q83)
+
+---
+
+## Summary
+
+<u>Mycoplasma genitalium</u> (<u>Mgen</u>) infection is a <u>sexually transmitted infection</u>. It is frequently asymptomatic but may cause <u>urethritis</u> or <u>cervicitis</u>. In patients who do not respond to <u>antimicrobial therapy</u> for these conditions, <u>Mgen</u> infection should be suspected. If available, <u>macrolide</u> resistance testing should also be performed because infection with <u>macrolide</u>-resistant strains of <u>Mgen</u> is common. Treatment requires a combination of <u>antibiotics</u>, usually <u>doxycycline</u> followed by either <u>azithromycin</u> or <u>moxifloxacin</u>.
+
+---

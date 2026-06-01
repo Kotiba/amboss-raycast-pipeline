@@ -1,0 +1,887 @@
+# Back pain
+
+*Categories: Clinical knowledge > Surgery > Trauma and orthopedic surgery > Spine > Back pain*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/Dq010h)
+
+---
+
+## Summary
+
+Back <u>pain</u> is experienced by most adults. The majority of cases are benign, <u>nonspecific back pain</u> (<u>pain</u> that is not attributable to a specific pathology). Spinal <u>causes of acute back pain</u> are conditions of the spinal column or surrounding muscles and <u>soft tissue</u>. Spinal causes include conditions that require urgent management to prevent or minimize permanent neurological dysfunction (e.g., <u>spinal cord compression</u>, <u>spinal infections</u>) and nonurgent causes (e.g., inflammatory <u>arthritis</u>, <u>bone metastases</u> without cord compression or <u>unstable vertebral fracture</u>). <u>Nonspinal causes of back pain</u> is <u>referred pain</u> from a thoracic, abdominal, <u>pelvic</u>, <u>retroperitoneal</u>, or cardiovascular cause. Assessment for <u>red flag features of back pain</u> and a focused <u>neurological examination</u> is required in all patients. Initial diagnostics and management should be guided by the <u>pretest probability</u> of the underlying condition. Patients with new neurological findings other than isolated unilateral <u>radiculopathy</u> require immediate imaging, typically <u>MRI</u>, and urgent spinal <u>surgery</u> consultation. Serious and life-threatening nonspinal causes, such as <u>myocardial infarction</u> and aortic pathology, should be considered particularly in patients with abnormal <u>vital signs</u> and no neurological abnormalities. Neurologically intact patients without <u>red flags</u> do not require urgent imaging and typically improve with nonpharmacological treatment options (e.g., <u>superficial</u> application of heat, massage), symptomatic treatment with <u>NSAIDs</u>, and early mobilization.
+
+---
+
+## Classification
+
+### By etiology [[2]](https://coursology-qbank.com/amboss/article/I6XYm_)[[3]](https://coursology-qbank.com/amboss/article/v8WAoM0)
+
+
+
+
+* <u>Specific back pain</u>
+
+* Back <u>pain</u> attributable to a pathophysiological condition (e.g., trauma, deformity, disease, injury, or infection); see “Etiology” section for details.
+
+* <u>Mechanical back pain</u>: <u>specific back pain</u> caused by disorders of the <u>spine</u>, <u>intervertebral discs</u>, or surrounding <u>soft tissue</u>  [[4]](https://coursology-qbank.com/amboss/article/sPXtTy)
+
+* <u>Nonspecific back pain</u>: back <u>pain</u> that cannot be attributed to a specific cause after a full evaluation.
+
+* Spinal causes: conditions of the spinal column or surrounding muscles and <u>soft tissue</u>
+
+* Nonspinal causes: include thoracic, abdominal, <u>pelvic</u>, <u>retroperitoneal</u>, or cardiovascular conditions that can manifest with <u>referred pain to the back</u>.
+
+
+
+
+
+### By duration [[2]](https://coursology-qbank.com/amboss/article/I6XYm_)[[5]](https://coursology-qbank.com/amboss/article/c9Yamr)[[6]](https://coursology-qbank.com/amboss/article/Edc87Y0)
+
+
+
+
+* <u>Acute back pain</u>: <u>pain</u> lasting ≤ 4 weeks
+
+* <u>Subacute back pain</u>: <u>pain</u> lasting 4–12 weeks
+
+* <u>Chronic back pain</u>: persistent or recurring back <u>pain</u> lasting > 12 weeks
+
+
+
+
+
+### By location
+
+
+
+
+* <u>Low back pain</u> (<u>LBP</u>) [[2]](https://coursology-qbank.com/amboss/article/I6XYm_)[[3]](https://coursology-qbank.com/amboss/article/v8WAoM0)
+
+* <u>Pain</u> localized to the lumbar region (below the <u>costal margin</u>) and above the gluteal folds; may be associated with <u>pain</u> that radiates down the legs
+
+* <u>LBP</u> is typically further classified into three broad categories: [[7]](https://coursology-qbank.com/amboss/article/96XNM_)
+
+* <u>Nonspecific LBP</u> (most common)  [[8]](https://coursology-qbank.com/amboss/article/35YSPp)
+
+* <u>LBP</u> associated with <u>radiculopathy</u> or <u>spinal stenosis</u>
+
+* <u>LBP</u> associated with a specific spinal cause (see “Spinal <u>causes of back pain</u>”)
+
+* Upper back <u>pain</u>: <u>pain</u> localized to the <u>thoracic spine</u> region
+
+
+
+
+
+### By severity [[9]](https://coursology-qbank.com/amboss/article/xV1E9f0)
+
+
+
+
+* Uncomplicated back <u>pain</u>: no <u>red flag features of back pain</u>
+
+* Complicated back <u>pain</u>: presence of <u>red flag features</u> of back <u>pain</u>
+
+---
+
+## Etiology
+
+> [!TIP]
+> Trauma can cause both spinal and <u>nonspinal causes of back pain</u>.
+
+
+
+
+### Musculoskeletal
+
+
+
+
+* <u>Intervertebral disc herniation</u> or <u>disc protrusion</u>
+
+* <u>Spinal stenosis</u>
+
+* <u>Scoliosis</u>
+
+* <u>Spinal osteoarthritis</u> (spondylosis), <u>degenerative disc disease</u>
+
+* <u>Spondylolysis</u>, <u>spondylolisthesis</u>
+
+* <u>Vertebral fractures</u>
+
+* Musculoskeletal spinal injury (back strain)
+
+* <u>Rib fractures</u>
+
+
+
+
+
+### <u>Neoplastic</u>
+
+
+
+
+* Spinal <u>metastases</u>
+
+* <u>Referred pain</u> from primary <u>neoplastic</u> process (e.g., <u>renal cancer</u>, <u>pancreatic cancer</u>)
+
+* Primary spinal tumors
+
+
+
+
+
+### Infectious
+
+
+
+
+* <u>Spinal epidural abscess</u>
+
+* <u>Discitis</u>
+
+* <u>Vertebral osteomyelitis</u>
+
+* <u>Pott disease</u>
+
+
+
+
+
+### Vascular
+
+
+
+
+* <u>Spinal epidural hematoma</u>
+
+* Spinal cord <u>infarction</u>
+
+
+
+
+
+### Inflammatory
+
+
+
+
+* <u>Ankylosing spondylitis</u>
+
+* <u>Psoriatic arthritis</u>
+
+* <u>Reactive arthritis</u>
+
+
+
+
+
+### <u>Referred pain</u>
+
+
+
+
+* Cardiovascular: <u>abdominal aortic aneurysm</u> (<u>AAA</u>), <u>aortic dissection</u>, <u>myocardial infarction</u>, <u>pericarditis</u>
+
+* Pulmonary: <u>pneumonia</u>, <u>pleurisy</u>, <u>pulmonary embolism</u>
+
+* Gastrointestinal: <u>esophageal perforation</u>, <u>esophageal spasm</u>, <u>perforated peptic ulcer</u>, <u>pancreatitis</u>, <u>cholecystitis</u>, <u>cholangitis</u>
+
+* Genitourinary: <u>pyelonephritis</u>, <u>prostatitis</u>, <u>nephrolithiasis</u>, <u>hydronephrosis</u>, <u>renal infarction</u>
+
+* Other: <u>psoas abscess</u>, <u>retroperitoneal hematoma</u>
+
+---
+
+## Red flags for back pain
+
+<u>Red flag features</u> on history or <u>clinical examination</u> indicate an urgent or serious underlying etiology.
+
+
+
+
+| <br>Red flags for back pain [[2]](https://coursology-qbank.com/amboss/article/I6XYm_)[[8]](https://coursology-qbank.com/amboss/article/35YSPp)[[10]](https://coursology-qbank.com/amboss/article/-6XDn_)<br> |  |
+| --- | --- |
+|  | Features |
+| Patient characteristics | <br><br>* Age < 18 or > 50 years<br><br>* <u>Immunosuppression</u><br><br><br> |
+| Relevant <u>medical history</u> | <br><br>* History of cancer or unexplained weight loss  [[8]](https://coursology-qbank.com/amboss/article/35YSPp)<br><br>* History of <u>abdominal aortic aneurysm</u><br><br>* Recent history of any of the following:<br><br>* Bacterial infection  [[14]](https://coursology-qbank.com/amboss/article/19Y2mr)<br><br>* <u>Spinal anesthesia</u><br><br>* Spinal <u>surgery</u> [[15]](https://coursology-qbank.com/amboss/article/7Yb4qH)<br><br>* Significant trauma related to age  [[2]](https://coursology-qbank.com/amboss/article/I6XYm_)<br><br><br> |
+| Medication use | <br><br>* Long-term <u>glucocorticoid</u> use<br><br>* <u>Anticoagulants</u><br><br>* IV drug use  [[15]](https://coursology-qbank.com/amboss/article/7Yb4qH)<br><br><br> |
+| <u>Pain</u> characteristics | <br><br>* <u>Pain</u> that does not improve with rest and/or worsens at night<br><br>* Persistent or progressive <u>pain</u> and/or neurological findings despite > 4 weeks of <u>conservative therapy</u><br><br><br> |
+| Examination findings | <br><br>* <u>Fever</u><br><br>* Abnormal <u>vitals</u><br><br>* Signs of aortic pathology (e.g., <u>aortic regurgitation</u>, unequal blood pressures)<br><br>* Signs of cord compression syndromes (<u>spinal cord compression</u>, <u>cauda equina syndrome</u>, <u>conus medullaris syndrome</u>),<br>such as: [[16]](https://coursology-qbank.com/amboss/article/Cpbq7u)<br><br>* Motor <u>weakness</u><br><br>* <u>Spasticity</u> and <u>hyperreflexia</u> (<u>upper motor neuron signs</u>) <u>distal</u> to the site of compression<br><br>* <u>Flaccid paralysis</u> and <u>hyporeflexia</u> (<u>lower motor neuron signs</u>) can occur <u>distal</u> to the site of compression in <u>spinal shock</u>. [[17]](https://coursology-qbank.com/amboss/article/HpXKI_)<br><br>* <u>Paresthesias</u> or anesthesia (including <u>saddle anesthesia</u>)<br><br>* <u>Bladder</u>, bowel, or <u>sexual dysfunction</u><br><br><br> |
+
+
+
+
+
+> [!TIP]
+> <u>Hypotension</u> and <u>bradycardia</u> in a patient with signs of <u>spinal cord compression</u> are likely indicators of <u>spinal shock</u>. [[18]](https://coursology-qbank.com/amboss/article/QuWuIM0)
+
+
+
+
+> [!TIP]
+> <u>Pathological fractures</u>, <u>bone metastases</u>, or <u>referred pain</u> (e.g., <u>myocardial infarction</u>, <u>abdominal aortic aneurysm</u>, <u>aortic dissection</u>) are more likely in older individuals with back <u>pain</u>.
+
+---
+
+## Initial management
+
+* Perform focused clinical history and examination.
+
+* Assess for <u>red flag features of back pain</u> and risk <u>stratify</u> accordingly.
+
+* Low suspicion for serious or urgent etiology: <u>supportive care</u>, <u>pain management</u>, close follow-up and <u>return precautions</u> usually sufficient  [[8]](https://coursology-qbank.com/amboss/article/35YSPp)
+
+* High suspicion for serious or urgent etiology: targeted and expedited evaluation to identify and treat the underlying cause, e.g., [[10]](https://coursology-qbank.com/amboss/article/-6XDn_)[[19]](https://coursology-qbank.com/amboss/article/jYd_Ko0)
+
+* Concern for <u>spinal infection</u>: urgent <u>MRI</u> with and without IV contrast, <u>empiric antibiotics</u>, neurosurgery consult
+
+* Concern for <u>compressive spinal emergency</u>: urgent <u>MRI</u> <u>spine</u> with and without IV contrast, urgent neurosurgery consult; See “<u>Management of compressive spinal emergencies</u>.”
+
+* Suspected <u>fracture</u>: <u>spinal precautions</u>, XR <u>spine</u>; See “Management of <u>traumatic back pain</u>.”
+
+* Evaluate and treat the underlying cause.
+
+* Administer <u>analgesics</u> (preferably <u>NSAIDs</u>) after baseline neurological function and <u>pain</u> severity are documented. [[7]](https://coursology-qbank.com/amboss/article/96XNM_)[[10]](https://coursology-qbank.com/amboss/article/-6XDn_)
+
+
+
+
+
+> [!TIP]
+> Most cases of acute, <u>nonspecific back pain</u> do not require imaging and improve without intervention. [[20]](https://coursology-qbank.com/amboss/article/3YdSKo0)
+
+
+
+
+> [!WARNING]
+> Acute <u>spinal cord compression</u> is a surgical emergency. Obtain immediate <u>MRI</u> or <u>CT myelography</u>, give IV <u>glucocorticoids</u> for malignant compression, and decompress the cord (e.g., with <u>surgery</u>) as soon as possible!
+
+---
+
+## Diagnosis
+
+### Imaging [[6]](https://coursology-qbank.com/amboss/article/Edc87Y0)[[7]](https://coursology-qbank.com/amboss/article/96XNM_)[[21]](https://coursology-qbank.com/amboss/article/T9Y65r)[[22]](https://coursology-qbank.com/amboss/article/4uW3rM0)
+
+
+
+* Indications for imaging may include: [[6]](https://coursology-qbank.com/amboss/article/Edc87Y0)
+
+* Suspicion of a serious underlying etiology
+
+* <u>Pain</u> that persists despite at least 4–6 weeks of <u>conservative management</u>.
+
+
+
+
+| <br>Approach to imaging in back pain [[6]](https://coursology-qbank.com/amboss/article/Edc87Y0)[[7]](https://coursology-qbank.com/amboss/article/96XNM_)<br> |  |
+| --- | --- |
+| <br>Suspected urgent spinal cause (e.g., severe or progressive neurological deficits, features of <u>spinal infection</u>, features of spinal <u>malignancy</u>, <u>cauda equina</u>) | <br><br>* Urgent <u>MRI</u> <u>spine</u> without and with IV contrast<br><br>* Post-void <u>bladder</u> scan<br><br><br> |
+| Suspected inflammatory cause (e.g., <u>ankylosing spondylitis</u>) | <br>* <u>X-ray</u> <u>spine</u><br><br> |
+| Suspected <u>vertebral fracture</u> | <br><br>* <u>X-ray</u> <u>spine</u><br><br>* OR CT <u>spine</u> without contrast<br><br>* OR <u>MRI</u> <u>spine</u> without contrast<br><br><br> |
+| Isolated <u>radiculopathy</u> and/or <u>clinical features of spinal stenosis</u> without any <u>red flags</u> | <br><br>* Imaging typically not required for acute symptoms  [[6]](https://coursology-qbank.com/amboss/article/Edc87Y0)<br><br>* Consider <u>MRI</u> <u>spine</u> without IV contrast if symptoms progress or persist despite 4–6 weeks of <u>conservative management</u>.  [[6]](https://coursology-qbank.com/amboss/article/Edc87Y0)<br><br><br> |
+| Suspected <u>nonspinal causes of back pain</u> | <br>* Depends on suspected etiology<br><br> |
+| <u>Nonspecific back pain</u> | <br><br>* Imaging not routinely required<br><br>* Consider <u>MRI</u> <u>spine</u> and possibly <u>x-ray</u> if <u>pain</u> persists for > 6 weeks despite therapy and the patient is a surgical candidate. [[6]](https://coursology-qbank.com/amboss/article/Edc87Y0)<br><br><br> |
+
+
+
+
+
+> [!TIP]
+> In patients presenting with <u>acute back pain</u> without <u>red flags</u> or neurological deficits, imaging is not typically indicated. [[7]](https://coursology-qbank.com/amboss/article/96XNM_)
+
+
+
+
+### <u>Laboratory studies</u>
+
+
+
+
+* <u>Laboratory studies</u> are not routinely required for the evaluation of acute or <u>chronic back pain</u>.
+
+* Consider obtaining <u>laboratory studies</u> based on the likely underlying etiology and/or the presence of <u>red flags for back pain</u>, e.g.:
+
+* <u>CBC</u> and <u>inflammatory markers</u>: for suspected <u>spinal infections</u>, inflammatory <u>arthritis</u>, or <u>malignancy</u>
+
+* <u>Blood cultures</u>: for suspected <u>spinal infections</u>
+
+* Serum <u>calcium</u> and <u>vitamin D</u> levels: for suspected <u>fragility fractures</u>
+
+---
+
+## Urgent spinal causes of acute back pain
+
+* <u>Urgent spinal causes of back pain</u> include conditions that cause, or have the potential to cause, permanent neurological damage or life-threatening complications.
+
+* Immediate management is required for patients with severe and/or progressive neurological deficits.  [[10]](https://coursology-qbank.com/amboss/article/-6XDn_)
+
+
+
+
+
+| <br>Overview of <u>urgent spinal causes of back pain</u> <br> |  |  |  |
+| --- | --- | --- | --- |
+|  | Characteristic clinical features | Diagnostic findings | Management |
+| <br><u>Compressive spinal emergencies</u> [[17]](https://coursology-qbank.com/amboss/article/HpXKI_)[[23]](https://coursology-qbank.com/amboss/article/kJbm8u)<br> | <br><br>* <u>Risk factors for spinal cord compression</u><br><br>* Sudden severe back <u>pain</u> or <u>radicular pain</u><br><br>* Neurological deficits below the level of the lesion (including <u>urinary retention</u>, <u>saddle anesthesia</u>, <u>fecal incontinence</u>)<br><br><br> | <br><br>* Urgent <u>MRI</u> <u>spine</u> without and with IV contrast <br><br>* <u>Edema</u> of the spinal cord or <u>cauda equina</u><br><br>* Extrinsic compression<br><br>* <u>Post-void residual</u><br><br><br> | <br><br>* Urgent surgical decompression (neurosurgery consult)<br><br>* Treat the underlying cause.<br><br>* Suspected malignant cord compression: high-dose IV <u>dexamethasone</u><br><br>* Urinary catheter if indicated<br><br>* See “<u>Management of compressive spinal emergencies</u>”<br><br><br> |
+| <br><u>Vertebral fractures</u><br>(pathological or traumatic)[[24]](https://coursology-qbank.com/amboss/article/GpXBI_)<br> | <br><br>* Trauma significant for age<br><br>* Localized <u>vertebral</u> <u>pain</u> and/or <u>contusion</u><br><br>* Uneven alignment of the <u>vertebral</u> <u>spinous processes</u><br><br>* Chronic <u>corticosteroid</u> use<br><br><br> | <br>* <u>X-ray</u> <u>spine</u>:   <br><br>* <u>Vertebral</u> misalignment<br><br>* ↓ <u>vertebral body</u> height or wedging  [[6]](https://coursology-qbank.com/amboss/article/Edc87Y0)[[25]](https://coursology-qbank.com/amboss/article/TJb6tu)<br><br> | <br><br>* Immediate <u>spinal precautions</u><br><br>* <u>Unstable vertebral fractures</u> or cord compression:<br><br>* Urgent neurosurgery consult<br><br>* Surgical stabilization (<u>spondylodesis</u>)<br><br>* Surgical decompression for cord compression<br><br>* <u>Stable vertebral fractures</u> without cord compression:<br><br>* <u>Conservative management</u><br><br>* <u>Vertebroplasty</u> or <u>kyphoplasty</u><br><br><br> |
+| <br><u>Spinal infections</u> [[26]](https://coursology-qbank.com/amboss/article/3CYS7r)<br> | <br><br>* <u>Risk factors for spinal infection</u><br><br>* <u>Fever</u>, <u>rigors</u><br><br>* <u>Tender point</u><br><br>* Limited <u>spine</u> mobility<br><br>* Signs of <u>spinal cord compression</u><br><br><br> | <br><br>* ↑ <u>WBC</u> and <u>inflammatory markers</u><br><br>* <u>Blood cultures</u> : <u>Staphylococcus aureus</u> (most common) [[26]](https://coursology-qbank.com/amboss/article/3CYS7r)<br><br>* Urgent <u>MRI</u> with and without IV contrast: inflammation, <u>abscess</u> : [[6]](https://coursology-qbank.com/amboss/article/Edc87Y0)<br><br><br> | <br><br>* <u>Empiric antibiotic therapy for spinal infection</u><br><br>* Urgent neurosurgery evaluation<br><br><br> |
+| <br>Spinal epidural hematoma causing cord compression [[27]](https://coursology-qbank.com/amboss/article/q9YCor)<br> | <br>* Possible history of:<br><br>* <u>Thrombocytopenia</u><br><br>* <u>Bleeding disorders</u><br><br>* Use of <u>anticoagulants</u><br><br>* Vascular <u>malformations</u><br><br>* Localized trauma (e.g., following <u>lumbar puncture</u>, pulling of the <u>epidural catheter</u>)<br><br> | <br>* <u>MRI</u> with and without IV contrast  [[28]](https://coursology-qbank.com/amboss/article/JFWsQM0)<br><br>* Blood in the <u>epidural space</u> with a smooth contour  [[28]](https://coursology-qbank.com/amboss/article/JFWsQM0)<br><br>* Loss of epidural fat signal<br><br> | <br><br>* Strict bed rest<br><br>* <u>Anticoagulant reversal</u>, if indicated<br><br>* Urgent neurosurgery consult for surgical decompression (<u>laminectomy</u> and evacuation of blood)<br><br><br> |
+
+
+
+
+
+> [!TIP]
+> <u>Acute urinary retention</u> in a patient with sudden back <u>pain</u> and neurological deficits is strongly suggestive of <u>cauda equina syndrome</u> (90% <u>sensitivity</u>). [[7]](https://coursology-qbank.com/amboss/article/96XNM_)
+
+
+
+
+> [!WARNING]
+> Spinal boards should only be used for transport; remove patients from them on arrival at the hospital to reduce <u>pain</u> and prevent the development of <u>pressure ulcers</u>!
+
+
+
+
+![Cervical disk herniation](../../../../../media/y8hms9sp8qj6ipop8iecrpl5.jpg)
+
+Cervical disk herniation
+
+![Thoracic wedge compression fracture](../../../../../media/kg6kfmly5zj1mstukrbvekc5.jpg)
+
+Thoracic wedge compression fracture
+
+![Chronic lumbar compression deformity](../../../../../media/ct09d0m6ftpjripr52hf50i0.jpg)
+
+Chronic lumbar compression deformity
+
+![T12 burst fracture and L1 fracture](../../../../../media/pesm1kknmstxdjpip367hr1a.jpg)
+
+T12 burst fracture and L1 fracture
+
+![Vertebral arch fracture deformity with spinal stenosis](../../../../../media/m7xw2wn229q8oxn1x0bfa7dt.jpg)
+
+Vertebral arch fracture deformity with spinal stenosis
+
+![Burst fracture of T12 vertebral body](../../../../../media/vvmcj5e1nv29vmmc0091i1s8.jpg)
+
+Burst fracture of T12 vertebral body
+
+![Acute and chronic vertebral fractures](../../../../../media/i9hpnvt6g71vprbkt85eh7rx.jpg)
+
+Acute and chronic vertebral fractures
+
+![Retropharyngeal abscess with spondylodiscitis and osteomyelitis](../../../../../media/u5pifpm5tjbdf1rp620ennsa.jpg)
+
+Retropharyngeal abscess with spondylodiscitis and osteomyelitis
+
+![Spinal epidural abscess, osteomyelitis, and discitis](../../../../../media/yetkn3vye1jxwthli77er8lx.jpg)
+
+Spinal epidural abscess, osteomyelitis, and discitis
+
+![Spinal epidural hematoma](../../../../../media/gb3p9oyjztak7wun1t14mgh6.jpg)
+
+Spinal epidural hematoma
+
+---
+
+## Compressive spinal emergencies
+
+The following table outlines common symptoms following <u>compression of the spinal cord</u> or <u>cauda equina</u>. Patients may also present with symptoms of <u>incomplete spinal cord syndromes</u> depending on the location of compression.
+
+
+
+
+> [!WARNING]
+> <u>Spinal cord compression</u>, <u>conus medullaris syndrome</u>, and <u>cauda equina syndrome</u> are <u>medical emergencies</u> that have the potential to cause permanent neurological damage. [[10]](https://coursology-qbank.com/amboss/article/-6XDn_)
+
+
+
+
+| <br>Overview of compressive myelopathies  [[17]](https://coursology-qbank.com/amboss/article/HpXKI_)<br> |  |  |  |
+| --- | --- | --- | --- |
+|  | <br>Spinal cord compression<br> | Conus medullaris syndrome | Cauda equina syndrome |
+| Etiology | <br><br>* Damage to or <u>compression of the spinal cord</u> at any level due to:<br><br>* <u>Degenerative disc disease</u><br><br>* <u>Neoplasms</u><br><br>* <u>Vertebral</u> <u>metastases</u><br><br>* Trauma (<u>epidural hematoma</u>, <u>vertebral fracture</u>)<br><br>* Epidural <u>abscess</u><br><br><br> | <br><br>* Damage to or <u>compression of the spinal cord</u> at the <u>vertebral</u> level T12–L2, resulting in injury to the <u>conus medullaris</u> (sacral and coccygeal spinal segments)  [[29]](https://coursology-qbank.com/amboss/article/p6XLN_)[[30]](https://coursology-qbank.com/amboss/article/J6XsN_)<br><br>* Common causes include <u>spondylolisthesis</u>, tumors, and trauma (e.g., <u>vertebral fracture</u>).<br><br><br> | <br><br>* Damage to or compression of the <u>cauda equina</u> (nerve fibers L3–S5) located below L2<br><br>* Common causes include large posteromedial <u>disc herniation</u>, trauma, and tumors.<br><br><br> |
+| Onset | <br>* Variable, bilateral<br><br> | <br>* Sudden, bilateral<br><br> | <br>* Gradual, typically unilateral<br><br> |
+| <u>Pain</u> | <br>* Localized neck or back <u>pain</u><br><br> | <br><br>* <u>Lower back pain</u><br><br>* Less severe <u>radicular pain</u><br><br><br> | <br><br>* <u>Lower back pain</u><br><br>* Severe <u>radicular pain</u><br><br><br> |
+| Motor symptoms | <br><br>* Bilateral <u>paralysis</u> below the affected level of the spinal cord<br><br>* <u>Hyperreflexia</u><br><br>* Positive <u>Babinski sign</u><br><br>* <u>Ataxia</u><br><br><br> | <br><br>* Symmetric, <u>hyperreflexic</u> <u>distal</u> <u>paresis</u> of lower limbs, possibly <u>fasciculations</u><br><br>* <u>Achilles reflex</u> may be absent.<br><br><br> | <br><br>* Asymmetric, areflexic, <u>flaccid paresis</u> of the legs<br><br>* Muscle <u>atrophy</u><br><br><br> |
+| Sensory symptoms | <br>* Loss or reduction of all sensation below the affected level of the spinal cord<br><br> | <br><br>* Symmetric bilateral perianal numbness<br><br>* Sensory dissociation<br><br><br> | <br><br>* Saddle anesthesia: lack of <u>sensitivity</u> in the <u>dermatomes</u> <u>S3</u>–S5, affecting the areas around the <u>anus</u>, genitalia, and inner thighs (may be asymmetric)<br><br>* Asymmetric unilateral numbness and/or <u>paresthesia</u> in lower limb <u>dermatomes</u><br><br><br> |
+| Urogenital and rectal symptoms | <br>* Sphincter dysfunction with urinary or bowel urgency, retention, or incontinence<br><br> | <br><br>* Early onset of <u>bladder</u> and <u>fecal incontinence</u><br><br>* <u>Erectile dysfunction</u><br><br><br> | <br><br>* Late onset of <u>urinary retention</u><br><br>* Change in bowel habits due to loss of anal sphincter control<br><br>* Decreased rectal tone or <u>bulbocavernosus reflex</u><br><br>* <u>Erectile dysfunction</u><br><br><br> |
+
+
+
+
+
+![Conus medullaris and cauda equina syndromes](../../../../../media/be4jbogzb5ze75al132exrlb.jpg)
+
+Conus medullaris and cauda equina syndromes
+
+![Saddle anesthesia](../../../../../media/mczfdg5o1p660x4vvxa423dl.jpg)
+
+Saddle anesthesia
+
+
+
+
+> [!NOTE]
+> <u>Cauda equina syndrome</u> typically manifests with <u>lower motor neuron signs</u>. <u>Spinal cord compression</u> and <u>conus medullaris</u> manifest with a combination of <u>lower motor neuron signs</u> (at the level of compression) and <u>upper motor neuron signs</u> (below the level of compression).
+
+
+
+
+### Management of compressive spinal emergencies
+
+
+
+
+* Urgent <u>MRI</u> <u>spine</u> without contrast
+
+* Consult neurosurgery for urgent surgical decompression.
+
+* Document the patient's current neurological deficits and reassess frequently.  [[31]](https://coursology-qbank.com/amboss/article/szXt800)
+
+* <u>Bladder</u> scan to evaluate <u>postvoid residual</u>; Insert <u>Foley catheter</u> for patients with <u>urinary retention</u>.
+
+* Administer <u>analgesics</u> (preferably <u>NSAIDs</u>, see “<u>Pain management</u>”). [[7]](https://coursology-qbank.com/amboss/article/96XNM_)[[10]](https://coursology-qbank.com/amboss/article/-6XDn_)
+
+* Treat the underlying cause (e.g., suspected malignant cord compression: high-dose IV <u>dexamethasone</u>DOSAGE ) [[32]](https://coursology-qbank.com/amboss/article/n9Y7Lr)
+
+* Admit the patient for frequent <u>neurological examinations</u> and definitive management.
+
+
+
+
+
+> [!TIP]
+> Treatment of acute <u>spinal cord compression</u> varies based on the underlying etiology and may include decompressive <u>surgery</u> (e.g., for <u>disc herniation</u>) or IV <u>steroids</u> and <u>radiation therapy</u> (for malignant compression).
+
+---
+
+## Nonurgent spinal causes
+
+| <br>Overview of <u>nonurgent spinal causes of back pain</u>  [[21]](https://coursology-qbank.com/amboss/article/T9Y65r)<br> |  |  |  |
+| --- | --- | --- | --- |
+|  | Characteristic clinical features | Diagnostic findings | Management |
+| Back strain | <br><br>* Triggering event<br><br>* Localized <u>pain</u> that worsens with movement and palpation<br><br><br> | <br>* <u>Clinical diagnosis</u><br><br> | <br><br>* See “<u>Nonspecific LBP</u>.”<br><br>* Non-low <u>back muscle</u> injury [[33]](https://coursology-qbank.com/amboss/article/EeW80k0)<br><br>* Topical <u>NSAIDs</u><br><br>* Oral <u>NSAIDs</u> or oral <u>acetaminophen</u> as needed<br><br><br> |
+| <br>Symptomatic <u>degenerative disc disease</u><br>(without cord compression) [[34]](https://coursology-qbank.com/amboss/article/-JXD9_)[[35]](https://coursology-qbank.com/amboss/article/KrcURd0)[[36]](https://coursology-qbank.com/amboss/article/URcbmX0)<br> | <br><br>* <u>Risk factors for degenerative disc disease</u><br><br>* Back <u>pain</u> (often L5–<u>S1</u>) with or without <u>radiculopathy</u> (e.g., <u>sciatica</u>)<br><br>* Worsened by <u>coughing</u>/sneezing<br><br>* Positive <u>straight leg raise test</u> (for <u>intervertebral disc herniation</u>)<br><br><br> | <br>* <u>MRI</u> <u>spine</u> without contrast may show any of the following : [[8]](https://coursology-qbank.com/amboss/article/35YSPp)<br>* <u>Intervertebral disc herniation</u> or prolapse<br><br> | <br><br>* Isolated <u>radiculopathy</u> and no <u>red flags</u>: <u>conservative management</u><br><br>* <u>Pain management</u><br><br>* <u>Physiotherapy</u><br><br>* Continuation of usual activity (minimize bed rest)<br><br>* Persistent or severe neurological deficits: <u>surgery</u> (<u>discectomy</u>)<br><br><br> |
+| <br><u>Spinal stenosis</u> [[37]](https://coursology-qbank.com/amboss/article/N9Y-nr)[[38]](https://coursology-qbank.com/amboss/article/L9YwLr)<br> | <br><br>* <u>Risk factors for spinal stenosis</u><br><br>* <u>Neurogenic claudication</u><br><br><br> | <br>* <u>MRI</u> <u>spine</u> without IV contrast: Narrowed <u>spinal canal</u>   [[6]](https://coursology-qbank.com/amboss/article/Edc87Y0)[[19]](https://coursology-qbank.com/amboss/article/jYd_Ko0)<br><br> | <br><br>* Mild or moderate symptoms: <u>conservative management</u> (e.g., <u>NSAIDs</u>, <u>physical therapy</u>, epidural <u>steroid</u> injection)<br><br>* Severe or persistent symptoms: <u>surgery</u> (high recurrence rate)<br><br><br> |
+| <br>Uncomplicated spinal <u>metastases</u> [[8]](https://coursology-qbank.com/amboss/article/35YSPp)<br> | <br><br>* History of cancer<br><br>* Nonspecific symptoms (weight loss, night sweats)<br><br>* Deep dull <u>pain</u>; worse at night<br><br>* Localized <u>pain</u> (often thoracic) [[8]](https://coursology-qbank.com/amboss/article/35YSPp)<br><br><br> | <br><br>* Labs suggestive of underlying <u>malignancy</u><br><br>* <u>MRI</u> with IV contrast: confirmation of <u>tumor</u> size and spinal cord involvement<br><br><br> | <br><br>* Consult oncology and <u>spine</u> <u>surgery</u>.  [[39]](https://coursology-qbank.com/amboss/article/FpXgr_)<br><br>* Consider <u>osteoclast</u> inhibitors.  [[40]](https://coursology-qbank.com/amboss/article/HdcKrY0)<br><br><br> |
+| <br>Inflammatory back pain<br>(e.g., <u>ankylosing spondylitis</u>, <u>reactive arthritis</u>, <u>psoriatic arthritis</u>) [[8]](https://coursology-qbank.com/amboss/article/35YSPp)[[41]](https://coursology-qbank.com/amboss/article/HuWKsM0)<br> | <br><br>* <u>Risk factors for inflammatory arthropathies</u><br><br>* Insidious onset of lumbar <u>pain</u> or stiffness that : [[41]](https://coursology-qbank.com/amboss/article/HuWKsM0)<br><br>* Lasts ≥ 3 months [[41]](https://coursology-qbank.com/amboss/article/HuWKsM0)<br><br>* Improves with exercise or <u>NSAIDs</u><br><br>* Worsens at rest<br><br>* Extraarticular symptoms<br><br>* Restricted spinal mobility<br><br><br> | <br><br>* <u>CBC</u>: ↑ <u>WBC</u>, <u>anemia</u><br><br>* ↑ Inflammatory markers<br><br>* <u>Autoantibodies</u> may be positive.<br><br>* <u>HLA-B27</u>: may be positive in patients with <u>ankylosing spondylitis</u><br><br>* <u>X-ray</u> of <u>sacroiliac joints</u> and <u>lumbar spine</u>: <u>sacroiliitis</u><br><br><br> | <br><br>* Consult rheumatology.<br><br>* <u>NSAIDs</u>, <u>DMARDs</u><br><br>* <u>Physical therapy</u><br><br>* <u>Surgery</u> in severe cases<br><br><br> |
+| <br><u>Spondylolisthesis</u> [[42]](https://coursology-qbank.com/amboss/article/puWLHM0)[[43]](https://coursology-qbank.com/amboss/article/r9YfKr)<br> | <br><br>* <u>Risk factors for spondylolisthesis</u> [[44]](https://coursology-qbank.com/amboss/article/oFb0Qv)<br><br>* Possible <u>radiculopathy</u> symptoms of <u>neuropathic claudication</u><br><br>* Gait abnormalities<br><br>* <u>Step-off sign</u> (in advanced stage)<br><br><br> | <br>* <u>X-ray</u> <u>spine</u> <u>lateral</u> view (preferred): <u>anterolisthesis</u> , <u>spondylolysis</u>  [[6]](https://coursology-qbank.com/amboss/article/Edc87Y0)<br><br> | <br><br>* <u>Conservative management</u><br><br>* Severe or persistent symptoms: <u>surgery</u><br><br><br> |
+
+
+
+
+
+> [!TIP]
+> In young adults with back <u>pain</u> that does not improve with rest or medication and/or worsens at night, suspect inflammatory <u>arthritis</u>.
+
+
+
+
+> [!TIP]
+> Patients with unilateral neurological symptoms resulting from <u>radiculopathy</u> typically do not require urgent spinal surgical management.
+
+
+
+
+![Degenerative disk disease with disk extrusion](../../../../../media/yhd3b7sx30y9fyhnlesng7co.jpg)
+
+Degenerative disk disease with disk extrusion
+
+![Spinal disk herniation with migration (1/3)](../../../../../media/p6sdnvt5co3jjsv3v03p2php.jpg)
+
+Spinal disk herniation with migration (1/3)
+
+![Spinal disk herniation with migration (2/3)](../../../../../media/gzbo2pl8tgx180h96ndxla7p.jpg)
+
+Spinal disk herniation with migration (2/3)
+
+![Spinal disk herniation with migration (3/3)](../../../../../media/omniryy2uq4po3bezq5fjrc3.jpg)
+
+Spinal disk herniation with migration (3/3)
+
+![Lumbar spinal stenosis](../../../../../media/gm0vigs1292pgltyd7f7fp24.jpg)
+
+Lumbar spinal stenosis
+
+![Vertebral metastasis](../../../../../media/r7rg4dymdwfta8hzff0k1dtk.jpg)
+
+Vertebral metastasis
+
+![Sacroiliitis](../../../../../media/sks16y4ypjlk4e51fi1f3ofr.jpg)
+
+Sacroiliitis
+
+![Bilateral sacroiliitis in ankylosing spondylitis](../../../../../media/q2i4zjvyhkrlt9qgmvxhpq26.jpg)
+
+Bilateral sacroiliitis in ankylosing spondylitis
+
+![Ankylosing spondylitis](../../../../../media/ufl46y8ktubgex5oq4awr6k0.jpg)
+
+Ankylosing spondylitis
+
+![Lumbar ankylosing spondylitis](../../../../../media/ejp13rl6kivg968y1e882b0s.jpg)
+
+Lumbar ankylosing spondylitis
+
+![Lumbar spondylosis](../../../../../media/vvedwqpk66hqq7ypez4h1eo3.jpg)
+
+Lumbar spondylosis
+
+![Spondylolysis (Scottie dog sign with collar)](../../../../../media/av9l7plrun11fptcqcqtl7p7.jpg)
+
+Spondylolysis (Scottie dog sign with collar)
+
+![Spondylolisthesis](../../../../../media/yfht2iyp6zvyfeqogoa4tl9p.jpg)
+
+Spondylolisthesis
+
+![Right convex thoracic scoliosis](../../../../../media/qtpe7jz2nfiy0piydb2gnjzt.jpg)
+
+Right convex thoracic scoliosis
+
+---
+
+## Nonspinal causes (referred pain)
+
+* <u>Nonspinal back pain</u> is <u>referred pain</u> that originates outside of the spinal cord, <u>vertebral column</u>, and <u>back muscles</u>. [[7]](https://coursology-qbank.com/amboss/article/96XNM_)
+
+
+
+
+| <br>Overview of nonspinal causes of back pain<br> |  |  |  |
+| --- | --- | --- | --- |
+|  | Characteristic clinical features | Diagnostic findings | Initial management |
+| <br><u>Abdominal aortic aneurysm</u> (<u>AAA</u>) [[45]](https://coursology-qbank.com/amboss/article/4JY38J)<br> | <br><br>* <u>Risk factors for AAA</u><br><br>* <u>LBP</u>  [[46]](https://coursology-qbank.com/amboss/article/W9YPmr)<br><br>* Pulsatile abdominal mass<br><br>* <u>Bruit</u> on <u>auscultation</u><br><br><br> | <br>* <u>Ultrasound</u> abdomen or <u>CTA</u> (stable patients): dilatation of the aorta ≥ 3 cm   [[47]](https://coursology-qbank.com/amboss/article/89YO6r)<br><br> | <br><br>* Vascular <u>surgery</u> consult<br><br>* Small <u>aneurysms</u> with low risk of rupture: <u>AAA surveillance</u><br><br><br> |
+| <br><u>Aortic dissection</u> [[48]](https://coursology-qbank.com/amboss/article/mM0V6g)[[49]](https://coursology-qbank.com/amboss/article/9pXN7_)<br> | <br><br>* <u>Risk factors for aortic dissection</u><br><br>* Severe, tearing <u>chest pain</u> that radiates to the back<br><br>* Symptoms of <u>myocardial</u> <u>ischemia</u><br><br>* Signs of <u>hypoperfusion</u><br><br>* Asymmetric blood pressure and pulses<br><br>* New <u>diastolic</u> <u>murmur</u><br><br><br> | <br><br>* Elevated <u>D-dimer</u>  [[49]](https://coursology-qbank.com/amboss/article/9pXN7_)<br><br>* Screening <u>CXR</u> or <u>TTE</u> (for unstable patients)<br><br>* <u>MRA</u>/<u>CTA</u> of the chest, abdomen, <u>pelvis</u> (in stable patients): <u>intimal flap</u> with false lumen<br><br><br> | <br><br>* <u>Hemodynamic monitoring</u> and blood pressure control<br><br>* Urgent cardiothoracic <u>surgery</u> consult<br><br>* <u>Anticoagulant reversal</u>, if indicated<br><br><br> |
+| <br><u>Retroperitoneal hematoma</u> [[50]](https://coursology-qbank.com/amboss/article/zwYrlr)[[51]](https://coursology-qbank.com/amboss/article/s9YtKr)[[52]](https://coursology-qbank.com/amboss/article/CpXq7_)<br> | <br><br>* <u>Risk factors for retroperitoneal hematoma</u><br><br>* Flank <u>pain</u><br><br>* <u>Hypovolemic shock</u> (if <u>hematoma</u> is large)<br><br><br> | <br><br>* ↓ <u>Hemoglobin</u> and <u>hematocrit</u><br><br>* Possible abnormal <u>coagulation parameters</u><br><br>* CT abdomen and <u>pelvis</u> with IV contrast/<u>CTA</u>: fluid in <u>retroperitoneal space</u>   [[53]](https://coursology-qbank.com/amboss/article/Ddc1HY0)[[54]](https://coursology-qbank.com/amboss/article/BzXzE00)<br><br><br> | <br><br>* <u>Intravascular</u> <u>volume repletion</u><br><br>* <u>Anticoagulant reversal</u><br><br>* Urgent <u>surgery</u> and/or interventional radiology consult for source control  [[55]](https://coursology-qbank.com/amboss/article/DAW1NL0)<br><br><br> |
+| <br><u>Psoas abscess</u> [[56]](https://coursology-qbank.com/amboss/article/-wYDlr)<br> | <br><br>* <u>Risk factors for psoas abscess</u><br><br>* Classic triad <u>low back pain</u>, <u>antalgic gait</u>, <u>fever</u>  [[57]](https://coursology-qbank.com/amboss/article/O9YInr)<br><br>* <u>Ipsilateral</u> hip in flexed position at rest<br><br>* <u>Pain</u> on passive extension and/or <u>internal rotation</u> of the <u>ipsilateral</u> hip<br><br>* Palpable mass (may be tender) in the <u>ipsilateral</u> inguinal or iliac region<br><br><br> | <br><br>* ↑ <u>WBC</u> and <u>inflammatory markers</u><br><br>* Positive cultures  [[58]](https://coursology-qbank.com/amboss/article/vzXAu00)<br><br>* CT abdomen and <u>pelvis</u> with IV contrast: enlarged <u>psoas</u> muscle; encapsulated <u>hypodense</u> lesion   [[59]](https://coursology-qbank.com/amboss/article/-bbDwH)<br><br><br> | <br><br>* <u>Empiric antibiotic therapy for psoas abscess</u><br><br>* <u>Surgery</u> and radiology consult for drainage (percutaneous or open surgical)<br><br><br> |
+| <br><u>Pyelonephritis</u> [[60]](https://coursology-qbank.com/amboss/article/jbb_tH)<br> | <br><br>* <u>Risk factors for pyelonephritis</u><br><br>* <u>Fever</u>, chills<br><br>* Flank <u>pain</u><br><br>* <u>Dysuria</u>, urgency<br><br><br> | <br><br>* ↑ <u>WBC</u> and <u>inflammatory markers</u><br><br>* Normal or ↓ renal function<br><br>* <u>Urinalysis findings of UTI</u><br><br>* Positive <u>urine culture</u><br><br><br> | <br><br>* <u>Empiric antibiotic therapy for complicated pyelonephritis</u><br><br>* <u>Empiric antibiotic therapy for uncomplicated pyelonephritis</u><br><br><br> |
+| <br><u>Ureteric colic</u><br>[[61]](https://coursology-qbank.com/amboss/article/BpXz7_)[[62]](https://coursology-qbank.com/amboss/article/yIYd2q)<br> | <br><br>* <u>Risk factors for nephrolithiasis</u><br><br>* Severe, unilateral, colicky flank <u>pain</u><br><br>* <u>Nausea and vomiting</u><br><br>* <u>Hematuria</u><br><br><br> | <br><br>* <u>Hematuria</u> on <u>urinalysis</u><br><br>* Normal or ↓ renal function<br><br>* CT abdomen and <u>pelvis</u> without contrast: visible stone, ureteric dilatation, <u>hydronephrosis</u>   [[63]](https://coursology-qbank.com/amboss/article/T1X6TC)<br><br><br> | <br><br>* Stone ≤ 10 mm: <u>tamsulosin</u><br><br>* Stone ≥ 10 mm: urgent urology consult for interventional management<br><br>* <u>Antibiotics</u> for concurrent <u>UTI</u><br><br><br> |
+
+
+
+
+
+![Lumbar spine erosion from abdominal aortic aneurysm](../../../../../media/wsjlrxhwp17gl24a7bqwx43p.jpg)
+
+Lumbar spine erosion from abdominal aortic aneurysm
+
+![AMBOSS POCUS series | Abdominal aortic aneurysm](../../../../../media/small_61f9593f5d3bf.jpg)
+
+AMBOSS POCUS series | Abdominal aortic aneurysm
+
+![Ruptured aortic aneurysm](../../../../../media/q2s9kx6bqwd4xp4agdfdz8jk.jpg)
+
+Ruptured aortic aneurysm
+
+![Widened mediastinum](../../../../../media/l3chjubs1gwn91ngqj28c25l.jpg)
+
+Widened mediastinum
+
+![Aortic dissection (Stanford A)](../../../../../media/api7u2tyft4zn96og31rwmht.jpg)
+
+Aortic dissection (Stanford A)
+
+![Transesophageal echocardiography of aortic dissection](../../../../../media/h6cta9nl979bi4ydppso2n7i.jpg)
+
+Transesophageal echocardiography of aortic dissection
+
+![Retroperitoneal hemorrhage from the left common iliac artery](../../../../../media/zf96kgcjm3j1cjmp7ro359sh.jpg)
+
+Retroperitoneal hemorrhage from the left common iliac artery
+
+![Left retroperitoneal hemorrhage](../../../../../media/ugm7uwxp54auqj8tk5tbxgs8.jpg)
+
+Left retroperitoneal hemorrhage
+
+![Psoas abscess](../../../../../media/bte9cxfizp4lzyyd0gmtee1h.jpg)
+
+Psoas abscess
+
+![Acute pyelonephritis and renal calculi](../../../../../media/vx9g5r63sq44ecg0d5xa6d3a.jpg)
+
+Acute pyelonephritis and renal calculi
+
+![Pyelonephritis](../../../../../media/ehrd4titnjjofn6u31yhm2l3.jpg)
+
+Pyelonephritis
+
+![Nonobstructive renal calculus](../../../../../media/x9p33wv1i78flpme8jzfvs4t.jpg)
+
+Nonobstructive renal calculus
+
+![Pyelonephritis](../../../../../media/ehrd4titnjjofn6u31yhm2l3.jpg)
+
+Pyelonephritis
+
+![Acute pancreatitis](../../../../../media/nbfuq525q1jd01eqbs2e6419.jpg)
+
+Acute pancreatitis
+
+![Hypoechoic pancreas in acute pancreatitis (interstitial edematous pancreatitis)](../../../../../media/pkziot7exssyey5l97bw3myg.jpg)
+
+Hypoechoic pancreas in acute pancreatitis (interstitial edematous pancreatitis)
+
+![Acute calculous cholecystitis](../../../../../media/n686sv8gse37mcx5xrawgbcc.jpg)
+
+Acute calculous cholecystitis
+
+![Gallbladder wall thickening](../../../../../media/yfckykwh8rham7phnjjh7wqn.jpg)
+
+Gallbladder wall thickening
+
+![Acute acalculous cholecystitis with sludge](../../../../../media/njna9478yvsl5a2kxqtdiqzb.jpg)
+
+Acute acalculous cholecystitis with sludge
+
+![Acute cholecystitis](../../../../../media/qhuc4nyjsddawejblgvqatsz.jpg)
+
+Acute cholecystitis
+
+---
+
+## Nonspecific back pain
+
+> [!TIP]
+> <u>Nonspecific back pain</u> is the most common type of back <u>pain</u> and accounts for the majority of cases of <u>low back pain</u> (<u>LBP</u>). [[7]](https://coursology-qbank.com/amboss/article/96XNM_)
+
+
+
+
+### Definition
+
+
+
+* <u>Pain</u> that cannot be attributed to an underlying disease or structural lesion after a full evaluation
+
+
+
+
+### <u>Risk factors</u> [[3]](https://coursology-qbank.com/amboss/article/v8WAoM0)[[64]](https://coursology-qbank.com/amboss/article/le1v_f0)
+
+
+
+
+* Poor posture
+
+* Sedentary lifestyle, low level of physical activity
+
+* Heavy lifting
+
+* Older age
+
+* Psychological stressors (e.g., <u>stress</u>, <u>anxiety</u>, <u>depression</u>)
+
+* History of lumbar <u>surgery</u>  [[6]](https://coursology-qbank.com/amboss/article/Edc87Y0)
+
+
+
+
+
+### Clinical features [[4]](https://coursology-qbank.com/amboss/article/sPXtTy)[[7]](https://coursology-qbank.com/amboss/article/96XNM_)[[8]](https://coursology-qbank.com/amboss/article/35YSPp)
+
+
+
+
+* Typically <u>LBP</u>
+
+* Evaluation of back <u>pain</u> does not reveal an underlying cause.
+
+* No <u>red flags for back pain</u> [[10]](https://coursology-qbank.com/amboss/article/-6XDn_)
+
+* Normal <u>neurological examination</u> [[8]](https://coursology-qbank.com/amboss/article/35YSPp)
+
+* No features suggestive of <u>specific back pain</u> (e.g., negative <u>straight leg raise test</u>)
+
+* Usually resolves spontaneously within 6 weeks [[2]](https://coursology-qbank.com/amboss/article/I6XYm_)[[65]](https://coursology-qbank.com/amboss/article/0UWebk0)
+
+
+
+
+
+### Imaging [[3]](https://coursology-qbank.com/amboss/article/v8WAoM0)[[4]](https://coursology-qbank.com/amboss/article/sPXtTy)[[6]](https://coursology-qbank.com/amboss/article/Edc87Y0)
+
+
+
+
+Imaging is not routinely recommended for the evaluation of <u>nonspecific LBP</u>.
+
+
+
+
+* Indications
+
+* Progressive symptoms during <u>conservative management</u>
+
+* Persistent symptoms despite 6 weeks of <u>conservative management</u> (if the patient is a surgical candidate)
+
+* Modalities
+
+* <u>MRI</u> <u>lumbar spine</u> without IV contrast
+
+* <u>X-ray</u> lumbosacral <u>spine</u>
+
+* CT <u>lumbar spine</u> without IV contrast
+
+
+
+
+
+### Management [[2]](https://coursology-qbank.com/amboss/article/I6XYm_)[[3]](https://coursology-qbank.com/amboss/article/v8WAoM0)[[4]](https://coursology-qbank.com/amboss/article/sPXtTy)[[5]](https://coursology-qbank.com/amboss/article/c9Yamr)[[66]](https://coursology-qbank.com/amboss/article/uuWpGM0)[[67]](https://coursology-qbank.com/amboss/article/FeWg0k0)
+
+
+
+
+* Reassure patients and provide patient education.
+
+* Initiate <u>conservative management</u> alone or in combination with <u>nonselective NSAIDs</u>.
+
+* For patients with <u>risk factors for chronic back pain</u>, consider more intensive therapy and multidisciplinary involvement.
+
+* Reassess symptoms in 4–6 weeks or earlier if symptoms worsen during <u>conservative management</u>.
+
+* Persistent symptoms despite 6 weeks of <u>conservative management</u>
+
+* Consider alternative <u>causes of back pain</u>.
+
+* Consider <u>imaging for back pain</u> if there is diagnostic uncertainty or to evaluate candidacy if <u>surgery</u> is being considered. [[6]](https://coursology-qbank.com/amboss/article/Edc87Y0)
+
+* Consider referral to specialists.  [[2]](https://coursology-qbank.com/amboss/article/I6XYm_)
+
+
+
+
+
+#### Patient education [[2]](https://coursology-qbank.com/amboss/article/I6XYm_)[[4]](https://coursology-qbank.com/amboss/article/sPXtTy)[[5]](https://coursology-qbank.com/amboss/article/c9Yamr)[[66]](https://coursology-qbank.com/amboss/article/uuWpGM0)
+
+
+
+
+* Maintain daily activities, including work and sports; avoid bed rest.  [[2]](https://coursology-qbank.com/amboss/article/I6XYm_)[[10]](https://coursology-qbank.com/amboss/article/-6XDn_)
+
+* Stretching, exercises, and appropriate <u>ergonomics</u> for <u>LBP</u>
+
+* Avoid movements that aggravate <u>pain</u>
+
+* Reassurance and expectation management
+
+* Self-management of <u>pain</u>
+
+
+
+
+
+#### Conservative management of nonspecific back pain and <u>analgesia</u> [[2]](https://coursology-qbank.com/amboss/article/I6XYm_)[[3]](https://coursology-qbank.com/amboss/article/v8WAoM0)[[4]](https://coursology-qbank.com/amboss/article/sPXtTy)[[5]](https://coursology-qbank.com/amboss/article/c9Yamr)[[66]](https://coursology-qbank.com/amboss/article/uuWpGM0)
+
+
+
+
+* <u>Conservative management</u> is the preferred, first-line management of <u>nonspecific LBP</u>.
+
+* When <u>analgesics</u> are required, <u>nonselective NSAIDs</u> are preferred.
+
+* In older adults, avoid <u>skeletal muscle relaxants</u> and use <u>NSAIDs</u> with caution because of the risk of adverse effects; see “<u>Principles of pharmacotherapy for older adults</u>.” [[5]](https://coursology-qbank.com/amboss/article/c9Yamr)
+
+* <u>Glucocorticoids</u> and back <u>traction</u> are not recommended for the treatment of back <u>pain</u>. [[2]](https://coursology-qbank.com/amboss/article/I6XYm_)[[66]](https://coursology-qbank.com/amboss/article/uuWpGM0)
+
+
+
+
+
+##### Acute and subacute <u>LBP</u>
+
+
+
+
+* Assess for risk factors for chronic back pain, which include:  [[2]](https://coursology-qbank.com/amboss/article/I6XYm_)[[3]](https://coursology-qbank.com/amboss/article/v8WAoM0)[[7]](https://coursology-qbank.com/amboss/article/96XNM_)[[68]](https://coursology-qbank.com/amboss/article/XUW9bk0)
+
+* Severe <u>pain</u> and functional impairment [[2]](https://coursology-qbank.com/amboss/article/I6XYm_)
+
+* Psychosocial and workplace factors  [[2]](https://coursology-qbank.com/amboss/article/I6XYm_)[[69]](https://coursology-qbank.com/amboss/article/kIYm1q)[[70]](https://coursology-qbank.com/amboss/article/1UW2Xk0)
+
+* Previous episodes of <u>LBP</u> [[2]](https://coursology-qbank.com/amboss/article/I6XYm_)
+
+* Use of non-evidence-based management  [[68]](https://coursology-qbank.com/amboss/article/XUW9bk0)
+
+* Patients at low risk for <u>chronic back pain</u>: [[68]](https://coursology-qbank.com/amboss/article/XUW9bk0)
+
+* Initial <u>conservative management</u> 
+
+* <u>Superficial</u> heat and/or massage
+
+* <u>Spinal manipulation</u>
+
+* <u>Acupuncture</u>
+
+* <u>Pain management</u>
+
+* Preferred: <u>nonselective NSAIDs</u> (e.g., <u>ibuprofen</u>  DOSAGE, <u>naproxen</u> DOSAGE)  [[2]](https://coursology-qbank.com/amboss/article/I6XYm_)[[5]](https://coursology-qbank.com/amboss/article/c9Yamr)[[71]](https://coursology-qbank.com/amboss/article/szWt8L0)[[72]](https://coursology-qbank.com/amboss/article/RLWlxN0)
+
+* Alternatives: Consider a short-term (< 3 weeks) nonbenzodiazepine <u>muscle relaxant</u>, e.g., <u>cyclobenzaprine</u>. DOSAGE [[3]](https://coursology-qbank.com/amboss/article/v8WAoM0)[[5]](https://coursology-qbank.com/amboss/article/c9Yamr)
+
+* Patients with <u>risk factors for chronic back pain</u>: Consider more intensive initial multidisciplinary <u>rehabilitation</u>.  [[3]](https://coursology-qbank.com/amboss/article/v8WAoM0)[[7]](https://coursology-qbank.com/amboss/article/96XNM_)
+
+
+
+
+
+> [!TIP]
+> Patients with <u>risk factors for chronic back pain</u> are likely to benefit from early multidisciplinary <u>rehabilitation</u> rather than reassurance and patient education alone. [[7]](https://coursology-qbank.com/amboss/article/96XNM_)[[68]](https://coursology-qbank.com/amboss/article/XUW9bk0)
+
+
+
+
+##### Chronic <u>LBP</u> or patients at high risk for chronic <u>LBP</u>
+
+
+
+
+* Initial <u>conservative management</u> [[3]](https://coursology-qbank.com/amboss/article/v8WAoM0) 
+
+* <u>Behavioral therapy</u>
+
+* Structured exercise programs
+
+* Mobility assistive devices if needed
+
+* Consider adjunctive therapies.  [[2]](https://coursology-qbank.com/amboss/article/I6XYm_)[[5]](https://coursology-qbank.com/amboss/article/c9Yamr)[[66]](https://coursology-qbank.com/amboss/article/uuWpGM0)
+
+* <u>Pain management</u>
+
+* Preferred: <u>nonselective NSAIDs</u> (e.g., <u>ibuprofen</u> DOSAGE, <u>naproxen</u> DOSAGE)  [[2]](https://coursology-qbank.com/amboss/article/I6XYm_)[[5]](https://coursology-qbank.com/amboss/article/c9Yamr)[[71]](https://coursology-qbank.com/amboss/article/szWt8L0)[[72]](https://coursology-qbank.com/amboss/article/RLWlxN0)
+
+* Alternative: Consider short-term (< 3 months) topical capsicum. [[2]](https://coursology-qbank.com/amboss/article/I6XYm_)[[66]](https://coursology-qbank.com/amboss/article/uuWpGM0)
+
+* Avoid routine use of: 
+
+* <u>Adjuvant analgesics</u> (e.g., <u>skeletal muscle relaxants</u>, <u>antidepressants</u>)  [[2]](https://coursology-qbank.com/amboss/article/I6XYm_)[[3]](https://coursology-qbank.com/amboss/article/v8WAoM0)[[5]](https://coursology-qbank.com/amboss/article/c9Yamr)[[66]](https://coursology-qbank.com/amboss/article/uuWpGM0)[[73]](https://coursology-qbank.com/amboss/article/AyWR3L0)
+
+* <u>Opioids</u> (see “<u>Opioids for chronic noncancer pain</u>”)  [[2]](https://coursology-qbank.com/amboss/article/I6XYm_)[[5]](https://coursology-qbank.com/amboss/article/c9Yamr)[[66]](https://coursology-qbank.com/amboss/article/uuWpGM0)
+
+
+
+
+
+#### Interventional therapy [[2]](https://coursology-qbank.com/amboss/article/I6XYm_)[[4]](https://coursology-qbank.com/amboss/article/sPXtTy)[[74]](https://coursology-qbank.com/amboss/article/z8Wr6M0)
+
+
+
+
+* Interventional therapy is rarely required for <u>nonspecific LBP</u>; Refer patients with refractory disabling <u>LBP</u> to specialists (e.g., <u>spine</u> surgeons) for consideration of interventional management.
+
+* Possible benefit: <u>radiofrequency ablation</u>
+
+* Limited evidence of benefit: epidural <u>steroid</u> injections, <u>spinal cord stimulation</u>, <u>surgery</u> (e.g., <u>discectomy</u>, <u>SI joint</u> fusion)
+
+
+
+
+
+> [!TIP]
+> Regular exercise combined with patient education (e.g., on posture, safe techniques for lifting and handling, and muscle strengthening) are effective preventive measures for back <u>pain</u>. [[75]](https://coursology-qbank.com/amboss/article/luWvrM0)[[76]](https://coursology-qbank.com/amboss/article/MAWM4L0)[[77]](https://coursology-qbank.com/amboss/article/nAW74L0)
+
+---

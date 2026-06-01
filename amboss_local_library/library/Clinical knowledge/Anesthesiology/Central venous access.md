@@ -1,0 +1,189 @@
+# Central venous access
+
+*Categories: Clinical knowledge > Anesthesiology > Central venous access*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/Ut0b13)
+
+---
+
+## Summary
+
+Placement of a catheter in a large, <u>central vein</u> provides reliable venous access in patients who are critically ill, have poor venous access, and/or require administration of <u>vesicants</u>, irritant solutions, or large volumes of fluid. It also allows for specialist interventions such as advanced <u>hemodynamic monitoring</u>, <u>transvenous pacing</u>, and <u>hemodialysis</u>. The type of catheter used and anatomical location of placement are based on the patient's condition or injury and comorbidities. Large-gauge, single-lumen catheters are used for the rapid administration of fluid or <u>blood products</u>. Smaller gauge, multiple-lumen catheters are used for prolonged fluid and medication administration. The <u>internal jugular vein</u> is frequently chosen for central line placement because it is easy to access and is associated with fewer procedural <u>adverse events</u> than other sites. Insertion is most commonly performed using the <u>Seldinger technique</u> and usually occurs under <u>ultrasound</u> guidance. Complications include arterial puncture, <u>pneumothorax</u>, <u>bloodstream infections</u>, and venous <u>thrombosis</u>.
+
+---
+
+## Technical background
+
+### Properties of CVLs
+
+
+
+
+* Slower flow rates than peripheral venous catheters of the same diameter because they are longer
+
+* High flow rate can be achieved with large-gauge central venous catheters (e.g., <u>sheath introducer</u>, dialysis catheters).
+
+
+
+
+
+> [!NOTE]
+> The flow rate is subject to <u>Poiseuille law</u>: The flow rate is 16 times slower if a lumen's diameter is halved, but flow rate doubles if the catheter's length is halved!
+
+
+
+
+### <u>CVL insertion</u> sites
+
+
+
+
+| <br>Comparison of CVLs by insertion site [[2]](https://coursology-qbank.com/amboss/article/3wYSir)[[3]](https://coursology-qbank.com/amboss/article/dvco_V0)<br> |  |  |  |
+| --- | --- | --- | --- |
+|  | Anatomic location | Advantages | Disadvantages |
+| Internal jugular line (<u>IJ line</u>) | <br><br>* Enters the neck via the left or right <u>IJV</u><br><br>* Terminates at the <u>SVC</u>-<u>RA</u> junction<br><br><br> | <br><br>* Good insertion landmarks<br><br>* Lower risk of <u>pneumothorax</u> than <u>subclavian line</u> insertion<br><br>* Can compress bleeding vessels<br><br><br> | <br><br>* Uncomfortable for the patient<br><br>* Higher risk of infection than <u>subclavian line</u><br><br><br> |
+| Subclavian line | <br><br>* Enters below the left or right <u>clavicle</u> via the <u>subclavian vein</u><br><br>* Terminates at the <u>SVC</u>-<u>RA</u> junction<br><br><br> | <br><br>* Lowest infection rate<br><br>* Most comfortable for the patient<br><br><br> | <br><br>* Higher risk of <u>pneumothorax</u> than <u>IJ line</u><br><br>* Cannot compress bleeding vessels<br><br>* <u>Ultrasound</u> guidance is difficult.<br><br><br> |
+| Femoral line | <br><br>* Enters the <u>femoral vein</u> at the groin<br><br>* Terminates in the iliac <u>vein</u> or <u>IVC</u><br><br><br> | <br><br>* Easier access during <u>ACLS</u><br><br>* Good insertion landmarks<br><br><br> | <br><br>* High risk of infection<br><br>* High risk of <u>thrombosis</u><br><br><br> |
+
+
+
+
+
+### Types of CVLs [[4]](https://coursology-qbank.com/amboss/article/fu1kqi0)[[5]](https://coursology-qbank.com/amboss/article/3u1SIi0)
+
+
+
+
+* Short-term CVLs: <u>nontunneled CVLs</u> typically intended to remain in place ≤ 14 days  [[6]](https://coursology-qbank.com/amboss/article/lcWvc40)[[7]](https://coursology-qbank.com/amboss/article/hdWcp40)
+
+* Triple-lumen CVL: 3 channels; allows simultaneous administration of multiple solutions at different rates
+
+* Double-lumen CVL: 2 channels; typically large gauge that allows high rates of fluid exchange, e.g., for <u>hemodialysis</u> or <u>plasmapheresis</u>
+
+* Single-lumen CVL: 1 channel; allows administration of a single solution at a given rate
+
+* Small gauge: decreases the risk of vessel <u>thrombosis</u>
+
+* Sheath introducer (large gauge): used for rapid or high-volume fluid administration, or to aid insertion of other lines (e.g., <u>Swan-Ganz catheter</u>)
+
+* <u>Long-term CVLs</u>: e.g., <u>PICC lines</u> , tunneled CVLs , surgically implantable catheters
+
+* <u>Hemodialysis catheters</u>: can be a <u>long-term CVL</u> or a <u>short-term CVL</u> 
+
+* Tunneled CVLs for long-term use; <u>nontunneled CVLs</u> for short-term use
+
+* Usually a large gauge double-lumen CVL
+
+
+
+
+
+![Central venous catheters for renal replacement therapy](../../../media/i2wl4k87pegyv71uuw6og88k.jpg)
+
+Central venous catheters for renal replacement therapy
+
+![Tunneled central venous catheter (Hickman line)](../../../media/uv18tjelt4ei8kmvn3xv7hu7.jpg)
+
+Tunneled central venous catheter (Hickman line)
+
+![Port-a-cath](../../../media/awqok3p7ty2g8jixt4il2xfj.jpg)
+
+Port-a-cath
+
+![Peripherally inserted central catheter (PICC)](../../../media/n8k8t9tz06l9ru1qcvcsj0zh.jpg)
+
+Peripherally inserted central catheter (PICC)
+
+![Peripherally inserted central catheter (PICC)](../../../media/be1rvk905d3pmavb4i6gvupc.jpg)
+
+Peripherally inserted central catheter (PICC)
+
+---
+
+## Indications
+
+* Large-volume <u>fluid resuscitation</u>
+
+* Anticipated long-term IV therapy
+
+* Poor <u>peripheral IV access</u>
+
+* Administration of <u>vesicants</u> or irritant medications
+
+* <u>Hemodynamic monitoring</u>
+
+* Therapies requiring high-volume extracorporeal circulation
+
+---
+
+## Pitfalls and troubleshooting
+
+| <br>Common pitfalls in <u>internal jugular vein</u> central line placement [[2]](https://coursology-qbank.com/amboss/article/3wYSir)[[8]](https://coursology-qbank.com/amboss/article/DK11i30)[[9]](https://coursology-qbank.com/amboss/article/n517kh0)[[11]](https://coursology-qbank.com/amboss/article/FK1gR30)[[12]](https://coursology-qbank.com/amboss/article/XM19Mh0)<br> |  |  |
+| --- | --- | --- |
+| Challenge | Prevention | Management |
+| Unable to view <u>internal jugular vein</u> | <br><br>* Use the <u>Trendelenburg position</u>.<br><br>* Perform a preprocedure scan to identify the best cannulation site.<br><br><br> | <br>* Use an alternative site.<br><br> |
+| <br>Carotid <u>artery</u> puncture [[8]](https://coursology-qbank.com/amboss/article/DK11i30)[[9]](https://coursology-qbank.com/amboss/article/n517kh0) <br> | <br><br>* Use real-time <u>ultrasound</u> for line placement.<br><br>* Identify the location with the greatest separation between the <u>IJV</u> and carotid <u>artery</u>.<br><br><br> | <br><br>* Consult vascular <u>surgery</u> immediately. [[9]](https://coursology-qbank.com/amboss/article/n517kh0)<br><br>* Needle puncture only: Remove the needle and hold pressure. [[8]](https://coursology-qbank.com/amboss/article/DK11i30)<br><br>* Catheter placed in the carotid <u>artery</u>: Leave in place pending surgical consultation. [[8]](https://coursology-qbank.com/amboss/article/DK11i30)[[9]](https://coursology-qbank.com/amboss/article/n517kh0)<br><br><br> |
+| <br>Ventricular <u>dysrhythmia</u> [[2]](https://coursology-qbank.com/amboss/article/3wYSir)<br> | <br><br>* Ensure that the <u>cardiac monitor</u> is visible and audible to identify ectopy early.<br><br>* Do not advance the guidewire beyond 15–20 cm.<br><br><br> | <br><br>* Withdraw the guidewire until rhythm returns to baseline.<br><br>* In most cases, the procedure can continue.<br><br>* Persistent <u>dysrhythmias</u>: Remove the guidewire and begin <u>ACLS</u> as needed. [[13]](https://coursology-qbank.com/amboss/article/8K1OR30)<br><br><br> |
+| <br><u>Distal</u> catheter in the <u>atrium</u> [[2]](https://coursology-qbank.com/amboss/article/3wYSir)[[8]](https://coursology-qbank.com/amboss/article/DK11i30)[[10]](https://coursology-qbank.com/amboss/article/W61PP30)[[14]](https://coursology-qbank.com/amboss/article/vK1AR30)[[15]](https://coursology-qbank.com/amboss/article/dtdoc70)<br> | <br><br>* Do not exceed the recommended/calculated depth for catheter insertion  [[2]](https://coursology-qbank.com/amboss/article/3wYSir)[[10]](https://coursology-qbank.com/amboss/article/W61PP30)<br><br>* Obtain <u>CXR</u> or <u>ultrasound</u> to verify the final location of the catheter.<br><br><br> | <br><br>* Withdraw the catheter an appropriate distance using <u>sterile technique</u> and resecure.<br><br>* Verify the new position with <u>CXR</u> or <u>ultrasound</u>.<br><br><br> |
+| <br>Resistance to advancing the guidewire [[2]](https://coursology-qbank.com/amboss/article/3wYSir)[[16]](https://coursology-qbank.com/amboss/article/OK1Ig30)<br> | <br>* Use <u>ultrasound</u> for line placement.<br><br> | <br><br>* Do not use force to overcome resistance.<br><br>* Rotate the guidewire and/or needle.<br><br>* Decrease the angle of needle entry.<br><br>* If unable to pass the guidewire, remove the guidewire and needle as a single unit.<br><br><br> |
+| <br>Guidewire embolism<br> | <br><br>* Hold the guidewire with nondominant hand at all times during catheter and introducer exchanges required by the <u>Seldinger technique</u><br><br>* Avoid withdrawing the guidewire through the <u>TWN</u><br><br><br> | <br>* Consult interventional radiology for retrieval<br><br> |
+
+
+
+
+
+> [!WARNING]
+> The <u>distal</u> end of the catheter should be <u>cranial</u> to the <u>tracheal</u> bifurcation on <u>CXR</u>. [[8]](https://coursology-qbank.com/amboss/article/DK11i30)[[12]](https://coursology-qbank.com/amboss/article/XM19Mh0)
+
+---
+
+## Complications
+
+* Complications of indwelling catheters
+
+* Infection, e.g., <u>CLABSI</u>
+
+* <u>Thrombosis</u>
+
+* Complications of <u>CVC insertion</u> 
+
+* <u>Arrhythmia</u>
+
+* Arterial injury
+
+* <u>Venous air embolism</u>
+
+* <u>Pneumothorax</u>
+
+* <u>Hemothorax</u>
+
+* <u>Guidewire embolism</u>
+
+* Incorrect catheter placement
+
+
+
+
+
+> [!TIP]
+> Whenever possible, insert CVLs under <u>ultrasound</u> guidance to reduce procedure time and risk. [[9]](https://coursology-qbank.com/amboss/article/n517kh0)[[17]](https://coursology-qbank.com/amboss/article/2u1Tqi0)[[18]](https://coursology-qbank.com/amboss/article/Tu16qi0)
+
+
+
+
+> [!WARNING]
+> Obtain <u>CXR</u> or <u>ultrasound</u> following placement of a CVL to confirm proper positioning of the catheter and identify mechanical complications (e.g., <u>pneumothorax</u>). [[15]](https://coursology-qbank.com/amboss/article/dtdoc70)
+
+
+
+
+![Incorrectly placed central venous catheter](../../../media/h10eokls0ooo1b0iky57xbu8.jpg)
+
+Incorrectly placed central venous catheter
+
+
+
+
+We list the most important complications. The selection is not exhaustive.
+
+---

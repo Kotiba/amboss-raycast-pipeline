@@ -1,0 +1,214 @@
+# Overview of ovarian tumors
+
+*Categories: Clinical knowledge > Obstetrics/gynecology > Neoplastic disorders > Overview of ovarian tumors*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/XF09g3)
+
+---
+
+## Summary
+
+The <u>ovaries</u> consist of different types of tissue (<u>epithelial</u>, germ cells, and sex cord tissue), which may give rise to benign or <u>malignant tumors</u>. <u>Epithelial ovarian tumors</u> are the most common <u>tumor</u> subtype.
+
+
+
+
+For information about <u>ovarian cancer</u>, see “<u>Ovarian cancer</u>.”
+
+---
+
+## Classification of ovarian tumors
+
+### Classification of ovarian tumors
+
+
+
+
+* <u>Epithelial ovarian tumors</u>
+
+* Arise from ovarian <u>surface epithelium</u>
+
+* Most commonly benign
+
+* Germ cell <u>ovarian tumors</u>
+
+* Arise from the primordial germ cells (e.g., <u>oocytes</u>)
+
+* Can be benign or malignant
+
+* Sex cord and stromal <u>ovarian tumors</u>
+
+* Arise from sex cord cells (e.g., Sertoli or granulosa cells) or stromal cells (e.g., <u>fibroblasts</u> or primitive gonadal stroma)
+
+* Can be benign or malignant
+
+
+
+
+
+![Cellular origins of ovarian tumors](../../../../media/dtamtu6ruizqs8rx83kltphj.jpg)
+
+Cellular origins of ovarian tumors
+
+---
+
+## Epithelial ovarian tumors
+
+* Frequency [[3]](https://coursology-qbank.com/amboss/article/7Fb4jv)
+
+* Most common benign and malignant <u>ovarian tumor</u> subtype
+
+* <u>Epithelial tumors</u> account for ∼ 90% of all ovarian malignancies
+
+* Histological classification
+
+* Benign: lack hyperproliferative and invasive behavior
+
+* Borderline ovarian tumors: a histopathological term that describes an <u>ovarian tumor of low malignant potential</u> that expresses cytologic features of <u>malignancy</u> without frank invasion
+
+* Malignant: evidence of invasion
+
+* Clinicopathological classification [[4]](https://coursology-qbank.com/amboss/article/zFbrkv)
+
+* Type I ovarian tumors: low-grade, indolent tumors that typically manifest as large, unilateral, cystic <u>neoplasms</u>
+
+* Histologic subtypes include low-grade serous, endometrioid, <u>clear cell</u>, <u>mucinous</u> <u>carcinomas</u>, and malignant <u>Brenner tumors</u>
+
+* Account for ∼ 10% of <u>ovarian cancer</u> deaths
+
+* Associated with low levels of <u>chromosomal instability</u>
+
+* <u>p53</u> mutations are uncommon.
+
+* Type II ovarian tumors: high-grade, aggressive tumors that typically involve both <u>ovaries</u> and are diagnosed at an advanced stage
+
+* Histologic subtypes include high-grade serous, carcinosarcoma, and undifferentiated <u>carcinoma</u>
+
+* Account for ∼ 90% of <u>ovarian cancer</u> deaths
+
+* Associated with high levels of <u>chromosomal instability</u>
+
+* <u>p53</u> mutations are common
+
+
+
+
+
+| Types of epithelial ovarian tumors |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Type |  | Cystadenoma |  | <br>Brenner tumor[[5]](https://coursology-qbank.com/amboss/article/kUcmWb0)<br> | Cystadenocarcinoma |  | <br>Endometrioid carcinoma [[3]](https://coursology-qbank.com/amboss/article/7Fb4jv)[[6]](https://coursology-qbank.com/amboss/article/OUcIWb0)<br> | <br><u>Clear cell</u> tumors [[3]](https://coursology-qbank.com/amboss/article/7Fb4jv)[[7]](https://coursology-qbank.com/amboss/article/lUcvWb0)<br> |
+| Ovarian serous cystadenoma | Ovarian mucinous cystadenoma | Serous | <br><u>Mucinous</u> [[8]](https://coursology-qbank.com/amboss/article/yTcdtb0)  <br> |  |  |  |  |  |
+| Classification |  | <br>* Benign<br><br> |  |  | <br>* Malignant<br><br> |  |  |  |
+| <u>Epidemiology</u> |  | <br>* Most (serous) and second most common (<u>mucinous</u>) benign <u>ovarian tumor</u><br><br> |  | <br><br>* Rare<br><br>* Peak age: 40–60 years<br><br><br> | <br>* Most common malignant <u>ovarian tumor</u><br><br> | <br><br>* Rare<br><br>* Can also be <u>metastatic</u> from GI malignancies (e.g., of the <u>appendix</u>)<br><br><br> | <br><br>* 10% of <u>epithelial tumors</u><br><br>* Concomitant <u>endometrial carcinoma</u> in 10–15% of cases<br><br><br> | <br><br>* 5–10% of <u>epithelial tumors</u><br><br>* Most commonly occur in <u>perimenopausal</u> women<br><br><br> |
+| <br>* Associated with <u>endometriosis</u> [[9]](https://coursology-qbank.com/amboss/article/8FbOPv)<br><br> |  |  |  |  |  |  |  |  |
+| Clinical features |  | <br><br>* Typically asymptomatic<br><br>* Symptoms of abdominal displacement may be present (e.g., <u>pain</u>, ↑ urinary frequency)<br><br><br> |  |  |  | <br><br>* <u>Acute abdominal pain</u><br><br>* Pseudomyxoma peritonei [[10]](https://coursology-qbank.com/amboss/article/y8bd6v)<br><br>* Rupture of a <u>mucinous cystadenoma</u> or <u>cystadenocarcinoma</u> leading to the spread of <u>tumor</u> cells throughout the <u>peritoneum</u>.<br><br>* <u>Mucinous</u> cells cause gelatinous <u>ascites</u> and intraabdominal adhesions.<br><br><br> | <br><br>* <u>Pelvic pain</u><br><br>* Symptoms of abdominal displacement may be present (e.g., <u>pain</u>, ↑ urinary frequency)<br><br>* Abnormal <u>vaginal bleeding</u><br><br><br> |  |
+| <u>Ultrasound</u> appearance |  | <br><br>* Unilocular cystic mass<br><br>* Absent flow on Doppler<br><br><br> | <br>* Large, multilocular cystic <u>tumor</u><br><br> | <br><br>* Mostly small tumors with a solid component and calcifications<br><br>* Absent or only minimal flow on Doppler<br><br><br> | <br>* <u>Cystadenocarcinomas</u> are often bilateral (serous >> <u>mucinous</u>)<br><br> |  | <br>* Mostly large, unilateral, solid or multilocular-solid <u>tumor</u> with <u>papillary</u> projections<br><br> | <br>* Large (up to 30 cm in diameter), cystic/solid unilateral masses<br><br> |
+| <br><br>* <u>Tumor</u> with mixed cystic/solid components and heterogeneous texture<br><br>* May contain <u>papillary</u> projections and/or thick septations<br><br><br> | <br><br>* Similar to <u>mucinous cystadenoma</u><br><br>* Additional solid components and signs of <u>malignancy</u> (e.g., invasion of adjacent structures) may be present<br><br>* Mural thickening<br><br><br> |  |  |  |  |  |  |  |
+| Pathology | Gross examination | <br>* Cysts with watery fluid<br><br> | <br><br>* Smooth or bosselated appearance<br><br>* Cyst is <u>loculated</u>; loculi contain gelatinous material<br><br><br> | <br>* Encapsulated, pale yellow solid <u>tumor</u><br><br> | <br>* Similar to <u>serous cystadenoma</u><br><br> | <br>* Cysts filled with mucoid material, cellular debris, and/or blood<br><br> | <br>* Possible appearances are:<br><br>* Smooth surface with cystic spaces filled with blood-stained fluid<br><br>* Completely solid with <u>necrosis</u>/hemorrhage<br><br> | <br>* <u>Endometriosis</u>-associated tumors are filled with chocolate-colored fluid<br><br> |
+| <u>Histology</u> | <br><br>* May contain small <u>papillary</u> projections<br><br>* <u>Psammoma bodies</u><br><br>* Cyst is lined by serous <u>epithelial</u> cells (similar to the <u>epithelium</u> of <u>fallopian tubes</u>)<br><br><br> | <br>* Cyst is lined by <u>columnar epithelium</u> that secretes thick mucus (similar to the <u>epithelium</u> of <u>cervix</u>)<br><br> | <br><br>* Similar to transitional cells of the <u>bladder</u> (<u>urothelium</u>)<br><br>* Circular patches of cells with coffee bean <u>nuclei</u><br><br><br> | <br><br>* <u>Tumor</u> cells with <u>papillary</u> structures and small <u>cytoplasm</u><br><br>* <u>Psammoma bodies</u> are a typical feature .<br><br><br> | <br>* Cystic or colloid type, depending on intracellular or extracellular <u>mucin</u> deposition<br><br>* Cystic type: > 50% of intracellular <u>mucin</u> in ≥ 90% of <u>tumor</u> cells<br><br>* Colloid type: large quantities of extracellular <u>mucin</u> (≥ 50% of <u>tumor</u> volume)<br><br> | <br>* Characteristic confluent glandular/expansile pattern<br><br>* Tightly packed, back-to-back glands lined with <u>tumor</u> cells<br><br>* Absent intervening stroma<br><br> | <br>* Variable appearance: tubulocystic, <u>papillary</u>, and solid<br><br> |  |
+| <u>Tumor marker</u> |  | <br>* <u>CA-125</u><br><br> |  |  |  |  |  |  |
+
+
+
+
+
+> [!TIP]
+> <u>CA-125</u> is used as a <u>tumor marker</u> for <u>epithelial ovarian cancer</u> but can also be elevated in <u>endometriosis</u>, <u>cirrhosis</u>, and malignancies (e.g., <u>uterine leiomyoma</u>).
+
+
+
+
+> [!TIP]
+> Most <u>ovarian tumors</u> are benign, not malignant.
+
+---
+
+## Ovarian germ cell tumors
+
+* Frequency: ∼ 5% of all <u>ovarian tumors</u> [[3]](https://coursology-qbank.com/amboss/article/7Fb4jv)
+
+* Subtypes are determined by structural differentiation
+
+* Extraembryonic differentiation: <u>yolk sac tumor</u>
+
+* Somatic differentiation: <u>teratoma</u>
+
+* No differentiation: <u>dysgerminoma</u>
+
+
+
+
+
+| Types of ovarian germ cell tumors |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Type | Teratoma |  |  | <br>Yolk sac tumor of the ovary (<u>endodermal sinus tumor</u>) [[11]](https://coursology-qbank.com/amboss/article/fUckcb0) | <br>Dysgerminoma [[12]](https://coursology-qbank.com/amboss/article/TUc6cb0) | <br>Nongestational choriocarcinoma [[13]](https://coursology-qbank.com/amboss/article/hUcc1b0) | Embryonal carcinoma of the ovary |
+| <br>Dermoid cysts (<u>mature cystic teratoma</u>) <br> | <br>Struma ovarii (<u>mature teratoma</u>) [[14]](https://coursology-qbank.com/amboss/article/UUcbcb0) | <br>Immature <u>teratoma</u> [[15]](https://coursology-qbank.com/amboss/article/2UcTcb0) |  |  |  |  |  |
+| Classification | <br>* Benign<br><br> |  | <br>* Malignant, aggressive<br><br> |  |  |  |  |
+| <u>Epidemiology</u> | <br><br>* Most common of all <u>germ cell tumors</u> (90% of all cases)<br><br>* Most common <u>ovarian tumor</u> in women < 30 years [[16]](https://coursology-qbank.com/amboss/article/XEb98v)<br><br><br> | <br>* ∼ 5% of all ovarian <u>teratomas</u> [[17]](https://coursology-qbank.com/amboss/article/cEbauv)<br><br> | <br><br>* Rare<br><br>* Peak age: women < 20 years of age [[18]](https://coursology-qbank.com/amboss/article/1Eb2uv)<br><br><br> | <br>* Occurs mainly in children and <u>adolescents</u> [[18]](https://coursology-qbank.com/amboss/article/1Eb2uv)<br><br> | <br>* Most common malignant <u>ovarian germ cell tumor</u> in <u>adolescents</u> and young women [[18]](https://coursology-qbank.com/amboss/article/1Eb2uv)<br><br> | <br>* ∼ 5% of all malignant <u>germ cell tumors</u> [[18]](https://coursology-qbank.com/amboss/article/1Eb2uv)<br><br> | <br>* Occurs mainly in children and <u>adolescents</u><br><br> |
+| Clinical features | <br>* Mostly asymptomatic<br><br> |  | <br>* Unspecific symptoms, including:<br><br>* Painful abdominal mass<br><br>* <u>Amenorrhea</u><br><br> | <br>* Rapid growth; acute onset of symptoms (<u>pelvic</u> mass and <u>pain</u>)<br><br> |  |  | <br><br>* <u>Precocious puberty</u><br><br>* Menstrual irregularities<br><br><br> |
+| <br>* Larger tumors may cause:<br><br>* ↑ Abdominal girth<br><br>* Pressure symptoms (e.g., ↑ urinary frequency)<br><br>* Lower abdominal <u>pain</u><br><br> | <br><br>* <u>Symptoms of hyperthyroidism</u><br><br>* Palpable lower abdominal mass and <u>pain</u><br><br><br> |  |  |  |  |  |  |
+| <u>Ultrasound</u> appearance | <br><br>* Heterogeneous mass<br><br>* <u>Hyperechoic</u> <u>nodule</u><br><br>* Echogenic shadowing<br><br>* Absent internal vascularity and/or fluid-fluid levels<br><br><br> | <br><br>* Multilocular solid appearance<br><br>* Struma pearl may be present.<br><br><br> | <br><br>* Large <u>tumor</u> with a solid component<br><br>* Solid component arises from the wall of the cyst and makes up ≥ 15% of total cyst size; contains smaller, fluid-filled cysts (e.g., blood, mucus).<br><br>* Small areas of calcification<br><br><br> | <br><br>* Well vascularized <u>tumor</u><br><br>* Contains a slightly <u>hyperechoic</u> solid component with an irregular, but still fine-textured appearance<br><br>* No <u>acoustic shadowing</u><br><br><br> | <br><br>* Large, solid, well- vascularized, multilobulated <u>tumor</u> that is well-defined relative to its surroundings<br><br>* Heterogeneous internal <u>echogenicity</u><br><br><br> | <br><br>* Well-vascularized mass with inhomogeneous texture<br><br>* Irregular contour<br><br>* Ovarian crescent sign may be present<br><br><br> | <br>* Large, solid, well-defined <u>tumor</u><br><br> |
+| <u>Histopathology</u> | <br>* Contains somatic tissue (e.g., <u>hair</u>, <u>teeth</u>, <u>sebaceous glands</u>) from any of the three embryonic germ layers:<br><br>* <u>Endoderm</u><br><br>* <u>Mesoderm</u><br><br>* <u>Ectoderm</u><br><br> | <br>* <u>Endodermal</u> differentiation into <u>thyroid</u> tissue   [[17]](https://coursology-qbank.com/amboss/article/cEbauv)<br><br> | <br>* Composed of immature <u>neuroectodermal</u> tissue<br><br> | <br><br>* Macroscopic appearance: yellow, <u>friable</u> mass (due to hemorrhage)<br><br>* <u>Schiller-Duval bodies</u> (resemble <u>glomeruli</u> on microscopy)   [[19]](https://coursology-qbank.com/amboss/article/rvbfYD)<br><br><br> | <br>* Equivalent to <u>seminoma</u> (e.g., presence of <u>fried egg cells</u>; see “<u>Seminoma</u>” for more details)<br><br> | <br>* <u>Cytotrophoblasts</u>/<u>syncytiotrophoblasts</u> without <u>chorionic villi</u><br><br> | <br><br>* <u>Syncytiotrophoblast</u>-like <u>tumor</u> cells<br><br>* Aggregates of primitive embryonal cells<br><br>* Glandular or <u>papillary</u> pattern<br><br><br> |
+| <u>Tumor markers</u> | <br>* None<br><br> |  | <br>* <u>LDH</u> (rare) [[20]](https://coursology-qbank.com/amboss/article/HvbKYD)<br><br> |  | <br><br>* <u>LDH</u> [[21]](https://coursology-qbank.com/amboss/article/IvbYYD)<br><br>* <u>hCG</u> (rare: ∼ 5%)<br><br><br> | <br>* <u>hCG</u><br><br> | <br><br>* <u>hCG</u><br><br>* <u>AFP</u><br><br><br> |
+| <br><br>* <u>AFP</u> (rare) [[22]](https://coursology-qbank.com/amboss/article/dEbouv)<br><br>* <u>CA-125</u> (rare)<br><br><br> | <br>* <u>AFP</u> [[23]](https://coursology-qbank.com/amboss/article/7vb4YD)<br><br> |  |  |  |  |  |  |
+| Risk of malignant transformation | <br>* ∼ 1% (usually to <u>squamous cell carcinoma</u>) [[24]](https://coursology-qbank.com/amboss/article/YEbn8v)<br><br> | <br>* Very rarely into <u>thyroid carcinoma</u><br><br> | <br>* N/A<br><br> |  |  |  |  |
+
+
+
+
+
+![Dermoid cyst (mature teratoma)](../../../../media/txqzqibxtj5732fpd7rco9tv.jpg)
+
+Dermoid cyst (mature teratoma) 
+
+![Mature teratoma of the ovary](../../../../media/jvc6qwdfasmkb4ag4emyi9b9.jpg)
+
+Mature teratoma of the ovary
+
+![Struma ovarii](../../../../media/dhxeqb24eetcpk38jklhxghd.jpg)
+
+Struma ovarii
+
+![Dysgerminoma](../../../../media/gyvcyu0jol4gx9j1b3vn5emo.jpg)
+
+Dysgerminoma
+
+![Schiller-Duval body](../../../../media/ifg7r6qfnkhimuq6nzyu00ul.jpg)
+
+Schiller-Duval body
+
+---
+
+## Sex cord-stromal tumors of the ovary
+
+* Frequency: < 5% of all <u>ovarian tumors</u> [[25]](https://coursology-qbank.com/amboss/article/svbtYD)
+
+
+
+
+| Types of sex cord-stromal tumors of the ovary |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Type |  | <br>Ovarian fibroma [[26]](https://coursology-qbank.com/amboss/article/iUcJ1b0)<br> | <br>Theca cell tumor (<u>thecoma</u>) [[27]](https://coursology-qbank.com/amboss/article/nec7zY0)<br> | <br>Sertoli-Leydig cell tumor [[28]](https://coursology-qbank.com/amboss/article/uvbpbD)[[29]](https://coursology-qbank.com/amboss/article/wwbhOD)[[30]](https://coursology-qbank.com/amboss/article/8vbObD)[[31]](https://coursology-qbank.com/amboss/article/QUcu1b0)<br> | <br>Granulosa cell tumor [[28]](https://coursology-qbank.com/amboss/article/uvbpbD)[[32]](https://coursology-qbank.com/amboss/article/GvbBYD)[[33]](https://coursology-qbank.com/amboss/article/jUc_1b0)<br> |
+| Classification |  | <br>* Benign<br><br> |  | <br>* Usually benign<br><br> | <br>* Malignant<br><br> |
+| <u>Epidemiology</u> |  | <br>* Peak age: <u>postmenopause</u> [[34]](https://coursology-qbank.com/amboss/article/FvbgbD)<br><br> |  | <br><br>* Rare<br><br>* Peak age: 30–40 years<br><br><br> | <br><br>* Most common type of sex cord-stromal <u>malignancy</u> (∼ 90%)<br><br>* Peak age: 50–55 years<br><br><br> |
+| Clinical features |  | <br><br>* No hormonal activity<br><br>* Lower abdominal discomfort and/or a pulling-sensation in the inguinal area<br><br>* May be associated with Meigs syndrome: <u>ascites</u> and <u>pleural effusion</u> in association with a benign <u>ovarian tumor</u>; surgical removal of the <u>tumor</u> leads to complete resolution of symptoms. [[35]](https://coursology-qbank.com/amboss/article/Evb8bD)<br><br><br> | <br>* Abnormal postmenstrual bleeding due to <u>estrogen</u> production<br><br> | <br>* Symptoms of excessive <u>androgens</u> and/or <u>estrogen</u> production <br><br>* ↑ <u>Testosterone</u><br><br>* <u>Virilization</u>, <u>hirsutism</u>, <u>acne</u>, temporal balding<br><br>* <u>Amenorrhea</u>, clitoral enlargement, ↓ <u>fertility</u><br><br>* ↑ <u>Estrogen</u><br><br>* Menstrual bleeding abnormalities<br><br>* <u>Endometrial polyps</u> and <u>hyperplasia</u><br><br> | <br><br>* Symptoms caused by <u>estrogen</u> and/or <u>progesterone</u> secretion<br><br>* Adult subtype: menstrual irregularities (e.g., <u>postmenopausal bleeding</u>, <u>endometrial hyperplasia</u> with <u>metrorrhagia</u>)<br><br>* Juvenile subtype: <u>precocious puberty</u><br><br>* <u>Breast</u> tenderness<br><br>* Associated with increased risk of <u>endometrial cancer</u><br><br><br> |
+| <u>Ultrasound</u> appearance |  | <br><br>* Round or oval solid <u>tumor</u> with minimal to moderate vascularization<br><br>* Regular to slightly irregular internal <u>echogenicity</u><br><br>* Cystic spaces may be present.<br><br><br> | <br>* <u>Ultrasound</u> appearances include:<br><br>* Well-defined <u>hypoechoic</u>, solid mass with clear margins<br><br>* Echogenic mass with <u>distal</u> acoustic attenuation<br><br>* <u>Anechoic</u> lesion with through-transmission<br><br>* Visible <u>endometrial</u> thickening (secondary to <u>hyperestrogenism</u>)<br><br> | <br><br>* Most commonly between 2–5.9 in in diameter<br><br>* Large <u>papillary</u> projections may be visible.<br><br><br> | <br><br>* Typically, large <u>tumor</u> with multilocular solid appearance with > 10 small <u>locules</u><br><br>* Typically mixed or low level <u>echogenicity</u><br><br><br> |
+| Pathology | Gross examination | <br><br>* Smooth, lobulated<br><br>* Cut surface: chalky, firm, yellow-to-white color<br><br><br> | <br>* Solid yellow-orange <u>tumor</u><br><br> | <br>* Small, yellow-brown <u>tumor</u><br><br> | <br><br>* Tan/yellow color<br><br>* Encapsulated; smooth lobulated surface, possibly with areas of <u>necrosis</u>/hemorrhage<br><br><br> |
+| <u>Histology</u> | <br>* <u>Clusters</u> of spindle-shaped cells (<u>fibroblasts</u>)<br><br> | <br>* Ovarian stromal cells filled with lipids on microscopy<br><br> | <br>* Seminiferous-like tubules lined by <u>Sertoli cells</u> and <u>Reinke crystals</u><br><br> | <br>* Call-Exner bodies: <u>granulosa cells</u> arranged in <u>clusters</u> surrounding a central cavity with eosinophilic secretions, resembling primordial follicles<br><br> |  |
+| <u>Tumor markers</u> |  | <br>* None<br><br> |  |  | <br>* <u>Inhibin</u><br><br> |
+
+
+
+
+
+> [!NOTE]
+> Call-Exner bodies are characteristic of Granulosa cell tumors: “Call your Ex and Grandparents!”
+
+
+
+
+![Call-Exner bodies](../../../../media/gsyup124x8bb39vfxf2b16xm.jpg)
+
+Call-Exner bodies
+
+---

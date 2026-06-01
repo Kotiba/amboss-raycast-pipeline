@@ -1,0 +1,1922 @@
+# Acyanotic congenital heart defects
+
+*Categories: Clinical knowledge > Surgery > Pediatric surgery > Acyanotic congenital heart defects*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/4403jT)
+
+---
+
+## Summary
+
+Acyanotic <u>congenital heart defects</u> (ACHDs) are cardiac <u>malformations</u> that affect the atrial or ventricular walls, <u>heart valves</u>, or <u>large blood vessels</u>. Common causes include genetic defects (e.g., <u>trisomies</u>), maternal infections (e.g., <u>rubella</u>), and maternal use of drugs or <u>alcohol</u> during <u>pregnancy</u>. ACHDs are characterized by a <u>left-to-right shunt</u>, which causes <u>pulmonary hypertension</u> and right atrial and ventricular <u>hypertrophy</u>. Symptoms depend on the extent of the <u>malformation</u> and the resulting impairment of cardiac function. <u>Infants</u> may be asymptomatic or present with <u>signs of respiratory distress</u>, <u>failure to thrive</u>, and/or <u>symptoms of heart failure</u>. Characteristic <u>heart murmurs</u> are important clues for establishing the diagnosis, which is typically confirmed by visualizing the defect on <u>transthoracic echocardiography</u> (<u>TTE</u>). Further studies (e.g., <u>chest x-ray</u>, <u>MRI</u>, <u>cardiac CT</u>, or <u>cardiac catheterization</u>) may be required for surgical evaluation and planning. Surgical or transcatheter repair is indicated in selected patients and pharmacological treatment is required to manage complications, e.g., <u>heart failure</u>, <u>arrhythmias</u>, and <u>Eisenmenger syndrome</u>.
+
+---
+
+## Overview
+
+### Common acyanotic <u>CHDs</u>
+
+
+
+
+| <br>Overview of acyanotic <u>CHDs</u> [[1]](https://coursology-qbank.com/amboss/article/ZT0Z62)[[2]](https://coursology-qbank.com/amboss/article/t7YXnq)[[3]](https://coursology-qbank.com/amboss/article/KLWUAN0)<br> |  |  |  |
+| --- | --- | --- | --- |
+|  | Description | Associated conditions and <u>risk factors</u> | Management |
+| <u>Atrial septal defect</u> (<u>ASD</u>) | <br><br>* Defect in the <u>interatrial septum</u><br><br>* Atrial <u>left-to-right shunt</u><br><br>* <u>RA</u> and RV <u>volume overload</u><br><br><br> | <br><br>* <u>Down syndrome</u> [[4]](https://coursology-qbank.com/amboss/article/T7W6O50)<br><br>* <u>Fetal alcohol syndrome</u> [[5]](https://coursology-qbank.com/amboss/article/h7Wcl50)<br><br>* Intrauterine infections (e.g., <u>TORCH</u>) [[6]](https://coursology-qbank.com/amboss/article/S7WyO50)[[7]](https://coursology-qbank.com/amboss/article/j7W_l50)<br><br><br> | <br><br>* Small ASDs: observation<br><br>* Significant shunting: closure (surgical or percutaneous)<br><br><br> |
+| <br><u>Ventricular septal defect</u> (<u>VSD</u>) [[8]](https://coursology-qbank.com/amboss/article/JnWs8N0)<br> | <br><br>* Defect in the interventricular septum<br><br>* Ventricular <u>left-to-right shunt</u><br><br>* RV and LV <u>volume overload</u><br><br>* Can cause <u>pulmonary hypertension</u><br><br><br> | <br><br>* Maternal <u>diabetes</u> [[9]](https://coursology-qbank.com/amboss/article/f7WkO50)<br><br>* <u>Down syndrome</u> [[4]](https://coursology-qbank.com/amboss/article/T7W6O50)<br><br>* Intrauterine infections (e.g., <u>TORCH</u>) [[6]](https://coursology-qbank.com/amboss/article/S7WyO50)[[7]](https://coursology-qbank.com/amboss/article/j7W_l50)<br><br><br> | <br><br>* Most small <u>VSDs</u>: observation  [[8]](https://coursology-qbank.com/amboss/article/JnWs8N0)[[10]](https://coursology-qbank.com/amboss/article/pHbLrE)<br><br>* Large <u>VSDs</u> and symptomatic patients: surgical closure<br><br><br> |
+| <u>Atrioventricular septal defect</u> (<u>AVSD</u>) | <br><br>* Variable deficiency in atrioventricular (AV) septa<br><br>* AV <u>left-to-right shunt</u> possible<br><br>* <u>AV valve</u> <u>regurgitation</u><br><br>* Complete form associated with <u>pulmonary hypertension</u><br><br><br> | <br>* <u>Down syndrome</u> [[4]](https://coursology-qbank.com/amboss/article/T7W6O50)<br><br> | <br><br>* All patients: <u>medical management of acyanotic CHDs</u><br><br>* Selected cases: surgical closure<br><br><br> |
+| <br><u>Patent foramen ovale</u> (<u>PFO</u>) [[11]](https://coursology-qbank.com/amboss/article/wXchZY0)<br> | <br><br>* Persistence of the <u>foramen ovale cordis</u> after 1 year of age<br><br>* Often asymptomatic<br><br>* In adults, may precipitate embolic <u>strokes</u> or be diagnosed incidentally<br><br><br> | <br>* May be associated with other <u>congenital heart diseases</u> and syndromes (e.g., <u>Loeys-Dietz syndrome</u>)<br><br> | <br><br>* Asymptomatic <u>PFO</u>: no treatment<br><br>* <u>Antithrombotics</u> and <u>PFO</u> closure may be indicated after an embolic event.<br><br><br> |
+| <br><u>Patent ductus arteriosus</u> (<u>PDA</u>) [[12]](https://coursology-qbank.com/amboss/article/-nWDDN0)[[13]](https://coursology-qbank.com/amboss/article/aLWQwN0)<br> | <br><br>* Persistence of the <u>ductus arteriosus</u> postnatally<br><br>* <u>Left-to-right shunt</u> from the aorta to the <u>pulmonary artery</u><br><br><br> | <br><br>* <u>Fetal alcohol syndrome</u><br><br>* <u>Congenital rubella</u> [[6]](https://coursology-qbank.com/amboss/article/S7WyO50)<br><br>* <u>Down syndrome</u> [[14]](https://coursology-qbank.com/amboss/article/g7WFO50)<br><br><br> | <br><br>* <u>Ductal-dependent CHDs</u>: maintenance of <u>PDA</u> (e.g., with <u>PGE-1 infusion</u>) required<br><br>* Selected cases: <u>PDA</u> closure  [[3]](https://coursology-qbank.com/amboss/article/KLWUAN0)[[10]](https://coursology-qbank.com/amboss/article/pHbLrE)<br><br><br> |
+| <br><u>Coarctation of the aorta</u> [[15]](https://coursology-qbank.com/amboss/article/eLWx9N0)<br> | <br><br>* Narrowing of the <u>aortic arch</u><br><br>* <u>LV outflow tract obstruction</u><br><br>* Collateral circulation<br><br>* Differential blood pressures<br><br>* <u>Distal</u> systemic <u>hypoperfusion</u> in long-segment coarctation<br><br><br> | <br>* <u>Turner syndrome</u> [[16]](https://coursology-qbank.com/amboss/article/G7YBMq)<br><br> | <br><br>* Critical <u>aortic coarctation</u> (<u>ductal-dependent CHD</u>): maintenance of <u>PDA</u> (e.g., with <u>PGE-1 infusion</u>) required<br><br>* All patients: <u>medical management of acyanotic CHDs</u><br><br>* Definitive treatment includes <u>balloon angioplasty</u> and surgical repair.<br><br><br> |
+| <br><u>Pulmonary valve stenosis</u> [[17]](https://coursology-qbank.com/amboss/article/fLWkCN0)[[18]](https://coursology-qbank.com/amboss/article/TLW6CN0)<br> | <br><br>* Narrowing at the <u>pulmonary valve</u><br><br>* <u>RV outflow tract obstruction</u><br><br>* <u>RV hypertrophy</u><br><br><br> | <br>* <u>Congenital rubella</u><br><br> | <br><br>* Critical <u>pulmonary valve stenosis</u> (<u>ductal-dependent CHD</u>): maintenance of <u>PDA</u> (e.g., with <u>PGE-1 infusion</u>) required<br><br>* Definitive treatment includes <u>balloon valvuloplasty</u>.<br><br><br> |
+
+
+
+
+
+> [!NOTE]
+> The “3 Ds” of ACHDs (in order of frequency): VSD, PDA, ASD.
+
+
+
+
+### Pathogenesis [[19]](https://coursology-qbank.com/amboss/article/U30b3f)
+
+
+
+
+#### Principles
+
+
+
+
+* <u>Congenital heart defects</u> (<u>CHDs</u>) are caused by the disruption of the normal sequence of <u>cardiac morphogenesis</u>.
+
+* <u>CHDs</u> may lead to the formation of pathological connections (shunts) between the right and left <u>heart chambers</u>, allowing blood to flow along the pressure gradient from high pressure to low pressure.
+
+* The shunts are classified according to the direction of the blood flow as either left-to-right or right-to-left.
+
+
+
+
+
+![Anatomy of the heart and adjacent large vessels](../../../../media/al37la1thxpzz27cmscxh1mr.jpg)
+
+Anatomy of the heart and adjacent large vessels
+
+![Fetal and postnatal circulation](../../../../media/doyngxqk8ligke3xkgy6e35b.jpg)
+
+Fetal and postnatal circulation
+
+
+
+
+#### Shunt types
+
+
+
+
+* Left-to-right shunt
+
+* Oxygenated blood from the <u>lungs</u> is shunted back into the <u>pulmonary circulation</u> via an <u>atrial septal defect</u> (<u>ASD</u>), <u>ventricular septal defect</u> (<u>VSD</u>), or <u>patent ductus arteriosus</u> (<u>PDA</u>) → <u>pulmonary hypertension</u>
+
+* <u>Right ventricular</u> pressure overload → right-sided <u>heart</u> <u>hypertrophy</u> (<u>cardiomegaly</u> on <u>x-ray</u>) and <u>heart failure</u> but no <u>cyanosis</u>
+
+* Right-to-left shunt: blood flows from the right to the left <u>heart</u> via a shunt → deoxygenated blood entering the systemic circulation → <u>cyanosis</u>
+
+* See “<u>Eisenmenger syndrome</u>” for details on how a <u>left-to-right shunt</u> can develop into a <u>right-to-left shunt</u> over time.
+
+
+
+
+
+> [!NOTE]
+> Left-to-Right shunts = LateR <u>cyanosis</u>. Right-to-Left shunts = ea<u>RL</u>y <u>cyanosis</u>.
+
+
+
+
+### General clinical features
+
+
+
+
+For specific features, see “Clinical features” in the respective subsections.
+
+
+
+
+#### Nonspecific findings
+
+
+
+
+* <u>Failure to thrive</u>
+
+* Recurrent bronchopulmonary infections
+
+* Normal <u>skin</u> tone
+
+* Exercise intolerance 
+
+* Fatigue, <u>pallor</u>, and <u>diaphoresis</u> (sweating)
+
+* <u>Tachycardia</u>
+
+* <u>Dyspnea</u>
+
+* <u>Grunting</u>, <u>nasal flaring</u>, <u>retractions</u>, and/or head bobbing may be seen [[20]](https://coursology-qbank.com/amboss/article/xUaE2P)
+
+
+
+
+
+#### <u>Heart failure</u>
+
+
+
+
+* <u>Right heart failure</u>
+
+* <u>Hepatic venous congestion</u> with <u>hepatomegaly</u>
+
+* <u>Peripheral edema</u> is rarely seen in <u>infants</u>. [[21]](https://coursology-qbank.com/amboss/article/BUaz2P)
+
+* <u>Left heart failure</u>
+
+* <u>Tachypnea</u>, <u>pulmonary edema</u>
+
+* Low <u>cardiac output</u>: ↓ blood pressure, <u>pallor</u>, sweating, cool extremities, <u>syncope</u>
+
+
+
+
+
+### Medical management of ACHDs [[3]](https://coursology-qbank.com/amboss/article/KLWUAN0)[[10]](https://coursology-qbank.com/amboss/article/pHbLrE)
+
+
+
+
+Consult a cardiologist specializing in ACHDs for all patients; life-long close follow-up is required.
+
+
+
+
+* General measures
+
+* <u>Nutritional support</u> as needed
+
+* Information on the <u>immunization schedule</u>
+
+* Counseling on <u>contraception</u> as required
+
+* Encourage regular exercise; request <u>cardiopulmonary exercise testing</u> in patients with moderate to severe symptoms.  [[10]](https://coursology-qbank.com/amboss/article/pHbLrE)
+
+* <u>Ductal-dependent CHDs</u>: <u>prostaglandin E1 infusion</u> to prevent <u>PDA</u> closure
+
+* Provide <u>heart failure management</u>.
+
+* <u>Respiratory support</u> as needed
+
+* <u>Diuretics</u> to decrease fluid volume
+
+* <u>ACE inhibitors</u> to lower <u>systemic vascular resistance</u>
+
+* <u>Inotropic</u> agents (e.g., <u>digoxin</u>) to improve cardiac contractility
+
+* Determine the need for surgical repair and postoperative <u>antibiotic prophylaxis</u>.
+
+* Assess for and manage <u>Eisenmenger syndrome</u>.
+
+
+
+
+
+> [!TIP]
+> Most patients with ACHDs can participate in regular moderate physical activity. [[10]](https://coursology-qbank.com/amboss/article/pHbLrE)
+
+---
+
+## Cardiac septal defects
+
+| <br>Comparison of common features of VSD and ASD [[3]](https://coursology-qbank.com/amboss/article/KLWUAN0)<br> |  |  |  |
+| --- | --- | --- | --- |
+|  |  | <br>Ventricular septum defect (<u>VSD</u>)  [[8]](https://coursology-qbank.com/amboss/article/JnWs8N0)<br> | Atrial septum defect (<u>ASD</u>) |
+| <u>Epidemiology</u> |  | <br>* Most common <u>congenital heart defect</u><br><br> | <br>* Third most common <u>CHD</u> [[22]](https://coursology-qbank.com/amboss/article/R7Wll50)<br><br> |
+| Etiology |  | <br><br>* <u>Holt-Oram syndrome</u><br><br>* Intrauterine infections (e.g., <u>TORCH</u>) [[6]](https://coursology-qbank.com/amboss/article/S7WyO50)[[7]](https://coursology-qbank.com/amboss/article/j7W_l50)<br><br>* <u>Down syndrome</u> [[4]](https://coursology-qbank.com/amboss/article/T7W6O50)<br><br><br> |  |
+| <br>* Maternal <u>diabetes</u> [[9]](https://coursology-qbank.com/amboss/article/f7WkO50)<br><br> | <br>* <u>Fetal alcohol syndrome</u> [[5]](https://coursology-qbank.com/amboss/article/h7Wcl50)<br><br> |  |  |
+| Clinical features | Small defect | <br>* Usually asymptomatic<br><br> |  |
+| Medium-sized or large defect | <br><br>* <u>Failure to thrive</u><br><br>* Recurrent bronchopulmonary infections<br><br>* Exercise intolerance<br><br>* <u>Heart failure</u><br><br><br> | <br><br>* <u>Exertional dyspnea</u>, fatigue<br><br>* Recurrent bronchopulmonary infections<br><br><br> |  |
+| <u>Auscultation</u> |  | <br><br>* Harsh <u>holosystolic murmur</u> over the left lower sternal border <br><br>* Typically louder in small defects<br><br>* Maneuvers that increase <u>left ventricular</u> <u>afterload</u> (e.g., handgrip) → ↑ intensity<br><br>* <u>Mid-diastolic murmur</u><br><br>* In case of <u>pulmonary hypertension</u>: loud pulmonic <u>S<sub>2</sub></u><br><br><br> | <br><br>* <u>Systolic ejection</u> <u>murmur</u><br><br>* Widely <u>split second heart sound</u> (<u>S<sub>2</sub></u>) over the second left <u>ICS</u>, which is fixed (does not change with respiration)<br><br><br> |
+| <u>ECG</u> | Small defect | <br>* Normal <u>ECG</u> findings<br><br> | <br><br>* Signs of <u>RV hypertrophy</u><br><br>* <u>Supraventricular arrhythmias</u><br><br><br> |
+| Medium-sized or large defect | <br>* Signs of <u>LV hypertrophy</u> and <u>RV hypertrophy</u><br><br> |  |  |
+| <u>Echocardiography</u> |  | <br>* Pathological left-to-right blood flow<br><br> | <br>* Interatrial communication<br><br> |
+| <u>Chest x-ray</u> |  | <br><br>* Enhanced <u>pulmonary vascular markings</u><br><br>* Left atrial and ventricular enlargement<br><br>* Later stages: enlarged <u>right ventricle</u> and <u>pulmonary artery</u><br><br><br> | <br><br>* Enlarged <u>right atrium</u> and ventricle<br><br>* Enhanced pulmonary vasculature<br><br><br> |
+
+
+
+
+
+![Cardiac hemodynamics in ventricular septal defect](../../../../media/bym5m9k41r0g2kpn8gcmt2tv.jpg)
+
+Cardiac hemodynamics in ventricular septal defect
+
+![Cardiac hemodynamics in atrial septal defect](../../../../media/nbv2cups9vl3pay36j624q84.jpg)
+
+Cardiac hemodynamics in atrial septal defect
+
+![Heart murmur in ventricular septal defect, mitral regurgitation, and tricuspid regurgitation](../../../../media/o5wxb5rer6wzo5srlsj7qap4.jpg)
+
+Heart murmur in ventricular septal defect, mitral regurgitation, and tricuspid regurgitation
+
+![Ventricular septal defect](../../../../media/cha9oanbkege7ai2baqi63jb.jpg)
+
+Ventricular septal defect
+
+![Atrial septal defect](../../../../media/c4hmtfsdae8yqfngnlg35m19.jpg)
+
+Atrial septal defect
+
+---
+
+## Atrial septal defect (ASD)
+
+### Description
+
+
+
+* A defect in the atrial wall that may result from impaired growth or excessive resorption of the atrial septum.
+
+
+
+
+![Types of atrial septal defects](../../../../media/zf57s34bqmmr9aao3rrsob57.jpg)
+
+Types of atrial septal defects
+
+
+
+
+### <u>Epidemiology</u> [[3]](https://coursology-qbank.com/amboss/article/KLWUAN0)
+
+
+
+
+* Third most common <u>CHD</u> (∼ 1/2,000 <u>live births</u>) [[22]](https://coursology-qbank.com/amboss/article/R7Wll50)
+
+* Sex: <u>♀</u> > <u>♂</u>
+
+
+
+
+
+### Etiology
+
+
+
+
+* <u>Down syndrome</u> [[4]](https://coursology-qbank.com/amboss/article/T7W6O50)
+
+* <u>Fetal alcohol syndrome</u> [[5]](https://coursology-qbank.com/amboss/article/h7Wcl50)
+
+* Intrauterine infections (e.g., <u>TORCH</u>) [[6]](https://coursology-qbank.com/amboss/article/S7WyO50)[[7]](https://coursology-qbank.com/amboss/article/j7W_l50)
+
+* Holt-Oram syndrome (<u>hand-heart syndrome</u>) [[3]](https://coursology-qbank.com/amboss/article/KLWUAN0)
+
+* <u>Autosomal dominant</u> disorder
+
+* Affects ∼ 1/100,000 children
+
+* Characterized by <u>ASD</u>, a <u>first-degree heart block</u>, and abnormalities of the upper limbs (e.g., absent radial bones)
+
+
+
+
+
+![Thumb aplasia](../../../../media/vjbl0o4fs0hn41lldm0yw5hm.jpg)
+
+Thumb aplasia
+
+
+
+
+### Pathophysiology
+
+
+
+
+* Impaired growth or excessive resorption of the atrial septa in utero leads to <u>atrial septal defects</u> (absent atrial septa tissue). 
+
+* Ostium primum atrial septal defect (<u>ASD I</u>): ∼ 15–20% (usually accompanied by other <u>heart</u> defects)
+
+* Ostium secundum atrial septal defect (<u>ASD II</u>): ∼ 70% (usually isolated)
+
+* Typically a low-pressure, low-volume, minor <u>left-to-right shunt</u> (therefore, patients are usually asymptomatic)
+
+* <u>ASD</u> → oxygenated blood shunting from LA to <u>RA</u> → ↑ <u>O<sub>2</sub> saturation</u> in the <u>RA</u> → ↑ <u>O<sub>2</sub> saturation</u> in RV and <u>pulmonary artery</u>
+
+* In more severe defects, the shunts may lead to <u>supraventricular arrhythmias</u>, <u>pulmonary hypertension</u>, and/or <u>Eisenmenger syndrome</u>.
+
+
+
+
+
+![Types of atrial septal defects](../../../../media/i6cgp1l4a29l6uw69l8rudgd.jpg)
+
+Types of atrial septal defects
+
+![Cardiac hemodynamics in atrial septal defect](../../../../media/nbv2cups9vl3pay36j624q84.jpg)
+
+Cardiac hemodynamics in atrial septal defect
+
+
+
+
+### Clinical features [[3]](https://coursology-qbank.com/amboss/article/KLWUAN0)
+
+
+
+
+* Small defects: usually asymptomatic
+
+* Medium to large defects
+
+* Clinical presentation varies from asymptomatic to overt <u>heart failure</u>.
+
+* Symptoms typically manifest with advancing age (∼ 30–40 years of age). [[23]](https://coursology-qbank.com/amboss/article/GnWBuN0)
+
+* Clinical features include: [[3]](https://coursology-qbank.com/amboss/article/KLWUAN0)[[23]](https://coursology-qbank.com/amboss/article/GnWBuN0)
+
+* <u>Exertional dyspnea</u>
+
+* Fatigue
+
+* Recurrent respiratory infections
+
+* <u>Palpitations</u> (e.g., due to <u>supraventricular arrhythmias</u>)
+
+* <u>Syncope</u>
+
+* <u>Symptoms of heart failure</u> (e.g., <u>peripheral edema</u>)
+
+* <u>Stroke</u> or <u>TIA</u> (e.g., from <u>paradoxical embolism</u>)
+
+* See “General clinical features” in “Overview.”
+
+
+
+
+
+#### <u>Auscultation</u> [[3]](https://coursology-qbank.com/amboss/article/KLWUAN0)
+
+
+
+
+* Mid-<u>systolic ejection</u> <u>murmur</u> over the second left <u>ICS</u>, parasternal
+
+* Widely <u>split second heart sound</u> (<u>S<sub>2</sub></u>) over the second left <u>ICS</u>,;   which is fixed (does not change with respiration)
+
+* Soft mid-<u>diastolic</u> <u>murmur</u> over the lower left sternal border
+
+
+
+
+
+![Atrial Septal Defect - Heart Auscultation - Episode 7](../../../../media/small_607553e0dfc96.jpg)
+
+Atrial Septal Defect - Heart Auscultation - Episode 7
+
+
+
+
+### Diagnostics [[10]](https://coursology-qbank.com/amboss/article/pHbLrE)[[23]](https://coursology-qbank.com/amboss/article/GnWBuN0)[[24]](https://coursology-qbank.com/amboss/article/tnWXEN0)
+
+
+
+
+* <u>Echocardiography</u> (<u>confirmatory test</u>) : 
+
+* <u>TTE</u> with Doppler
+
+* Confirms interatrial communication
+
+* Best visualized in the apical four-chamber and subcostal views
+
+* <u>Agitated saline study</u>: if <u>TTE</u> findings are equivocal  [[23]](https://coursology-qbank.com/amboss/article/GnWBuN0)
+
+* <u>ECG</u>
+
+* Signs of <u>RV hypertrophy</u>, e.g.:
+
+* Vertical or <u>right axis deviation</u>
+
+* <u>P pulmonale</u>, and/or PR prolongation
+
+* Complete or incomplete <u>right bundle branch block</u>
+
+* Atrial <u>tachyarrhythmias</u>, e.g., <u>atrial fibrillation</u>, <u>atrial flutter</u>, are common in adults with ASDs.  [[23]](https://coursology-qbank.com/amboss/article/GnWBuN0)
+
+* <u>Chest x-ray</u>
+
+* <u>Rounding</u> of the left <u>heart</u> contour due to an enlarged <u>right atrium</u>, <u>right ventricle</u>, and <u>pulmonary artery</u>
+
+* Enlarged <u>lung markings</u> due to enhanced pulmonary vasculature
+
+* <u>Pulse oximetry</u>
+
+* Perform at rest and during exercise, especially for patients with moderate to severe symptoms. [[10]](https://coursology-qbank.com/amboss/article/pHbLrE)
+
+* Helps to determine the magnitude and direction of the shunt
+
+
+
+
+
+![Atrial septal defect](../../../../media/c4hmtfsdae8yqfngnlg35m19.jpg)
+
+Atrial septal defect
+
+
+
+
+#### Additional testing
+
+
+
+
+* Other noninvasive imaging
+
+* <u>Cardiac MRI</u> or CT [[10]](https://coursology-qbank.com/amboss/article/pHbLrE)
+
+* Consider preprocedurally for anatomical guidance.  [[10]](https://coursology-qbank.com/amboss/article/pHbLrE)
+
+* <u>Qp:Qs ratio</u> can be calculated with <u>cardiac MRI</u>
+
+* <u>CT coronary angiography</u>: alternative to <u>cardiac catheterization</u> in patients at low or intermediate risk of <u>CAD</u>
+
+* <u>Cardiac catheterization</u>
+
+* Reserved for patients with <u>risk factors for CAD</u>
+
+* Most accurate method to determine detailed <u>hemodynamics</u>, e.g.:
+
+* Shunt magnitude
+
+* <u>Pulmonary artery</u> pressure
+
+* <u>Qp:Qs ratio</u>
+
+
+
+
+
+### Management [[3]](https://coursology-qbank.com/amboss/article/KLWUAN0)[[10]](https://coursology-qbank.com/amboss/article/pHbLrE)
+
+
+
+
+#### General principles
+
+
+
+
+* Management should be guided by a cardiologist specializing in <u>congenital heart disease</u>.
+
+* Manage associated conditions and complications (e.g., <u>atrial fibrillation</u>, <u>tachyarrhythmias</u>, <u>pulmonary hypertension</u>).
+
+* Small and/or asymptomatic ASDs: follow-up with <u>physical examination</u> and serial <u>echocardiography</u>
+
+* Larger or symptomatic ASDs may require surgical management.
+
+
+
+
+
+#### Surgical management
+
+
+
+
+* Indications
+
+* Large <u>left-to-right shunts</u> (e.g., <u>Qp:Qs ratio</u> ≥ 1.5:1 without <u>pulmonary hypertension</u>)
+
+* Right atrial or ventricular <u>hypertrophy</u>
+
+* <u>Symptoms of heart failure</u>
+
+* History of <u>paradoxical embolism</u>
+
+* <u>Platypnea-orthodeoxia syndrome</u>
+
+* Contraindication: patients with severe <u>pulmonary hypertension</u>  [[25]](https://coursology-qbank.com/amboss/article/ZGbZBE)
+
+* Surgical repair methods
+
+* Transcatheter closure
+
+* Patch
+
+* Open approach
+
+* Postrepair follow-up includes:
+
+* <u>Echocardiography</u>
+
+* <u>Endocarditis prophylaxis</u>
+
+* Monitoring for complications (e.g., new <u>chest pain</u>, <u>syncope</u>, <u>symptoms of arrhythmias</u>)
+
+
+
+
+
+> [!TIP]
+> Up to 40% of ASDs spontaneously close by 5 years of age. [[26]](https://coursology-qbank.com/amboss/article/AN1Rdh0)
+
+
+
+
+> [!WARNING]
+> Surgical repair is contraindicated in patients with <u>right-to-left shunts</u> (e.g., in <u>Eisenmenger syndrome</u>). [[10]](https://coursology-qbank.com/amboss/article/pHbLrE)
+
+
+
+
+### Complications [[27]](https://coursology-qbank.com/amboss/article/Tub6qv)
+
+
+
+
+* <u>Paradoxical embolism</u> (↑ risk of <u>ischemic</u> <u>stroke</u>): an <u>embolus</u> from the venous circulation passes from the <u>right atrium</u> through the <u>ASD</u> into the <u>left atrium</u>, enters the arterial circulation into the <u>brain</u>, and causes a <u>stroke</u>
+
+* <u>Heart failure</u>
+
+---
+
+## Ventricular septal defect (VSD)
+
+### Description
+
+
+
+* An abnormal communication between the left and <u>right ventricle</u> that results in <u>left-to-right shunting</u>
+
+
+
+
+### <u>Epidemiology</u>
+
+
+
+
+* Most common <u>congenital heart defect</u> (∼ 4/1000 <u>live births</u>)  [[10]](https://coursology-qbank.com/amboss/article/pHbLrE)[[28]](https://coursology-qbank.com/amboss/article/6BWjbL0)
+
+* Occurs as an isolated <u>heart</u> defect or in combination with others (e.g., <u>AVSD</u>, <u>tetralogy of Fallot</u>, <u>TGA</u>)
+
+
+
+
+
+### Etiology
+
+
+
+
+* Genetic syndromes [[3]](https://coursology-qbank.com/amboss/article/KLWUAN0)
+
+* Most commonly: <u>Down syndrome</u>, Edward syndrome, <u>Patau syndrome</u>
+
+* Less commonly: <u>Cri-du-chat syndrome</u>, <u>Apert syndrome</u>
+
+* Intrauterine infections (e.g., <u>TORCH</u>) [[6]](https://coursology-qbank.com/amboss/article/S7WyO50)[[7]](https://coursology-qbank.com/amboss/article/j7W_l50)
+
+* Maternal <u>risk factors</u>: <u>diabetes</u>, <u>obesity</u>, smoking [[9]](https://coursology-qbank.com/amboss/article/f7WkO50)[[29]](https://coursology-qbank.com/amboss/article/EgY8Co)
+
+* Acquired (rare): post-<u>MI</u>, <u>aortic valve replacement</u> [[30]](https://coursology-qbank.com/amboss/article/mBWVYL0)[[31]](https://coursology-qbank.com/amboss/article/5BWiYL0)
+
+
+
+
+
+### Pathophysiology
+
+
+
+
+* Most commonly located in the membranous part of the ventricular septum (<u>pars membranacea</u>)
+
+* Defect in ventricular septum → <u>left-to-right shunt</u> with the following consequences: 
+
+* RV volume overload → RV <u>eccentric hypertrophy</u>
+
+* Excessive pulmonary blood flow → ↑ <u>pulmonary artery</u> pressure → <u>pulmonary hypertension</u>
+
+* ↓ <u>Cardiac output</u>
+
+* LV volume overload → LV <u>eccentric hypertrophy</u>
+
+* ↑ <u>O<sub>2</sub> saturation</u> in <u>right ventricle</u> and <u>pulmonary artery</u>
+
+
+
+
+
+![Cardiac hemodynamics in ventricular septal defect](../../../../media/bym5m9k41r0g2kpn8gcmt2tv.jpg)
+
+Cardiac hemodynamics in ventricular septal defect
+
+
+
+
+### Clinical features [[3]](https://coursology-qbank.com/amboss/article/KLWUAN0)[[8]](https://coursology-qbank.com/amboss/article/JnWs8N0)
+
+
+
+
+#### General
+
+
+
+
+* Small defects: usually asymptomatic
+
+* Medium or large defects
+
+* Lead to <u>heart failure</u> within the first few weeks to months of life
+
+* Become symptomatic after high <u>pulmonary vascular resistance</u> (<u>PVR</u>) present at <u>birth</u> starts to decrease: ↓ <u>PVR</u> → ↓ right ventricular pressure → ↑ left-to-right shunt → symptoms
+
+* See “Nonspecific findings” and “<u>Heart failure</u>” in “Overview” above.
+
+* Hyperdynamic precordium may be detected in hemodynamically relevant defects.
+
+
+
+
+
+#### <u>Auscultation</u>
+
+
+
+
+* Harsh <u>holosystolic murmur</u> over the left lower sternal border 
+
+* Becomes more intense with maneuvers that increase <u>left ventricular</u> <u>afterload</u> (e.g., handgrip)
+
+* Typically louder in small defects
+
+* Systolic <u>thrill</u> in the 3<sup>rd</sup> or 4<sup>th</sup> left <u>ICS</u>
+
+* <u>Mid-diastolic murmur</u> over cardiac apex
+
+* Loud pulmonic <u>S<sub>2</sub></u> (if <u>pulmonary hypertension</u> develops)
+
+
+
+
+
+![Heart murmur in ventricular septal defect, mitral regurgitation, and tricuspid regurgitation](../../../../media/o5wxb5rer6wzo5srlsj7qap4.jpg)
+
+Heart murmur in ventricular septal defect, mitral regurgitation, and tricuspid regurgitation
+
+![Ventricular Septal Defect (VSD) - Heart Auscultation - Episode 11](../../../../media/small_607553a8d68ee.jpg)
+
+Ventricular Septal Defect (VSD) - Heart Auscultation - Episode 11
+
+
+
+
+> [!TIP]
+> <u>Symptoms of heart failure in children</u> with <u>VSD</u> only develop when <u>PVR</u> decreases to adult levels and thus allows <u>left-to-right shunting</u> to occur.
+
+
+
+
+### Diagnostics [[8]](https://coursology-qbank.com/amboss/article/JnWs8N0)[[10]](https://coursology-qbank.com/amboss/article/pHbLrE)[[28]](https://coursology-qbank.com/amboss/article/6BWjbL0)
+
+
+
+
+* <u>Echocardiography</u>:  (<u>confirmatory test</u>) : <u>TTE</u> is preferred over <u>TEE</u>.  [[28]](https://coursology-qbank.com/amboss/article/6BWjbL0)
+
+* To assess defect size, shunt volume, <u>Qp:Qs ratio</u>, and associated conditions, e.g., ↑ <u>pulmonary artery</u> pressure, outflow obstructions
+
+* Doppler <u>echocardiography</u> is especially helpful for visualizing small <u>VSDs</u>.
+
+* <u>ECG</u>
+
+* Small defects: normal <u>ECG</u>
+
+* Medium or large defects
+
+* Signs of <u>left atrial enlargement</u>, e.g., <u>P mitrale</u>
+
+* Signs of <u>LV hypertrophy</u> due to volume loading, e.g.:
+
+* ↑ QRS amplitude
+
+* <u>Left axis deviation</u>
+
+* <u>Left atrial enlargement</u>
+
+* Signs of <u>RV hypertrophy</u> if <u>pulmonary hypertension</u> or obstruction of the pulmonary outflow tract is present:
+
+* Vertical or <u>right axis deviation</u>
+
+* <u>P pulmonale</u>, and/or PR prolongation,
+
+* Complete or incomplete <u>right bundle branch block</u>
+
+* <u>Chest x-ray</u>
+
+* Small defects: normal <u>chest x-ray</u>
+
+* Medium or large defects
+
+* Enhanced <u>pulmonary vascular markings</u>
+
+* <u>Rounding</u> of the apex and left cardiac contour due to left atrial and ventricular <u>hypertrophy</u>
+
+* <u>Rounding</u> of the mid-left <u>heart</u> border due to <u>right ventricular hypertrophy</u> and enlarged <u>pulmonary artery</u> (in later stages; due to ↑ <u>pulmonary vascular resistance</u>)
+
+
+
+
+
+![Ventricular septal defect](../../../../media/cha9oanbkege7ai2baqi63jb.jpg)
+
+Ventricular septal defect
+
+
+
+
+#### Additional testing
+
+
+
+
+* Other noninvasive imaging [[10]](https://coursology-qbank.com/amboss/article/pHbLrE)
+
+* <u>Cardiac CT</u> or <u>MRI</u>: Consider preprocedurally for anatomical guidance.
+
+* <u>CT coronary angiography</u>: alternative to <u>cardiac catheterization</u> in patients with a low or intermediate risk of <u>CAD</u>
+
+* <u>Cardiac catheterization</u>: Consider if there are equivocal findings on <u>TTE</u>, <u>risk factors for CAD</u>, or pulmonary vascular disease is suspected. [[10]](https://coursology-qbank.com/amboss/article/pHbLrE)[[28]](https://coursology-qbank.com/amboss/article/6BWjbL0)
+
+
+
+
+
+### Management [[3]](https://coursology-qbank.com/amboss/article/KLWUAN0)[[8]](https://coursology-qbank.com/amboss/article/JnWs8N0)[[10]](https://coursology-qbank.com/amboss/article/pHbLrE)[[28]](https://coursology-qbank.com/amboss/article/6BWjbL0)
+
+
+
+
+#### Asymptomatic and small defects
+
+
+
+
+* Spontaneous closure is common; surgical intervention is rarely required.
+
+* Follow-up <u>echocardiography</u> is recommended.
+
+
+
+
+
+#### Symptomatic and/or large defects
+
+
+
+
+* <u>Medical management of ACHDs</u>: required for all patients.
+
+* Surgical repair: e.g., patch  [[32]](https://coursology-qbank.com/amboss/article/hpWc6m0); 
+
+* Indications
+
+* <u>Infants</u> with large <u>left-to-right shunts</u> and clinical symptoms (e.g., <u>failure to thrive</u>, treatment-resistant <u>congestive heart failure</u>)
+
+* Asymptomatic older children with large <u>left-to-right shunts</u> or evidence of left atrial or <u>left ventricular</u> enlargement
+
+* <u>Pulmonary hypertension</u>
+
+* <u>Qp:Qs ratio</u> ≥ 1.5:1 if <u>pulmonary hypertension</u> is not present [[10]](https://coursology-qbank.com/amboss/article/pHbLrE)
+
+* <u>VSD</u> with <u>aortic insufficiency</u> or <u>aortic valve</u> prolapse into the <u>VSD</u>
+
+* Contraindicated in severe <u>pulmonary hypertension</u>  [[10]](https://coursology-qbank.com/amboss/article/pHbLrE)
+
+* Postrepair follow-up
+
+* Clinical monitoring for the development of new symptoms
+
+* Serial <u>echocardiography</u> to monitor for <u>VSD</u> patch leak
+
+* <u>Endocarditis prophylaxis</u> for dental procedures for 6 months after transcatheter or surgical closure
+
+
+
+
+
+> [!TIP]
+> <u>VSD</u> closure results in lower <u>right ventricular</u> and left atrial pressures and higher <u>left ventricular</u> pressures than preclosure values. [[32]](https://coursology-qbank.com/amboss/article/hpWc6m0)
+
+
+
+
+> [!WARNING]
+> <u>VSD</u> closure is contraindicated in patients with <u>Eisenmenger syndrome</u>. [[3]](https://coursology-qbank.com/amboss/article/KLWUAN0)
+
+
+
+
+### Complications
+
+
+
+
+* <u>Arrhythmias</u>
+
+* <u>Heart failure</u>
+
+* <u>Eisenmenger syndrome</u>
+
+* <u>Infective endocarditis</u>
+
+* <u>Aortic regurgitation</u>
+
+---
+
+## Atrioventricular septal defect (AVSD)
+
+### Definition [[3]](https://coursology-qbank.com/amboss/article/KLWUAN0)
+
+
+
+
+A defect of <u>atrioventricular valves</u> (i.e., mitral and tricuspid valves) as well as the atrial and/or ventricular septum; previously referred to as <u>endocardial cushion defects</u>.
+
+
+
+
+* Complete form: <u>ASD</u> and <u>VSD</u>, common <u>AV valve</u>
+
+* Partial form: only <u>ASD</u> and minor <u>AV valve</u> abnormalities
+
+
+
+
+
+### Etiology
+
+
+
+
+* Strongly associated with <u>Down syndrome</u>  [[33]](https://coursology-qbank.com/amboss/article/E7Y8nq)[[34]](https://coursology-qbank.com/amboss/article/Fx0gyR)
+
+* Association with <u>maternal diabetes</u> and <u>obesity</u> has been shown in some studies. [[35]](https://coursology-qbank.com/amboss/article/UsYb8q)
+
+
+
+
+
+### Pathophysiology [[3]](https://coursology-qbank.com/amboss/article/KLWUAN0)
+
+
+
+
+* Complete form:  (<u>ASD</u> and <u>VSD</u>) → atrial and ventricular left-to-right shunt → excessive pulmonary blood flow and biventricular volume overload → <u>pulmonary hypertension</u> and <u>heart failure</u>
+
+* Partial form (<u>ASD</u> only) → atrial left-to-right shunt → symptoms that may remain minimal until adulthood
+
+* In both forms: abnormal <u>AV valve</u> → <u>AV valve</u> <u>regurgitation</u> → in utero <u>heart failure</u> (<u>nonimmune hydrops fetalis</u>) [[36]](https://coursology-qbank.com/amboss/article/M7WMm50)
+
+
+
+
+
+### Clinical features [[3]](https://coursology-qbank.com/amboss/article/KLWUAN0)
+
+
+
+
+* Complete form: See “Nonspecific findings” and “<u>Heart failure</u>” in “Overview” above.
+
+* Partial form: See “Clinical features” in “<u>Atrial septal defect</u> (<u>ASD</u>).“
+
+
+
+
+
+### Diagnostics [[37]](https://coursology-qbank.com/amboss/article/2LWTCN0)
+
+
+
+
+* Antenatal <u>echocardiography</u>: findings of <u>endocardial cushion defect</u> in first trimester → screening for <u>Down syndrome</u>
+
+* <u>Echocardiography</u> (<u>confirmatory test</u>): to assess defect size, shunt volume, and <u>global</u> cardiac function
+
+* <u>ECG</u>: <u>left axis deviation</u> due to <u>LV hypertrophy</u>
+
+* <u>Chest x-ray</u>
+
+* Complete form: <u>global</u> <u>cardiomegaly</u>, ↑ pulmonary markings
+
+* Partial form: enlarged right <u>heart</u> and <u>pulmonary artery</u>
+
+
+
+
+
+### Treatment [[3]](https://coursology-qbank.com/amboss/article/KLWUAN0)[[10]](https://coursology-qbank.com/amboss/article/pHbLrE)[[37]](https://coursology-qbank.com/amboss/article/2LWTCN0)
+
+
+
+
+* All patients: Provide <u>medical management of acyanotic CHDs</u> as needed.
+
+* Surgical management: patch closure and <u>AV valve</u> reconstruction; generally indicated unless <u>Eisenmenger syndrome</u> has developed
+
+* Complete form: generally between 3–6 months of age
+
+* Partial form: generally between 2–4 years of age
+
+* Older patients: elective procedure
+
+---
+
+## Patent foramen ovale (PFO)
+
+### Description
+
+
+
+* A variant of cardiac anatomy in which the foramen ovale remains patent beyond 1 year of age
+
+
+
+
+### <u>Epidemiology</u>
+
+
+
+* <u>Prevalence</u>: ∼ 25% of the general population [[38]](https://coursology-qbank.com/amboss/article/P7WWN50)
+
+
+
+
+### Etiology
+
+
+
+* Associated with <u>Loeys-Dietz syndrome</u>
+
+
+
+
+### Pathophysiology
+
+
+
+
+* Failure of the atrial <u>septum primum</u> to fuse with the <u>septum secundum</u> following <u>birth</u> → persistence of foramen ovale;   → mild <u>left-to-right shunt</u>
+
+* A <u>right-to-left shunt</u> (i.e., shunt reversal) may be induced by certain maneuvers that increase <u>right atrial pressure</u> (e.g., <u>Valsalva maneuver</u>, <u>coughing</u>).
+
+
+
+
+
+> [!NOTE]
+> ASD = Septal tissue Deficiency. PFO = enough tissue, but Problems with Fusion.
+
+
+
+
+### Clinical features [[39]](https://coursology-qbank.com/amboss/article/7BW4XL0)
+
+
+
+* Affected individuals are usually asymptomatic until complications due to <u>right-to-left shunting</u> occur; see “Complications.”
+
+
+
+
+### Diagnostics [[39]](https://coursology-qbank.com/amboss/article/7BW4XL0)
+
+
+
+
+* General principles
+
+* Diagnosis of a <u>PFO</u> is frequently incidental (e.g., during <u>PCI</u> or cardiac <u>surgery</u>).
+
+* Diagnostic studies are requested as a part of the assessment of conditions suggestive of <u>PFO</u>, e.g., cryptogenic <u>stroke</u>.
+
+* <u>TTE</u> with <u>agitated saline</u> (best initial study)
+
+* <u>Right-to-left shunt</u> that increases with the <u>Valsalva maneuver</u> and <u>coughing</u>
+
+* Other findings: atrial septal <u>aneurysm</u>  [[40]](https://coursology-qbank.com/amboss/article/HBWKXL0)
+
+* <u>TEE</u> with <u>agitated saline</u> (most sensitive test) may be considered if: 
+
+* <u>TTE</u> is inconclusive
+
+* There is a high index of suspicion for <u>PFO</u> despite negative <u>TTE</u>
+
+* <u>PFO</u> anatomical assessment is needed after positive <u>TTE</u>
+
+* <u>Transcranial Doppler</u> with <u>agitated saline</u>
+
+* <u>Agitated saline</u> is injected into a peripheral <u>vein</u>.
+
+* The detection of microbubbles in a cerebral <u>artery</u> indicates a <u>right-to-left shunt</u>.  [[39]](https://coursology-qbank.com/amboss/article/7BW4XL0)
+
+
+
+
+
+![Patent foramen ovale](../../../../media/nknyb6q4gwa159wozlklf103.jpg)
+
+Patent foramen ovale
+
+
+
+
+### Treatment [[11]](https://coursology-qbank.com/amboss/article/wXchZY0)[[39]](https://coursology-qbank.com/amboss/article/7BW4XL0)
+
+
+
+
+* Asymptomatic <u>PFO</u>: Treatment is usually not required:  (not associated with an increased risk of <u>stroke</u>). [[39]](https://coursology-qbank.com/amboss/article/7BW4XL0)
+
+* Confirmed <u>PFO</u> after an embolic event (e.g., <u>ischemic stroke</u>) [[11]](https://coursology-qbank.com/amboss/article/wXchZY0)
+
+* <u>Multidisciplinary care</u> by cardiology and <u>neurology</u> to determine the likelihood of <u>paradoxical embolism</u>
+
+* Strategies to <u>reduce subsequent stroke risk</u> include:
+
+* <u>Antiplatelet agents</u> or anticoagulation
+
+* Surgical or percutaneous closure of the defect  [[11]](https://coursology-qbank.com/amboss/article/wXchZY0)
+
+
+
+
+
+> [!TIP]
+> <u>PFO</u> is one of many possible causes of <u>stroke</u>. <u>Reducing subsequent stroke risk</u> should include the evaluation of other potential causes (e.g., <u>arrhythmia</u>, <u>hypercoagulability</u>, <u>endocarditis</u>). [[11]](https://coursology-qbank.com/amboss/article/wXchZY0)
+
+
+
+
+### Complications
+
+
+
+
+* <u>Migraine with aura</u>
+
+* <u>Ischemic stroke</u> or <u>TIA</u> (often cryptogenic)
+
+* <u>Paradoxical embolism</u>
+
+* Systemic embolisms (e.g., <u>renal infarction</u>)
+
+---
+
+## Patent ductus arteriosus (PDA)
+
+### Description
+
+
+
+* Failure of the <u>ductus arteriosus</u> to completely close postnatally
+
+
+
+
+### <u>Epidemiology</u>
+
+
+
+
+* <u>Incidence</u>: 5–10% <u>full-term</u> births [[41]](https://coursology-qbank.com/amboss/article/47W3N50)
+
+* In <u>premature infants</u>: 20–60% [[41]](https://coursology-qbank.com/amboss/article/47W3N50)
+
+* Sex: <u>♀</u> > <u>♂</u> (2:1) [[3]](https://coursology-qbank.com/amboss/article/KLWUAN0)
+
+
+
+
+
+### Etiology
+
+
+
+
+* <u>Prematurity</u>
+
+* Maternal exposure during <u>pregnancy</u>
+
+* <u>Rubella</u> infection (during the <u>first trimester</u> of <u>pregnancy</u>)
+
+* <u>Alcohol</u> consumption
+
+* <u>Phenytoin</u> use (<u>fetal hydantoin syndrome</u>)
+
+* <u>Prostaglandin</u> use
+
+* <u>Respiratory distress</u> syndrome
+
+* <u>Trisomies</u> (e.g., <u>Down syndrome</u>)
+
+
+
+
+
+### Pathophysiology
+
+
+
+
+* <u>Ductus arteriosus</u> enables the underdeveloped <u>lungs</u> to be bypassed by the <u>fetal circulation</u> (normal right-to-left shunt) and remains patent in utero via PGE and low O<sub>2</sub>tension.
+
+* After <u>birth</u>, <u>pulmonary vascular resistance</u> decreases and thus allows for the reversal of the shunt from right-to-left to left-to-right.
+
+* Failure of the <u>ductus arteriosus</u> to close after <u>birth</u> → persistent communication between the aorta and the <u>pulmonary artery</u> → <u>left-to-right shunt</u> → <u>volume overload</u> of the pulmonary vessels → continuous RV (and/or LV) strain → <u>heart failure</u> (see also “Overview” above)
+
+* <u>Eisenmenger syndrome</u> may occur with shunt reversal and manifest with <u>differential cyanosis</u>.
+
+
+
+
+
+![Cardiac hemodynamics in patent ductus arteriosus](../../../../media/cyuo6z6iw53x3ma2l61hdm3g.jpg)
+
+Cardiac hemodynamics in patent ductus arteriosus
+
+
+
+
+### Clinical features
+
+
+
+
+#### General
+
+
+
+
+* Small <u>PDA</u>: asymptomatic with normal findings on <u>physical examination</u>
+
+* Large <u>PDA</u>
+
+* Nonspecific symptoms (e.g., <u>failure to thrive</u>) and <u>symptoms of heart failure</u> in <u>infancy</u> (see the “Overview” above)
+
+* Bounding peripheral pulses, wide <u>pulse pressure</u> [[41]](https://coursology-qbank.com/amboss/article/47W3N50)
+
+* Heaving, laterally displaced apical impulse
+
+
+
+
+
+#### <u>Auscultation</u>
+
+
+
+
+* Small <u>PDA</u>: A <u>murmur</u> is sometimes heard incidentally during routine primary care visits.
+
+* Large <u>PDA</u>: Machinery murmur: loud <u>continuous murmur</u> heard best in the left infraclavicular region;   and loudest at <u>S<sub>2</sub></u>
+
+
+
+
+
+![Heart murmur in patent ductus arteriosus](../../../../media/kcosaucdn3o0oczbooe6h3gz.jpg)
+
+Heart murmur in patent ductus arteriosus
+
+![Patent Ductus Arteriosus - Heart Auscultation - Episode 6](../../../../media/small_607553f948298.jpg)
+
+Patent Ductus Arteriosus - Heart Auscultation - Episode 6
+
+
+
+
+> [!TIP]
+> <u>PDA</u> comes with Prolonged Deafening Auscultation findings.
+
+
+
+
+### Diagnostics [[10]](https://coursology-qbank.com/amboss/article/pHbLrE)[[12]](https://coursology-qbank.com/amboss/article/-nWDDN0)[[42]](https://coursology-qbank.com/amboss/article/ZLWZwN0)
+
+
+
+
+* <u>Echocardiography</u> (<u>confirmatory test</u> for <u>infants</u>)
+
+* Assesses shunt volume and <u>pulmonary artery</u> pressure
+
+* Left atrial and ventricular <u>hypertrophy</u> may be seen.
+
+* Color Doppler: may show blood flow from the aorta into the <u>pulmonary artery</u>
+
+* <u>ECG</u>
+
+* Small <u>PDA</u>: normal <u>ECG</u>
+
+* Large <u>PDA</u>
+
+* <u>Left axis deviation</u> due to <u>LV hypertrophy</u>
+
+* May show <u>RV hypertrophy</u> if <u>pulmonary hypertension</u> has developed
+
+* <u>Chest x-ray</u>
+
+* Prominent <u>pulmonary artery</u> and <u>aortic knob</u> at the upper left <u>heart</u> border
+
+* Increased <u>pulmonary markings</u>
+
+* <u>Pulse oximetry</u>: possible peripheral <u>hypoxemia</u> in the feet, especially with ambulation, if <u>right-to-left shunting</u> is present
+
+
+
+
+
+![Patent ductus arteriosus](../../../../media/gea9ri56facggmo3di5bit64.jpg)
+
+Patent ductus arteriosus
+
+
+
+
+#### Additional testing
+
+
+
+
+* Other noninvasive imaging (e.g., <u>cardiac CT</u>, <u>cardiac MRI</u>): usually required for older children, adults, and <u>adolescents</u> to assess anatomy  [[43]](https://coursology-qbank.com/amboss/article/F6Wg5m0)
+
+* <u>Cardiac catheterization</u>
+
+* To confirm <u>hemodynamics</u> and evaluate pulmonary vasoreactivity before repair or in complex <u>CHDs</u> [[10]](https://coursology-qbank.com/amboss/article/pHbLrE)
+
+* To assess for <u>pulmonary hypertension</u>
+
+
+
+
+
+### Management [[12]](https://coursology-qbank.com/amboss/article/-nWDDN0)[[13]](https://coursology-qbank.com/amboss/article/aLWQwN0)
+
+
+
+
+#### General principles
+
+
+
+
+* Refer all patients to a congenital cardiac center for management.
+
+* Management of <u>PDA</u> is complex and based on <u>PDA</u> (e.g., size of <u>left-to-right shunt</u>) and patient characteristics (e.g., weight, age).
+
+* Assess all patients for comorbidities and complications (e.g., <u>intestinal ischemia</u>, <u>Eisenmenger syndrome</u>).
+
+
+
+
+
+#### Pharmacological closure in <u>premature infants</u> [[3]](https://coursology-qbank.com/amboss/article/KLWUAN0)
+
+
+
+
+Management of <u>premature infants</u> with a <u>PDA</u> requires a multidisciplinary team including a neonatal intensivist and pediatric cardiologist.
+
+
+
+
+* Indications
+
+* <u>Infants</u> with <u>birth</u> weight < 1 kg requiring <u>mechanical ventilation</u>
+
+* <u>Infants</u> with <u>birth</u> weight > 1 kg with symptomatic <u>PDA</u> (e.g., <u>symptoms of heart failure</u>, <u>respiratory distress</u>)
+
+* Contraindications
+
+* <u>Ductal-dependent CHD</u>
+
+* <u>Persistent pulmonary hypertension of the newborn</u>
+
+* <u>Oliguria</u>
+
+* <u>Thrombocytopenia</u>
+
+* Recent hemorrhage (e.g., cerebral, intestinal, pulmonary)
+
+* <u>Necrotizing enterocolitis</u>
+
+* Treatment: <u>Indomethacin</u> and <u>ibuprofen</u> induce <u>PDA</u> closure by inhibiting <u>prostaglandin</u> synthesis.  [[3]](https://coursology-qbank.com/amboss/article/KLWUAN0)
+
+* Alternatives
+
+* Percutaneous catheter occlusion
+
+* Surgical ligation
+
+
+
+
+
+> [!WARNING]
+> <u>PDA</u> closure is contraindicated if the <u>PDA</u> is required for survival, e.g., in <u>ductal-dependent CHDs</u>. Initiate <u>prostaglandin E1 infusion</u> to keep the <u>ductus arteriosus</u> patent until definitive treatment can be performed. [[44]](https://coursology-qbank.com/amboss/article/lpbvpu)
+
+
+
+
+> [!TIP]
+> Pharmacological closure is preferred for <u>preterm infants</u> as surgical closure is associated with increased <u>morbidity</u> and mortality and studies on transcatheter occlusion are lacking in these patients. [[10]](https://coursology-qbank.com/amboss/article/pHbLrE)[[43]](https://coursology-qbank.com/amboss/article/F6Wg5m0)[[45]](https://coursology-qbank.com/amboss/article/_Jb59u)
+
+
+
+
+#### Transcatheter and surgical closure [[10]](https://coursology-qbank.com/amboss/article/pHbLrE)[[43]](https://coursology-qbank.com/amboss/article/F6Wg5m0)
+
+
+
+
+Transcatheter or surgical closure is the treatment of choice for <u>infants</u> ≥ 6 kg, children, and adults.
+
+
+
+
+* Indications
+
+* <u>Symptoms of heart failure</u>
+
+* <u>Failure to thrive</u>
+
+* <u>Echocardiography</u> showing left atrial and/or <u>left ventricular</u> enlargement with PA systolic pressure < 50% systemic and <u>PVR</u> < ⅓ systemic [[43]](https://coursology-qbank.com/amboss/article/F6Wg5m0)
+
+* <u>Pulmonary hypertension</u> without <u>right-to-left shunt</u>
+
+* Contraindications
+
+* <u>Ductal-dependent CHD</u>
+
+* <u>Pulmonary hypertension</u> with <u>right-to-left shunt</u>
+
+* Methods
+
+* Transcatheter occlusion
+
+* Surgical ligation
+
+
+
+
+
+### Complications [[43]](https://coursology-qbank.com/amboss/article/F6Wg5m0)
+
+
+
+
+* <u>Heart failure</u> in <u>infancy</u>
+
+* <u>Infective endocarditis</u>
+
+* <u>Pulmonary hypertension</u> and <u>Eisenmenger syndrome</u> in <u>adolescents</u> and adults (common)
+
+* <u>Differential cyanosis</u>
+
+---
+
+## Coarctation of the aorta
+
+### Definition
+
+
+
+* Narrowing of the aorta at the <u>aortic isthmus</u> or, rarely, in the descending thoracic or <u>abdominal aorta</u>
+
+
+
+
+### <u>Epidemiology</u> [[46]](https://coursology-qbank.com/amboss/article/UYWboP0)
+
+
+
+
+* <u>Prevalence</u>: 3/10,000 <u>live births</u>
+
+* Sex: <u>♂</u> > <u>♀</u>
+
+
+
+
+
+### Etiology [[2]](https://coursology-qbank.com/amboss/article/t7YXnq)
+
+
+
+
+#### Congenital
+
+
+
+
+* The exact cause is unknown, but two hypotheses have been proposed:
+
+* Hemodynamic: caused by underdevelopment of the aorta due to an abnormally decreased antegrade intrauterine blood flow
+
+* Ductal: caused by <u>closure of the ductus arteriosus</u> tissue that extends into the <u>thoracic aorta</u> Associated with <u>Turner syndrome</u> (in 5–15% of female patients with coarctation) [[16]](https://coursology-qbank.com/amboss/article/G7YBMq)[[47]](https://coursology-qbank.com/amboss/article/s7YtMq)
+
+* Often accompanied by a <u>bicuspid aortic valve</u> , <u>VSD</u>, and/or <u>PDA</u>
+
+
+
+
+
+#### Acquired
+
+
+
+
+* <u>Takayasu arteritis</u>
+
+* Severe <u>atherosclerosis</u>
+
+
+
+
+
+### Pathophysiology [[1]](https://coursology-qbank.com/amboss/article/ZT0Z62)[[2]](https://coursology-qbank.com/amboss/article/t7YXnq)
+
+
+
+
+* Genetic defects and/or intrauterine <u>ischemia</u> → <u>medial</u> thickening and <u>intimal</u> <u>hyperplasia</u> → formation of a ridge encircling the aortic lumen → narrowing of the aorta → ↑ flow <u>proximal</u> to the narrowing and ↓ flow <u>distal</u> to the narrowing  
+
+* Coarctation is most commonly juxtaductal.
+
+* The coarctation most commonly occurs <u>distal</u> to the <u>left subclavian artery</u>, where the <u>ductus arteriosus</u> originates.
+
+* Rarely, the coarctation occurs in the lower segments of the <u>thoracic aorta</u> or in the <u>abdominal aorta</u>
+
+* In discrete coarctation: <u>left ventricular</u> outflow obstruction → <u>myocardial</u> <u>hypertrophy</u> and increased collateral blood flow (e.g., intercostal vessels, scapular vessels).
+
+* In long-segment coarctation: closure of <u>PDA</u> after <u>birth</u> → <u>left ventricular</u> pressure and volume overload → <u>hypoperfusion</u> of organs and extremities <u>distal</u> to the stenosis  [[48]](https://coursology-qbank.com/amboss/article/F7Ygnq)
+
+
+
+
+
+![Congenital coarctation of the aorta](../../../../media/t5gx88yetfp3ek2ac13ev69a.jpg)
+
+Congenital coarctation of the aorta
+
+![Coarctation of the aorta](../../../../media/aa1z4witn0bm3b71ytxtuzzz.jpg)
+
+Coarctation of the aorta
+
+
+
+
+### Clinical features [[2]](https://coursology-qbank.com/amboss/article/t7YXnq)
+
+
+
+
+#### General
+
+
+
+
+* <u>Neonates</u>
+
+* Asymptomatic if the coarctation is mild and <u>PDA</u> is present
+
+* Symptomatic in critical stenosis (blood flow to the lower body is <u>PDA</u>-dependent): See “Overview.”
+
+* Older <u>infants</u>, children, and adults may be asymptomatic. If present, symptoms include:
+
+* <u>Differential cyanosis</u>: <u>cyanosis</u> of the lower extremities
+
+* Brachial-femoral delay: weak femoral pulses
+
+* ↑ Blood pressure (BP) in upper extremities and ↓ BP in lower extremities
+
+* Cold feet and lower-extremity <u>claudication</u> upon physical exertion
+
+* Strong apical impulse displaced to the left
+
+* <u>Headache</u>, <u>epistaxis</u>, <u>tinnitus</u>
+
+* In severe stenosis: <u>shock</u> and <u>multiorgan failure</u> when <u>ductus arteriosus</u> closes
+
+* In severe stenosis: See “Nonspecific findings” and “<u>Heart failure</u>” in “Overview” above.
+
+
+
+
+
+#### <u>Auscultation</u>
+
+
+
+* <u>Systolic ejection</u> <u>murmur</u> over left <u>posterior</u> hemithorax  and/or <u>continuous murmur</u> in the left infraclavicular region and interscapular region
+
+
+
+
+### Diagnostics [[3]](https://coursology-qbank.com/amboss/article/KLWUAN0)[[10]](https://coursology-qbank.com/amboss/article/pHbLrE)[[49]](https://coursology-qbank.com/amboss/article/uBWpcL0)
+
+
+
+
+Evaluate for <u>aortic coarctation</u> in patients with <u>hypertension</u> and/or weakened femoral pulses, especially in younger patients.
+
+
+
+
+* Blood pressure measurements (best initial test): upper and lower extremities
+
+* In <u>distal</u> narrowing of the <u>left subclavian artery</u>: ↑ BP in upper extremities and ↓ BP in lower extremities
+
+* If the origin of the <u>left subclavian artery</u> is involved: BP in the right arm > BP in the left arm
+
+* <u>Ambulatory BP monitoring</u> as part of the diagnosis and <u>management of hypertension</u>
+
+* <u>Pulse oximetry</u>: postcoarctation ↓ <u>SpO<sub>2</sub></u> may be present
+
+* <u>ECG</u>
+
+* <u>Neonates</u>: signs of <u>RV hypertrophy</u>
+
+* Older children and adults: normal <u>ECG</u> or signs of <u>LV hypertrophy on ECG</u>
+
+* <u>Chest x-ray</u>
+
+* ↑ <u>Cardiothoracic ratio</u> and <u>pulmonary vascular markings</u>
+
+* Figure of 3 sign: dilation of the aorta and <u>left subclavian artery</u> cause an hourglass-like narrowing of the aorta and a 3-shaped outline, formed by an indentation at the site of coarctation and a post-stenotic dilatation in the <u>descending aorta</u>
+
+* Rib notching: a radiographic sign caused by collateral circulation between the internal thoracic and <u>intercostal arteries</u> (usually seen in patients > 5 years of age)  
+
+* Enlarged collateral vessels compress the neighboring <u>ribs</u>, causing pressure <u>atrophy</u>.
+
+* Classically affects the inferior border of the 3<sup>rd</sup>–8<sup>th</sup> <u>ribs</u>
+
+* Doppler <u>echocardiography</u> (<u>confirmatory test</u>)
+
+* To locate and assess the extent of stenosis
+
+* To detect concurrent defects (e.g., <u>VSD</u>, <u>PDA</u>, <u>bicuspid aortic valve</u>)  [[49]](https://coursology-qbank.com/amboss/article/uBWpcL0)
+
+
+
+
+
+![Coarctation of the aorta](../../../../media/in75qx0kpepkocwgzr0qowsw.jpg)
+
+Coarctation of the aorta
+
+![Rib notching in coarctation of the aorta](../../../../media/qtt2ssilkb63g0kxzyqqcljc.jpg)
+
+Rib notching in coarctation of the aorta
+
+
+
+
+#### Additional testing
+
+
+
+
+* <u>Cardiopulmonary exercise testing</u>: to evaluate for exercise-induced <u>hypertension</u> in adults [[10]](https://coursology-qbank.com/amboss/article/pHbLrE)
+
+* <u>MRI</u> or CT (in adults) [[10]](https://coursology-qbank.com/amboss/article/pHbLrE)
+
+* <u>CMR</u> or <u>CTA</u>: to assess aortic anatomy and collateral circulation, and for intervention planning and follow-up
+
+* <u>MRA</u> or <u>CTA</u>: may be considered to screen for <u>intracranial aneurysms</u>  [[10]](https://coursology-qbank.com/amboss/article/pHbLrE)
+
+* <u>Cardiac catheterization</u>: for patients at risk for <u>CAD</u> before repair [[49]](https://coursology-qbank.com/amboss/article/uBWpcL0)
+
+* <u>Genetic testing</u>: Consider testing for <u>Turner syndrome</u> if suspected based on other clinical findings. [[16]](https://coursology-qbank.com/amboss/article/G7YBMq)
+
+
+
+
+
+### Treatment [[10]](https://coursology-qbank.com/amboss/article/pHbLrE)[[15]](https://coursology-qbank.com/amboss/article/eLWx9N0)[[49]](https://coursology-qbank.com/amboss/article/uBWpcL0)[[50]](https://coursology-qbank.com/amboss/article/Rc1lXf0)
+
+
+
+
+* <u>Neonates</u> with critical coarctation
+
+* Initiate <u>prostaglandin E1 infusion</u>.
+
+* Facilitates postcoarctation organ <u>perfusion</u> by maintaining the patency of the <u>ductus arteriosus</u> until surgical repair can be performed
+
+* Example: <u>alprostadil</u> (<u>off-label</u>) DOSAGE  [[26]](https://coursology-qbank.com/amboss/article/AN1Rdh0)[[51]](https://coursology-qbank.com/amboss/article/XJb9su)
+
+* <u>Medical management of ACHDs</u> (e.g., <u>inotropic</u> support, <u>respiratory support</u>)
+
+* Noncritical coarctation  [[10]](https://coursology-qbank.com/amboss/article/pHbLrE)[[45]](https://coursology-qbank.com/amboss/article/_Jb59u); 
+
+* <u>Stent</u> placement
+
+* Surgical correction (preferred method in <u>neonates</u>) [[3]](https://coursology-qbank.com/amboss/article/KLWUAN0)
+
+* <u>Balloon angioplasty</u> in adults  [[10]](https://coursology-qbank.com/amboss/article/pHbLrE)
+
+* Medical management
+
+* <u>Management of hypertension</u> for all patients [[10]](https://coursology-qbank.com/amboss/article/pHbLrE)
+
+* Follow-up to monitor for re-stenosis, <u>aortic aneurysm</u>, and <u>aortic dissection</u>
+
+* Counsel on physical activity restriction for patients with <u>hypertension</u> or residual obstruction. [[52]](https://coursology-qbank.com/amboss/article/DBW11L0)
+
+
+
+
+
+### Complications
+
+
+
+
+* <u>Secondary hypertension</u>
+
+* <u>Aortic dissection</u> and rupture
+
+* <u>Berry aneurysm</u> leading to cerebral hemorrhage  [[53]](https://coursology-qbank.com/amboss/article/43Y3iK)
+
+* <u>Heart failure</u>
+
+* <u>Infective endocarditis</u>
+
+* Postrepair recoarctation [[10]](https://coursology-qbank.com/amboss/article/pHbLrE)
+
+---
+
+## Pulmonary valve stenosis
+
+### Description
+
+
+
+* A <u>valvular heart disease</u> characterized by obstruction of blood outflow from the <u>right ventricle</u> into the <u>pulmonary arteries</u> during <u>systole</u>
+
+
+
+
+### <u>Epidemiology</u>
+
+
+
+
+* Relatively common in the general population (∼10% of all <u>CHDs</u>) [[3]](https://coursology-qbank.com/amboss/article/KLWUAN0)
+
+* Usually congenital (rarely acquired )
+
+* Association with <u>Noonan syndrome</u>
+
+
+
+
+
+### Pathophysiology
+
+
+
+* <u>Pulmonary valve</u> stenosis → <u>right ventricular outflow obstruction</u> → pressure overload → <u>right ventricular hypertrophy</u>
+
+
+
+
+### Clinical features
+
+
+
+
+* Depending on the grade of stenosis, <u>symptoms of heart failure</u> may occur.
+
+* Systolic <u>murmur</u> heard best over the second left <u>ICS</u>, parasternal
+
+* <u>S<sub>2</sub></u> wide splitting
+
+
+
+
+
+### Diagnostics [[10]](https://coursology-qbank.com/amboss/article/pHbLrE)[[17]](https://coursology-qbank.com/amboss/article/fLWkCN0)
+
+
+
+
+* <u>Echocardiography</u> (<u>confirmatory test</u>): helps to assess the severity of stenosis  [[10]](https://coursology-qbank.com/amboss/article/pHbLrE)
+
+* <u>ECG</u> [[54]](https://coursology-qbank.com/amboss/article/wBWh1L0)
+
+* Normal in mild <u>pulmonary stenosis</u>
+
+* Signs of <u>RV hypertrophy</u> in patients with severe stenosis
+
+* <u>Chest x-ray</u>: may show <u>pulmonary artery</u> dilatation
+
+* <u>Cardiac catheterization</u>: for patients at high risk of <u>CAD</u> before repair
+
+
+
+
+
+### Treatment [[10]](https://coursology-qbank.com/amboss/article/pHbLrE)[[17]](https://coursology-qbank.com/amboss/article/fLWkCN0)
+
+
+
+
+* <u>Neonates</u> with critical <u>pulmonary valve stenosis</u> [[3]](https://coursology-qbank.com/amboss/article/KLWUAN0)[[55]](https://coursology-qbank.com/amboss/article/z6Wrnm0)
+
+* Maintain the <u>PDA</u> until definitive treatment can be performed.
+
+* Method: <u>prostaglandin E1 infusion</u>, e.g., <u>alprostadil</u> (<u>off-label</u>) DOSAGE  [[26]](https://coursology-qbank.com/amboss/article/AN1Rdh0)[[51]](https://coursology-qbank.com/amboss/article/XJb9su)
+
+* Noncritical <u>pulmonary valve stenosis</u>
+
+* Indication: symptomatic patients (e.g., <u>symptoms of heart failure</u>, exercise intolerance) with moderate to severe <u>pulmonary valve stenosis</u>
+
+* Procedures: <u>balloon valvuloplasty</u> of the <u>pulmonary valve</u> (preferred), <u>pulmonary valve</u> replacement
+
+* Follow-up: postrepair <u>pulmonary regurgitation</u> monitoring
+
+---
+
+## Eisenmenger syndrome
+
+### Description [[3]](https://coursology-qbank.com/amboss/article/KLWUAN0)[[56]](https://coursology-qbank.com/amboss/article/-rWDP50)
+
+
+
+
+* A severe complication of ACHD in which the <u>left-to-right shunt</u> reverses over time due to <u>pulmonary hypertension</u>, resulting in <u>cyanotic heart disease</u>
+
+* Can occur at any age, but usually develops during the late stages of ACHDs
+
+
+
+
+
+### Etiology [[3]](https://coursology-qbank.com/amboss/article/KLWUAN0)
+
+
+
+
+<u>Eisenmenger syndrome</u> may develop with any cardiac defect with a <u>left-to-right shunt</u>; common defects include:
+
+
+
+
+* Complete <u>AVSD</u>
+
+* <u>Persistent truncus arteriosus</u>
+
+* <u>ASD</u>
+
+* <u>VSD</u>
+
+* <u>PDA</u>
+
+
+
+
+
+### Pathogenesis [[3]](https://coursology-qbank.com/amboss/article/KLWUAN0)[[56]](https://coursology-qbank.com/amboss/article/-rWDP50)
+
+
+
+1. * <u>Left-to-right shunt</u> → prolonged <u>pulmonary hypertension</u> → reactive constriction with permanent remodeling of pulmonary vessels → irreversible <u>pulmonary hypertension</u>
+2. * <u>Pulmonary hypertension</u> → <u>RV hypertrophy</u> → increased RV pressure
+3. * RV pressure exceeds LV pressure → shunt reversal (development of <u>right-to-left shunt</u>) → <u>cyanosis</u>; , <u>digital clubbing</u>, and <u>polycythemia</u>
+
+
+
+
+### Clinical features [[3]](https://coursology-qbank.com/amboss/article/KLWUAN0)[[57]](https://coursology-qbank.com/amboss/article/I-WYAL0)
+
+
+
+
+<u>Eisenmenger syndrome</u> develops gradually and children are often minimally symptomatic in the early stages; symptoms worsen with age and increasing pulmonary resistance.
+
+
+
+
+* <u>Cyanosis</u>
+
+* <u>Central cyanosis</u> is prominent.
+
+* <u>Differential cyanosis</u>: <u>cyanosis</u> in the lower extremities (seen in patients with <u>PDA</u>)
+
+* <u>Digital clubbing</u>
+
+* <u>Dyspnea</u>
+
+* <u>Chest pain</u>
+
+* <u>Clinical features of heart failure</u>
+
+* <u>Bleeding diathesis</u>, e.g., <u>epistaxis</u>, easy <u>bruising</u>, <u>hemoptysis</u>, due to <u>thrombocytopenia</u> [[10]](https://coursology-qbank.com/amboss/article/pHbLrE)[[57]](https://coursology-qbank.com/amboss/article/I-WYAL0)
+
+* Increased risk for <u>thrombotic events</u> due to hyperviscosity [[57]](https://coursology-qbank.com/amboss/article/I-WYAL0)
+
+
+
+
+
+![Digital clubbing](../../../../media/ydizo0dzt4stq0z6rdwfuytp.jpg)
+
+Digital clubbing
+
+
+
+
+### Diagnostics [[3]](https://coursology-qbank.com/amboss/article/KLWUAN0)[[10]](https://coursology-qbank.com/amboss/article/pHbLrE)[[57]](https://coursology-qbank.com/amboss/article/I-WYAL0)
+
+
+
+
+* Imaging studies
+
+* <u>Echocardiography</u> is used for:
+
+* Assessment of the underlying ACHD
+
+* Evaluation of shunt direction
+
+* Estimation of RV and pulmonary arterial pressures
+
+* <u>Cardiac catheterization</u> is used for: [[10]](https://coursology-qbank.com/amboss/article/pHbLrE)
+
+* Evaluation of shunt extension
+
+* Measuring the pressure in the <u>heart</u> and <u>pulmonary circulation</u>
+
+* Assessment for other conditions that may contribute to the <u>right-to-left shunt</u>
+
+* <u>ECG</u>: to monitor for the development of <u>arrhythmias</u>, e.g., <u>atrial fibrillation</u>
+
+* <u>Laboratory studies</u>
+
+* <u>CBC</u>: ↑ <u>Hb</u>, ↑ <u>Hct</u>, and <u>thrombocytopenia</u> due to <u>secondary erythrocytosis</u> from chronic <u>hypoxemia</u>
+
+* <u>BMP</u>: ↑ <u>creatinine</u>, ↑ <u>BUN</u>
+
+* <u>Iron studies</u>: <u>iron deficiency</u> due to <u>secondary erythrocytosis</u>
+
+
+
+
+
+### Management [[3]](https://coursology-qbank.com/amboss/article/KLWUAN0)[[10]](https://coursology-qbank.com/amboss/article/pHbLrE)[[57]](https://coursology-qbank.com/amboss/article/I-WYAL0)
+
+
+
+
+Management should be guided by a specialist in <u>pulmonary hypertension</u> and either a pediatric cardiologist or a cardiologist specializing in <u>CHD</u> in adults depending on patient age.
+
+
+
+
+* Medical management
+
+* Counsel on exhibiting caution with exercise and request <u>cardiopulmonary exercise testing</u>. [[57]](https://coursology-qbank.com/amboss/article/I-WYAL0)
+
+* Inform patients that <u>Eisenmenger syndrome</u> increases the rate of <u>maternal mortality</u> (30–50%) and fetal loss or <u>morbidity</u> (∼ 30%): [[57]](https://coursology-qbank.com/amboss/article/I-WYAL0)
+
+* Offer <u>contraception counseling</u> as required.
+
+* Offer <u>elective termination of pregnancy</u> as required.
+
+* Assess for and manage complications, e.g., <u>arrhythmias</u>, <u>kidney</u> disease, and <u>iron deficiency</u>.
+
+* <u>Manage pulmonary hypertension</u>: <u>bosentan</u> with the possible addition of <u>PDE-5 inhibitors</u> (e.g., <u>sildenafil</u>, <u>tadalafil</u>) for symptomatic management
+
+* <u>Heart</u> and/or <u>lung transplant</u> with concomitant correction of the underlying ACHD (rare)
+
+---

@@ -1,0 +1,268 @@
+# Strongyloidiasis
+
+*Categories: Clinical knowledge > Dermatology > Infectious diseases > Parasitic infections > Strongyloidiasis*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/A80R63)
+
+---
+
+## Summary
+
+Strongyloidiasis is a parasitic infection caused by the <u>nematode</u> <u>Strongyloides stercoralis</u>, which is <u>endemic</u> to warm, moist climates. Infection occurs when larvae penetrate the <u>skin</u>, most commonly the feet (primarily occurs through walking barefoot). Symptoms may be absent, mild, or severe and include a pruritic <u>serpiginous</u> <u>rash</u>, <u>cough</u>, abdominal <u>pain</u>, and <u>diarrhea</u>. <u>Immunosuppressed</u> patients are at risk for <u>hyperinfection syndrome</u> and disseminated strongyloidiasis, which can lead to severe disease and <u>septic shock</u>. Patients with planned <u>immunosuppression</u> (e.g., due to transplant) and those at risk for strongyloidiasis (e.g., due to time spent in an <u>endemic</u> region) should be screened for strongyloidiasis to prevent complications. Diagnosis is made based on <u>serology</u> and/or visualization of the larvae in stool specimens. Strongyloidiasis is treated with <u>ivermectin</u> or a <u>benzimidazole</u>.
+
+---
+
+## Etiology
+
+* <u>Pathogen</u>
+
+* Strongyloides stercoralis (threadworm)  [[1]](https://coursology-qbank.com/amboss/article/cZda0o0)
+
+* Threadworms are <u>nematodes</u>.
+
+* Mode of transmission: percutaneous penetration of larvae (primarily via the feet)
+
+* Life cycle [[2]](https://coursology-qbank.com/amboss/article/bUaHbP)
+
+* The <u>Strongyloides</u> eggs hatch in the human intestine and release larvae→ larvae are excreted in feces and contaminate the soil→ larvae penetrate the intact <u>skin</u> of the <u>definitive host</u> upon contact with contaminated soil → larvae migrate to the <u>lungs</u> via the bloodstream → larvae migrate to the <u>pharynx</u> via the <u>alveoli</u> and bronchial system → larvae are swallowed, causing <u>autoinfection</u> → larvae mature into adult, egg-producing worms in the intestine → eggs develop into infectious larvae and are excreted in feces
+
+* Hyperinfection: Some larvae may penetrate the intestinal wall and enter the bloodstream (rare).
+
+
+
+
+
+> [!TIP]
+> <u>Strongyloides</u> infection most commonly occurs in warm, moist climates (e.g., the tropics) in individuals who often walk barefoot.
+
+
+
+
+![Strongyloides stercoralis: Life cycle](../../../../../media/hi51ccfpgju4x47tzj0jgjk1.jpg)
+
+Strongyloides stercoralis: Life cycle
+
+---
+
+## Clinical features
+
+Patients are usually asymptomatic or have mild symptoms during acute and chronic infections. [[3]](https://coursology-qbank.com/amboss/article/uyWpSL0)
+
+
+
+
+### Acute infection [[4]](https://coursology-qbank.com/amboss/article/9yWNhL0)
+
+
+
+
+* Cutaneous phase
+
+* Swelling, <u>erythema</u>, <u>maculopapular rash</u> at the site of larval penetration
+
+* Larva currens: raised <u>serpiginous</u> lesions or <u>urticarial</u> tracts;  due to migration of larvae under the <u>skin</u> in <u>autoinfection</u>; <u>pathognomonic</u> of <u>S. stercoralis</u> infection
+
+* <u>Pruritus</u>
+
+* Pulmonary phase: dry <u>cough</u> and <u>wheezing</u>, <u>hemoptysis</u>, rarely <u>pneumonia</u> (<u>Loeffler syndrome</u>)
+
+* <u>Intestinal phase</u>: inflammation (e.g., <u>duodenitis</u>)
+
+* Abdominal <u>pain</u>
+
+* <u>Diarrhea</u>
+
+* <u>Anorexia</u>, <u>nausea</u>, <u>vomiting</u>
+
+
+
+
+
+> [!TIP]
+> Incubation periods range from 1–4 weeks. Acute local cutaneous reaction to larval penetration is immediate. Pulmonary symptoms develop ∼ 1 week and intestinal symptoms ∼ 3–4 weeks after initial infection. [[4]](https://coursology-qbank.com/amboss/article/9yWNhL0)
+
+
+
+
+![Larva currens](../../../../../media/jozt9i31aliq59hmehz47pii.jpg)
+
+Larva currens
+
+
+
+
+### Chronic infection [[4]](https://coursology-qbank.com/amboss/article/9yWNhL0)
+
+
+
+
+* <u>Diarrhea</u>, occasional <u>vomiting</u>, <u>constipation</u>
+
+* <u>Larva currens</u>
+
+---
+
+## Diagnosis
+
+### General principles [[5]](https://coursology-qbank.com/amboss/article/yyWd3L0)
+
+
+
+
+Studies are performed based on immune status and presentation.
+
+
+
+
+* Immunocompetent: either <u>serology</u> or <u>stool microscopy</u>
+
+* <u>Immunosuppressed</u>: both <u>serology</u> and <u>stool microscopy</u>
+
+* Hyperinfection and/or disseminated strongyloidiasis: additional microscopy of other body fluids based on organ involvement
+
+
+
+
+
+### Confirmatory studies [[3]](https://coursology-qbank.com/amboss/article/uyWpSL0)[[6]](https://coursology-qbank.com/amboss/article/1KX22_)
+
+
+
+
+#### Indications for testing
+
+
+
+
+* <u>Clinical features of strongyloidiasis</u>
+
+* Screening for strongyloidiasis in patients with either: 
+
+* Immunocompetence and a high risk of exposure
+
+* Current or planned <u>immunosuppression</u> and an intermediate or high risk of exposure
+
+
+
+
+
+#### Modalities
+
+
+
+
+* <u>Stool microscopy</u>: serial stool examination with mobile rhabditiform larvae    [[4]](https://coursology-qbank.com/amboss/article/9yWNhL0)
+
+* Microscopy of other body fluids : evidence of <u>filariform larvae</u> in patients with hyperinfection and/or disseminated strongyloidiasis
+
+* <u>Serology</u>: detection of <u>IgG</u> against <u>Strongyloides</u>  [[5]](https://coursology-qbank.com/amboss/article/yyWd3L0)[[6]](https://coursology-qbank.com/amboss/article/1KX22_)
+
+
+
+
+
+### Additional studies
+
+
+
+
+* <u>CBC</u>: : may show <u>eosinophilia</u>  [[3]](https://coursology-qbank.com/amboss/article/uyWpSL0)
+
+* <u>Diagnostic studies for sepsis</u>: e.g., <u>blood cultures</u> to rule out bacterial infections
+
+
+
+
+
+![Strongyloides stercoralis rhabditiform larva](../../../../../media/l6d0znqckyx6d53zi7682mkn.jpg)
+
+Strongyloides stercoralis rhabditiform larva
+
+---
+
+## Treatment
+
+### Approach [[4]](https://coursology-qbank.com/amboss/article/9yWNhL0)
+
+
+
+
+* Initiate <u>sepsis management</u> in severe infections.
+
+* Start <u>antiparasitic therapy</u> in all patients with confirmed strongyloidiasis.
+
+* Consider empiric therapy in <u>immunosuppressed</u> patients with a risk of exposure if diagnostic testing cannot be obtained. [[5]](https://coursology-qbank.com/amboss/article/yyWd3L0)
+
+* Repeat <u>serology</u> at 6 months and 12 months after treatment to assess for decreasing <u>titers</u>. [[5]](https://coursology-qbank.com/amboss/article/yyWd3L0)
+
+
+
+
+
+> [!WARNING]
+> <u>Hyperinfection syndrome</u> is a <u>medical emergency</u> and should be treated immediately without waiting for a definitive diagnosis. [[4]](https://coursology-qbank.com/amboss/article/9yWNhL0)
+
+
+
+
+### Pharmacotherapy [[6]](https://coursology-qbank.com/amboss/article/1KX22_)
+
+
+
+
+* Uncomplicated infection (i.e., acute or chronic strongyloidiasis)
+
+* Preferred: <u>ivermectin</u> DOSAGE for 1–2 days [[6]](https://coursology-qbank.com/amboss/article/1KX22_)
+
+* Alternative: <u>benzimidazoles</u>, e.g., <u>albendazole</u> (<u>off-label</u>) DOSAGE for 7 days [[4]](https://coursology-qbank.com/amboss/article/9yWNhL0)[[6]](https://coursology-qbank.com/amboss/article/1KX22_)
+
+* Severe infection (i.e., <u>hyperinfection syndrome</u> or disseminated strongyloidiasis)
+
+* Preferred: <u>ivermectin</u> DOSAGE  [[6]](https://coursology-qbank.com/amboss/article/1KX22_)
+
+* Duration: until stool and/or <u>sputum</u> specimens are negative for 2 weeks  [[3]](https://coursology-qbank.com/amboss/article/uyWpSL0)[[6]](https://coursology-qbank.com/amboss/article/1KX22_)
+
+* Reduce <u>immunosuppressive drugs</u> if feasible.
+
+
+
+
+
+> [!WARNING]
+> <u>Ivermectin</u> should not be given to patients with concurrent <u>Loa loa</u> infection due to the risk of fatal <u>encephalopathy</u>. [[7]](https://coursology-qbank.com/amboss/article/gAWFQL0)
+
+---
+
+## Complications
+
+### Hyperinfection syndrome
+
+
+
+
+Increased rate of <u>autoinfection</u> due to <u>immunosuppression</u> (e.g., <u>steroid</u> therapy, <u>HTLV</u>-1 <u>coinfection</u>, transplant) that can cause:
+
+
+
+
+* GI symptoms, e.g., abdominal <u>pain</u>, <u>ileus</u>, <u>mucosal</u> <u>ulcers</u>
+
+* Pulmonary symptoms, e.g., <u>pneumonitis</u>, <u>respiratory failure</u>
+
+* Dermatologic signs, e.g., recurrent <u>rash</u>, <u>larva currens</u>
+
+* Complications of dissemination, e.g., organ dysfunction, <u>septic shock</u>, <u>meningitis</u>
+
+
+
+
+
+> [!TIP]
+> <u>Strongyloides</u> completes its entire life cycle within its host. In the intestinal tract, eggs hatch into larvae that reinfect the host and may result in a high parasitic burden within a short period of time. [[6]](https://coursology-qbank.com/amboss/article/1KX22_)
+
+
+
+
+We list the most important complications. The selection is not exhaustive.
+
+---

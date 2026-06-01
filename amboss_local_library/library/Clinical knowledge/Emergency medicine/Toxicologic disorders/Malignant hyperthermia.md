@@ -1,0 +1,229 @@
+# Malignant hyperthermia
+
+*Categories: Clinical knowledge > Emergency medicine > Toxicologic disorders > Malignant hyperthermia*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/sg0t92)
+
+---
+
+## Summary
+
+Malignant <u>hyperthermia</u> (MH) is a subclinical <u>myopathy</u> in which <u>general anesthesia</u> triggers an uncontrollable contraction of <u>skeletal muscle</u> that leads to a life-threatening hypercatabolic state and an increase in body temperature. The disease is primarily <u>autosomal dominant</u>; mutations in <u>receptors</u> (especially <u>ryanodine receptor</u> type 1) predispose to <u>volatile anesthetic</u> agents or <u>succinylcholine</u> causing an accumulation of intracellular <u>calcium</u> in <u>skeletal muscle</u> that leads to its overactivation and <u>hypermetabolism</u>. In the acute setting, diagnosis is based mainly on clinical presentation and end-tidal <u>capnography</u>, which reveals an increase in <u>end-tidal CO<sub>2</sub></u>. Immediate treatment measures involve stopping the triggering agent and administration of <u>dantrolene</u>. In nonacute settings, there are specific diagnostic tools (e.g., <u>caffeine-halothane contracture test</u>) to confirm suspected cases. MH is a lethal disease and has a high <u>mortality rate</u> if left untreated.
+
+---
+
+## Epidemiology
+
+* Sex: : <u>♂</u> > <u>♀</u> (2:1)
+
+* <u>Incidence</u>: ∼ 700 per year in the US
+
+
+
+
+Epidemiological data refers to the US, unless otherwise specified.
+
+---
+
+## Etiology
+
+* Inherited susceptibility: primarily <u>autosomal dominant</u> with reduced <u>penetrance</u> 
+
+* Most cases are associated with a mutation in the <u>ryanodine receptor</u> type 1 (<u>RYR</u>-1) ;  . or mutations in the <u>dihydropyridine receptors</u> (<u>DHPR</u>)
+
+* Some cases (< 10%) are due to a spontaneous mutation. [[1]](https://coursology-qbank.com/amboss/article/U40biT)
+
+* Triggering agents
+
+* <u>Volatile anesthetics</u> (e.g., <u>isoflurane</u>, <u>sevoflurane</u>, <u>desflurane</u>, <u>halothane</u>; except <u>nitrous oxide</u>)
+
+* <u>Succinylcholine</u>
+
+---
+
+## Pathophysiology
+
+Administration of triggering substances → ↑ <u>calcium</u> release from the <u>sarcoplasmic reticulum</u> or delay in its reuptake → ↑ <u>calcium</u> in muscle cells → ↑ contractility of the skeletal muscle → ↑ metabolism → ↑ oxygen consumption in addition to ↑ CO<sub>2</sub> production, heat, and <u>lactate</u> (malignant <u>hyperthermia</u>) → mixed respiratory and metabolic <u>acidosis</u> → uncoupled oxidative <u>phosphorylation</u> → breakdown of <u>the cell</u>'s energy supply → <u>cell death</u>
+
+
+
+
+> [!NOTE]
+> <u>Smooth muscle</u> and <u>cardiac muscle</u> remain unaffected.
+
+
+
+
+![Pathomechanisms and therapeutic approach in malignant hyperthermia](../../../../media/st3yqj4q2ks3a055hag6dbbf.jpg)
+
+Pathomechanisms and therapeutic approach in malignant hyperthermia
+
+---
+
+## Clinical features
+
+* Early signs
+
+* <u>Tachycardia</u>
+
+* <u>Tachypnea</u>
+
+* <u>Cyanosis</u>
+
+* Generalized rigidity, masseter rigidity
+
+* Late signs
+
+* Elevated body temperature (up to 45Â°C (113Â°F))
+
+* Signs of secondary organ damage
+
+* Complex <u>arrhythmias</u>
+
+* <u>Oliguria</u> (<u>acute kidney injury</u>)
+
+* <u>Seizures</u>
+
+* Bleeding and/or <u>thrombosis</u> (<u>disseminated intravascular coagulation</u>)
+
+* <u>Myoglobinuria</u>  , muscle <u>pain</u>, swelling, and <u>weakness</u> of the affected muscles (<u>rhabdomyolysis</u>)
+
+
+
+
+
+> [!TIP]
+> Although the rise in body temperature is usually a late sign in malignant <u>hyperthermia</u>, it may occur as an early sign in severe cases.
+
+---
+
+## Diagnosis
+
+Diagnosis is generally clinical, based on intraoperative signs and symptoms (e.g., muscle and <u>jaw</u> rigidity, <u>hyperthermia</u>) in connection with increased <u>end-tidal CO<sub>2</sub></u> and signs of muscle breakdown. Patients with a positive <u>family history</u>, suspicious clinical history, or <u>masseter muscle</u> rigidity should receive confirmatory preoperative testing to rule out the risk of MH.
+
+
+
+
+### <u>Preoperative diagnostics</u> [[2]](https://coursology-qbank.com/amboss/article/VZcG0a0)
+
+
+
+
+* <u>Gold standard</u>: caffeine-halothane contracture test (<u>CHCT</u>)
+
+* A muscle sample is obtained under <u>regional anesthesia</u>.
+
+* The muscle sample is divided with the grain of the fibers into six strips.
+
+* After tissue viability testing via electrical stimulation, the muscle strips are mounted into a bath.
+
+* Three strips are exposed to 3% <u>halothane</u>, and the remaining three other strips are exposed to <u>caffeine</u>.
+
+* The test is considered positive if any of the strips contract.
+
+* Disadvantages: only available at select testing centers, which will likely require the patient to travel.
+
+* Molecular <u>genetic testing</u>: low <u>sensitivity</u>, but highly specific and less expensive and invasive than <u>CHCT</u>
+
+
+
+
+
+### Intraoperative diagnostics
+
+
+
+
+* Clinical features: See “Clinical features” above.
+
+* Respiratory parameters: : continuous increase in <u>end-tidal CO<sub>2</sub></u>
+
+* Blood tests
+
+* <u>Arterial blood gas</u>: ↑ <u>pCO<sub>2</sub></u>, ↓ pO<sub>2</sub><sub>,</sub> and ↑ <u>lactate</u> (mixed respiratory and <u>metabolic acidosis</u>)
+
+* <u>Electrolyte</u> abnormalities: <u>hyperkalemia</u>, <u>hypercalcemia</u> [[1]](https://coursology-qbank.com/amboss/article/U40biT)
+
+* Myoglobinemia, ↑ <u>creatine kinase</u>
+
+* Urine: <u>myoglobinuria</u>
+
+---
+
+## Differential diagnoses
+
+* See “<u>Differential diagnosis of drug-induced hyperthermia</u>” for details.
+
+* <u>Thyrotoxic crisis</u>
+
+* <u>Pheochromocytoma</u>
+
+* Acute <u>porphyria</u> crisis
+
+* <u>Levodopa</u> withdrawal syndrome
+
+* <u>Sepsis</u>
+
+
+
+
+The differential diagnoses listed here are not exhaustive.
+
+---
+
+## Treatment
+
+* Discontinuation of potential triggering agents
+
+* Immediate administration of dantrolene
+
+* Mechanism of action
+
+* <u>Ryanodine receptor</u> <u>antagonist</u>
+
+* Prevents release of <u>calcium</u> from the <u>sarcoplasmic reticulum</u> of <u>striated muscle</u> → reduced muscle rigidity and <u>hyperthermia</u>
+
+* Indications
+
+* <u>Neuroleptic malignant syndrome</u>
+
+* Malignant <u>hyperthermia</u>
+
+* Adverse effects
+
+* <u>CNS</u>: <u>headache</u>, <u>dizziness</u>, mental/mood changes, <u>seizures</u>, <u>hallucinations</u>, <u>insomnia</u>, <u>malaise</u>
+
+* Gastrointestinal: <u>nausea</u>, <u>diarrhea</u> or <u>constipation</u>, <u>vomiting</u>
+
+* Other: <u>muscle weakness</u>, <u>allergic reaction</u>, blood count changes
+
+* Interactions
+
+* Increase in the activity of <u>nondepolarizing muscle relaxants</u>
+
+* <u>Dantrolene</u> interacts with <u>calcium antagonists</u>, potentially leading to <u>hyperkalemia</u>, which can be unpredictable → <u>cardiac arrhythmias</u>
+
+* Cooling measures (e.g., ice packs, cool water blankets, ice-water immersion, IV iced saline, forced air cooling) [[3]](https://coursology-qbank.com/amboss/article/DGX1Y-)
+
+* Ventilation
+
+* Increase <u>respiratory minute volume</u> by at least 3-fold.
+
+* Ventilation with 100% O<sub>2</sub>
+
+* Expedited completion of <u>surgery</u>
+
+
+
+
+
+> [!NOTE]
+> Dantrolene directly deals with distressed muscles.
+
+
+
+
+> [!NOTE]
+> If adequately treated, the <u>mortality rate</u> is < 10%. In the absence of rapid, appropriate treatment, the <u>mortality rate</u> is ∼ 70%.
+
+---

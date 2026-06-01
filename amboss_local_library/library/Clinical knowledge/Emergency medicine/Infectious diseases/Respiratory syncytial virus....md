@@ -1,0 +1,437 @@
+# Respiratory syncytial virus infection
+
+*Categories: Clinical knowledge > Emergency medicine > Infectious diseases > Respiratory syncytial virus infection*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/m80VM3)
+
+---
+
+## Summary
+
+<u>Respiratory syncytial virus</u> (<u>RSV</u>) is an <u>enveloped RNA virus</u> that infects the respiratory tract. <u>RSV</u> is one of the most common causes of respiratory infections. In healthy adults and older children, <u>RSV</u> typically manifests as a mild <u>upper respiratory tract infection</u> (URTI). <u>Infants</u>, young children, older adults, and individuals with other <u>risk factors for severe RSV infection</u> are more likely to develop a <u>lower respiratory tract infection</u> (LRTI) and/or require hospitalization. <u>RSV</u>-associated conditions are typically <u>diagnosed clinically</u> without the need for <u>pathogen</u> confirmation. Diagnostic testing (e.g., <u>RSV</u> <u>PCR</u>, <u>chest x-ray</u>) may be indicated in individuals with severe illness, <u>risk factors for severe RSV infection</u>, or suspected alternative diagnoses or complications. Management is generally supportive and focuses on the treatment of the associated condition. <u>Primary prevention</u> includes the <u>RSV vaccine</u> (for pregnant individuals and older adults) and <u>RSV prophylaxis</u> (for <u>infants</u> and young children).
+
+
+
+
+See also “<u>Bronchiolitis</u>.”
+
+---
+
+## Etiology
+
+* The <u>RSV</u> <u>virus</u> is an enveloped, nonsegmented, negative-stranded <u>RNA virus</u> [[5]](https://coursology-qbank.com/amboss/article/Ef18LT0)
+
+* <u>Pneumoviridae</u> family, Orthopneumovirus genus, Human orthopneumovirus species  [[5]](https://coursology-qbank.com/amboss/article/Ef18LT0)[[6]](https://coursology-qbank.com/amboss/article/0sWet50)
+
+* Has two <u>antigenic</u> subtypes: A and B  [[5]](https://coursology-qbank.com/amboss/article/Ef18LT0)
+
+* <u>Virulence factors</u>
+
+* Glycoprotein G: mutates often  [[2]](https://coursology-qbank.com/amboss/article/uHWpH50)[[5]](https://coursology-qbank.com/amboss/article/Ef18LT0)
+
+* <u>RSV</u> fusion (F) protein: typically conserved  [[5]](https://coursology-qbank.com/amboss/article/Ef18LT0)
+
+* Transmission
+
+* Transmitted via direct contact with respiratory droplets and indirect contact with contaminated surfaces  [[1]](https://coursology-qbank.com/amboss/article/Od1IJf0)[[5]](https://coursology-qbank.com/amboss/article/Ef18LT0)[[7]](https://coursology-qbank.com/amboss/article/AqWRa50)
+
+* The <u>incubation period</u> is 2–8 days. [[1]](https://coursology-qbank.com/amboss/article/Od1IJf0)[[5]](https://coursology-qbank.com/amboss/article/Ef18LT0)[[7]](https://coursology-qbank.com/amboss/article/AqWRa50)
+
+* Viral shedding typically lasts 3–8 days.  [[1]](https://coursology-qbank.com/amboss/article/Od1IJf0)[[5]](https://coursology-qbank.com/amboss/article/Ef18LT0)[[7]](https://coursology-qbank.com/amboss/article/AqWRa50)
+
+* In the US, RSV season has historically occurred from fall through early spring.  [[8]](https://coursology-qbank.com/amboss/article/cqWaxm0)[[9]](https://coursology-qbank.com/amboss/article/r6Wfmm0)
+
+
+
+
+
+> [!TIP]
+> The <u>RSV vaccine</u> targets the <u>RSV</u> fusion (F) protein, as it rarely mutates. [[5]](https://coursology-qbank.com/amboss/article/Ef18LT0)
+
+---
+
+## Risk factors
+
+The following <u>risk factors</u> are associated with severe <u>RSV</u> infections, typically <u>LRTIs</u>.
+
+
+
+
+### Risk factors for severe RSV infection in children [[5]](https://coursology-qbank.com/amboss/article/Ef18LT0)[[10]](https://coursology-qbank.com/amboss/article/csWaF50)[[11]](https://coursology-qbank.com/amboss/article/gSaF_P)[[12]](https://coursology-qbank.com/amboss/article/3xcSwe0)
+
+
+
+
+* Chronological age < 6 months (single most important <u>risk factor</u>)  [[10]](https://coursology-qbank.com/amboss/article/csWaF50)
+
+* Comorbidities [[10]](https://coursology-qbank.com/amboss/article/csWaF50)
+
+* <u>Preterm birth</u>, especially if associated with <u>chronic lung disease of prematurity</u>
+
+* <u>Congenital heart disease</u>
+
+* <u>Immunocompromised state</u>
+
+* Neuromuscular disorders that affect the ability to clear <u>airway</u> secretions
+
+* Environmental factors [[10]](https://coursology-qbank.com/amboss/article/csWaF50)
+
+* Childcare attendance
+
+* Exposure to <u>tobacco smoke</u>  [[13]](https://coursology-qbank.com/amboss/article/OFcIRV0)
+
+* For information on <u>RSV prevention</u> in children with <u>risk factors</u>, see “<u>RSV prophylaxis</u>.”
+
+
+
+
+
+> [!TIP]
+> Most children who are hospitalized with <u>RSV</u> infection are otherwise healthy with no previous medical conditions. [[2]](https://coursology-qbank.com/amboss/article/uHWpH50)[[14]](https://coursology-qbank.com/amboss/article/bGWHB50)
+
+
+
+
+### Risk factors for severe RSV infection in adults [[4]](https://coursology-qbank.com/amboss/article/ZJWZsm0)
+
+
+
+
+* Older age: ≥ 60 years (especially ≥ 75 years) [[4]](https://coursology-qbank.com/amboss/article/ZJWZsm0)
+
+* Comorbidities, e.g.:  [[15]](https://coursology-qbank.com/amboss/article/0JWesm0)
+
+* Chronic <u>lung</u> diseases: <u>COPD</u>, <u>asthma</u>
+
+* Cardiac diseases: <u>congestive heart failure</u>, <u>coronary artery disease</u>
+
+* Neurologic disorders: <u>cerebrovascular disease</u>, neuromuscular conditions
+
+* <u>Diabetes mellitus</u>
+
+* <u>Chronic kidney disease</u>
+
+* <u>Liver</u> disease
+
+* Hematologic disorders
+
+* <u>Immunocompromised state</u>, e.g., from medical conditions or use of medications
+
+* Living in a long-term care facility
+
+* Reduced functional capacity or <u>frailty</u>
+
+* For information on <u>RSV prevention</u> in adults with <u>risk factors</u>, see “<u>RSV vaccine</u>” and “<u>Immunization schedule</u>.”
+
+---
+
+## Clinical features
+
+* Symptoms of nonspecific viral illness [[5]](https://coursology-qbank.com/amboss/article/Ef18LT0)[[7]](https://coursology-qbank.com/amboss/article/AqWRa50)
+
+* <u>Lethargy</u> or fatigue
+
+* Irritability
+
+* Decreased appetite
+
+* <u>Fever</u>
+
+* <u>Symptoms of upper respiratory tract infection</u> [[1]](https://coursology-qbank.com/amboss/article/Od1IJf0)[[5]](https://coursology-qbank.com/amboss/article/Ef18LT0)[[7]](https://coursology-qbank.com/amboss/article/AqWRa50)
+
+* <u>Rhinorrhea</u> is often thick and copious in <u>infants</u>. [[16]](https://coursology-qbank.com/amboss/article/cGWay50)
+
+* <u>Acute otitis media</u> occurs in up to 60% of children with <u>RSV</u>. [[1]](https://coursology-qbank.com/amboss/article/Od1IJf0)
+
+* Symptoms of <u>lower respiratory tract infection</u> [[1]](https://coursology-qbank.com/amboss/article/Od1IJf0)[[5]](https://coursology-qbank.com/amboss/article/Ef18LT0)[[7]](https://coursology-qbank.com/amboss/article/AqWRa50)
+
+* All patients: <u>cough</u>, <u>tachypnea</u>, <u>rales</u>, <u>wheezes</u>, <u>crackles</u>
+
+* In young children: <u>clinical features of bronchiolitis</u>, <u>clinical features of pediatric pneumonia</u>
+
+* In older children and adults: <u>clinical features of acute bronchitis</u>, <u>clinical features of pneumonia</u>
+
+* Signs of severe RSV infection: <u>signs of respiratory distress</u>, <u>hypoxemia</u>, and, in young <u>infants</u>, <u>apnea</u>  [[1]](https://coursology-qbank.com/amboss/article/Od1IJf0)
+
+---
+
+## Diagnosis
+
+Diagnostic testing for <u>RSV</u> is not routinely indicated but can be considered depending on clinical features. [[5]](https://coursology-qbank.com/amboss/article/Ef18LT0)[[17]](https://coursology-qbank.com/amboss/article/lsWvE50)
+
+
+
+
+### Approach [[1]](https://coursology-qbank.com/amboss/article/Od1IJf0)[[5]](https://coursology-qbank.com/amboss/article/Ef18LT0)[[17]](https://coursology-qbank.com/amboss/article/lsWvE50)
+
+
+
+
+* Consider <u>confirmatory testing</u> for: [[1]](https://coursology-qbank.com/amboss/article/Od1IJf0)
+
+* Patients with <u>risk factors for severe RSV infection</u>
+
+* Hospital admission <u>infection control</u>  [[5]](https://coursology-qbank.com/amboss/article/Ef18LT0)
+
+* Obtain additional studies (e.g., <u>ABG</u>, <u>respiratory viral panel</u>, <u>chest x-ray</u>) for severe illness.  [[1]](https://coursology-qbank.com/amboss/article/Od1IJf0)
+
+* In children, see also “<u>Diagnostics of bronchiolitis</u>” and “<u>Diagnostics of pediatric pneumonia</u>.”
+
+* In adults, see also “<u>Diagnostics for acute bronchitis</u>” and “<u>Diagnostics of pneumonia</u>.”
+
+
+
+
+
+### <u>Confirmatory testing</u> [[5]](https://coursology-qbank.com/amboss/article/Ef18LT0)[[17]](https://coursology-qbank.com/amboss/article/lsWvE50)[[18]](https://coursology-qbank.com/amboss/article/1qW2xm0)
+
+
+
+
+If indicated, <u>RSV</u> can be identified in samples from the upper or <u>lower respiratory tract</u> using any of the following:
+
+
+
+
+* <u>Nucleic acid amplification test</u>, e.g., <u>reverse transcription PCR</u> (preferred)  [[5]](https://coursology-qbank.com/amboss/article/Ef18LT0)[[17]](https://coursology-qbank.com/amboss/article/lsWvE50)
+
+* <u>Rapid antigen detection test</u> (young children only)  [[5]](https://coursology-qbank.com/amboss/article/Ef18LT0)[[17]](https://coursology-qbank.com/amboss/article/lsWvE50)
+
+* Viral culture (rarely used)  [[5]](https://coursology-qbank.com/amboss/article/Ef18LT0)
+
+
+
+
+
+### <u>Chest x-ray</u> [[1]](https://coursology-qbank.com/amboss/article/Od1IJf0)[[9]](https://coursology-qbank.com/amboss/article/r6Wfmm0)
+
+
+
+
+<u>Radiography</u> is not routinely indicated. Findings may include the following: [[1]](https://coursology-qbank.com/amboss/article/Od1IJf0)
+
+
+
+
+* Nonspecific findings: <u>peribronchial thickening</u>, <u>pulmonary hyperinflation</u>
+
+* <u>Chest x-ray findings in bronchiolitis</u>
+
+* <u>Chest x-ray findings in pneumonia</u>
+
+
+
+
+
+![Viral bronchiolitis](../../../../media/zdqnyvgut8lfe23116qxd4a4.jpg)
+
+Viral bronchiolitis
+
+![Bilateral hyperinflation and right lung consolidation](../../../../media/xrsim9yd8ipd2atwpswafp0f.jpg)
+
+Bilateral hyperinflation and right lung consolidation
+
+---
+
+## Management
+
+Management depends on disease presentation and severity.
+
+
+
+
+### Approach [[5]](https://coursology-qbank.com/amboss/article/Ef18LT0)[[17]](https://coursology-qbank.com/amboss/article/lsWvE50)[[19]](https://coursology-qbank.com/amboss/article/Um1bUh0)
+
+
+
+
+* All patients
+
+* Provide <u>supportive care</u>.
+
+* Screen for <u>risk factors for severe RSV infection</u>.
+
+* Assess for indications for pharmacotherapy.
+
+* Mild <u>RSV</u> infection
+
+* Outpatient management
+
+* Discuss <u>return precautions</u> for <u>signs of severe RSV infection</u>, <u>dehydration</u>, or signs of a secondary bacterial infection.  [[20]](https://coursology-qbank.com/amboss/article/kIYm1q)
+
+* <u>Severe RSV infection</u>: Admission may be required for <u>respiratory support</u>. [[1]](https://coursology-qbank.com/amboss/article/Od1IJf0)[[5]](https://coursology-qbank.com/amboss/article/Ef18LT0)
+
+* If admitted, initiate contact and <u>droplet precautions</u>. [[21]](https://coursology-qbank.com/amboss/article/Bedza60)
+
+* Educate patients and caregivers on <u>measures to prevent transmission of respiratory infections</u>.
+
+
+
+
+
+> [!WARNING]
+> <u>RSV</u> viral shedding can be prolonged ≥ 3 weeks in certain individuals, e.g., <u>infants</u> and <u>immunocompromised individuals</u>; extended <u>infection control</u> precautions may be necessary. [[1]](https://coursology-qbank.com/amboss/article/Od1IJf0)[[5]](https://coursology-qbank.com/amboss/article/Ef18LT0)[[7]](https://coursology-qbank.com/amboss/article/AqWRa50)
+
+
+
+
+### <u>Supportive care</u> [[5]](https://coursology-qbank.com/amboss/article/Ef18LT0)[[17]](https://coursology-qbank.com/amboss/article/lsWvE50)[[19]](https://coursology-qbank.com/amboss/article/Um1bUh0)
+
+
+
+
+* Cool mist humidifier or steamy showers
+
+* <u>Antipyretics</u> for <u>fever</u> and/or discomfort
+
+* Encourage adequate fluid intake; if unable to tolerate oral fluids, provide NG/<u>IV fluids</u>.
+
+* Gentle <u>nasal suctioning</u> in <u>infants</u>
+
+* In children, see also:
+
+* <u>Management of bronchiolitis</u>
+
+* <u>Management of pneumonia in children</u>
+
+* <u>Supportive care for pediatric fever</u>
+
+* In adults, see also:
+
+* <u>Management of acute bronchitis</u>
+
+* <u>Management of pneumonia</u>
+
+
+
+
+
+### Pharmacotherapy
+
+
+
+
+* <u>Antibiotics</u>: only indicated for a confirmed bacterial <u>coinfection</u> or <u>superinfection</u>  [[1]](https://coursology-qbank.com/amboss/article/Od1IJf0)[[5]](https://coursology-qbank.com/amboss/article/Ef18LT0)[[18]](https://coursology-qbank.com/amboss/article/1qW2xm0)
+
+* <u>RSV</u>-directed therapies (rarely used): Consult infectious disease for patients with severe <u>RSV</u> <u>pneumonia</u> or an <u>immunocompromised state</u>. [[5]](https://coursology-qbank.com/amboss/article/Ef18LT0)[[17]](https://coursology-qbank.com/amboss/article/lsWvE50)[[18]](https://coursology-qbank.com/amboss/article/1qW2xm0)
+
+* <u>Infants</u> and young children: inhaled <u>ribavirin</u>  [[5]](https://coursology-qbank.com/amboss/article/Ef18LT0)[[17]](https://coursology-qbank.com/amboss/article/lsWvE50)[[18]](https://coursology-qbank.com/amboss/article/1qW2xm0)
+
+* <u>RSV</u> <u>immunoglobulin</u> (<u>off-label</u>)
+
+---
+
+## Prevention
+
+### General principles [[1]](https://coursology-qbank.com/amboss/article/Od1IJf0)[[5]](https://coursology-qbank.com/amboss/article/Ef18LT0)
+
+
+
+
+* Recommend the <u>RSV vaccine</u> in older adults. [[4]](https://coursology-qbank.com/amboss/article/ZJWZsm0)
+
+* To decrease the risk of infection in children, encourage:
+
+* <u>RSV vaccination</u> during each <u>pregnancy</u> [[22]](https://coursology-qbank.com/amboss/article/4sW3E50)
+
+* <u>Exclusive breastfeeding</u> for <u>infants</u> [[1]](https://coursology-qbank.com/amboss/article/Od1IJf0)
+
+* <u>RSV prophylaxis</u> for eligible young children
+
+* Avoidance of <u>tobacco smoke</u> exposure  [[1]](https://coursology-qbank.com/amboss/article/Od1IJf0)[[5]](https://coursology-qbank.com/amboss/article/Ef18LT0)
+
+* See also “<u>Preventing transmission of respiratory infections</u>.”
+
+
+
+
+
+### RSV vaccine (adults) [[22]](https://coursology-qbank.com/amboss/article/4sW3E50)[[23]](https://coursology-qbank.com/amboss/article/Y4dn3J0)
+
+
+
+
+* Description: a bivalent <u>vaccine</u> based on the prefusion form of the <u>RSV</u> fusion (F) protein [[24]](https://coursology-qbank.com/amboss/article/s6Wtmm0)
+
+* Indications
+
+* Once in pregnant individuals if <u>gestational age</u> is between 32 weeks and 36 6/7 weeks during <u>RSV season</u>  [[22]](https://coursology-qbank.com/amboss/article/4sW3E50)
+
+* All unvaccinated individuals ≥ 75 years of age [[23]](https://coursology-qbank.com/amboss/article/Y4dn3J0)
+
+* Individuals ≥ 60 years of age with <u>adult risk factors for severe RSV infection</u>  [[23]](https://coursology-qbank.com/amboss/article/Y4dn3J0)
+
+* Additional information
+
+* <u>Immunization schedule</u>
+
+* <u>Immunizations in pregnancy</u>
+
+
+
+
+
+> [!TIP]
+> <u>Infants</u> born to mothers who were not candidates for the <u>RSV vaccine</u> during the <u>pregnancy</u> should receive <u>nirsevimab</u>. See “<u>Routine RSV prophylaxis</u>” for details. [[25]](https://coursology-qbank.com/amboss/article/oLW0AN0)[[26]](https://coursology-qbank.com/amboss/article/6tdje70)
+
+
+
+
+### RSV prophylaxis (children) [[12]](https://coursology-qbank.com/amboss/article/3xcSwe0)[[27]](https://coursology-qbank.com/amboss/article/GLWB_N0)[[28]](https://coursology-qbank.com/amboss/article/E6W85m0)
+
+
+
+
+* <u>Monoclonal antibodies</u> that target the <u>RSV</u> fusion (F) protein are used to provide <u>passive immunization</u>.
+
+* <u>RSV prophylaxis</u> reduces <u>RSV</u>-related hospitalizations (e.g., due to <u>bronchiolitis</u>, <u>pneumonia</u>) in <u>infants</u>.
+
+* Two RSV monoclonal antibodies are now available.
+
+* Nirsevimab (preferred)
+
+* A long-acting <u>RSV</u> <u>monoclonal antibody</u> that provides protection for 5 months
+
+* Administered as a single intramuscular injection during or, preferably, just before <u>RSV season</u>
+
+* Palivizumab (alternative) [[11]](https://coursology-qbank.com/amboss/article/gSaF_P)[[12]](https://coursology-qbank.com/amboss/article/3xcSwe0)
+
+* A short-acting <u>RSV</u> <u>monoclonal antibody</u>
+
+* Administered as monthly intramuscular injections
+
+* Initiate administration just before and continue throughout the <u>RSV season</u>. [[12]](https://coursology-qbank.com/amboss/article/3xcSwe0)
+
+* In children with <u>RSV</u>-related hospitalization, discontinue for the remainder of the current <u>RSV season</u>.  [[12]](https://coursology-qbank.com/amboss/article/3xcSwe0)
+
+
+
+
+
+| <br>Indications for RSV prophylaxis and approved agents [[12]](https://coursology-qbank.com/amboss/article/3xcSwe0)[[27]](https://coursology-qbank.com/amboss/article/GLWB_N0)[[28]](https://coursology-qbank.com/amboss/article/E6W85m0)<br> |  |  |  |
+| --- | --- | --- | --- |
+|  |  | Indications | Agent and administration |
+| <br>Routine RSV prophylaxis (in 1<sup>st</sup> <u>RSV season</u>) [[26]](https://coursology-qbank.com/amboss/article/6tdje70)<br> |  | <br>* All <u>infants</u> < 8 months of age if a maternal <u>RSV vaccine</u> was: [[22]](https://coursology-qbank.com/amboss/article/4sW3E50)<br><br>* Not given during the <u>pregnancy</u> or cannot be verified [[26]](https://coursology-qbank.com/amboss/article/6tdje70)<br><br>* Administered within 14 days of <u>birth</u><br><br> | <br><br>* Give <u>nirsevimab</u> once. DOSAGE  [[27]](https://coursology-qbank.com/amboss/article/GLWB_N0)[[28]](https://coursology-qbank.com/amboss/article/E6W85m0)<br><br>* Timing [[28]](https://coursology-qbank.com/amboss/article/E6W85m0)<br><br>* Born during <u>RSV season</u>: Administer within 1 week of <u>birth</u>.<br><br>* Born outside of <u>RSV season</u>: Administer just before the 1st <u>RSV season</u>.<br><br><br> |
+| Indications for additional RSV prophylaxis (in 2<sup>nd</sup> <u>RSV season</u>) | <u>Infants</u> < 12 months of age | <br><br>* <u>Preterm birth</u> at < 29 weeks' <u>gestation</u>  [[11]](https://coursology-qbank.com/amboss/article/gSaF_P)<br><br>* <u>Chronic lung disease of prematurity</u><br><br>* Hemodynamically significant <u>congenital heart disease</u><br><br>* Consider prophylaxis in <u>infants</u> with conditions that impair mucous clearance.<br><br><br> | <br><br>* Preferred: Give <u>nirsevimab</u> once DOSAGE before the <u>RSV season</u>.   [[28]](https://coursology-qbank.com/amboss/article/E6W85m0)<br><br>* Alternative: Give <u>palivizumab</u> monthly DOSAGE just before and during the <u>RSV season</u>.  [[12]](https://coursology-qbank.com/amboss/article/3xcSwe0)<br><br>* <u>Infants</u> and children given <u>palivizumab</u> can transition to <u>nirsevimab</u> if they have received:  [[27]](https://coursology-qbank.com/amboss/article/GLWB_N0) <br><br>* < 5 doses of <u>palivizumab</u> in the current <u>RSV season</u><br><br>* <u>Palivizumab</u> during the prior <u>RSV season</u><br><br>* If <u>nirsevimab</u> has been given in the current <u>RSV season</u>, do not administer <u>palivizumab</u>.<br><br><br> |
+| Children 12–24 months of age | <br><br>* <u>Chronic lung disease of prematurity</u> requiring treatment<br><br>* Severely <u>immunocompromised state</u><br><br>* <u>Cystic fibrosis</u> with severe <u>lung</u> disease or poor weight gain  [[12]](https://coursology-qbank.com/amboss/article/3xcSwe0)[[27]](https://coursology-qbank.com/amboss/article/GLWB_N0)[[29]](https://coursology-qbank.com/amboss/article/ZWcZPY0)<br><br>* <u>Nirsevimab</u> only: American Indian or Alaska Native descent  [[28]](https://coursology-qbank.com/amboss/article/E6W85m0)<br><br><br> |  |  |
+
+
+
+
+
+> [!TIP]
+> If available, <u>nirsevimab</u> is preferred over <u>palivizumab</u> because it can be administered as a single dose rather than monthly dosing. [[27]](https://coursology-qbank.com/amboss/article/GLWB_N0)
+
+
+
+
+> [!NOTE]
+> Palivizumab and <u>nirsevimab</u> provide <u>RSV</u> (<u>Pneumovirus</u>) Prophylaxis for Preexisting conditions (e.g., Preterm).
+
+
+
+
+> [!TIP]
+> <u>RSV prophylaxis</u> can be administered at the same visit as other <u>age-appropriate vaccines</u>. [[27]](https://coursology-qbank.com/amboss/article/GLWB_N0)
+
+---

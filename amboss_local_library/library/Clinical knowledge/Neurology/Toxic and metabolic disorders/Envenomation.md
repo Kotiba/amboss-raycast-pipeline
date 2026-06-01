@@ -1,0 +1,628 @@
+# Envenomation
+
+*Categories: Clinical knowledge > Neurology > Toxic and metabolic disorders > Envenomation*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/d80ol3)
+
+---
+
+## Summary
+
+Envenomation is the exposure to a toxic substance secreted by a venomous animal, typically via a bite or sting. Clinical manifestations of envenomation depend on the specific venom and the quantity injected. Signs and symptoms range from mild local <u>pain</u> to neurologic compromise, <u>coagulopathy</u>, and <u>cardiac arrest</u>. Even small quantities of venom (e.g., from a <u>bee sting</u>) may cause life-threatening <u>hypersensitivity reactions</u> in susceptible individuals. Individuals who have been envenomated should always be evaluated for severe systemic reactions and receive therapy specific to the causative venom. Supportive treatment may include cardiac resuscitation, <u>respiratory support</u>, <u>pain management</u>, and/or advanced <u>wound care</u>. <u>Antivenoms</u> are available for use in the treatment of many, but not all envenomations. All <u>antivenoms</u> have a high risk of inducing <u>serum sickness</u>. Individuals who have been envenomated need to be observed for hours to weeks for delayed effects of the venom and/or the treatment. Aspects of <u>animal bites</u> unrelated to envenomation (e.g., infection, mechanical tissue damage) are treated in “<u>Animal bites</u>.”
+
+---
+
+## Approach to envenomation
+
+* Perform a rapid <u>primary survey</u> to identify severe systemic reactions (e.g., <u>anaphylaxis</u>).
+
+* Assess local and systemic symptoms of envenomation.
+
+* Discuss management with the local poison control center; in the US, the Poison Help line is 1-800-222-1222.
+
+* Perform <u>wound irrigation</u> and <u>debridement</u>.
+
+* <u>Manage acute pain</u>.
+
+* Administer <u>antivenom</u> if indicated and monitor for <u>adverse reactions</u> (e.g., <u>anaphylaxis</u>, <u>serum sickness</u>).
+
+* Administer <u>tetanus prophylaxis</u> as indicated.
+
+* Monitor for progression or return of systemic symptoms of envenomation.
+
+* See also “<u>Management of bite wounds</u>.”
+
+---
+
+## Snake bites
+
+### <u>Epidemiology</u> [[1]](https://coursology-qbank.com/amboss/article/jNX_aA)
+
+
+
+
+* ∼ 5000 venomous <u>snakebites</u> per year in the US. [[1]](https://coursology-qbank.com/amboss/article/jNX_aA)
+
+* ∼ 99% of venomous <u>snakebites</u> in the US are from <u>Crotalinae</u> snakes. [[1]](https://coursology-qbank.com/amboss/article/jNX_aA)
+
+* ∼ 25% of venomous <u>snakebites</u> are dry (i.e., no venom is released). [[2]](https://coursology-qbank.com/amboss/article/JPWsfl0)
+
+
+
+
+
+### Overview of <u>snake envenomation</u>
+
+
+
+
+Management of <u>crotaline envenomation</u> differs from <u>coral snake envenomation</u>. [[3]](https://coursology-qbank.com/amboss/article/hmXc2A)
+
+
+
+
+| <br>Overview of venomous snakes [[3]](https://coursology-qbank.com/amboss/article/hmXc2A)[[4]](https://coursology-qbank.com/amboss/article/SmXyUA)<br> |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  |  | <br>Viperidae (including the <u>Crotalinae</u> subfamily)<br> | <br>Elapidae<br> |  |
+| Example |  | <br>* Rattlesnakes<br><br> | <br>* Coral snakes<br><br> | <br>* Black mamba snake<br><br> |
+| Distinguishing features |  | <br>* Subtle earth-tone colored <u>skin</u> with rattle tail, triangular head, and vertical <u>pupils</u><br><br> | <br>* Alternating red, yellow, and black color bands<br><br> | <br>* Long, slender, snake with a coffin-shaped head<br><br> |
+| Distribution |  | <br>* All US states except Maine, Hawaii, and Alaska<br><br> | <br>* Southern US and Northern Mexico<br><br> | <br>* Sub-Saharan Africa<br><br> |
+| Venom |  | <br><br>* Cytohemoneurotoxic<br><br>* Increases permeability of <u>the cell</u> membrane<br><br>* Fibrinolytic and <u>protein C</u>-activation effect<br><br><br> | <br><br>* <u>Neurotoxin</u><br><br>* Causes competitive inhibition of presynaptic and postsynaptic muscarinic <u>AChR</u><br><br><br> | <br>* Dendrotoxin: <u>potassium</u> channel blockage and increased release of <u>ACh</u> at the <u>neuromuscular junction</u><br><br> |
+| Clinical features of envenomation | Local | <br><br>* Severely painful bite<br><br>* Swelling, <u>ecchymosis</u>, <u>erythema</u><br><br>* Tissue <u>necrosis</u><br><br><br> | <br><br>* Painless or mildly painful bite<br><br>* Swelling and <u>paresthesia</u><br><br><br> | <br><br>* Multiple bite sites<br><br>* No local swelling and minimal tingling sensation<br><br><br> |
+| Systemic | <br><br>* <u>Nausea</u>, <u>vomiting</u><br><br>* <u>Coagulopathy</u>: can lead to <u>DIC</u> and bleeding<br><br>* <u>Thrombocytopenia</u><br><br>* <u>Hemodynamic instability</u>: e.g., <u>tachycardia</u>, <u>hypotension</u>, <u>distributive shock</u><br><br>* <u>Neurotoxicity</u>: e.g., <u>paresthesias</u>, <u>altered mental status</u>, <u>seizures</u><br><br><br> | <br><br>* <u>Nausea</u>, <u>vomiting</u>, abdominal <u>pain</u><br><br>* <u>Neurotoxicity</u><br><br>* Descending <u>paralysis</u>: e.g., <u>bulbar paralysis</u>, <u>ophthalmoplegia</u>, <u>dysphagia</u>, <u>dysarthria</u><br><br>* Respiratory <u>depression</u><br><br>* Autonomic symptoms: e.g., <u>hypersalivation</u>, <u>miosis</u><br><br><br> | <br><br>* Nonspecific: e.g., metallic <u>taste</u>, <u>nausea</u>, <u>vomiting</u>, abdominal <u>pain</u><br><br>* <u>Neurotoxicity</u>: e.g., <u>ptosis</u>, <u>bulbar palsy</u>, <u>paresthesia</u>, and <u>dysarthria</u><br><br>* Autonomic symptoms: e.g., <u>hypersalivation</u>, <u>diarrhea</u>, sweating, and <u>miosis</u><br><br>* Can lead to hyperexcitability, <u>convulsion</u>, <u>loss of consciousness</u>, and respiratory <u>paralysis</u><br><br><br> |  |
+
+
+
+
+
+> [!TIP]
+> Pressure <u>immobilization</u> and/or <u>tourniquets</u> are not recommended as part of routine <u>snake envenomation</u> management in the US. [[5]](https://coursology-qbank.com/amboss/article/PNXWYA)
+
+
+
+
+![Rattlesnake](../../../../media/l47hvqncf5vfucfwpqy1w7dz.jpg)
+
+Rattlesnake
+
+![Coral snake](../../../../media/g97bvf31euiva4gbr1r54gto.jpg)
+
+Coral snake
+
+![Black mamba (Dendroaspis polylepis)](../../../../media/l7c4yv0a52e16wdfoj40s371.jpg)
+
+Black mamba (Dendroaspis polylepis)
+
+
+
+
+### Crotaline envenomation [[4]](https://coursology-qbank.com/amboss/article/SmXyUA)[[6]](https://coursology-qbank.com/amboss/article/AN1Rdh0)
+
+
+
+
+#### Clinical features [[1]](https://coursology-qbank.com/amboss/article/jNX_aA)[[6]](https://coursology-qbank.com/amboss/article/AN1Rdh0)
+
+
+
+
+* Local effects: burning <u>pain</u>, <u>ecchymosis</u>, <u>petechiae</u>, blebs, <u>bullae</u>
+
+* Systemic effects: hematotoxicity , <u>neurotoxicity</u>
+
+
+
+
+
+> [!TIP]
+> Local effects are more common than systemic effects with <u>crotaline envenomation</u>. [[6]](https://coursology-qbank.com/amboss/article/AN1Rdh0)
+
+
+
+
+#### Management
+
+
+
+
+<u>Crotaline antivenom</u> is the mainstay of treatment of moderate to severe <u>crotaline envenomation</u>.
+
+
+
+
+* Follow the general <u>approach to envenomation</u>.
+
+* Obtain <u>CBC</u>, <u>BMP</u>, <u>coagulation panel</u>, <u>CPK</u>, and <u>urinalysis</u>.  [[3]](https://coursology-qbank.com/amboss/article/hmXc2A)[[6]](https://coursology-qbank.com/amboss/article/AN1Rdh0)[[7]](https://coursology-qbank.com/amboss/article/WVWPt40)
+
+* Use clinical and laboratory severity grading to guide specific management.
+
+
+
+
+
+| <br><u>Crotaline envenomation</u> management [[3]](https://coursology-qbank.com/amboss/article/hmXc2A)[[4]](https://coursology-qbank.com/amboss/article/SmXyUA)[[6]](https://coursology-qbank.com/amboss/article/AN1Rdh0)<br> |  |  |
+| --- | --- | --- |
+| Grade | Features | Management |
+| Grade 0<br>(no symptoms) | <br><br>* Asymptomatic<br><br>* Punctures or <u>abrasions</u><br><br>* Minimal <u>edema</u> and/or <u>erythema</u><br><br>* Normal <u>laboratory values</u><br><br><br> | <br><br>* No <u>crotaline antivenom</u> required<br><br>* Repeat <u>CBC</u> and <u>coagulation panel</u> prior to discharge.<br><br>* Observe for 8–12 hours.<br><br><br> |
+| Grade I <br>(mild symptoms) | <br><br>* Painful bite<br><br>* Localized <u>erythema</u> and <u>edema</u><br><br>* Normal <u>laboratory values</u><br><br><br> | <br><br>* No <u>crotaline antivenom</u> required<br><br>* Repeat <u>CBC</u> and <u>coagulation panel</u> every 4–6 hours.<br><br>* Observe for 12–24 hours.<br><br><br> |
+| Grade II <br>(moderate symptoms) | <br><br>* More widely distributed <u>pain</u><br><br>* Tenderness, <u>erythema</u>, <u>edema</u> beyond the bite area<br><br>* Systemic features (e.g., <u>fever</u>, <u>nausea</u>, <u>vomiting</u>)<br><br>* Signs of <u>coagulopathy</u> (e.g., <u>petechiae</u>, abnormal <u>coagulation parameters</u>)<br><br><br> | <br><br>* Administer low-dose <u>CroFab</u> or ANAVIP.<br><br>* Repeat <u>CBC</u> and <u>coagulation panel</u> every 1 hour until stable.<br><br>* Monitor for at least 18 hours after symptoms are controlled.<br><br>* <u>ICU</u> admission<br><br><br> |
+| Grade III <br>(severe symptoms) | <br><br>* Severe <u>pain</u> at the bite site<br><br>* Swelling of the entire affected extremity<br><br>* Severe systemic features (e.g., <u>hypotension</u>, <u>tachycardia</u>)<br><br>* Signs of <u>coagulopathy</u> (e.g., generalized petechia, <u>hematuria</u>)<br><br><br> | <br><br>* Administer high-dose <u>CroFab</u> or ANAVIP.  [[8]](https://coursology-qbank.com/amboss/article/mwcVje0)<br><br>* Repeat <u>CBC</u> and <u>coagulation panel</u> every 1 hour until stable.<br><br>* Monitor for at least 18 hours after symptoms are controlled.<br><br>* <u>ICU</u> admission<br><br><br> |
+| <br>Grade IV (life-threatening)<br> | <br><br>* Rapidly progressive systemic symptoms<br><br>* Neurologic symptoms (e.g., <u>paresthesias</u>, <u>fasciculations</u>, <u>seizures</u>)<br><br>* Severe <u>coagulopathy</u> (e.g., <u>DIC</u>, hemorrhage)<br><br>* <u>Shock</u> and/or cardiopulmonary arrest<br><br><br> |  |
+
+
+
+
+
+#### Crotaline antivenom
+
+
+
+
+* Types
+
+* Crotalidae polyvalent immune Fab (<u>CroFab</u>)
+
+* Crotalidae equine immune F(ab′)<sub>2</sub> (ANAVIP)
+
+* Administration: preferably within 4 hours of the <u>snakebite</u>; effective for the first 24 hours [[8]](https://coursology-qbank.com/amboss/article/mwcVje0)
+
+* Dosages
+
+* Low-dose <u>CroFab</u> DOSAGE [[3]](https://coursology-qbank.com/amboss/article/hmXc2A)[[4]](https://coursology-qbank.com/amboss/article/SmXyUA)[[6]](https://coursology-qbank.com/amboss/article/AN1Rdh0)
+
+* High-dose <u>CroFab</u> DOSAGE [[3]](https://coursology-qbank.com/amboss/article/hmXc2A)[[4]](https://coursology-qbank.com/amboss/article/SmXyUA)[[6]](https://coursology-qbank.com/amboss/article/AN1Rdh0)
+
+* ANAVIP DOSAGE [[3]](https://coursology-qbank.com/amboss/article/hmXc2A)[[4]](https://coursology-qbank.com/amboss/article/SmXyUA)[[6]](https://coursology-qbank.com/amboss/article/AN1Rdh0)
+
+* Adverse effects: hypersensitivity, <u>serum sickness</u>
+
+
+
+
+
+### Coral snake envenomation [[6]](https://coursology-qbank.com/amboss/article/AN1Rdh0)[[9]](https://coursology-qbank.com/amboss/article/6fWjMk0)
+
+
+
+
+#### Clinical features [[1]](https://coursology-qbank.com/amboss/article/jNX_aA)[[6]](https://coursology-qbank.com/amboss/article/AN1Rdh0)
+
+
+
+
+* Local effects: mild <u>pain</u> and swelling at the bite site
+
+* Systemic effects: primarily <u>neurotoxicity</u>, e.g., <u>ptosis</u>, <u>paresthesias</u>, <u>dysphagia</u>, <u>muscle weakness</u>, and <u>respiratory failure</u>
+
+
+
+
+
+#### Management
+
+
+
+
+* Follow the general <u>approach to envenomation</u>.
+
+* Obtain <u>CBC</u>, <u>BMP</u>, <u>coagulation panel</u>, <u>CPK</u>, and <u>urinalysis</u>.  [[3]](https://coursology-qbank.com/amboss/article/hmXc2A)[[6]](https://coursology-qbank.com/amboss/article/AN1Rdh0)[[7]](https://coursology-qbank.com/amboss/article/WVWPt40)
+
+* Admit to <u>ICU</u> for at least 24 hours.
+
+* Monitor for signs of <u>neurotoxicity</u>.
+
+* <u>Neuromuscular weakness</u>: <u>cranial nerve examination</u>, muscle strength examination
+
+* Respiratory <u>depression</u>: continuous <u>capnography</u>, <u>negative inspiratory force</u> measurements
+
+* Administer <u>antivenom</u> if <u>neurotoxicity</u> develops: Micrurus fulvius <u>antivenin</u> DOSAGE
+
+---
+
+## Spider bites
+
+### Overview of <u>spider envenomation</u> [[6]](https://coursology-qbank.com/amboss/article/AN1Rdh0)[[10]](https://coursology-qbank.com/amboss/article/dVWot40)[[11]](https://coursology-qbank.com/amboss/article/ReWlA40)
+
+
+
+
+| Common venomous spiders |  |  |  |
+| --- | --- | --- | --- |
+|  |  | Brown recluse spider | Widow spider |
+| Distinguishing features |  | <br>* Violin-shaped marking on cephalothorax<br><br> | <br><br>* Black body with variable red marks<br><br>* North American species: red hourglass mark on <u>ventral</u> body<br><br><br> |
+| Distribution |  | <br><br>* North and South America<br><br>* <u>Endemic</u> to the Southeastern and Midwestern US<br><br><br> | <br>* All continents except Antarctica<br><br> |
+| Venom |  | <br><br>* Necrotoxin<br><br>* Causes local tissue <u>necrosis</u><br><br><br> | <br><br>* <u>Neurotoxin</u> (latrotoxin)<br><br>* Causes massive exocytosis of <u>ACh</u> and <u>norepinephrine</u><br><br><br> |
+| Clinical features | Local | <br><br>* Painless bite<br><br>* Painful <u>blister</u> (within hours)<br><br>* <u>Skin</u> discoloration (within 24 hours)<br><br>* <u>Eschar</u>/<u>necrosis</u> (within days)<br><br><br> | <br><br>* Painful bite<br><br>* Red <u>macule</u> (initially)<br><br>* Target-like <u>skin</u> lesion (late)<br><br><br> |
+| Systemic | <br><br>* Uncommon<br><br>* <u>Nausea</u>, <u>vomiting</u>, <u>fever</u>, <u>hemolysis</u><br><br><br> | <br><br>* Muscle <u>pain</u> and rigidity<br><br>* Autonomic neurologic symptoms<br><br><br> |  |
+
+
+
+
+
+> [!TIP]
+> Abdominal <u>pain</u> caused by <u>black widow spider envenomation</u> may mimic the <u>acute abdomen</u>. [[6]](https://coursology-qbank.com/amboss/article/AN1Rdh0)[[11]](https://coursology-qbank.com/amboss/article/ReWlA40)
+
+
+
+
+### Brown recluse spider envenomation [[6]](https://coursology-qbank.com/amboss/article/AN1Rdh0)[[10]](https://coursology-qbank.com/amboss/article/dVWot40)
+
+
+
+
+#### Clinical features
+
+
+
+
+* Painless bite develops into <u>erythematous</u>, painful <u>blister</u> within several hours
+
+* Bluish-black <u>skin</u> discoloration usually seen within 24 hours
+
+* Formation of a dark black <u>eschar</u> by the end of the first week (loxoscelism)
+
+* Systemic symptoms (uncommon): <u>nausea</u>, <u>vomiting</u>, <u>fever</u>, <u>hemolysis</u>
+
+
+
+
+
+#### Management
+
+
+
+
+* Follow the general <u>approach to envenomation</u>.
+
+* Consider surgical consultation for evaluation of the wound.
+
+* If systemic symptoms occur, obtain:
+
+* <u>Diagnostics for rhabdomyolysis</u>
+
+* <u>Diagnostics for DIC</u>
+
+* <u>Hemolysis workup</u>
+
+* Admit patients with expanding wounds and/or systemic symptoms.
+
+
+
+
+
+### Black widow spider envenomation [[6]](https://coursology-qbank.com/amboss/article/AN1Rdh0)[[10]](https://coursology-qbank.com/amboss/article/dVWot40)
+
+
+
+
+#### Clinical features
+
+
+
+
+* Painful bite
+
+* Circular red <u>macule</u> that progresses to a target-like lesion
+
+* Systemic symptoms (<u>latrodectism</u>)
+
+* Muscle <u>pain</u> and rigidity of the extremities, abdomen, and back
+
+* Autonomic neurologic symptoms (e.g., <u>dyspnea</u>, <u>tachycardia</u>, <u>diaphoresis</u>, <u>nausea</u>)
+
+
+
+
+
+#### Management
+
+
+
+
+* Follow the general <u>approach to envenomation</u>.
+
+* Administer <u>benzodiazepines</u> for muscle rigidity.
+
+* Administer black widow spider antivenom (<u>Antivenin</u> (<u>Latrodectus</u> mactans) DOSAGE) in: [[6]](https://coursology-qbank.com/amboss/article/AN1Rdh0)
+
+* Patients with severe symptoms
+
+* Young children
+
+* Older adults
+
+* Pregnant individuals
+
+* Observe asymptomatic or mildly symptomatic patients for 6 hours.
+
+* Admit patients with moderate or severe symptoms.
+
+---
+
+## Hymenoptera stings
+
+Hymenoptera order includes bees, wasps, hornets, and fire ants.
+
+
+
+
+### Background
+
+
+
+* <u>Epidemiology</u>: <u>Hymenoptera stings</u> are responsible for 10% of all <u>anaphylaxis</u> in the US. [[6]](https://coursology-qbank.com/amboss/article/AN1Rdh0)
+
+
+
+
+### Clinical features [[6]](https://coursology-qbank.com/amboss/article/AN1Rdh0)
+
+
+
+
+* Local effects
+
+* <u>Acute pain</u>
+
+* Swelling, <u>erythema</u>, and itching within minutes
+
+* Resolve within 2–3 days
+
+* Large local reactions: swelling and/or redness extending > 10 cm that last for days [[12]](https://coursology-qbank.com/amboss/article/RoXlb_)
+
+* Systemic effects: <u>allergic reaction</u>, <u>anaphylaxis</u>
+
+
+
+
+
+> [!NOTE]
+> Insects of the Hymenoptera order release venom into tissue by stinging, triggering a local <u>skin</u> reaction and potentially life-threatening systemic reactions.
+
+
+
+
+### Management [[6]](https://coursology-qbank.com/amboss/article/AN1Rdh0)[[13]](https://coursology-qbank.com/amboss/article/QVWu840)
+
+
+
+
+* Follow the general <u>approach to envenomation</u>.
+
+* Diagnostic tests are not typically required.
+
+
+
+
+
+#### Local reactions
+
+
+
+
+* Remove retained stingers.
+
+* Apply cold compresses.
+
+* Provide <u>acute pain management</u> (e.g., <u>NSAIDs</u>)
+
+* Manage <u>pruritus</u> with oral <u>antihistamines</u> and <u>topical corticosteroids</u>.
+
+* Consider <u>steroid</u> taper for large local reactions.
+
+
+
+
+
+#### <u>Anaphylaxis</u>
+
+
+
+
+* Administer <u>epinephrine IM</u> 1:1,000 (1 mg/mL) DOSAGE into the anterolateral thigh.
+
+* See “<u>Management of anaphylaxis</u>” for details.
+
+
+
+
+
+#### Massive envenomation [[13]](https://coursology-qbank.com/amboss/article/QVWu840)[[14]](https://coursology-qbank.com/amboss/article/eVWxt40)
+
+
+
+
+* Severe systemic reactions and/or delayed organ failure may occur after a swarm attack (typically ≥ 50 stings)
+
+* Perform <u>ABCDE survey</u>.
+
+* Obtain serial labs including <u>CMP</u> and <u>blood pH</u>.
+
+
+
+
+
+#### Disposition [[6]](https://coursology-qbank.com/amboss/article/AN1Rdh0)
+
+
+
+
+* Local reaction: discharge with <u>return precautions</u>
+
+* <u>Anaphylaxis</u>: See “Monitoring and disposition” in “<u>Anaphylaxis</u>.”
+
+* Massive envenomation: Admit and monitor for <u>multiple organ dysfunction syndrome</u>.
+
+
+
+
+
+> [!TIP]
+> Provide a prescription and training on <u>epinephrine autoinjector</u> use for patients being discharged after <u>treatment of anaphylaxis</u> from <u>Hymenoptera stings</u>. [[6]](https://coursology-qbank.com/amboss/article/AN1Rdh0)
+
+---
+
+## Scorpion stings
+
+### Bark scorpion [[6]](https://coursology-qbank.com/amboss/article/AN1Rdh0)[[15]](https://coursology-qbank.com/amboss/article/qfWCMk0)[[16]](https://coursology-qbank.com/amboss/article/OeWI_40)
+
+
+
+
+#### Background
+
+
+
+
+* Distribution: Southwestern US
+
+* Pathophysiology: <u>neurotoxins</u> in the venom inhibit the inactivation of the <u>sodium</u> channels → prolonged <u>depolarization</u> → neuronal membrane hyperexcitability
+
+
+
+
+
+![Arizona bark scorpion](../../../../media/g91e7mp76yz6qd1g43cdeqml.jpg)
+
+Arizona bark scorpion
+
+
+
+
+#### Clinical features
+
+
+
+
+* Local effects: severe <u>pain</u>, swelling, and <u>erythema</u> at the sting site
+
+* Systemic effects
+
+* Neuromuscular toxicity
+
+* <u>Cranial nerve</u> dysfunction (e.g., <u>dysphagia</u>, abnormal <u>eye movements</u>)
+
+* Somatic skeletal neuromuscular dysfunction (e.g., jerking of extremities, <u>fasciculations</u>)
+
+* <u>Autonomic dysfunction</u> (e.g., <u>tachycardia</u>, salivation, <u>diaphoresis</u>)
+
+* Duration: Symptoms peak at ∼ 5 hours and may last > 30 hours.
+
+
+
+
+
+#### Management
+
+
+
+
+* Follow the general <u>approach to envenomation</u>.
+
+* Diagnostics tests are not routinely recommended. [[16]](https://coursology-qbank.com/amboss/article/OeWI_40)
+
+* <u>Antivenom</u> is indicated for <u>cranial nerve</u> and/or neuromuscular dysfunction.
+
+* Use severity grading to guide specific management.
+
+
+
+
+
+| <br>Centruroides scorpion envenomation management [[6]](https://coursology-qbank.com/amboss/article/AN1Rdh0)<br> |  |  |
+| --- | --- | --- |
+| Grade | Clinical features | Management |
+| 1 | <br>* Local <u>pain</u> and/or <u>paresthesias</u> at the sting site<br><br> | <br>* Observe for 4–6 hours to verify no progression of symptoms. [[17]](https://coursology-qbank.com/amboss/article/GPWBTl0)<br><br> |
+| 2 | <br>* <u>Pain</u> and/or <u>paresthesias</u> remote from the sting site<br><br> |  |
+| 3 | <br>* <u>Cranial nerve</u> OR neuromuscular dysfunction<br><br> | <br><br>* Administer <u>antivenom</u>: Centruroides scorpion immune F(ab′)<sub>2</sub> (Anascorp) DOSAGE<br><br>* Consider <u>benzodiazepines</u> for muscle hyperactivity if <u>antivenom</u> is not used.<br><br>* Admit for symptomatic management and monitoring.<br><br><br> |
+| 4 | <br>* <u>Cranial nerve</u> AND neuromuscular dysfunction<br><br> |  |
+
+
+
+
+
+#### Complications [[15]](https://coursology-qbank.com/amboss/article/qfWCMk0)
+
+
+
+
+* <u>Rhabdomyolysis</u>
+
+* <u>Aspiration pneumonia</u>
+
+* <u>Respiratory failure</u>
+
+* <u>Pancreatitis</u> (rare)
+
+---
+
+## Venomous aquatic animals
+
+The following sections cover the venomous aquatic animals most commonly responsible for hospital visits in the US, including animals not native to US waters, which may be popular among aquarists. Wounds caused by aquatic animals are particularly susceptible to infection with Vibrio species, due to contaminated seawater (see “<u>Noncholera Vibrio infection</u>” for more information).
+
+
+
+
+> [!TIP]
+> Removing the patient from the water is the most important first step after any <u>marine envenomation</u>. [[6]](https://coursology-qbank.com/amboss/article/AN1Rdh0)
+
+---
+
+## Jellyfish stings
+
+Clinical features and treatment of <u>jellyfish stings</u> vary by species; clinicians should be familiar with the species commonly found in the region in which they practice. [[18]](https://coursology-qbank.com/amboss/article/aTWQ6k0)
+
+
+
+
+* Pathophysiology [[6]](https://coursology-qbank.com/amboss/article/AN1Rdh0)
+
+* Tentacles containing <u>nematocysts</u> attach to the <u>skin</u> and discharge venom.
+
+* Venom toxicity varies by species.
+
+* Clinical features [[6]](https://coursology-qbank.com/amboss/article/AN1Rdh0)
+
+* Local effects
+
+* <u>Acute pain</u>
+
+* Linear <u>urticarial</u> lesions
+
+* <u>Skin</u> <u>necrosis</u> (severe stings)
+
+* Systemic effects: <u>anaphylaxis</u>, <u>respiratory failure</u>, <u>cardiac arrest</u>
+
+* Diagnostics: not routinely indicated
+
+* Management [[6]](https://coursology-qbank.com/amboss/article/AN1Rdh0)[[18]](https://coursology-qbank.com/amboss/article/aTWQ6k0)[[19]](https://coursology-qbank.com/amboss/article/4NX3YA)
+
+* Follow the general <u>approach to envenomation</u>.
+
+* Inactivate remaining <u>nematocysts</u>.  [[6]](https://coursology-qbank.com/amboss/article/AN1Rdh0)[[19]](https://coursology-qbank.com/amboss/article/4NX3YA)
+
+* Apply vinegar to stings from Hawaiian box jellyfish, Australian box jellyfish, and Portuguese man-of-war.
+
+* Apply 50% baking soda slurry to lion's mane and Chesapeake Bay sea nettle.
+
+* Remove the attached tentacles with forceps or a gloved hand.
+
+* Consider <u>antivenom</u> administration for severe reactions from box <u>jellyfish stings</u>.  [[6]](https://coursology-qbank.com/amboss/article/AN1Rdh0)
+
+* Consider symptomatic relief by applying heat (e.g., heat packs, hot water immersion, warm shower). [[19]](https://coursology-qbank.com/amboss/article/4NX3YA)
+
+
+
+
+
+> [!TIP]
+> Avoid applying water to or rubbing the sting sites as this may trigger <u>nematocysts</u> remaining on the <u>skin</u> and cause additional stings. [[6]](https://coursology-qbank.com/amboss/article/AN1Rdh0)
+
+
+
+
+![Box jellyfish sting](../../../../media/r5hg7cgxzn3z4kscejyy662e.jpg)
+
+Box jellyfish sting
+
+---

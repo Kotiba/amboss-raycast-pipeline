@@ -1,0 +1,194 @@
+# Pes planus
+
+*Categories: Clinical knowledge > Pediatrics > Pediatric orthopedics and trauma > Pes planus*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/4G03zh)
+
+---
+
+## Summary
+
+Pes planus (flatfoot) is a type of <u>foot deformity</u> characterized by the absence or reduction of the <u>medial</u> longitudinal arch while standing. Pes planus can be rigid or functional. In <u>rigid pes planus</u>, the arch is absent regardless of foot position, while in <u>functional pes planus</u>, the <u>medial</u> arch is visible when sitting or standing on tiptoes. <u>Rigid pes planus</u> is rare and may be congenital or acquired. <u>Functional pes planus</u> is the most common type and is typically a painless, normal physiological variant that resolves by <u>adolescence</u>. <u>Functional pes planus</u> is typically <u>diagnosed clinically</u> and rarely requires further evaluation. Referral to an orthopedic <u>surgeon</u> should be considered for patients with <u>pain</u> or limited function.
+
+
+
+
+This article covers <u>functional pes planus</u>; see “Subtypes and variants” for <u>rigid pes planus</u> and <u>acquired pes planus</u>.
+
+---
+
+## Epidemiology
+
+* Occurs in > 95% of children ≤ 2 years of age [[1]](https://coursology-qbank.com/amboss/article/GXdBzo0)
+
+* <u>Prevalence</u> decreases with age: seen in < 20% of adults [[1]](https://coursology-qbank.com/amboss/article/GXdBzo0)[[2]](https://coursology-qbank.com/amboss/article/OC1IHQ0)
+
+
+
+
+Epidemiological data refers to the US, unless otherwise specified.
+
+---
+
+## Clinical features
+
+### Symptoms
+
+
+
+
+* Most patients are asymptomatic.
+
+* Occasional arch <u>pain</u> after excessive exercise (e.g., long walks)
+
+* Patients may present with <u>complications of pes planus</u>.
+
+
+
+
+
+### Examination
+
+
+
+
+* With the patient standing, common findings include:
+
+* Hindfoot <u>valgus deformity</u>  [[2]](https://coursology-qbank.com/amboss/article/OC1IHQ0)
+
+* Midfoot position is <u>dorsiflexed</u> and <u>abducted</u>
+
+* Forefoot is <u>pronated</u> or <u>externally rotated</u>
+
+* Flattening of the <u>medial</u> arch
+
+* Calluses may form on the <u>plantar</u> surface of the midfoot.
+
+* Patients have a full <u>range of motion</u>.
+
+
+
+
+
+![Hindfoot valgus deformity in pes planus](../../../../media/ewob7fnhp6j2a1on1c67cfnc.jpg)
+
+Hindfoot valgus deformity in pes planus
+
+![Pes planus](../../../../media/an0g3ziqpnlq9jsssxwqyi7c.jpg)
+
+Pes planus
+
+---
+
+## Diagnosis
+
+### General principles [[1]](https://coursology-qbank.com/amboss/article/GXdBzo0)
+
+
+
+
+* <u>Functional pes planus</u> is a <u>clinical diagnosis</u>.
+
+* Examination findings can help:
+
+* Distinguish between <u>functional pes planus</u> and <u>rigid pes planus</u>
+
+* Determine underlying etiology
+
+* Imaging is not usually required, consider <u>x-ray</u> foot in diagnostic uncertainty. [[5]](https://coursology-qbank.com/amboss/article/Q61uk30)
+
+
+
+
+
+> [!TIP]
+> Do not perform routine imaging to diagnose asymptomatic <u>functional pes planus</u>. [[5]](https://coursology-qbank.com/amboss/article/Q61uk30)
+
+
+
+
+### Confirmatory examination findings [[1]](https://coursology-qbank.com/amboss/article/GXdBzo0)[[2]](https://coursology-qbank.com/amboss/article/OC1IHQ0)
+
+
+
+
+* “Too many toes” sign 
+
+* Observe the patient from behind while they stand or walk.
+
+* Characteristic finding: Toes in addition to the fifth and half of the fourth toe are seen.
+
+* <u>Medial</u> arch position: can help differentiate between rigid and <u>functional pes planus</u>
+
+* <u>Functional pes planus</u>
+
+* <u>Medial</u> arch disappears when standing
+
+* <u>Medial</u> arch becomes visible again with <u>dorsiflexion</u> of the great toe while standing (also known as the “toe raising test”) or with tiptoe standing
+
+* In mild deformity, the arch may be visible on standing; standing on one foot may reveal arch collapse.
+
+* <u>Rigid pes planus</u>: the <u>medial</u> arch does not change with position
+
+
+
+
+
+!["Too many toes" sign in pes planus](../../../../media/pmag89f23hzcf5knicmeoxhd.jpg)
+
+"Too many toes" sign in pes planus
+
+![Exam findings in functional pes planus](../../../../media/de7j1pxduij9cos162plp5v1.jpg)
+
+Exam findings in functional pes planus
+
+
+
+
+### Assessment for underlying etiology [[1]](https://coursology-qbank.com/amboss/article/GXdBzo0)[[2]](https://coursology-qbank.com/amboss/article/OC1IHQ0)
+
+
+
+
+* <u>Beighton score</u>: for underlying hypermobiltiy
+
+* <u>Torsional profile</u>: for angular and/or rotational deformities
+
+* <u>Silfverskjöld test</u>: for isolated <u>gastrocnemius</u> <u>contracture</u>
+
+---
+
+## Treatment
+
+* Asymptomatic individuals
+
+* Treatment is not required unless symptoms develop.  [[1]](https://coursology-qbank.com/amboss/article/GXdBzo0)[[6]](https://coursology-qbank.com/amboss/article/lbdvFo0)
+
+* Offer reassurance that <u>functional pes planus</u> usually resolves by <u>adolescence</u> without intervention. [[1]](https://coursology-qbank.com/amboss/article/GXdBzo0)
+
+* For patients with <u>pain</u> or reduced function: [[1]](https://coursology-qbank.com/amboss/article/GXdBzo0)[[6]](https://coursology-qbank.com/amboss/article/lbdvFo0)
+
+* Offer <u>conservative treatment</u>.
+
+* Rest with activity modification, ice, and massage
+
+* <u>NSAIDs</u> (see “<u>Oral analgesics</u>” for dosages)
+
+* <u>Physical therapy</u>: especially for patients with a tight <u>Achilles tendon</u> [[2]](https://coursology-qbank.com/amboss/article/OC1IHQ0)
+
+* Consider referral to <u>podiatry</u> for therapeutic footwear (e.g., custom <u>orthotics</u>, heel wedges).   [[1]](https://coursology-qbank.com/amboss/article/GXdBzo0)[[2]](https://coursology-qbank.com/amboss/article/OC1IHQ0)
+
+* If there is minimal improvement:
+
+* Consider alternative diagnoses (e.g., <u>congenital rigid pes planus</u>, <u>Achilles tendon</u> <u>contracture</u>).
+
+* Refer to an orthopedic specialist for surgical evaluation.
+
+
+
+
+
+> [!WARNING]
+> Custom <u>orthotics</u> or shoe inserts are not recommended for patients with asymptomatic, or minimally symptomatic, pes planus. [[6]](https://coursology-qbank.com/amboss/article/lbdvFo0)
+
+---

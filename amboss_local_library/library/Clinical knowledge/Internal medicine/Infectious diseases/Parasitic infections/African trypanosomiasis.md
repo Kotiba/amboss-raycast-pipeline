@@ -1,0 +1,263 @@
+# African trypanosomiasis
+
+*Categories: Clinical knowledge > Internal medicine > Infectious diseases > Parasitic infections > African trypanosomiasis*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/T506jg)
+
+---
+
+## Summary
+
+African trypanosomiasis (sleeping sickness) is an infectious disease caused by the <u>protozoan</u> <u>parasite</u> <u>Trypanosoma brucei</u> and is transmitted by the bite of the <u>tsetse fly</u>. The disease is <u>endemic</u> to sub-Saharan Africa; all cases that occur in the US are the result of travel to <u>endemic</u> regions. There are two forms of the disease with distinct geographical distributions and rates of clinical progression. <u>West African sleeping sickness</u> is caused by T. b. gambiense and progresses slowly, while <u>East African sleeping sickness</u> is caused by T. b. rhodesiense and progresses rapidly. Patients with either subtype of the disease initially present with a painful <u>nodule</u> or <u>chancre</u> at the site of the bite, followed by a hemolymphatic phase with <u>fever</u> and <u>lymphadenopathy</u> (stage I). Eventually, patients develop <u>CNS</u> symptoms (stage II), which are characterized by behavioral changes and a reversal of the <u>sleep</u>-wake cycle. If the disease is left untreated, patients will succumb to <u>coma</u> and die. The disease is diagnosed if the <u>trypomastigote</u> is found in <u>chancre</u> fluid, <u>lymph node</u> aspirates, or <u>blood smears</u>. The drugs of choice for stage I T. b. gambiense infection are <u>pentamidine</u> and <u>fexinidazole</u>, while <u>suramin</u> is the drug of choice for stage I T. b. rhodesiense. An <u>eflornithine</u>-<u>nifurtimox</u> combination and <u>fexinidazole</u> monotherapy are the therapy of choice for stage II T. b. gambiense infection, while <u>melarsoprol</u> is the drug of choice for stage II T. b. rhodesiense. No <u>vaccine</u> or <u>chemoprophylaxis</u> for African trypanosomiasis is available.
+
+---
+
+## Epidemiology
+
+* Distribution: sub-Saharan Africa
+
+* <u>Incidence</u>: 980 new cases were reported in 2019  [[1]](https://coursology-qbank.com/amboss/article/9MbNI8)
+
+
+
+
+
+![African trypanosomiasis fact sheet and incidence map](../../../../../media/iqz7eufk8qekv6jfwkrkpemd.jpg)
+
+African trypanosomiasis fact sheet and incidence map
+
+![Travel Medicine: Diseases with Regional Patterns](../../../../../media/small_5dfa1577d4250.jpg)
+
+Travel Medicine: Diseases with Regional Patterns
+
+
+
+
+Epidemiological data refers to the US, unless otherwise specified.
+
+---
+
+## Etiology
+
+* <u>Pathogen</u>: Trypanosoma brucei
+
+* <u>T. brucei</u> is a hemoflagellate <u>protozoan</u>
+
+* Two subspecies: <u>Trypanosoma brucei rhodesiense</u> and <u>Trypanosoma brucei gambiense</u>
+
+* A rare but new form of T. evansi that causes sleeping sickness has been identified in India.
+
+* Route of infection: <u>vector</u> transmission by the bite of the tsetse fly (the bite is usually painful and remembered by the patient)
+
+
+
+
+
+![Tsetse fly (Glossina morsitans)](../../../../../media/mdf5o9anqpdnkxqbfa53glu4.jpg)
+
+Tsetse fly (Glossina morsitans)
+
+---
+
+## Clinical features
+
+### Stage I (hemolymphatic phase)
+
+
+
+
+* <u>Intermittent fever</u>: caused by <u>antigenic</u> variation
+
+* Painless <u>lymph node</u> enlargement
+
+* Winterbottom sign: painless <u>cervical lymphadenopathy</u> in the <u>posterior triangle of the neck</u>
+
+* Trypanosomal chancre (local primary lesion)  
+
+* A red, painful, indurated, nodular swelling;  0.8–2 in in size that develops at the bite site within 2 weeks of the bite
+
+* Resolves spontaneously within 1–2 weeks
+
+* The <u>nodule</u> may ulcerate and form a painful <u>chancre</u>.
+
+* <u>Erythematous</u>, annular (targetoid), or <u>maculopapular rash</u> that may or may not be pruritic
+
+* <u>Malaise</u>, <u>headache</u>, <u>arthralgia</u>
+
+* <u>Symptoms of anemia</u>
+
+* Facial <u>edema</u>
+
+* Possible <u>hepatosplenomegaly</u>
+
+* Occasionally, <u>arrhythmias</u>, <u>hypotension</u>, and <u>symptoms of myocarditis</u>
+
+
+
+
+
+![Chancre of African trypanosomiasis](../../../../../media/lmz3akmuy94g3digj1i2uvcu.jpg)
+
+Chancre of African trypanosomiasis
+
+
+
+
+### Stage II (neurologic phase)
+
+
+
+
+* <u>Headache</u>
+
+* Weight loss
+
+* Behavioral changes: confusion, <u>apathy</u>, <u>psychosis</u>
+
+* <u>Daytime somnolence</u>, which may be associated with night-time <u>insomnia</u>
+
+* <u>Ataxia</u>
+
+* Kerandel sign: <u>delayed hyperesthesia</u>
+
+* <u>Cachexia</u>
+
+* <u>Coma</u>
+
+* <u>Death</u> [[2]](https://coursology-qbank.com/amboss/article/XNb9-F)
+
+---
+
+## Diagnosis
+
+### General findings
+
+
+
+
+* <u>CBC</u>: <u>anemia</u>, <u>granulocytopenia</u>
+
+* ↑ <u>ESR</u>
+
+* ↑ <u>IgM</u> levels
+
+
+
+
+
+### <u>Confirmatory tests</u>
+
+
+
+
+* Local primary lesion: direct visualization of <u>trypomastigotes</u> using a <u>Giemsa stain</u> in <u>chancre</u> fluid
+
+* Stage I: direct visualization of <u>trypomastigotes</u> in thin and thick <u>peripheral blood smears</u> or <u>lymph node</u> aspirates using a <u>Giemsa stain</u>
+
+* Stage II: <u>lumbar puncture</u> and <u>CSF</u> examination
+
+* <u>Trypomastigotes</u> may be directly visualized.
+
+* <u>Lymphocytic</u> <u>pleocytosis</u>
+
+* ↑ <u>IgM</u> and protein levels
+
+* <u>Morula</u> cells of Mott
+
+
+
+
+
+> [!TIP]
+> A history of travel to an <u>endemic</u> region is an important diagnostic clue for trypanosomiasis.
+
+
+
+
+> [!TIP]
+> <u>CSF</u> examination must be performed for all patients with suspected or confirmed African trypanosomiasis to rule out stage II disease because the drug of choice depends on the stage of the disease.
+
+
+
+
+![Trypanosoma brucei](../../../../../media/v0f0hk1ocp3tnac2gff9ajsf.jpg)
+
+Trypanosoma brucei
+
+---
+
+## Treatment
+
+### General
+
+
+
+
+* Early in-patient treatment is very important.
+
+* The drug of choice for trypanosomiasis is dependent on the stage of the disease and the subspecies of <u>T. brucei</u> (see the table below).
+
+* Follow-up: <u>CSF</u> examination should be repeated every 6 months for 2 years.
+
+
+
+
+
+### Trypanosomal therapy [[3]](https://coursology-qbank.com/amboss/article/1Nb2Z8)
+
+
+
+
+For more information about <u>drugs used in the treatment of African trypanosomiasis</u>, please see “<u>Overview of antiprotozoal agents</u>.”
+
+
+
+
+|  | <u>West African sleeping sickness</u> | <u>East African sleeping sickness</u> |
+| --- | --- | --- |
+| <br>Stage I (<u>bloodborne disease</u>) | <br><br>* First-line: pentamidine, <u>fexinidazole</u><br><br>* Second-line: suramin<br><br><br> | <br>* <u>Suramin</u><br><br> |
+| <br>Stage II (<u>CNS</u> invasion) <br> | <br><br>* First-line<br><br>* Eflornithine PLUS <u>nifurtimox</u><br><br>* <u>Fexinidazole</u><br><br>* Second-line: <u>melarsoprol</u><br><br><br> | <br>* <u>Melarsoprol</u><br><br> |
+
+
+
+
+
+> [!WARNING]
+> African trypanosomiasis is generally lethal without therapy.
+
+
+
+
+> [!NOTE]
+> To remember that in <u>East African sleeping sickness</u> bloodborne disease is treated with <u>suramin</u> and <u>melarsoprol</u> is used to treat invasion of the <u>brain</u> (<u>CNS</u>), think: “BLOODy SURe, this MELody is stuck in my BRAIN.”
+
+---
+
+## Prevention
+
+* Instructions for people traveling to or working in <u>endemic</u> regions [[4]](https://coursology-qbank.com/amboss/article/BMbzI8)
+
+* Use preventive measures in the daytime (<u>tsetse</u> flies bite during the day)
+
+* Wear long-sleeved protective clothing with neutral colors
+
+* Use insect repellants
+
+* Avoid <u>tsetse fly</u> habitats (e.g., thickets, bushes)
+
+* Inspect vehicles before entering
+
+* <u>Public health</u> measures in <u>endemic</u> regions
+
+* <u>Vector</u> control methods such as insecticide spraying and fly traps
+
+* Population screening programs  and early treatment of infections to decrease the number of human hosts
+
+
+
+
+
+> [!TIP]
+> No <u>chemoprophylaxis</u> and no <u>vaccine</u> is available for <u>T. brucei</u>.
+
+---

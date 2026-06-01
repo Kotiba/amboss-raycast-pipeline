@@ -1,0 +1,472 @@
+# Renin-angiotensin-aldosterone system inhibitors
+
+*Categories: Clinical knowledge > Internal medicine > Cardiology and angiology > Relevant pharmacology > Renin-angiotensin-aldosterone system inhibitors*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/1m02eg)
+
+---
+
+## Summary
+
+<u>Renin-angiotensin-aldosterone system</u> (<u>RAAS</u>) inhibitors are a group of drugs that act by inhibiting the <u>renin-angiotensin-aldosterone system</u> (<u>RAAS</u>) and include <u>angiotensin-converting enzyme inhibitors</u> (<u>ACE inhibitors</u>), <u>angiotensin-receptor blockers</u> (<u>ARBs</u>), and <u>direct renin inhibitors</u>. <u>ACE inhibitors</u> and <u>ARBs</u> are commonly used in the treatment of patients with <u>hypertension</u>, <u>heart failure with reduced ejection fraction</u>, and certain types of <u>chronic kidney disease</u>, as well as patients who have had a <u>myocardial infarction</u>. They are particularly important in the treatment of hypertensive diabetic patients, as they prevent the development of <u>diabetic nephropathy</u>. A common side effect of <u>ACE inhibitors</u> is a <u>bradykinin</u>-induced <u>cough</u>, which may necessitate switching to an alternative therapy (e.g., <u>ARBs</u>), while <u>angioedema</u> and <u>hyperkalemia</u> may occur with both <u>ARBs</u> and <u>ACE inhibitor</u> use. <u>Direct renin inhibitors</u> may be considered in hypertensive patients if <u>ACE inhibitors</u> or <u>ARBs</u> are not well tolerated; however, they should never be used in combination with other <u>RAAS</u> inhibitors.
+
+---
+
+## Overview
+
+### The renin-angiotensin-aldosterone system (<u>RAAS</u>)
+
+
+
+
+* Drops in blood pressure reduce renal <u>perfusion</u>.
+
+* If the pressure in the <u>renal artery</u> falls by more than 10–15 mmHg, proteolytic <u>renin</u> is released from the <u>juxtaglomerular apparatus</u> → <u>renin</u> converts <u>angiotensinogen</u> to <u>angiotensin I</u> → <u>ACE</u> cleaves C-terminal <u>peptides</u> on <u>angiotensin I</u>, converting it to <u>angiotensin II</u> → increases the blood pressure in two ways: <u>vasoconstriction</u> and stimulation of the release of <u>aldosterone</u>, which increases the retention of water and <u>sodium</u>
+
+* For more information, see “<u>Renin-angiotensin-aldosterone system</u>” in “<u>Adrenal gland</u>.”
+
+
+
+
+
+![Renin-angiotensin-aldosterone system](../../../../../media/hsoss4c4l60teuv3kzoxrj4o.jpg)
+
+Renin-angiotensin-aldosterone system
+
+
+
+
+### Types of <u>RAAS</u> inhibitors
+
+
+
+
+#### Angiotensin-converting enzyme inhibitors (<u>ACE inhibitors</u>)
+
+
+
+
+* Drug names: enalapril, lisinopril, ramipril, captopril, benazepril
+
+* Indications
+
+* <u>Arterial hypertension</u>
+
+* <u>Diabetes mellitus</u> (type I and type II) with ;  [[1]](https://coursology-qbank.com/amboss/article/5_0iKi)[[2]](https://coursology-qbank.com/amboss/article/P2YW3o)
+
+* Nephroprotective indications, such as:
+
+* <u>Arterial hypertension</u>
+
+* <u>Microalbuminuria</u> and <u>proteinuria</u> (especially â¥ 300 mg/g)
+
+* <u>Coronary heart disease</u>
+
+* <u>Heart failure with reduced ejection fraction</u> [[3]](https://coursology-qbank.com/amboss/article/j2Y_ho)
+
+* Survival benefit (the exact mechanisms are poorly understood)
+
+* Any <u>murmur</u> that decreases with <u>amyl nitrite</u> has an etiology that is treatable with <u>ACE inhibitors</u>.
+
+* History of <u>myocardial infarction</u>  [[4]](https://coursology-qbank.com/amboss/article/42Y33o)
+
+* Nondiabetic <u>chronic kidney disease</u> with <u>proteinuria</u>
+
+* <u>Scleroderma-associated hypertensive crisis</u> (even if <u>creatinine</u> is elevated)
+
+
+
+
+
+#### Angiotensin-receptor blocker (<u>ARBs</u>, sartans)
+
+
+
+
+* Drug names: valsartan, candesartan, losartan, irbesartan
+
+* Indications: same as <u>ACE inhibitors</u>, mostly used as second-line treatment if <u>ACE inhibitors</u> are not tolerated
+
+* <u>Angioedema</u>: can be tried under close surveillance if no adequate alternative is available  [[5]](https://coursology-qbank.com/amboss/article/AqXRaz)
+
+* Non-life-threatening side effects (e.g., dry <u>cough</u>) : commonly used [[6]](https://coursology-qbank.com/amboss/article/YI1nYR0)
+
+
+
+
+
+#### Angiotensin receptor-neprilysin inhibitors (<u>ARNIs</u>)
+
+
+
+
+* Drug names: sacubitril/valsartan
+
+* Indication: Stage C or D <u>HFrEF</u> (preferred initial agent for <u>RAAS</u> inhibition)  [[7]](https://coursology-qbank.com/amboss/article/3pYS6J)
+
+
+
+
+
+#### Direct renin inhibitors
+
+
+
+
+* Drug names: aliskiren
+
+* Indications: <u>arterial hypertension</u> if both <u>ACE inhibitors</u> and <u>ARBs</u> are not tolerated
+
+---
+
+## Pharmacodynamics
+
+### <u>ACE inhibitors</u>
+
+
+
+
+* Mechanism of action: inhibition of <u>ACE</u> → ↓ conversion of <u>angiotensin I</u> to <u>angiotensin II</u>
+
+* Main effects
+
+* ↓ <u>Angiotensin II</u>
+
+* ↓ <u>Vasoconstriction</u> → ↓ blood pressure
+
+* ↓ Secretion of <u>aldosterone</u> 
+
+* → ↓ Reabsorption of Na<sup>+</sup>and water → ↓ blood pressure
+
+* → ↓ <u>Potassium</u> excretion in the <u>collecting duct</u> → ↑ serum levels of <u>potassium</u> (<u>hyperkalemia</u>)
+
+* Dilation of <u>efferent arteriole</u> → ↑ <u>renal plasma flow</u> → ↓ <u>GFR</u> → ↓ <u>filtration fraction</u>
+* ↑ <u>Renin</u> secretion (due to lack of feedback inhibition) → ↑ <u>angiotensin I</u>
+
+* ↓ Breakdown of <u>bradykinin</u>;  → ↑ production of <u>arachidonic acid</u> metabolites → ↑ <u>vasodilation</u> → ↓ blood pressure
+
+* Other effects 
+
+* ↓ <u>Proteinuria</u> and ↓ progression of <u>proteinuric</u> <u>chronic kidney disease</u>: ↓ intraglomerular <u>hydrostatic pressure</u> attenuates thickening and <u>sclerosis</u> of the <u>GBM</u>
+
+* ↓ <u>Preload</u> and <u>afterload</u> → ↓ cardiac remodeling;  after <u>acute myocardial infarction</u> or in chronic hypertensive disease
+
+
+
+
+
+![Effects of NSAIDs and ACEIs on renal filtration](../../../../../media/ayeytgxykunozokzvdi2bjs9.jpg)
+
+Effects of NSAIDs and ACEIs on renal filtration
+
+
+
+
+### <u>ARBs</u>
+
+
+
+
+* Mechanism of action: inhibition of angiotensin II receptor type 1 (<u>AT<sub>1</sub> receptor</u>)
+
+* Main effects
+
+* ↓ <u>Vasoconstriction</u> → ↓ blood pressure
+
+* ↓ Secretion of <u>aldosterone</u> 
+
+* → ↓ Reabsorption of Na<sup>+</sup>and water → ↓ blood pressure
+
+* → ↓ <u>Potassium</u> excretion in the <u>collecting duct</u> → ↑ serum levels of <u>potassium</u> (<u>hyperkalemia</u>)
+
+* ↑ <u>Renin</u> secretion (compensatory) → ↑ <u>angiotensin I</u> → ↑ <u>angiotensin II</u>
+
+* Other effects
+
+* ↓ <u>Proteinuria</u> and ↓ progression of <u>proteinuric</u> <u>kidney</u> disease
+
+* ↓ <u>Cardiac remodeling</u> after <u>acute myocardial infarction</u> or chronic hypertensive disease
+
+* No <u>bradykinin</u> elevation (opposed to <u>ACE inhibitors</u>)
+
+
+
+
+
+#### <u>ARNIs</u>
+
+
+
+* Mechanism of action
+
+* <u>Sacubitril</u> impairs the breakdown of <u>angiotensin II</u>, <u>substance P</u>, and <u>natriuretic</u> <u>peptides</u> → ↑ <u>natriuresis</u>, diuresis, and <u>vasodilation</u> → ↓ extracellular fluid
+
+* Combination with an <u>ARB</u> is necessary to block the vasoconstrictive effect of <u>angiotensin II</u> accumulation.
+
+
+
+
+### <u>Direct renin inhibitors</u> (DRIs)
+
+
+
+
+* Mechanism of action: direct inhibition of <u>renin</u> → ↓ conversion of <u>angiotensinogen</u> into <u>angiotensin I</u> → ↓ <u>angiotensin I</u> and <u>angiotensin II</u> → ↓ <u>angiotensin II</u> → ↓ <u>vasoconstriction</u>
+
+* Main effects
+
+* ↓ Blood pressure
+
+* ↓ Secretion of <u>aldosterone</u> 
+
+* → ↓ Reabsorption of Na<sup>+</sup> and water → further ↓ blood pressure
+
+* → ↓ <u>Potassium</u> excretion in the <u>collecting duct</u> → ↑ serum levels of <u>potassium</u> (<u>hyperkalemia</u>)
+
+
+
+
+
+> [!NOTE]
+> a<u>LES</u>ki<u>REN</u>: LESS <u>REN</u>in with <u>aliskiren</u>.
+
+
+
+
+> [!NOTE]
+> <u>ACEIs</u>, <u>ARBs</u>, and DRIs converge on the suppression of <u>aldosterone</u>, which decreases the activity of <u>Na+/K+-ATPase</u> and <u>ROMK channels</u> within the <u>principal cells</u> of the <u>collecting duct</u>. This inhibition impairs renal <u>potassium</u> secretion into the tubular lumen, leading to decreased urinary excretion and elevated serum <u>potassium</u> levels (<u>hyperkalemia</u>).
+
+
+
+
+![Mechanism of action: renin-angiotensin-aldosterone system (RAAS) inhibitors](../../../../../media/po2kecn59sf0eq8lkjveofd5.jpg)
+
+Mechanism of action: renin-angiotensin-aldosterone system (RAAS) inhibitors
+
+---
+
+## Adverse effects
+
+### <u>ACE inhibitors</u>
+
+
+
+
+* Increase in <u>bradykinin</u> concentration, which can lead to:
+
+* Dry <u>cough</u>  (can be treated by discontinuing <u>ACE inhibitor</u>, consider switching to <u>ARB</u>) [[8]](https://coursology-qbank.com/amboss/article/KLXUAA)[[9]](https://coursology-qbank.com/amboss/article/6LXjAA)
+
+* <u>Bradykinin-mediated angioedema</u> due to increased vascular permeability and <u>vasodilation</u>
+
+* <u>Hyperkalemia</u>
+
+* ↓ <u>GFR</u> (with ↑ <u>creatinine</u>): can cause <u>acute kidney injury</u> in patients with preexisting renal <u>hypoperfusion</u> (e.g., <u>renal artery stenosis</u>, <u>hypovolemia</u>, <u>heart failure</u>) [[10]](https://coursology-qbank.com/amboss/article/_qX5az)
+
+* <u>Hypotension</u>
+
+* <u>Proteinuria</u>
+
+* <u>Pemphigus vulgaris</u> (unknown mechanism) [[11]](https://coursology-qbank.com/amboss/article/N2Y-3o)
+
+* <u>Teratogenicity</u>: renal <u>malformations</u>
+
+* <u>Leukopenia</u>
+
+* <u>Rash</u>
+
+* <u>Taste</u> changes
+
+
+
+
+
+> [!NOTE]
+> Side effects of CAPTOPRIL: Cough, Angioedema, Pemphigus vulgaris, Teratogenicity, <u>hyp</u>Otension, high Potassium, Renal failure, Increased <u>creatinine</u>, Low <u>GFR</u>.
+
+
+
+
+### <u>ARBs</u>
+
+
+
+
+* <u>Hyperkalemia</u>
+
+* ↓ <u>GFR</u> (with ↑ <u>creatinine</u>)
+
+* <u>Hypotension</u>
+
+* <u>Teratogenicity</u>
+
+* <u>Leukopenia</u>
+
+* <u>Rash</u>
+
+
+
+
+
+> [!NOTE]
+> Unlike <u>ACE inhibitors</u>, <u>ARBs</u> do not increase <u>bradykinin</u> levels and are therefore less likely to cause <u>cough</u> or <u>angioedema</u>, but are <u>teratogenic</u> and share the same renal hemodynamic effects as <u>ACE inhibitors</u>.
+
+
+
+
+### <u>ARNIs</u>
+
+
+
+
+<u>ARNIs</u> have the same contraindications as <u>ACEIs</u>.
+
+
+
+
+* Monitor for <u>hypotension</u>, <u>dizziness</u>, or <u>cough</u>.
+
+* Regular <u>laboratory studies</u> for <u>hyperkalemia</u>
+
+
+
+
+
+### <u>Direct renin inhibitors</u>
+
+
+
+
+* <u>Hyperkalemia</u>
+
+* ↓ <u>GFR</u> (with ↑ <u>creatinine</u>)
+
+* <u>Hypotension</u>
+
+* <u>Angioedema</u>
+
+* <u>Teratogenicity</u>
+
+* <u>Rash</u>
+
+* <u>Diarrhea</u>
+
+
+
+
+
+> [!NOTE]
+> <u>Acute kidney injury</u> is a potential side effect of all types of <u>RAAS</u> inhibitors, especially in patients with preexisting <u>kidney</u> disease or in combination with <u>NSAIDs</u>.
+
+
+
+
+We list the most important adverse effects. The selection is not exhaustive.
+
+---
+
+## Contraindications
+
+### Contraindications for ACE inhibitors and ARBs
+
+
+
+
+* <u>Absolute contraindications</u> 
+
+* Hypersensitivity
+
+* <u>C1 esterase inhibitor deficiency</u> (due to predisposition to <u>angioedema</u>)
+
+* <u>Pregnancy</u>: risk of harm to the fetus (e.g., renal impairment, renal <u>malformations</u>, <u>oligohydramnios</u>, <u>placental insufficiency</u>)  [[1]](https://coursology-qbank.com/amboss/article/5_0iKi)
+
+* <u>Breastfeeding</u>
+
+* <u>Relative contraindications</u>
+
+* <u>Aortic stenosis</u>
+
+* Renal dysfunction, consider altering dose if <u>GFR</u> < 60 mL/min  [[12]](https://coursology-qbank.com/amboss/article/52YiRo)[[13]](https://coursology-qbank.com/amboss/article/M2YMRo)
+
+* Bilateral <u>renal artery stenosis</u> or a solitary <u>kidney</u>: <u>GFR</u> is already decreased and further reduction may lead to <u>acute kidney injury</u>.
+
+* <u>Drug interactions</u>: See “Interactions” below.
+
+
+
+
+
+> [!NOTE]
+> Normally, <u>angiotensin II</u> constricts efferent vessels, increasing the <u>GFR</u>. <u>ACE inhibitors</u> antagonize the conversion of <u>angiotensin I</u> to <u>angiotensin II</u>, reducing the <u>GFR</u>.
+
+
+
+
+### Contraindications for direct renin inhibitors
+
+
+
+
+* Hypersensitivity
+
+* <u>Pregnancy</u>
+
+* Current treatment with <u>ACE inhibitors</u> or <u>ARBs</u>
+
+* <u>Drug interactions</u>: See “Interactions” below.
+
+
+
+
+
+We list the most important contraindications. The selection is not exhaustive.
+
+---
+
+## Interactions
+
+### <u>ACE inhibitors</u> and <u>ARBs</u> [[14]](https://coursology-qbank.com/amboss/article/K2YUio)
+
+
+
+
+* Other antihypertensive drugs → ↑ hypotensive effect
+
+* <u>NSAIDs</u> → ↓ antihypertensive effect
+
+* <u>Potassium-sparing diuretics</u>;  or other drugs that increase <u>potassium</u> level: ↑ <u>hyperkalemia</u>
+
+* ↑ Level of <u>lithium</u> due to ↓ renal elimination
+
+* <u>Allopurinol</u>: ↑ risk of immunological reactions or <u>leukopenia</u>  [[15]](https://coursology-qbank.com/amboss/article/L2YwRo)[[16]](https://coursology-qbank.com/amboss/article/o2Y0io)
+
+
+
+
+
+### <u>Direct renin inhibitors</u> [[17]](https://coursology-qbank.com/amboss/article/n2Y7Ro)
+
+
+
+
+* <u>P-glycoprotein</u> inhibitors;  (e.g., <u>ketoconazole</u>, <u>verapamil</u>; , <u>clarithromycin</u>, <u>erythromycin</u>, <u>amiodarone</u>): ↑ <u>aliskiren</u> level
+
+* <u>ACE inhibitors</u> or <u>ARBs</u> → ↑ <u>hyperkalemia</u> [[18]](https://coursology-qbank.com/amboss/article/n_07Ki)
+
+
+
+
+
+> [!WARNING]
+> Do not combine <u>direct renin inhibitors</u> with <u>ACE inhibitors</u> or <u>ARBs</u>, especially in patients with <u>diabetes</u> or preexisting <u>kidney</u> disease.
+
+---
+
+## Additional considerations
+
+* Starting with low doses (preferably in a controlled setting) is recommended to avoid severe <u>hypotension</u>. [[13]](https://coursology-qbank.com/amboss/article/M2YMRo)
+
+* Combine <u>ACE inhibitors</u> or <u>ARBs</u> with <u>thiazide diuretics</u> to offset the risks of <u>hyperkalemia</u> and <u>hypokalemia</u>.
+
+* When starting an <u>ACE inhibitor</u> or an <u>ARB</u>, monitor blood pressure, <u>potassium</u>, and <u>creatinine</u>.
+
+---

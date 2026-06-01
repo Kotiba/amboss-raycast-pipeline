@@ -1,0 +1,1708 @@
+# Human immunodeficiency virus infection
+
+*Categories: Clinical knowledge > Emergency medicine > Infectious diseases > Human immunodeficiency virus infection*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/mf0V52)
+
+---
+
+## Summary
+
+Infection with the <u>human immunodeficiency virus</u> (<u>HIV</u>) leads to a complex disease pattern that ultimately results in chronic <u>immunodeficiency</u>. <u>HIV</u> can be transmitted sexually, parenterally, or vertically (e.g., peripartum from mother to child). Infection is most common in the young adult population between 20 and 30 years of age. The <u>virus</u> infects <u>macrophages</u> and other <u>CD4+</u> cells, leading to the destruction of <u>CD4 T cells</u>, which are one of the key mechanisms of cellular immune defense. The three major stages of <u>HIV</u> infection are acute infection, clinical latency, and <u>acquired immunodeficiency syndrome</u> (<u>AIDS</u>). Detailed classifications of clinical staging have been established by the <u>Centers for Disease Control and Prevention</u> (<u>CDC</u>) and the <u>World Health Organization</u> (WHO). During the acute infection stage, the <u>virus</u> reproduces rapidly in the body, which can lead to the onset of acute, nonspecific (e.g., <u>flu-like</u>) symptoms, also known as <u>acute retroviral syndrome</u> (<u>ARS</u>), within 2–4 weeks. However, approximately half of all infected individuals remain asymptomatic. Once the acute infection stage subsides, the clinical latency stage begins. As with the acute infection stage, many individuals remain asymptomatic during this period while others develop non-<u>AIDS-defining</u> conditions (e.g., <u>oral hairy leukoplakia</u>). The last stage, <u>AIDS</u>, is characterized by <u>AIDS-defining</u> conditions, such as <u>Kaposi sarcoma</u>, and/or a <u>CD4 count</u> < 200 cells/mm<sup>3</sup>.
+
+
+
+
+<u>HIV</u> infection can be reliably detected using <u>antigen</u>/<u>antibody</u>-based tests. In patients with confirmed infection, treatment with a combination of antiretroviral medications (<u>ART</u>) is started as soon as possible. The <u>effectiveness</u> of the treatment is monitored via regular checks of <u>CD4 count</u> and viral load. Patients in the advanced stages of <u>HIV</u> infection may additionally require treatment of <u>HIV-associated conditions</u> and <u>prophylaxis for opportunistic infections</u>. Significant advances in treatment mean that the average <u>life expectancy</u> of <u>HIV</u> patients receiving <u>ART</u> is approaching that of the general population. Partners of <u>HIV</u>-positive people and <u>individuals at high risk of HIV infection</u> can reduce the risk of contracting the infection by taking <u>ART</u> prior to exposure (preexposure prophylaxis) or following exposure (<u>postexposure prophylaxis</u>) to the <u>virus</u>.
+
+
+
+
+![HIV/AIDS fact sheet](../../../../media/ulq0urdj154u5tggnfe2063s.jpg)
+
+HIV/AIDS fact sheet
+
+---
+
+## Etiology
+
+### <u>Pathogen</u> (human immunodeficiency virus)
+
+
+
+
+* Family: <u>Retroviridae</u>
+
+* Genus: Lentivirus
+
+* Species 
+
+* HIV-1: most common species worldwide
+
+* HIV-2: restricted almost completely to West Africa
+
+* Structure: icosahedral with a conical <u>capsid</u> and a spiked envelope
+
+* <u>Genome</u>
+
+* Pseudodiploid (2 <u>RNA</u> molecules yielding 1 <u>DNA</u> molecule)
+
+* 9 <u>genes</u> encoding a total of 15 <u>proteins</u>
+
+* Function of structural <u>proteins</u> 
+
+* pol gene codes for a polyprotein which consists of 
+
+* <u>Protease</u>; : cleavage of gag and gag-<u>pol</u> <u>proteins</u> during maturation of the <u>virion</u> [[4]](https://coursology-qbank.com/amboss/article/GfXBnx)
+
+* Reverse transcriptase: converts viral <u>RNA</u> to dsDNA
+
+* Integrase: helps insert the viral <u>genes</u> into the host <u>genome</u>
+
+* gag gene codes for gag protein, which consists of 
+
+* Matrix protein (p17 protein)
+
+* <u>Nucleocapsids</u>
+
+* <u>Capsid</u> <u>proteins</u> (p24 capsid protein)
+
+* env gene codes for gp160 which gets cleaved into envelope glycoproteins
+
+* gp120: attaches to host <u>CD4+ T-cells</u>
+
+* gp41: assists in fusion and entry of the <u>virus</u> into the host cell
+
+* tat gene (<u>trans-activator of transcription</u>) codes for tat protein which promotes viral <u>transcription</u>
+
+* rev gene: codes for the rev protein, which regulates translocation of unspliced and incompletely spliced <u>mRNAs</u>
+
+
+
+
+
+> [!NOTE]
+> “<u>Pol</u>ly is a Really Important Person.”: the <u>proteins</u> coded by the <u>pol</u> <u>gene</u> are Reverse transcriptase, Integrase, and Protease.
+
+
+
+
+### Routes of transmission [[5]](https://coursology-qbank.com/amboss/article/-IdD2r0)
+
+
+
+
+* Sexual: : accounts for ∼ 80% of infections worldwide 
+
+* Risk per 10,000 exposures [[5]](https://coursology-qbank.com/amboss/article/-IdD2r0)
+
+* Receptive anal intercourse: 138
+
+* Insertive anal intercourse: 11
+
+* Receptive vaginal intercourse: 8
+
+* Insertive vaginal intercourse: 4
+
+* Receptive or insertive oral intercourse: low risk
+
+* Modifying factors
+
+* Viral load: Transmission is unlikely if the viral load is < 200 copies/mL.  [[6]](https://coursology-qbank.com/amboss/article/RrdlSr0)
+
+* Reduced risk of infection for <u>circumcised</u> male individuals  [[7]](https://coursology-qbank.com/amboss/article/SIdyXr0)
+
+* Genital <u>mucosal</u> damage increases the risk of transmission (e.g., from <u>coinfection</u> with <u>HPV</u> or <u>HSV</u>).
+
+* Parenteral transmission
+* Risk per 10,000 exposures [[5]](https://coursology-qbank.com/amboss/article/-IdD2r0)
+
+* <u>Blood transfusion</u>: 9,250
+
+* Needle sharing: 63
+
+* <u>Needlestick injuries</u>: 23
+
+* <u>Vertical transmission</u>
+
+* During <u>childbirth</u> (∼ 5–15%)
+
+* <u>Breastfeeding</u> (∼ 5–20%) [[8]](https://coursology-qbank.com/amboss/article/eGdxyr0)
+
+
+
+
+
+> [!NOTE]
+> Sexual transmission of <u>HIV</u> is preventable if a viral load of < 200 copies/mL is maintained (i.e., undetectable <u>HIV</u> is untransmittable). [[6]](https://coursology-qbank.com/amboss/article/RrdlSr0)
+
+---
+
+## Pathophysiology
+
+### Natural history of <u>HIV</u> infection
+
+
+
+
+* Initial infection and <u>HIV</u> replication cycle
+1. * <u>HIV</u> enters the body (e.g., via <u>mucosal</u> lesions or via infection of <u>mucosal</u>/cutaneous <u>immune cells</u>.), then attaches to the <u>CD4</u> <u>receptor</u> on host cells with its <u>gp120</u> glycoprotein (binding)
+* Cells that have <u>CD4</u> <u>receptors</u>: <u>T lymphocytes</u> (e.g., <u>T helper cells</u>), <u>macrophages</u>, <u>monocytes</u>, <u>dendritic cells</u>.
+2. * Viral envelope fuses with host cell, <u>capsid</u> enters <u>the cell</u>.
+
+* For fusion, <u>CD4</u> <u>receptor</u> and a coreceptor (<u>CCR5</u> in <u>macrophages</u>, and CCR5 or CXCR4 in <u>T-cells</u>) must be present.
+
+* Viral entry into <u>macrophages</u> via <u>CCR5</u> mainly occurs during the early stages of infection, while entry via <u>CXCR4</u> occurs in later stages.
+
+* Individuals without <u>CCR5</u> <u>receptors</u> appear to be resistant to <u>HIV</u>, those patients either have a <u>homozygous</u> <u>CCR5</u> mutation (substantial resistance) or a <u>heterozygous</u> <u>CCR5</u> mutation (slower course).
+3. * A <u>virion</u>'s <u>RNA</u> is transcribed into dsDNA by viral <u>reverse transcriptase</u> and then integrated into the host's <u>DNA</u> by viral <u>integrase</u>.
+4. * Viral <u>DNA</u> is replicated and <u>virions</u> are assembled
+5. * <u>Virion</u> repurposes a portion of <u>the cell</u>'s membrane as an envelope and leaves <u>the cell</u> (<u>budding</u>) → <u>cell death</u>  [[9]](https://coursology-qbank.com/amboss/article/O9aIn5)
+
+* Progression to chronic <u>immunodeficiency</u> 
+
+* <u>HIV</u> infects <u>CD4<sup>+</sup></u> <u>lymphocytes</u>, then reproduces and spreads to other <u>CD4<sup>+</sup></u> <u>lymphocytes</u> near the original site of infection  → infection of <u>CD4<sup>+</sup></u> <u>lymphocytes</u> concentrated in specialized lymphoid tissue (e.g., <u>lymph nodes</u> or gut-associated lymphatic tissue (GALT) ) → explosive growth and dissemination  → acute <u>HIV</u> syndrome with high viral load 
+* <u>Window period</u>: The time between infection and detectability of <u>HIV</u> <u>antibodies</u>.
+
+* After the acute stage, viral load decreases  and remains at roughly that level for approximately 8–10 years  (clinical latency stage ).
+
+* During the clinical latency phase, the <u>virus</u> mainly replicates inside the <u>lymph nodes</u>.
+
+* Increasing loss of <u>CD4<sup>+</sup></u> <u>lymphocytes</u> impairs immune function and, thereby, facilitates <u>opportunistic infections</u> and development of malignancies (<u>AIDS</u>). These secondary diseases are usually the <u>cause of death</u> in individuals with <u>HIV</u>.
+
+* Increased viral load generally leads to a decreased number of <u>CD4<sup>+</sup></u> <u>lymphocytes</u> and vice versa, but the relation is not linear.
+
+
+
+
+
+> [!TIP]
+> Viral load predicts the rate of disease progression and <u>CD4 count</u> correlates with immune function.
+
+
+
+
+> [!TIP]
+> <u>Acute HIV syndrome</u> does not develop in all patients. Absence of symptoms may delay diagnosis.
+
+
+
+
+### The role of <u>immune response</u>
+
+
+
+
+* Because <u>HIV</u> infects cells of the <u>immune system</u> itself, activation of <u>cellular immunity</u> is a factor that paradoxically helps the <u>virus</u> spread and ensures chronic persistence of the infection.
+
+* <u>HIV</u> evades immune control via:
+
+* Genetic mutation and recombination
+
+* Downregulation of <u>MHC class I</u> surface molecules in infected cells
+
+
+
+
+
+![Natural course of HIV infection](../../../../media/nx3sate7ffinic5mnce7kpoa.jpg)
+
+Natural course of HIV infection
+
+![HIV replication and mechanism of action of antiretroviral drugs](../../../../media/g7hb5wyv6dtuhf9zr63j68pw.jpg)
+
+HIV replication and mechanism of action of antiretroviral drugs
+
+![HIV-infected T cell](../../../../media/z3hawzo1y2wqeipv70wsjwtn.jpg)
+
+HIV-infected T cell
+
+
+
+
+References:[[2]](https://coursology-qbank.com/amboss/article/MJ0MuS)[[10]](https://coursology-qbank.com/amboss/article/U30b3f)[[11]](https://coursology-qbank.com/amboss/article/nQY79K)
+
+---
+
+## Clinical features
+
+### General considerations
+
+
+
+
+* There are no clinical features specific to <u>HIV</u> infection
+
+* In early <u>HIV</u> infection, patients are often asymptomatic.
+
+* <u>Incubation period</u>: usually 2–4 weeks  [[12]](https://coursology-qbank.com/amboss/article/rJ0fvS)
+
+* Infectiousness: two peaks (1<sup>st</sup> peak: within the first months after infection; 2<sup>nd</sup> peak: during <u>AIDS</u>-stage)
+
+
+
+
+
+### <u>Acute HIV infection</u> [[10]](https://coursology-qbank.com/amboss/article/U30b3f)
+
+
+
+* Also referred to as acute retroviral syndrome (<u>ARS</u>) or described as a <u>mononucleosis</u>-like syndrome 
+
+* <u>Fever</u>
+
+* Fatigue
+
+* <u>Myalgia</u> and <u>arthralgia</u>
+
+* <u>Headache</u>
+
+* Generalized nontender <u>lymphadenopathy</u>
+
+* Generalized <u>rash</u>
+
+* Gastrointestinal symptoms (<u>nausea</u>, <u>diarrhea</u>, weight loss)
+
+* Oropharyngeal symptoms (<u>sore throat</u>, <u>ulcerations</u>, painful <u>swallowing</u>)
+
+* <u>Aseptic meningitis</u> [[13]](https://coursology-qbank.com/amboss/article/irdJSr0)
+
+
+
+
+### Clinical latency and <u>AIDS</u> [[10]](https://coursology-qbank.com/amboss/article/U30b3f)
+
+
+
+
+* Clinical latency: Infected individuals may still be asymptomatic.
+
+* Non-<u>AIDS-defining conditions</u> (common when <u>CD4+ count</u> is below 500 cells/mm<sup>3</sup>)
+
+* Chronic <u>subfebrile</u> temperatures
+
+* Persistent <u>generalized lymphadenopathy</u>
+
+* <u>Chronic diarrhea</u> (> 1 month)
+
+* Localized <u>opportunistic infections</u>
+
+* <u>Oral candidiasis</u>: creamy, white patches on the <u>mucous membranes</u> of the mouth that can be scraped off
+
+* Vaginal infections (e.g., <u>yeast</u>, <u>trichomonads</u>)
+
+* <u>Oral hairy leukoplakia</u>: lesions that cannot be scraped off located mainly on the <u>lateral</u> borders of the <u>tongue</u>; triggered by <u>Epstein-Barr virus</u>
+
+* <u>HPV</u>-related: <u>squamous cell carcinoma</u> of the <u>anus</u> (common in <u>men who have sex with men</u>) or <u>cervix</u>
+
+* <u>Skin</u> manifestations (e.g. <u>molluscum contagiosum</u>, <u>warts</u>; , exacerbations of <u>psoriasis</u>, <u>shingles</u>)
+
+* <u>AIDS</u>: See “<u>HIV-associated conditions</u>.”
+
+
+
+
+
+> [!TIP]
+> Test patients with a history of <u>intravenous drug use</u> who present with otherwise unexplained weight loss, <u>depression</u>, and/or <u>dementia</u> for <u>HIV</u>.
+
+
+
+
+> [!TIP]
+> Unlike <u>oral candidiasis</u>, <u>esophageal candidiasis</u> is an <u>AIDS-defining condition</u>.
+
+
+
+
+![Oral candidiasis](../../../../media/dusr4n7tj0levfgx0uh1ojw5.jpg)
+
+Oral candidiasis
+
+![Oral candidiasis](../../../../media/a85t6wmolqbjymxrb5ij2hhd.jpg)
+
+Oral candidiasis
+
+![HIV patient with oral hairy leukoplakia](../../../../media/nuqzlm5flsjycbfwe02l9j8q.jpg)
+
+HIV patient with oral hairy leukoplakia
+
+![Shingles](../../../../media/apnx0k7x84wxttr49ozvrhn6.jpg)
+
+Shingles
+
+![Molluscum contagiosum](../../../../media/wchdront42a2txuyam3ke03s.jpg)
+
+Molluscum contagiosum
+
+---
+
+## Staging
+
+### CDC classification system for HIV [[14]](https://coursology-qbank.com/amboss/article/9fXNox)
+
+
+
+
+* <u>CDC</u> categories of <u>HIV</u> are based on <u>CD4 count</u> in combination with current or previously diagnosed <u>HIV</u>-related conditions.
+
+* Any patient belonging in categories A3, B3 or C1-C3 is considered to have AIDS.
+
+
+
+
+
+| <br><u>CD4</u> cell count category<br>(normal cell count: 500–1500 cells/mm<sup>3</sup>) | <br>Clinical category A Asymptomatic, Acute <u>HIV</u><br>or PGL | <br>Clinical category B Symptomatic conditions,<br>not A or C<br> | <br>Clinical category C <u>AIDS-defining conditions</u><br> |
+| --- | --- | --- | --- |
+| (1) ≥ 500 cells/mm<sup>3</sup> | A1 | B1 | C1 |
+| (2) 200–499 cells/mm<sup>3</sup> | A2 | B2 | C2 |
+| (3) < 200 cells/mm<sup>3</sup> | A3 | B3 | C3 |
+
+
+
+
+
+PGL= Persistent <u>generalized lymphadenopathy</u>
+
+
+
+
+### WHO (<u>World Health Organization</u>) classification [[15]](https://coursology-qbank.com/amboss/article/CfXqox)
+
+
+
+
+WHO classifies individuals with confirmed <u>HIV</u> infection according to clinical features and diagnostic findings:
+
+
+
+
+* Primary <u>HIV</u> infection: <u>acute retroviral syndrome</u> or asymptomatic
+
+* Clinical stage 1: persistent <u>generalized lymphadenopathy</u> (PGL) or asymptomatic
+
+* Clinical stage 2: e.g., unexplained moderate weight loss (< 10%), recurrent fungal/viral/bacterial infections
+
+* Clinical stage 3: e.g., unexplained severe weight loss (> 10%), unexplained <u>chronic diarrhea</u> (> 1 month), unexplained persistent <u>fever</u> (≥ 37.6°C intermittent or constant > 1 month), persistent/severe fungal/viral/bacterial infections , unexplained <u>anemia</u> (< 8 g/dL) and/or <u>neutropenia</u> (< 500 cells/mm<sup>3</sup>) and/or chronic <u>thrombocytopenia</u> (< 50,000/μL) for more than 1 month
+
+* Clinical stage 4: <u>AIDS-defining conditions</u> (e.g., <u>Kaposi sarcoma</u>, <u>Pneumocystis pneumonia</u>)
+
+---
+
+## Diagnosis
+
+### Approach [[16]](https://coursology-qbank.com/amboss/article/Ehc8fX0)
+
+
+
+
+Specific screening and testing strategies depend on local factors including regional <u>prevalence</u> and testing capabilities.
+
+
+
+
+* Assess for <u>HIV screening</u> indications (below).
+
+* If indications are present, perform a <u>screening test</u> appropriate to the patient age group.
+
+* Negative test 
+
+* Individuals without high <u>risk of HIV</u> infection: Further testing is not required.
+
+* Individual with a known or potential exposure: Repeat testing in 4–6 weeks and 3 months after exposure. [[17]](https://coursology-qbank.com/amboss/article/zhcrgX0)
+
+* <u>Individuals at high risk of HIV infection</u> (ongoing risk): Repeat screening annually.  [[18]](https://coursology-qbank.com/amboss/article/8J0ODS)[[19]](https://coursology-qbank.com/amboss/article/PhcWVX0)[[20]](https://coursology-qbank.com/amboss/article/_hc5gX0)
+
+* Positive test: Send <u>confirmatory tests</u>.
+
+* If <u>confirmatory test</u> supports positive <u>HIV</u> diagnosis:
+
+* Obtain <u>laboratory studies</u> to assess baseline organ function prior to starting treatment.
+
+* Obtain additional <u>screening tests for individuals with HIV</u> to assess for complications and comorbidities.
+
+
+
+
+
+### Overview of tests and methods [[16]](https://coursology-qbank.com/amboss/article/Ehc8fX0)
+
+
+
+
+#### Serological assays
+
+
+
+
+Serological assays are commonly used for both screening and diagnosis and may detect <u>HIV</u> <u>antigen</u>, <u>antibodies</u>, or both.
+
+
+
+
+* <u>HIV</u> <u>antigen</u> alone: detects <u>HIV</u> <u>p24</u> <u>antigen</u>
+
+* <u>HIV</u> <u>antibody</u> assays (i.e., third-generation and below): Detect <u>IgM</u> and <u>IgG antibodies</u>.
+* <u>Laboratory methods</u>
+
+* Enzyme-linked immunosorbent assays (<u>ELISA</u>)
+
+* HIV-1 and HIV-2 antibody differentiation immunoassay
+
+* Laboratory-based test that can differentiate between <u>HIV-1</u> and <u>HIV-2</u> (provides separate results for each analyte)
+
+* Most commonly used <u>confirmatory test</u> in the US
+
+* <u>Western blot</u>: Detects only <u>IgG antibody</u> to <u>HIV-1</u>
+
+* Combination HIV antibody with HIV antigen test;  (i.e., fourth-generation and above): Can detect <u>HIV</u> <u>IgG</u> and <u>IgM</u> <u>antibodies</u> and <u>p24</u> <u>antigen</u>. [[21]](https://coursology-qbank.com/amboss/article/7yX4g00)[[22]](https://coursology-qbank.com/amboss/article/7Yc4qa0)
+
+
+
+
+
+| <br>Comparison of <u>HIV</u> serological assays [[16]](https://coursology-qbank.com/amboss/article/Ehc8fX0)[[21]](https://coursology-qbank.com/amboss/article/7yX4g00)<br> |  |
+| --- | --- |
+| Generation | Test characteristics |
+| First-generation <u>HIV test</u> | <br><br>* Detects <u>IgG</u> only<br><br>* Cannot differentiate between <u>HIV-1</u> and <u>HIV-2</u> infection<br><br>* Sensitive but not very specific<br><br><br> |
+| Second-generation <u>HIV test</u> |  |
+| Third-generation <u>HIV test</u> | <br><br>* Detects <u>IgG</u> and <u>IgM</u><br><br>* Cannot differentiate between <u>HIV-1</u> and <u>HIV-2</u> infection<br><br>* More sensitive and specific<br><br><br> |
+| Fourth-generation HIV test | <br><br>* Detect both <u>HIV</u> <u>antigen</u> (<u>p24 capsid protein</u>) and anti-<u>HIV</u> <u>antibodies</u> (<u>IgG</u> and <u>IgM antibodies</u> against <u>HIV-1</u>/<u>HIV-2</u>)<br><br>* Cannot differentiate between <u>HIV-1</u> and <u>HIV-2</u> infection<br><br>* Improved <u>sensitivity</u> in early/acute infection<br><br><br> |
+| <br>Fifth-generation HIV test [[21]](https://coursology-qbank.com/amboss/article/7yX4g00)<br> | <br><br>* Detect both <u>HIV</u> <u>antigen</u> (<u>p24 capsid protein</u>) and anti-<u>HIV</u> <u>antibodies</u> (<u>IgG</u> and <u>IgM antibodies</u> against <u>HIV-1</u>/<u>HIV-2</u>)<br><br>* Includes <u>HIV-1 and HIV-2 antibody differentiation immunoassay</u> → can differentiate between <u>HIV-1</u> and <u>HIV-2</u><br><br>* Very sensitive and specific; may not require <u>confirmatory testing</u>  [[21]](https://coursology-qbank.com/amboss/article/7yX4g00)<br><br><br> |
+
+
+
+
+
+#### Virological testing [[23]](https://coursology-qbank.com/amboss/article/0AXeR00)
+
+
+
+
+Virological tests are most commonly used for screening <u>infants</u>  and confirmation of disease in both <u>infants</u> and adults.
+
+
+
+
+* Can detect <u>HIV-1</u> <u>RNA</u> and/or <u>DNA</u> (depending on the test)
+
+* <u>Laboratory method</u>: <u>nucleic acid</u> testing (<u>NAT</u>)
+
+
+
+
+
+### Screening and diagnosis
+
+
+
+
+| <br>Recommended laboratory-based <u>HIV</u> studies [[23]](https://coursology-qbank.com/amboss/article/0AXeR00)[[24]](https://coursology-qbank.com/amboss/article/HyXKg00)<br> |  |  |
+| --- | --- | --- |
+| Age |  | Preferred test |
+| Screening | Adults and children ≥ 18 months | <br>* <u>Fourth-generation HIV test</u> (combination <u>antigen</u>/<u>antibody</u> immunoassay)<br><br> |
+| <u>Infants</u> < 18 months | <br>* Virological testing (e.g., <u>HIV-1 NAT</u>)<br><br> |  |
+| Confirmation | Adults and children > 24 months | <br><br>* <u>HIV-1/2 antibody differentiation immunoassay</u><br><br>* <u>HIV-1 NAT</u><br><br><br> |
+| <br><u>Infants</u> ≤ 24 months<br> | <br>* Virological testing (e.g., <u>HIV-1 NAT</u>)  [[24]](https://coursology-qbank.com/amboss/article/HyXKg00)<br><br> |  |
+
+
+
+
+
+#### Indications for <u>HIV testing</u> [[18]](https://coursology-qbank.com/amboss/article/8J0ODS)[[19]](https://coursology-qbank.com/amboss/article/PhcWVX0)
+
+
+
+
+<u>HIV testing</u> should be offered to patients who have signs that raise concern for <u>HIV</u> infection, prior exposure, and as part of routine screening.
+
+
+
+
+* Routine screening
+
+* All <u>adolescents</u> and adults and those at increased risk of infection  [[20]](https://coursology-qbank.com/amboss/article/_hc5gX0)[[25]](https://coursology-qbank.com/amboss/article/bIdHYr0)[[26]](https://coursology-qbank.com/amboss/article/XId9Yr0)
+
+* Any individuals (even if previously tested):
+
+* Starting treatment for <u>tuberculosis</u>
+
+* Attending <u>STI</u> clinics or diagnosed with an <u>STI</u>
+
+* One-time testing is recommended early in all <u>pregnancies</u>
+
+* Targeted testing
+
+* All patients with clinical features of acute or chronic <u>HIV</u> infection or <u>opportunistic infections</u>
+
+* All individuals with possible past exposure, especially individuals at high risk of HIV infection (e.g., sex workers, <u>men who have sex with men</u>, individuals who use IV drugs, partners of <u>HIV</u>-positive individuals)
+
+* Annual screening for <u>individuals at high risk of HIV infection</u>
+
+
+
+
+
+> [!TIP]
+> In most US states, <u>HIV testing</u> requires patient consent (opt-out); in the majority of locations, oral consent is sufficient, but check local guidance.
+
+
+
+
+#### <u>Screening studies</u> [[24]](https://coursology-qbank.com/amboss/article/HyXKg00)
+
+
+
+
+* HIV serology
+
+* <u>Fourth-generation HIV test</u> (combination <u>HIV</u> <u>antibody</u> with <u>HIV</u> <u>antigen</u>) ;  [[21]](https://coursology-qbank.com/amboss/article/7yX4g00)
+
+* Timing: Detectable ∼ 14 days after transmission [[21]](https://coursology-qbank.com/amboss/article/7yX4g00)
+
+* Not recommended for suspected neonatal <u>HIV</u> infection (results may be <u>false positive</u> because of maternally transferred anti-<u>HIV</u> <u>antibodies</u>) [[23]](https://coursology-qbank.com/amboss/article/0AXeR00)
+
+* Third-generation <u>HIV test</u> (<u>antibody</u> only): frequently used in rapid tests (<u>point-of-care tests</u>)
+
+* Virological tests
+* <u>HIV-1 NAT</u>; : Used for screening in <u>infants</u> aged < 18 months with peri- or postnatal <u>HIV</u> exposure.  [[24]](https://coursology-qbank.com/amboss/article/HyXKg00)
+
+
+
+
+
+> [!TIP]
+> A negative combination <u>antibody</u>/<u>antigen</u> test two weeks after exposure essentially rules out <u>HIV</u> infection (almost 100% <u>sensitivity</u>).
+
+
+
+
+> [!TIP]
+> If the result of a rapid test is positive, a laboratory-based <u>screening test</u> should be sent, followed by <u>confirmatory testing</u> if appropriate. [[24]](https://coursology-qbank.com/amboss/article/HyXKg00)
+
+
+
+
+#### Confirmatory studies
+
+
+
+
+* <u>Serology</u>
+
+* <u>HIV-1 and HIV-2 antibody differentiation immunoassay</u>  [[21]](https://coursology-qbank.com/amboss/article/7yX4g00)
+
+* Timing: detectable 3 weeks after infection [[21]](https://coursology-qbank.com/amboss/article/7yX4g00)
+
+* Positive result: <u>HIV</u> infection confirmed
+
+* Negative or indeterminate result: Perform <u>HIV-1 NAT</u>.
+
+* Positive <u>HIV-1</u> <u>NAT</u>: <u>HIV-1</u> infection confirmed
+
+* Negative <u>HIV-1 NAT</u>: negative for <u>HIV-1</u> infection   [[27]](https://coursology-qbank.com/amboss/article/iIdJcr0)
+
+* <u>HIV-1</u> <u>western blot</u>: The <u>CDC</u> no longer recommends <u>western blot</u> tests for confirmation of <u>HIV</u> infection.   [[24]](https://coursology-qbank.com/amboss/article/HyXKg00)
+
+* Virological tests
+* <u>HIV-1 NAT</u> ;  [[24]](https://coursology-qbank.com/amboss/article/HyXKg00)
+
+* Timing: Can measure the amount of viral <u>RNA</u> in the blood and detect <u>HIV</u> infection earlier than <u>antibody</u>/<u>antigen</u>-based tests (∼ 10 days after transmission).
+
+* Indications
+
+* Neonatal <u>HIV</u> infection
+
+* Patients with indeterminate results  [[28]](https://coursology-qbank.com/amboss/article/S_Xyn00)[[29]](https://coursology-qbank.com/amboss/article/h_XcL00)
+
+* Patients presenting before <u>seroconversion</u>
+
+* Screening of blood donors  [[30]](https://coursology-qbank.com/amboss/article/i_XJL00)
+
+* Disease monitoring [[31]](https://coursology-qbank.com/amboss/article/eiYxqK)
+
+* Results [[24]](https://coursology-qbank.com/amboss/article/HyXKg00)
+
+* Positive: <u>HIV</u> confirmed
+
+* Negative: Perform <u>HIV-1/2 antibody differentiation immunoassay</u> or another approved <u>HIV-1</u> <u>antibody</u> test.
+
+
+
+
+
+![Natural course of HIV infection](../../../../media/nx3sate7ffinic5mnce7kpoa.jpg)
+
+Natural course of HIV infection
+
+![HIV diagnostic](../../../../media/ywgsqsru76eb6ulmpwuh3ul1.jpg)
+
+HIV diagnostic
+
+
+
+
+### Additional evaluation for patients with newly diagnosed <u>HIV</u> [[32]](https://coursology-qbank.com/amboss/article/Q_XuL00)[[33]](https://coursology-qbank.com/amboss/article/jrd_Sr0)
+
+
+
+
+#### Assessment of organ function
+
+
+
+
+Assessing organ function is important to <u>screen for HIV</u>-associated complications, establish a baseline in order to monitor toxicity, and help select an <u>ART</u> regimen.
+
+
+
+
+* <u>CBC</u>
+
+* Assessment of renal function (<u>BMP</u>, <u>urinalysis</u>)
+
+* <u>Liver chemistries</u>
+
+* <u>Lipid panel</u>
+
+* <u>Fasting</u> <u>glucose</u> or <u>HbA1c</u>
+
+* Baseline ophthalmologic evaluation
+
+* Patients of childbearing age: <u>pregnancy test</u>
+
+
+
+
+
+#### <u>Advanced HIV</u> studies
+
+
+
+
+The following studies are recommended to screen for drug resistance, assist in the selection of an appropriate <u>ART</u> regimen, and establish a baseline to monitor the <u>efficacy</u> of therapy.
+
+
+
+
+* <u>HIV drug</u> resistance testing: <u>Genotypic</u> assays are preferred over <u>phenotypic</u> assays. [[32]](https://coursology-qbank.com/amboss/article/Q_XuL00)[[34]](https://coursology-qbank.com/amboss/article/e2bxgG)
+
+* CD4+ count: correlates with overall immune function ;  [[35]](https://coursology-qbank.com/amboss/article/bzXHr00) 
+
+* Normal values are > 500 cells/mm<sup>3</sup>, whereas in the advanced stages of <u>HIV</u> the <u>CD4+ count</u> is often < 200 cells/mm<sup>3</sup>.
+
+* Critical measurement to determine when to initiate <u>opportunistic infection</u> prophylaxis
+
+* <u>CD4+</u> counts increase in response to successful <u>ART</u> therapy.
+
+* Viral <u>RNA</u> load: indicator of <u>ART</u> response
+
+* Decrease in viral loads indicates effective treatment.
+
+* Prognostic marker in long-term treatment (higher viral load → ↑ destruction of <u>CD4+</u> <u>lymphocytes</u> → more severe <u>immunodeficiency</u> → worse prognosis) [[36]](https://coursology-qbank.com/amboss/article/YzXnr00)
+
+* <u>CD4</u> cell percentage: used for the assessment of immune function and less variable than <u>CD4+ count</u> [[35]](https://coursology-qbank.com/amboss/article/bzXHr00)
+
+* Preferred for monitoring children < 5 years of age, as absolute <u>CD4+ count</u> varies more than in adults
+
+* Values of 14–29% are equivalent to a <u>CD4+ count</u> of 200–500 cells/mm<sup>3</sup>.
+
+* <u>CD4:CD8 ratios</u> (no longer routinely recommended): an increase in the <u>ratio</u> following <u>ART</u> initiation suggests improved <u>immune system</u> functioning
+
+* <u>HLA</u> B*5701 screen: for patients considered for a regimen containing <u>abacavir</u>   [[33]](https://coursology-qbank.com/amboss/article/jrd_Sr0)
+
+
+
+
+
+> [!TIP]
+> Measurement of <u>CD8</u> cell count and <u>CD4:CD8 ratios</u> is not routinely recommended, as the results are not used to guide treatment. [[35]](https://coursology-qbank.com/amboss/article/bzXHr00)
+
+---
+
+## Management
+
+### General principles [[32]](https://coursology-qbank.com/amboss/article/Q_XuL00)[[37]](https://coursology-qbank.com/amboss/article/BRcz6X0)
+
+
+
+
+* <u>Antiretroviral therapy</u>
+
+* All individuals with <u>HIV</u> infection, regardless of <u>CD4 count</u>, should begin <u>antiretroviral therapy</u> (<u>ART</u>) as soon as possible 
+
+* <u>Antiretroviral drugs</u> are combined to prevent resistance.
+
+* All <u>antiretroviral drugs</u> are able to target both <u>HIV-1</u> and <u>HIV-2</u>, except for <u>enfuvirtide</u> and <u>NNRTIs</u>.
+
+* Tailor therapy to the <u>HIV</u> <u>genotype</u>, if needed.
+
+* Establish regular monitoring to assess treatment response.
+
+* Prevention and management of <u>coinfections</u> and complications
+
+* Screen patients for <u>STIs</u> and common <u>opportunistic infections</u> (see “Diagnosis”).
+
+* If <u>CD4 count</u> is < 200, start <u>prophylaxis for opportunistic infections</u>.
+
+* Primary preventive measures (e.g., <u>vaccinations</u>, <u>cancer screening</u>)
+
+* Prevention of onward transmission
+
+* Counsel patients on safe sex practices
+
+* Offer <u>HIV testing</u> for family or sexual partners.
+
+* Referral to <u>needle exchange programs</u> and <u>opioid substitution therapy</u>
+
+* Report infections to the appropriate health department based on local guidance.
+
+* Counseling and psychosocial support
+
+* Provide counseling regarding diagnosis and management
+
+* Multidisciplinary management recommended
+
+
+
+
+
+> [!TIP]
+> Early treatment is particularly critical in patients with a low <u>CD4 count</u> (< 350 cells/mm3), high viral load, or an <u>AIDS-defining</u> illness.
+
+
+
+
+> [!TIP]
+> Adherence to <u>ART</u> can be improved by considering <u>social determinants of health</u> and addressing modifiable factors such as comorbid mental illness or <u>substance use disorder</u>, unstable housing, and barriers to attending regular clinic visits. [[32]](https://coursology-qbank.com/amboss/article/Q_XuL00)
+
+
+
+
+> [!TIP]
+> In the US, <u>HIV</u>/<u>AIDS</u> is a <u>notifiable disease</u> in every state.
+
+---
+
+## Antiretroviral therapy
+
+* Start <u>ART</u> as soon as possible to prevent further progression of the disease. [[32]](https://coursology-qbank.com/amboss/article/Q_XuL00)
+
+* Factors to consider when selecting a regimen include: [[32]](https://coursology-qbank.com/amboss/article/Q_XuL00)
+
+* Virological <u>efficacy</u>
+
+* Pill burden and dosing frequency
+
+* Drug toxicity
+
+* <u>Drug interactions</u>
+
+* <u>HIV</u> resistance test results
+
+* Comorbid conditions, e.g., cardiovascular disease, <u>liver</u> disease, <u>osteoporosis</u>, <u>pregnancy</u> (see also "Cautions”)
+
+* Access to, and cost of, care
+
+
+
+
+
+> [!WARNING]
+> Initiation of <u>ART</u> should be delayed in the setting of <u>TB meningitis</u> and <u>cryptococcal meningitis</u> because of the high risk of <u>immune reconstitution syndrome</u>!
+
+
+
+
+> [!WARNING]
+> Initiation of treatment should not be delayed to await results of <u>advanced HIV</u> studies, e.g., drug resistance or <u>hepatitis</u> screening.
+
+
+
+
+### Initial <u>ART</u> regimens [[32]](https://coursology-qbank.com/amboss/article/Q_XuL00)
+
+
+
+* Preferred <u>ART</u> regimens should consist of one of the following combinations: 
+
+* 2 <u>NRTIs</u> PLUS 1 <u>NNRTI</u>
+
+* 2 <u>NRTIs</u> PLUS 1 PI (boosted)
+
+* 2 <u>NRTIs</u> PLUS 1 <u>INI</u>
+
+* 1 <u>NRTI</u> PLUS 1 <u>INI</u>
+
+
+
+
+| <br>Recommended initial regimens  [[32]](https://coursology-qbank.com/amboss/article/Q_XuL00)<br> |  |  |  |
+| --- | --- | --- | --- |
+| Regimen | Recommended drug combinations | Combination tablet | Indications/contraindications |
+| 2 <u>NRTIs</u> PLUS 1 <u>INI</u> | <br><br>* Bictegravir DOSAGE<br><br>* PLUS <u>tenofovir alafenamide</u> DOSAGE<br><br>* PLUS <u>emtricitabine</u> DOSAGE<br><br><br> | <br>* Biktarvy® DOSAGE<br><br> | <br>* May be used for immediate treatment in individuals for whom <u>advanced HIV</u> studies are not yet available and whose <u>hepatitis B</u> status is unknown<br><br> |
+| <br><br>* <u>Dolutegravir</u> DOSAGE<br><br>* PLUS one of the following: <br><br>* <u>Tenofovir alafenamide</u> DOSAGE<br><br>* <u>Tenofovir disoproxil</u> DOSAGE<br><br>* PLUS one of the following: <br><br>* <u>Emtricitabine</u> DOSAGE<br><br>* <u>Lamivudine</u> DOSAGE<br><br><br> | <br>* <u>Dolutegravir</u>-<u>emtricitabine</u>-<u>tenofovir alafenamide</u> DOSAGE<br><br> |  |  |
+| <br><br>* <u>Dolutegravir</u> DOSAGE<br><br>* PLUS <u>abacavir</u> DOSAGE<br><br>* PLUS <u>lamivudine</u> DOSAGE<br><br><br> | <br>* Triumeq® DOSAGE<br><br> | <br><br>* May be used in <u>pregnancy</u> [[23]](https://coursology-qbank.com/amboss/article/0AXeR00)<br><br>* Contraindicated in patients who are <u>HLA</u>-B*5701 positive<br><br><br> |  |
+| 1 <u>NRTI</u> PLUS 1 <u>INI</u> | <br><br>* <u>Dolutegravir</u> DOSAGE<br><br>* PLUS <u>lamivudine</u> DOSAGE<br><br><br> | <br>* Dovato® DOSAGE<br><br> | <br>* This regimen should not be given to patients with:<br><br>* <u>HBV</u> <u>coinfection</u><br><br>* <u>HIV</u> <u>RNA</u> > 500,000 copies/mL<br><br>* If <u>ART</u> is being initiated prior to the availability of results for <u>HIV</u> <u>genotypic</u> resistance testing or <u>HBV</u> testing<br><br> |
+
+
+
+
+
+> [!WARNING]
+> Do not use <u>abacavir</u>-containing regimens for patients with an unknown or positive <u>HLA</u>-B*5701 status, because of the risk of <u>abacavir hypersensitivity reaction</u>!
+
+
+
+
+> [!TIP]
+> When available, use combination tablets to reduce pill burden and improve adherence. [[38]](https://coursology-qbank.com/amboss/article/Tic6IX0)
+
+
+
+
+### Special considerations
+
+
+
+
+* Patients with renal impairment
+
+* Avoid <u>tenofovir disoproxil fumarate</u>.
+
+* Avoid <u>tenofovir alafenamide</u> if <u>CrCl</u> is < 30 mL/min.
+
+* Consider avoiding <u>atazanavir</u>.
+
+* Patients with hepatic impairment or <u>hepatitis B</u> <u>coinfection</u>
+
+* In patients with moderate to severe <u>cirrhosis</u>: Avoid <u>abacavir</u>, <u>tenofovir alafenamide</u>, <u>nevirapine</u>, <u>darunavir</u>, <u>atazanavir</u>, and <u>dolutegravir</u>.
+
+* In <u>hepatitis B</u> <u>coinfection</u>
+
+* Antiretrovirals that also have anti-<u>HBV</u> activity should be included in the regimen used to treat <u>HIV</u>. These include:
+
+* <u>Emtricitabine</u>
+
+* <u>Lamivudine</u>
+
+* <u>Tenofovir</u> (<u>tenofovir disoproxil fumarate</u> and <u>tenofovir alafenamide</u>)
+
+* Discontinuation of drugs that have anti-<u>HBV</u> activity can lead to reactivation of <u>HBV</u> and cause serious hepatocellular damage.
+
+* <u>ART</u> combinations that should be avoided 
+
+* Triple-<u>NRTI</u> regimens
+
+* Regimens featuring two <u>NNRTIs</u>
+
+* <u>Tenofovir</u> with <u>abacavir</u> [[39]](https://coursology-qbank.com/amboss/article/1fc2Ob0)
+
+* <u>Lamivudine</u> with <u>emtricitabine</u>
+
+* <u>Didanosine</u> with <u>tenofovir disoproxil fumarate</u> or <u>stavudine</u>
+
+* <u>Stavudine</u> with <u>zidovudine</u>
+
+* <u>Cobicistat</u> with <u>ritonavir</u>
+
+
+
+
+
+> [!WARNING]
+> Stopping <u>NRTIs</u> in patients with <u>hepatitis B</u> <u>coinfection</u> can lead to an acute worsening of their <u>hepatitis</u>!
+
+
+
+
+### Overview of <u>antiretroviral drugs</u> [[32]](https://coursology-qbank.com/amboss/article/Q_XuL00)[[40]](https://coursology-qbank.com/amboss/article/_Xc50Y0)[[41]](https://coursology-qbank.com/amboss/article/LUcwdb0)
+
+
+
+
+#### Nucleoside reverse transcriptase inhibitors (<u>NRTIs</u>)
+
+
+
+
+* Medications in class
+
+* Abacavir (<u>ABC</u>)
+
+* Didanosine (ddI)
+
+* Emtricitabine (<u>FTC</u>)
+
+* Lamivudine (<u>3TC</u>)
+
+* Stavudine (<u>d4T</u>)
+
+* Tenofovir (nucleotide analog, also called <u>nucleotide reverse-transcriptase inhibitor</u>; <u>NtRTI</u>)
+
+* Tenofovir disoproxil (<u>TDF</u>)
+
+* Tenofovir alafenamide (<u>TAF</u>)
+
+* Zidovudine (<u>ZDV</u>, formerly <u>AZT</u>)
+
+* Mechanism of action
+
+* <u>NRTIs</u> act as <u>nucleoside</u> analogs → competitive blockage of <u>nucleoside</u> binding to reverse transcriptase → inhibition of formation of 3' to 5' phosphodiester linkages → termination of <u>DNA</u> chain → inhibition of <u>RNA</u> to <u>DNA</u> reverse <u>transcription</u>
+
+* Activation requires intracellular <u>phosphorylation</u>, thus, <u>NRTI</u> <u>efficacy</u> is reliant on <u>kinase</u> availability and activity, which varies depending on cell functionality and activation state. [[40]](https://coursology-qbank.com/amboss/article/_Xc50Y0)
+
+* Resistance is caused by mutations in the <u>gene</u> that codes for <u>reverse transcriptase</u> (<u>pol</u> <u>gene</u>) [[42]](https://coursology-qbank.com/amboss/article/MUcMdb0)
+
+* General adverse effects [[43]](https://coursology-qbank.com/amboss/article/xfXEox)[[44]](https://coursology-qbank.com/amboss/article/nUc7db0) 
+
+* Mitochondrial toxicity [[45]](https://coursology-qbank.com/amboss/article/zXcr0Y0)
+
+* A disruption of <u>mitochondrial</u> function most commonly caused by <u>HIV treatment</u> with <u>nucleoside reverse transcriptase inhibitors</u>
+
+* <u>NRTIs</u> inhibit the enzyme responsible for the replication of <u>mitochondrial DNA</u>.
+
+* Symptoms include:
+
+* <u>Myopathy</u>
+
+* <u>Peripheral neuropathy</u>
+
+* <u>Hepatic steatosis</u>
+
+* <u>Lactic acidosis</u>
+
+* HIV-associated lipodystrophy (<u>Cushing syndrome</u>-like appearance): abnormal distribution of fat ;  [[46]](https://coursology-qbank.com/amboss/article/NUc-Wb0)[[47]](https://coursology-qbank.com/amboss/article/mUcVdb0)[[48]](https://coursology-qbank.com/amboss/article/5Ucidb0)
+
+* Loss of subcutaneous <u>fatty tissue</u> (lipoatrophy) in the face, extremities, and buttocks
+
+* Probable accumulation of fat in <u>liver</u>, muscles, abdomen, <u>breasts</u>, neck (double chin), and upper back (enlarged <u>dorsocervical fat pad</u>)
+
+* Metabolic changes: <u>impaired glucose tolerance</u>, <u>hyperlipoproteinemia</u> (elevated <u>triglycerides</u>, elevated total <u>cholesterol</u>, lowered <u>HDL</u>)
+
+* Additional medication-specific adverse effects [[43]](https://coursology-qbank.com/amboss/article/xfXEox)[[44]](https://coursology-qbank.com/amboss/article/nUc7db0)
+
+* Abacavir hypersensitivity reaction [[43]](https://coursology-qbank.com/amboss/article/xfXEox)[[49]](https://coursology-qbank.com/amboss/article/AJ0R9S)
+
+* Potentially life-threatening systemic reaction consisting of <u>fever</u>, <u>rash</u>, <u>constitutional symptoms</u>, <u>vomiting</u>, <u>diarrhea</u>, and, occasionally, <u>respiratory distress</u>
+
+* Avoid <u>abacavir</u> in <u>HLA</u>-B*5701-positive patients.
+
+* <u>Pancreatitis</u>: <u>didanosine</u>, <u>stavudine</u>
+
+* Cardiovascular disease: <u>abacavir</u>
+
+* <u>Nephrotoxicity</u> : <u>tenofovir</u>
+
+* <u>Osteoporosis</u>: <u>tenofovir</u>
+
+* <u>Bone marrow suppression</u> causing <u>anemia</u> and <u>neutropenia</u>: <u>zidovudine</u>
+
+* <u>Melanonychia</u>: <u>zidovudine</u>
+
+* <u>DNA</u>-depleting <u>mitochondrial myopathy</u> with red “ragged” fiber appearance: <u>zidovudine</u> [[50]](https://coursology-qbank.com/amboss/article/_G15bi0)
+
+
+
+
+
+> [!NOTE]
+> Most <u>NRTIs</u> end in “-ine,” <u>protease inhibitors</u> in “-navir,” and <u>integrase inhibitors</u> in “-gravir.”
+
+
+
+
+> [!NOTE]
+> “The nuclear plant is in the vuds (read: “woods”)”: <u>Nucleoside</u> <u>reverse transcriptase</u> inhibitors end in “-vudine.”
+
+
+
+
+#### Nonnucleoside reverse-transcriptase inhibitors (<u>NNRTIs</u>)
+
+
+
+
+* Medications in class
+
+* Delavirdine
+
+* Doravirine
+
+* Efavirenz
+
+* Etavirine
+
+* Nevirapine
+
+* Rilpivirine
+
+* Mechanism of action
+
+* <u>Noncompetitive inhibitors</u> of viral <u>reverse transcriptase</u> that bind to the <u>reverse transcriptase</u> at a different location than <u>NRTIs</u>
+
+* <u>NNRTIs</u> do not require intracellular <u>phosphorylation</u> for activation because they are direct inhibitors.
+
+* General adverse effects [[43]](https://coursology-qbank.com/amboss/article/xfXEox)[[44]](https://coursology-qbank.com/amboss/article/nUc7db0)
+
+* <u>Hypersensitivity reactions</u>: <u>rash</u>
+
+* <u>Stevens-Johnson syndrome</u>
+
+* <u>Toxic epidermal necrolysis</u>
+
+* Additional medication-specific adverse effects [[43]](https://coursology-qbank.com/amboss/article/xfXEox)[[44]](https://coursology-qbank.com/amboss/article/nUc7db0)
+
+* <u>Hepatotoxicity</u>
+
+* <u>Efavirenz</u>
+
+* <u>Nevirapine</u>
+
+* <u>CNS</u> toxicity and vivid or disturbing dreams: <u>efavirenz</u>
+
+
+
+
+
+#### HIV protease inhibitors (PIs)
+
+
+
+
+* Medications in class
+
+* Atazanavir
+
+* Darunavir
+
+* Fosamprenavir
+
+* Lopinavir
+
+* Indinavir
+
+* Nelfinavir
+
+* Ritonavir
+
+* Saquinavir
+
+* Mechanism of action: inhibition of viral <u>HIV-1</u> <u>protease</u> (encoded by <u>pol</u> <u>gene</u>) → inability to cleave viral polyproteins into functional units → generation of impaired viral <u>proteins</u> → production of immature (noninfectious) <u>virions</u> [[51]](https://coursology-qbank.com/amboss/article/KUcUVb0)
+
+* General adverse effects [[43]](https://coursology-qbank.com/amboss/article/xfXEox)[[44]](https://coursology-qbank.com/amboss/article/nUc7db0)
+
+* GI upset (<u>nausea</u>, <u>vomiting</u>, <u>diarrhea</u>)
+
+* <u>Nephrolithiasis</u>, crystal-induced nephropathy, and <u>hematuria</u> [[52]](https://coursology-qbank.com/amboss/article/HUcKeb0)
+
+* Metabolic abnormalities
+
+* <u>Hyperglycemia</u>: inhibition of <u>insulin</u>-dependent <u>glucose transporters</u> (<u>GLUT</u> 4) → <u>peripheral insulin resistance</u> → <u>impaired glucose tolerance</u> [[53]](https://coursology-qbank.com/amboss/article/7Uc4eb0)
+
+* <u>Dyslipidemia</u>
+
+* <u>Lipodystrophy</u> and fat accumulation
+
+* Increased risk of bleeding in patients with <u>hemophilia</u> [[54]](https://coursology-qbank.com/amboss/article/micVHX0)
+
+* Changes to <u>hair</u>, e.g., thinning
+
+* Additional medication-specific adverse effects: <u>thrombocytopenia</u> with <u>indinavir</u> (rare) [[55]](https://coursology-qbank.com/amboss/article/sUcteb0)
+
+* Additional medication-specific information: Boosted PI monotherapy (e.g., <u>ritonavir</u> combined with a second <u>protease inhibitor</u>) optimizes <u>ART</u> (i.e., preventing resistance, allowing less frequent dosing, limiting NRTI‐related toxicity) [[56]](https://coursology-qbank.com/amboss/article/VBWG-n0)
+
+
+
+
+
+> [!TIP]
+> Subtherapeutic doses of <u>ritonavir</u> (boosting agent) can be used to increase concentrations of other <u>HIV drugs</u> because it is a <u>cytochrome P450 inhibitor</u>. [[57]](https://coursology-qbank.com/amboss/article/oUc0Vb0)
+
+
+
+
+![Hair changes in HIV](../../../../media/e4nl25ihh7v2g0kwpmvmsqks.jpg)
+
+Hair changes in HIV
+
+
+
+
+#### Integrase inhibitors (<u>INIs</u> or <u>InSTIs</u>)
+
+
+
+
+* Medications in class
+
+* Bictegravir
+
+* Cabotegravir
+
+* Dolutegravir
+
+* Elvitegravir
+
+* Raltegravir
+
+* Mechanism of action: inhibition of the viral <u>integrase</u> → blockade of viral <u>DNA</u> integration into the host's <u>DNA</u> → inhibition of viral replication [[40]](https://coursology-qbank.com/amboss/article/_Xc50Y0)
+
+* General adverse effects [[43]](https://coursology-qbank.com/amboss/article/xfXEox)[[44]](https://coursology-qbank.com/amboss/article/nUc7db0)
+
+* <u>Rash</u>
+
+* Hypersensitivity syndrome in rare cases
+
+* Additional medication-specific adverse effects: : muscle inflammation causing elevated <u>creatinine</u> <u>kinase</u> : <u>raltegravir</u>, <u>dolutegravir</u> [[43]](https://coursology-qbank.com/amboss/article/xfXEox)[[44]](https://coursology-qbank.com/amboss/article/nUc7db0)
+
+
+
+
+
+> [!TIP]
+> An intramuscular injection consisting of cabotegravir and rilpivirine can be used for patients whose <u>HIV</u> is well controlled on oral <u>ART</u> but it should not be used as an initial regimen.
+
+
+
+
+#### Entry inhibitors [[58]](https://coursology-qbank.com/amboss/article/zJ0r9S)
+
+
+
+
+* Description: Hetereogenic class of <u>antiretroviral drugs</u> that inhibit binding or fusion of <u>HIV</u> <u>virions</u> with human cells.
+
+* Enfuvirtide (fusion inhibitor)
+
+* Mechanism of action: competitively binds to the viral protein <u>gp41</u>, thus preventing fusion with <u>the cell</u> [[40]](https://coursology-qbank.com/amboss/article/_Xc50Y0)
+
+* Adverse effects: <u>skin</u> irritation at the site of drug injection
+
+* Maraviroc (CCR5-antagonist): used in infection with drug-resistant <u>HIV-1</u> [[59]](https://coursology-qbank.com/amboss/article/-kbDqF)
+
+* Mechanism of action: blocks the <u>CCR5</u> coreceptor on <u>T cells</u> and <u>monocytes</u> that is essential to cell infection;  for some <u>HIV</u> <u>genotypes</u> (R5 <u>HIV-1</u>) → inhibition of <u>gp120</u> interaction → prevention of <u>virus</u> docking  [[40]](https://coursology-qbank.com/amboss/article/_Xc50Y0)
+
+* Adverse effects:
+
+* <u>Cough</u>, <u>upper respiratory tract infections</u>
+
+* <u>Fever</u>
+
+* <u>Hepatotoxicity</u>
+
+
+
+
+
+> [!NOTE]
+> “<u>Enfuvirtide</u> provides defusion of viral fusion.”
+
+
+
+
+> [!NOTE]
+> “Maraviroc will block the viral dock.”
+
+
+
+
+![HIV replication and mechanism of action of antiretroviral drugs](../../../../media/g7hb5wyv6dtuhf9zr63j68pw.jpg)
+
+HIV replication and mechanism of action of antiretroviral drugs
+
+![Learn NRTIs for HIV (Drug Names) Faster with Picmonic (USMLE, Step 1, Step 2 CK)](../../../../media/0.jpg)
+
+Learn NRTIs for HIV (Drug Names) Faster with Picmonic (USMLE, Step 1, Step 2 CK)
+
+---
+
+## Preventive health care
+
+### Screening tests for individuals with HIV [[33]](https://coursology-qbank.com/amboss/article/jrd_Sr0)
+
+
+
+
+The purpose of screening is to identify any <u>AIDS-defining illnesses</u> and <u>coinfection</u> with other <u>bloodborne viruses</u> or <u>STIs</u>, and to guide preventive efforts (e.g., <u>vaccinations</u>).
+
+
+
+
+* All patients
+
+* <u>STI screening</u>: <u>syphilis</u>, <u>gonorrhea</u>, and <u>chlamydia</u>
+
+* <u>Hepatitis A</u> screening
+
+* <u>Hepatitis B</u> and <u>hepatitis C</u> screening
+
+* <u>Screening for latent TB</u> using <u>PPD</u> or <u>IGRA</u>  [[33]](https://coursology-qbank.com/amboss/article/jrd_Sr0)
+
+* Additional tests
+
+* <u>Opportunistic infections</u>: Patients with low <u>CD4 counts</u> are at increased risk of <u>opportunistic infections</u>.
+
+* <u>Toxoplasma gondii</u> <u>IgG</u>: for symptomatic patients or asymptomatic patients with <u>CD4 count</u> < 200 cells/μL
+
+* <u>Cryptococcal</u> <u>antigen</u>: for symptomatic patients or asymptomatic patients with <u>CD4 count</u> < 100 cells/μL
+
+* See “<u>HIV-associated conditions</u>” for further information on prevention and management.
+
+* Other infectious diseases
+
+* <u>Measles</u>, <u>mumps</u>, and <u>rubella</u> <u>serology</u>: for patients born after 1957
+
+* <u>VZV</u> <u>serology</u>: for unvaccinated patients or those without a history of <u>chickenpox</u> or <u>shingles</u>
+
+* <u>HPV</u> screening: See “<u>Malignancy</u>.”
+
+* <u>Trichomoniasis</u>: for patients who have vaginal sex
+
+* <u>Pregnancy test</u>: for individuals who can become pregnant
+
+* <u>G6PD deficiency screening</u>
+
+* Serum <u>testosterone</u> level: for patients with <u>clinical features of male hypogonadism</u>
+
+* <u>Chest x-ray</u>: advised in patients with positive <u>TB</u> screen or as a baseline in patients with preexisting <u>lung</u> abnormalities (e.g., <u>COPD</u>)
+
+
+
+
+
+> [!TIP]
+> Early detection of <u>coinfections</u> reduces <u>morbidity</u> and prevents onward transmission. Routine testing for <u>HSV</u> <u>IgG</u>, <u>CMV</u> <u>IgG</u>, or <u>inflammatory markers</u> is not recommended. [[33]](https://coursology-qbank.com/amboss/article/jrd_Sr0)
+
+
+
+
+### Immunizations  [[33]](https://coursology-qbank.com/amboss/article/jrd_Sr0)[[61]](https://coursology-qbank.com/amboss/article/aicQJX0)
+
+
+
+
+* Assess previous <u>immunization</u> status (if possible from past medical records), including:
+
+* Childhood <u>vaccinations</u> including <u>MMR</u>
+
+* <u>Hepatitis A vaccine</u>
+
+* <u>Hepatitis B vaccine</u>
+
+* <u>Human papillomavirus vaccine</u>
+
+* <u>Influenza vaccine</u> (annual)
+
+* <u>Meningococcal vaccine</u>
+
+* <u>Pneumococcal vaccine</u>
+
+* <u>Herpes zoster vaccine</u>
+
+* <u>COVID</u> <u>vaccine</u>
+
+* <u>Mpox vaccine</u>
+
+* <u>RSV vaccine</u>
+
+* Any previous travel <u>vaccinations</u> (e.g., <u>yellow fever vaccine</u>)
+
+* For <u>recommended immunizations</u>, see “<u>Immunizations in individuals with HIV</u>.”
+
+
+
+
+
+> [!WARNING]
+> Some live <u>vaccinations</u> (e.g., <u>MMR</u>, <u>varicella</u>, <u>typhoid</u> Ty21a, and <u>yellow fever vaccines</u>) should not be given until the <u>CD4 count</u> is ≥ 200; consult with an infectious diseases specialist before vaccinating patients with low <u>CD4 counts</u>. [[61]](https://coursology-qbank.com/amboss/article/aicQJX0)
+
+
+
+
+> [!WARNING]
+> The <u>live attenuated influenza vaccine</u> should never be given to <u>HIV</u> patients, regardless of <u>CD4 count</u>.
+
+
+
+
+### <u>Malignancy</u>
+
+
+
+
+#### Risk reduction
+
+
+
+
+* Early diagnosis and <u>treatment of HIV</u> with <u>ART</u> is the most important step in preventing <u>HIV</u>-associated malignancies.
+
+* Treat <u>coinfections</u> (e.g., <u>HBV</u> and <u>HCV</u>).
+
+* Ensure patients receive <u>vaccinations</u> for oncogenic <u>viruses</u> (e.g., <u>HPV</u>, <u>hepatitis B</u>).
+
+* Encourage behavioral modifications.
+
+* Avoid needle sharing.
+
+* <u>Smoking cessation</u>
+
+* Maintain a normal <u>BMI</u>.
+
+
+
+
+
+#### Screening [[62]](https://coursology-qbank.com/amboss/article/05XeiA)
+
+
+
+
+* Age-appropriate <u>cancer screening</u> (e.g., for <u>colon</u> or <u>breast cancer</u>).
+
+* Follow modified screening for <u>HPV-associated cancers</u>.
+
+* <u>Cervical cancer screening</u>: perform annual <u>pap smears</u>
+
+* <u>Anal cancer screening</u>: consider annual <u>anoscopy</u> and/or anal cytologic screening
+
+
+
+
+
+> [!TIP]
+> <u>HPV</u> <u>cotesting</u> at the time of a <u>pap smear</u> is not recommended for patients < 30 years of age because of the high <u>prevalence</u> of infection in this age group, which typically self-resolves.
+
+---
+
+## Complications
+
+Patients who start <u>ART</u> are at risk of developing complications related to the recovery of their <u>immune system</u>. Complications relating to <u>immunocompromise</u> (especially if <u>CD4</u> levels are < 200) and/or <u>HIV</u> infection itself (e.g., chronic immune activation and inflammation) may also be seen (see “<u>HIV-associated conditions</u>”).
+
+
+
+
+### Immune reconstitution inflammatory syndrome (IRIS) [[63]](https://coursology-qbank.com/amboss/article/pgcLwb0)[[64]](https://coursology-qbank.com/amboss/article/IgcY9b0)
+
+
+
+
+* Definition: an inflammatory syndrome that can occur after initiation of <u>ART</u> and consists of either the appearance of a new condition or worsening of a preexisting condition
+
+* <u>Epidemiology</u>: common; occurs in ∼ 15–25% of patients starting <u>ART</u> [[65]](https://coursology-qbank.com/amboss/article/7gc49b0)
+
+* Etiology: believed to result from the restoration of the <u>immune system</u> and its response to <u>antigenic</u> stimulation. The stimulus may be: [[63]](https://coursology-qbank.com/amboss/article/pgcLwb0)
+
+* Infectious, e.g., <u>mycobacteria</u>, <u>HSV</u>, <u>CMV</u>, <u>Cryptococcus</u>
+
+* Autoimmune, e.g., <u>sarcoidosis</u>, <u>rheumatoid arthritis</u>, <u>SLE</u>
+
+* Malignant, e.g., <u>non-Hodgkin lymphoma</u>
+
+* <u>Risk factors</u> [[63]](https://coursology-qbank.com/amboss/article/pgcLwb0)
+
+* Low <u>CD4 count</u> (especially <u>CD4</u> < 50), <u>CD4</u> percentage, and/or lower <u>CD4:CD8 ratio</u> at <u>ART</u> initiation
+
+* High viral load at <u>ART</u> initiation
+
+* Younger age
+
+* Male sex
+
+* Rapid fall of viral <u>RNA</u> on initiation of <u>ART</u>
+
+* Diagnosis of an <u>opportunistic infection</u> prior to starting <u>ART</u>
+
+* A short interval of time between the initiation of <u>ART</u> and treatment of an <u>opportunistic infection</u>
+
+* Clinical presentation [[64]](https://coursology-qbank.com/amboss/article/IgcY9b0)
+
+* Develops within 4–8 weeks of initiation of <u>ART</u>
+
+* Presentation varies depending on the underlying illness, however, patients often have clinical deterioration and localized tissue inflammation.
+
+* Diagnosis is clinical and based on presence of the following: : [[66]](https://coursology-qbank.com/amboss/article/wgchxb0)
+
+* Symptoms cannot be explained by the expected clinical course of a known infection, a drug side-effect, or a new infection.
+
+* Symptoms of an infectious or inflammatory (e.g., autoimmune) condition
+
+* Treatment with effective <u>ART</u> (defined by a significant decrease in <u>HIV</u> viral <u>RNA</u> or an increase in <u>CD4 count</u>)
+
+* <u>HIV</u> diagnosis
+
+* Management [[64]](https://coursology-qbank.com/amboss/article/IgcY9b0)
+
+* Provide <u>supportive care</u> and continue treatment of the associated condition, e.g., with <u>antibiotics</u>, <u>chemotherapy</u>.
+
+* Do not interrupt <u>ART</u> except in severe, life-threatening IRIS.
+
+* Consider <u>corticosteroids</u> (e.g., <u>prednisone</u> DOSAGE [[64]](https://coursology-qbank.com/amboss/article/IgcY9b0)) for severe IRIS depending on the underlying cause.
+
+* Prevention
+
+* Initiation of <u>ART</u>: Start within two weeks or as soon as clinically stable in patients being treated for <u>opportunistic infections</u>, except in <u>tuberculous meningitis</u>, <u>cryptococcal</u> disease, and <u>CMV retinitis</u>.
+
+* <u>Corticosteroids</u> should not be used to prevent the development of IRIS.
+
+
+
+
+
+> [!WARNING]
+> <u>Corticosteroids</u> should not be given to prevent IRIS, nor should they be used to manage IRIS caused by <u>Kaposi sarcoma</u> or <u>cryptococcal meningitis</u>! [[64]](https://coursology-qbank.com/amboss/article/IgcY9b0)
+
+
+
+
+![Immune reconstitution inflammatory syndrome (IRIS)](../../../../media/nvcj4jekcin3qvqapbtljzkd.jpg)
+
+Immune reconstitution inflammatory syndrome (IRIS)
+
+
+
+
+We list the most important complications. The selection is not exhaustive.
+
+---
+
+## Prognosis
+
+* <u>Morbidity</u> and mortality among patient subsets
+
+* Untreated, <u>HIV</u> leads to <u>death</u> on average 8–10 years after infection.
+
+* Progression varies among individuals: Some patients may die within a few years while others can remain asymptomatic for decades.
+* Untreated individuals with <u>advanced HIV infection</u> usually die within a few years (median survival is 12–18 months). 
+
+* Some untreated individuals show only slow progression and can remain asymptomatic for more than 20 years.
+
+* In rare cases, untreated individuals have no detectable <u>viremia</u> and continue to have high <u>CD4 counts</u> for long periods.
+
+* The average <u>life expectancy</u> of <u>HIV</u>-infected individuals who receive adequate antiretroviral treatment is approaching that of noninfected individuals of the same age. [[67]](https://coursology-qbank.com/amboss/article/Zq0ZCS)[[68]](https://coursology-qbank.com/amboss/article/yfXdKx)
+
+* Individuals with <u>HIV</u> infection on adequate <u>antiretroviral therapy</u> are more likely to develop chronic comorbidities (e.g., cardiovascular disease, <u>diabetes</u>, cancer) than healthy individuals.  [[69]](https://coursology-qbank.com/amboss/article/BfXzox)[[70]](https://coursology-qbank.com/amboss/article/v-XA_00)
+
+* Individual prognosis depends on various factors, including:
+
+* Adequate antiretroviral treatment
+
+* Viral set point;   and <u>CD4 count</u>
+
+* Exposure to <u>opportunistic pathogens</u>
+
+* Individual genetic properties
+
+* <u>HIV</u> species and subtype
+
+* Preexisting conditions
+
+---
+
+## Prevention
+
+### Risk reduction [[71]](https://coursology-qbank.com/amboss/article/SicyIX0)
+
+
+
+
+All patients should be counseled on the following risk reduction measures.
+
+
+
+
+* <u>Barrier contraception</u>
+
+* Avoiding shared IV drug equipment
+
+* Regular <u>HIV</u> and <u>STI</u> screenings (including in all new sexual partners)
+
+
+
+
+
+### HIV preexposure prophylaxis (PrEP) [[72]](https://coursology-qbank.com/amboss/article/-qdDar0)[[73]](https://coursology-qbank.com/amboss/article/ZIdZYr0)
+
+
+
+
+* Definition: the use of <u>ART</u> to prevent infection in <u>individuals at high risk of HIV infection</u>
+
+* Eligibility
+
+* Negative <u>HIV test</u> result and no signs or symptoms of <u>acute HIV infection</u>
+
+* Normal <u>renal function test</u> (for oral regimens)
+
+* Fulfillment of at least one indication
+
+* Indications for HIV PrEP [[72]](https://coursology-qbank.com/amboss/article/-qdDar0)
+
+* Sexually active (i.e., anal or vaginal sex);  in the past 6 months with a partner who has <u>HIV</u> and an unknown or detectable viral load
+
+* Inconsistent or no <u>condom</u> use during <u>sexual activity</u>;  in the past 6 months with ≥ 1 sexual partner with unknown <u>HIV</u> status
+
+* A bacterial <u>STI</u> (e.g., <u>syphilis</u>, <u>chlamydia</u>, or <u>gonorrhea</u>) diagnosed or reported in the past 6 months
+
+* Individuals who inject drugs with high-risk needle behavior (e.g., sharing needles or equipment)
+
+* Patient request
+
+* Timing: prior to the exposure to <u>HIV</u> and continued for one month after the exposure  [[74]](https://coursology-qbank.com/amboss/article/NRc-MX0)
+
+* Pretreatment evaluation: Obtain the following in all patients initiating PrEP. [[72]](https://coursology-qbank.com/amboss/article/-qdDar0)[[73]](https://coursology-qbank.com/amboss/article/ZIdZYr0)
+
+* <u>Combination HIV antibody-antigen test</u> (e.g., <u>fourth-generation HIV test</u>)
+
+* <u>STI testing</u>, including <u>syphilis</u>, <u>gonorrhea</u>, <u>chlamydia</u>
+
+* In patients with oral PrEP regimens
+
+* <u>Hepatitis B testing</u>  [[73]](https://coursology-qbank.com/amboss/article/ZIdZYr0)
+
+* Serum <u>creatinine</u>  [[73]](https://coursology-qbank.com/amboss/article/ZIdZYr0)
+
+* <u>Lipid panel</u>
+
+* Regimens
+
+* Oral
+
+* All patients: <u>emtricitabine</u>  DOSAGE PLUS <u>tenofovir</u> disoproxil <u>fumarate</u> DOSAGE (may be given as a single tablet of Truvada® DOSAGE)
+
+* Patients not at risk via receptive vaginal sex: <u>emtricitabine</u> DOSAGE PLUS <u>tenofovir alafenamide</u> DOSAGE (may be given as a single tablet of Descovy® DOSAGE) [[75]](https://coursology-qbank.com/amboss/article/ORcIMX0)[[76]](https://coursology-qbank.com/amboss/article/lRcvMX0)
+
+* Injectable (all patients): cabotegravir DOSAGE [[73]](https://coursology-qbank.com/amboss/article/ZIdZYr0)
+
+* Follow-up
+
+* Every 3 months
+
+* Testing: <u>HIV screening</u>, <u>STI screening</u>, <u>pregnancy test</u> if indicated
+
+* Assessment and counseling: <u>medication adherence</u>, side effects, risk behaviors
+
+* Every 6 months: Check renal function in patients with oral PrEP.
+
+* Every 12 months: Assess the need for continuing <u>HIV PrEP</u>.
+
+
+
+
+
+> [!TIP]
+> <u>Acute HIV infection</u> should always be ruled out in patients starting PrEP since a two-drug regimen can lead to resistant mutations in patients who already have <u>HIV</u>.
+
+
+
+
+### HIV postexposure prophylaxis (PEP) [[17]](https://coursology-qbank.com/amboss/article/zhcrgX0)[[77]](https://coursology-qbank.com/amboss/article/AfXRKx)
+
+
+
+
+* Definition: a short course of <u>ART</u> taken by patients after a potential exposure to <u>HIV</u>
+
+* Timing: : Initiate as soon as possible (ideally within 1–2 hours of exposure) and within ≤ 72 hours of exposure.
+
+* Indications for HIV PEP  [[17]](https://coursology-qbank.com/amboss/article/zhcrgX0)
+
+* Injury with <u>HIV</u>-contaminated instruments or needles
+
+* Contamination of <u>open wounds</u> or <u>mucous membranes</u> with <u>HIV</u>-contaminated fluids
+
+* Unprotected <u>sexual activity</u> with a known or potentially <u>HIV</u>-infected person
+
+* Pretreatment evaluation: for patients initiating PEP and the source individual (if possible)
+
+* <u>Combination HIV antibody-antigen test</u> (e.g., <u>fourth-generation HIV test</u>)
+
+* <u>Hepatitis B testing</u>
+
+* <u>Hepatitis C testing</u>
+
+* Sexual exposure: <u>pregnancy test</u> and <u>STI testing</u> (e.g., <u>syphilis</u>, <u>gonorrhea</u>, <u>chlamydia</u>)
+
+* Serum <u>creatinine</u>, <u>AST</u>, and <u>ALT</u>
+
+* Regimens: a three-drug regimen is recommended (similar to <u>ART</u>). Typically, this includes a <u>nucleoside</u>/<u>nucleotide</u> combination <u>NRTI</u> plus an <u>integrase inhibitor</u>, e.g.: ;  [[17]](https://coursology-qbank.com/amboss/article/zhcrgX0)
+
+* <u>Tenofovir disoproxil fumarate</u> DOSAGE PLUS <u>emtricitabine</u> DOSAGE (may be given as a single combined tablet of Truvada® DOSAGE)
+
+* PLUS one of the following:
+
+* <u>Dolutegravir</u> DOSAGE
+
+* <u>Raltegravir</u> DOSAGE
+
+* Duration: 28 days [[17]](https://coursology-qbank.com/amboss/article/zhcrgX0)
+
+* Further management
+
+* For <u>occupational exposure</u>, follow the procedure for <u>health care personnel exposures</u> (see “Infection Prevention and Control”).
+
+* Counsel patients to use <u>barrier contraception</u>, avoid donation of blood, semen, or tissue, and, if possible, avoid <u>pregnancy</u> and <u>breastfeeding</u> throughout the 6-month follow-up period.
+
+* Ensure patients are educated about the adverse effects of medications and that they have appointments booked for testing (see “Follow-up for exposure to <u>bloodborne viruses</u>”).
+
+* Obtain a <u>combination HIV antibody-antigen test</u> 4–6 weeks and 3 months after exposure.  [[17]](https://coursology-qbank.com/amboss/article/zhcrgX0)
+
+---
+
+## Special patient groups
+
+### HIV in pregnancy
+
+
+
+
+* Transmission
+
+* Highest risk during <u>birth</u> (<u>perinatal</u> <u>vertical transmission</u>)
+
+* Prenatal transmission is possible.
+
+* The risk depends on maternal viral load.
+
+* Antepartum and <u>intrapartum</u> management
+
+* <u>Combined antiretroviral therapy</u> (<u>cART</u>) is recommended throughout <u>pregnancy</u> and delivery.
+
+* The mode of delivery and the use of additional IV <u>zidovudine</u> depend on the maternal viral load during the <u>intrapartum</u> period, both of which must be considered to reduce the risk of transmission of <u>HIV</u> to the <u>infant</u>.
+
+* <u>Zidovudine</u> is also one of the few antiretroviral medications approved for <u>HIV postexposure prophylaxis</u> in <u>neonates</u>.
+
+
+
+
+
+| <br>Intrapartum management of HIV [[78]](https://coursology-qbank.com/amboss/article/bb1HH20)[[79]](https://coursology-qbank.com/amboss/article/Xb19H20)<br> |  |  |  |
+| --- | --- | --- | --- |
+| Maternal viral load near time of delivery | Delivery method | <u>Intrapartum</u> antiretroviral treatment | <u>Infant</u> prophylaxis |
+| > 1000 copies/mL OR unknown viral load OR <u>poor adherence</u> to ARV treatment | <br><br>* Increased risk of <u>HIV</u> transmission<br><br>* <u>Cesarean delivery</u> should be scheduled at 38 weeks (even if the patient received <u>cART</u> during <u>pregnancy</u>).<br><br><br> | <br><br>* Administer IV <u>zidovudine</u> 3 hours before <u>cesarean delivery</u>.<br><br>* Administer IV <u>zidovudine</u> immediately if the patient presents in <u>labor</u>.<br><br><br> | <br>* Administer <u>cART</u> for 6 weeks.<br><br>* Two-drug regimen: <u>zidovudine</u> and <u>nevirapine</u>.<br><br>* OR three-drug regimen: <u>zidovudine</u>, <u>lamivudine</u>, and either <u>nevirapine</u> or <u>raltegravir</u><br><br> |
+| ≥ 50–≤ 1000 copies/mL | <br><br>* Low <u>risk of HIV</u> transmission<br><br>* Vaginal delivery<br><br><br> | <br>* IV <u>zidovudine</u> is administered based on an individualized decision.<br><br> |  |
+| < 50 copies/mL | <br>* IV <u>zidovudine</u> is not recommended.<br><br> | <br>* Administer <u>zidovudine</u> for 4 weeks.<br><br> |  |
+
+
+
+
+
+* Postpartum management
+
+* <u>Postexposure prophylaxis</u> in <u>neonates</u>: See “<u>Infant</u> prophylaxis” in the table above.
+
+* <u>Breastfeeding</u> should generally be avoided in countries with good food availability and hygienic baby food (e.g., clean drinking water) , because risk of transmission is 5–20%.
+
+* See “<u>Perinatally</u> acquired <u>HIV</u>.”
+
+* Diagnosis in <u>infants</u>: : if < 18 months, diagnosis is confirmed via <u>PCR</u>, not <u>ELISA</u>
+
+
+
+
+
+> [!TIP]
+> Suspect <u>HIV</u> in <u>infants</u> with <u>failure to thrive</u>, diffuse <u>lymphadenopathy</u>, <u>diarrhea</u>, and <u>thrush</u>, especially if the mother is a high-risk patient.
+
+---

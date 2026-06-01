@@ -1,0 +1,497 @@
+# Acute compartment syndrome
+
+*Categories: Clinical knowledge > Surgery > Trauma and orthopedic surgery > General trauma > Acute compartment syndrome*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/330SRf)
+
+---
+
+## Summary
+
+Acute <u>compartment syndrome</u> (<u>ACS</u>) is caused by tissue <u>ischemia</u> due to increased pressure within a fascial compartment. It is a surgical emergency that is characterized by rapidly progressive <u>pain</u> and swelling in an extremity and is often precipitated by traumatic injury. <u>Signs of poor tissue perfusion</u> (e.g., <u>pallor</u>, pulselessness) and nerve damage (e.g., <u>paresthesia</u>, <u>paralysis</u>) occur in later stages of <u>ACS</u> and are suggestive of irreversible tissue damage. <u>Diagnosis of ACS</u> is based on clinical findings and confirmed by measurement of intracompartmental pressures. <u>ACS</u> requires <u>fasciotomy</u> within 4–6 hours to prevent irreversible tissue <u>necrosis</u>.
+
+
+
+
+Other types of <u>compartment syndrome</u> include <u>chronic exertional compartment syndrome</u>, which is characterized by recurrent extremity <u>pain</u> during exercise or exertion, and <u>abdominal compartment syndrome</u>, which is caused by increased pressure within the <u>abdominal cavity</u>. See “<u>Chronic compartment syndrome</u>” and “<u>Abdominal compartment syndrome</u>” for details.
+
+---
+
+## Etiology
+
+| Etiology and risk factors for acute compartment syndrome |  |  |
+| --- | --- | --- |
+|  | Causes of external compression | Causes of internal compression |
+| Trauma-related causes | <br><br>* Burn <u>eschars</u><br><br>* Constrictive bandage/cast applied before the limb has stopped swelling<br><br><br> | <br><br>* <u>Hematoma</u> and <u>edema</u> from <u>long bone</u> <u>fractures</u><br><br>* Hemorrhage (esp. arterial injuries) into muscle compartment<br><br>* <u>Penetrating injuries</u> (e.g., gunshot, <u>stab wounds</u>, <u>iatrogenic</u> <u>radial artery</u> perforation)<br><br>* <u>Crush injuries</u> with deep tissue injury<br><br>* <u>Reperfusion syndrome</u> with <u>ischemia-reperfusion</u> <u>edema</u><br><br>* Burn <u>edema</u><br><br>* <u>Edema</u> from <u>venomous animal bites</u> (especially <u>snake bites</u>)<br><br>* Extravasation of IV infusion<br><br>* Repetitive muscle use (esp. excessive running, <u>seizures</u>)<br><br><br> |
+| Non-trauma-related causes | <br>* Prolonged poor positioning of limbs (e.g., of immobile patients)<br><br> | <br><br>* Increased <u>capillary</u> permeability (e.g., due to <u>shock</u>)<br><br>* Spontaneous bleeding in coagulopathic patients<br><br><br> |
+
+
+
+
+
+> [!TIP]
+> Because <u>shock</u> leads to reduced peripheral circulation, patients with <u>polytrauma</u> are at a high risk of <u>compartment syndrome</u> with muscle <u>ischemia</u>.
+
+---
+
+## Pathophysiology
+
+External or internal forces as initiating event → increased compartment pressure→ obstruction of venous outflow and collapse of arterioles→ decreased tissue <u>perfusion</u> → lower oxygen supply to muscles → irreversible tissue damage (<u>necrosis</u>) to muscles and nerves after 4–6 hours of <u>ischemia</u>
+
+---
+
+## Clinical features
+
+Signs and symptoms of <u>ACS</u> typically progress rapidly over a few hours but the presentation and onset are highly variable. [[1]](https://coursology-qbank.com/amboss/article/AN1Rdh0)[[2]](https://coursology-qbank.com/amboss/article/3wYSir)[[3]](https://coursology-qbank.com/amboss/article/s61tm30)
+
+
+
+
+* Early features 
+
+* <u>Pain out of proportion</u> to the extent of apparent injury 
+
+* Worsens with passive stretching or extension of muscles
+
+* Extreme tenderness to touch
+
+* <u>Soft tissue</u> swelling
+
+* Tight, wood-like muscles
+
+* Later features
+
+* Neurologic deficits
+
+* <u>Paresthesia</u> (e.g., pins and needles sensation)
+
+* Sensory deficits
+
+* <u>Muscle weakness</u> or <u>paralysis</u>
+
+* Impaired <u>perfusion</u>
+
+* Cold extremity with <u>pallor</u> or <u>cyanosis</u> (uncommon)
+
+* Absent or weak <u>distal</u> pulses
+
+
+
+
+
+> [!WARNING]
+> <u>Clinical features of compartment syndrome</u> may be difficult to detect, especially in patients who are unable to report sensory symptoms (e.g., patients with <u>altered mental status</u>, comorbid trauma, or <u>regional anesthesia</u>). [[3]](https://coursology-qbank.com/amboss/article/s61tm30)
+
+
+
+
+> [!TIP]
+> Arterial pulses remain detectable in all but the most severe cases of <u>ACS</u> and should not be used to exclude the diagnosis. [[4]](https://coursology-qbank.com/amboss/article/BeXzax)
+
+
+
+
+> [!NOTE]
+> The 6 Ps of <u>acute limb ischemia</u> (Pain, Pallor, Paresthesias, Poikilothermia, Pulselessness, and Paralysis) are seldom all present in early <u>ACS</u>.
+
+
+
+
+![Compartment syndrome](../../../../../media/ooeljykzovqq4s2e81fz43ez.jpg)
+
+Compartment syndrome
+
+![Compartment syndrome of the lower leg](../../../../../media/g3oq9cvdmc6rogpboka2uc16.jpg)
+
+Compartment syndrome of the lower leg
+
+---
+
+## Subtypes and variants
+
+Acute <u>compartment syndrome</u> may occur in any enclosed fascial compartment. It most commonly occurs in the lower legs and arms but the feet, hand, thighs, and <u>gluteal region</u> may also be affected. For acute abdominal <u>hypertension</u> and <u>compartment syndrome</u>, see “<u>Abdominal compartment syndrome</u>.”
+
+
+
+
+### Anterior compartment syndrome of the lower leg
+
+
+
+
+* <u>Prevalence</u>: most common type of <u>ACS</u>
+
+* Etiology
+
+* Usually due to trauma to the <u>anterior compartment of the leg</u> (e.g., <u>tibial fracture</u>)
+
+* See also “<u>Etiology of acute compartment syndrome</u>."
+
+* Clinical features
+
+* Often involves injury to the <u>deep peroneal (fibular) nerve</u> 
+
+* <u>Pain</u>: with passive <u>flexion</u> of the toe
+
+* Motor: limited ankle <u>dorsiflexion</u>, <u>inversion</u>, <u>eversion</u> and toe extension
+
+* Sensory: loss of sensation/<u>paresthesia</u> in the <u>deep peroneal nerve</u> territory
+
+* See also “<u>Clinical features of acute compartment syndrome</u>.”
+
+* Treatment: <u>fasciotomy</u> (see “<u>Treatment of acute compartment syndrome</u>”)
+
+
+
+
+
+![Muscle compartments of the lower leg](../../../../../media/h28kzamshcntj81zx4xbti3c.jpg)
+
+Muscle compartments of the lower leg
+
+![Osteofascial compartments of the leg](../../../../../media/xg1r5yc19u1yj4p5k9r0zpyt.jpg)
+
+Osteofascial compartments of the leg
+
+
+
+
+### Forearm <u>compartment syndrome</u> [[3]](https://coursology-qbank.com/amboss/article/s61tm30)[[5]](https://coursology-qbank.com/amboss/article/Vp1Go30)[[6]](https://coursology-qbank.com/amboss/article/ep1xo30)
+
+
+
+
+* <u>Prevalence</u>: second most common type of <u>ACS</u> [[4]](https://coursology-qbank.com/amboss/article/BeXzax)
+
+* Etiology
+
+* Most commonly caused by <u>fractures</u> of the wrist, forearm, or <u>distal</u> arm, e.g.: [[5]](https://coursology-qbank.com/amboss/article/Vp1Go30)
+
+* <u>Distal radial fracture</u> (more common in adults)
+
+* <u>Supracondylar fracture</u> of the <u>humerus</u> (more common in children)
+
+* See also “<u>Etiology of acute compartment syndrome</u>."
+
+* Clinical features [[2]](https://coursology-qbank.com/amboss/article/3wYSir)
+
+* Most commonly involves the <u>volar</u> compartment
+
+* <u>Pain</u>: with passive finger extension
+
+* Motor: weak finger <u>flexion</u>
+
+* Sensory: loss of sensation/parasthesia in the <u>median nerve</u> and/or <u>ulnar nerve</u> distributions
+
+* See also “<u>Clinical features of acute compartment syndrome</u>.”
+
+* Treatment: <u>fasciotomy</u> (see “<u>Treatment of acute compartment syndrome</u>”)
+
+
+
+
+
+![Muscle compartments of the forearm](../../../../../media/urtrbkennpwqrvhpqpzw3j7e.jpg)
+
+Muscle compartments of the forearm
+
+
+
+
+### Others
+
+
+
+
+* Hand <u>compartment syndrome</u>: Etiologies include trauma, high-pressure injection, and <u>IV infiltration</u>. [[7]](https://coursology-qbank.com/amboss/article/Up1bK30)
+
+* Foot <u>compartment syndrome</u>: Etiologies include <u>crush injuries</u>, falls from height, and high-<u>velocity</u> accidents. [[8]](https://coursology-qbank.com/amboss/article/2p1TK30)
+
+* Gluteal <u>compartment syndrome</u>: Etiologies include <u>pelvic</u> trauma and prolonged <u>immobilization</u> (e.g., during <u>surgery</u>). [[9]](https://coursology-qbank.com/amboss/article/fp1kK30)
+
+---
+
+## Diagnosis
+
+### Approach [[1]](https://coursology-qbank.com/amboss/article/AN1Rdh0)[[3]](https://coursology-qbank.com/amboss/article/s61tm30)[[10]](https://coursology-qbank.com/amboss/article/ks1mER0)
+
+
+
+
+Diagnosis is based on clinical findings but is typically confirmed with early measurement of compartment pressures.
+
+
+
+
+* Perform serial clinical examinations in all patients with <u>risk factors for acute compartment syndrome</u>.
+
+* <u>Measure compartment pressures</u> in patients with clinical <u>features concerning for acute compartment syndrome</u>.
+
+* Consider laboratory and imaging studies to determine the etiology and assess for complications.
+
+
+
+
+
+> [!WARNING]
+> In patients with obvious <u>clinical features of compartment syndrome</u>, consider forgoing diagnostics and proceeding immediately to urgent <u>fasciotomy</u>. [[2]](https://coursology-qbank.com/amboss/article/3wYSir)
+
+
+
+
+### Invasive compartment pressure measurement [[1]](https://coursology-qbank.com/amboss/article/AN1Rdh0)[[3]](https://coursology-qbank.com/amboss/article/s61tm30)[[10]](https://coursology-qbank.com/amboss/article/ks1mER0)
+
+
+
+
+* Indication: suspected <u>ACS</u> with equivocal clinical findings
+
+* Contraindications: no <u>absolute contraindications</u>  [[2]](https://coursology-qbank.com/amboss/article/3wYSir)
+
+* Technique [[2]](https://coursology-qbank.com/amboss/article/3wYSir)
+
+* Equipment: Multiple systems with similar <u>accuracy</u> are available; follow local protocols.  [[11]](https://coursology-qbank.com/amboss/article/op10q30)
+
+* Measure pressure in the compartment of concern and all adjacent compartments. [[12]](https://coursology-qbank.com/amboss/article/Jp1sq30)[[13]](https://coursology-qbank.com/amboss/article/A61Rn30)
+
+* Serial measurements are recommended if pressures are normal but clinical concern for <u>ACS</u> persists.
+
+* Findings: The following support a <u>diagnosis of ACS</u>. [[1]](https://coursology-qbank.com/amboss/article/AN1Rdh0)[[3]](https://coursology-qbank.com/amboss/article/s61tm30)[[10]](https://coursology-qbank.com/amboss/article/ks1mER0)
+
+* Intracompartmental pressure ≥ 30 mm Hg
+
+* Delta pressure  ≤ 30 mm Hg (ΔP = <u>diastolic</u> blood pressure - intracompartmental pressure)
+
+* Rising or sustained elevation of compartment pressure
+
+* Complications: infection, bleeding, tissue injury [[2]](https://coursology-qbank.com/amboss/article/3wYSir)
+
+
+
+
+
+> [!WARNING]
+> Critical pressure thresholds for performing <u>fasciotomy</u> are not absolute; always consider clinical findings when making management decisions.
+
+
+
+
+### Additional studies [[1]](https://coursology-qbank.com/amboss/article/AN1Rdh0)[[3]](https://coursology-qbank.com/amboss/article/s61tm30)[[10]](https://coursology-qbank.com/amboss/article/ks1mER0)
+
+
+
+
+Laboratory and imaging studies are not used for diagnostic confirmation but may help identify the underlying cause of <u>ACS</u> or associated complications. [[2]](https://coursology-qbank.com/amboss/article/3wYSir)
+
+
+
+
+* <u>Laboratory studies</u>: to assess for <u>rhabdomyolysis and crush syndrome</u> and other potential complications
+
+* <u>CBC</u>
+
+* <u>CMP</u> (including <u>renal function tests</u>)
+
+* <u>CPK</u>
+
+* Serum and urine <u>myoglobin</u>
+
+* <u>Coagulation panel</u>
+
+* <u>Urinalysis</u>
+
+* Imaging studies
+
+* <u>X-rays</u>: to identify associated <u>fractures</u>
+
+* <u>Ultrasound</u> with and without Doppler: to rule out <u>deep vein thrombosis</u> and evaluate arterial blood flow
+
+
+
+
+
+> [!WARNING]
+> Do not rely on noninvasive <u>perfusion</u> assessment (e.g., <u>pulse oximetry</u>, arterial Doppler) to assess for <u>ACS</u> because arterial blood flow may be detectable even in advanced <u>compartment syndrome</u>. [[1]](https://coursology-qbank.com/amboss/article/AN1Rdh0)
+
+---
+
+## Differential diagnoses
+
+| Differential diagnoses of compartment syndrome |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Features | Acute <u>compartment syndrome</u> | <u>Deep vein thrombosis</u> | <u>Acute limb ischemia</u> | <u>Rhabdomyolysis</u> |
+| History | <br>* Traumatic or non-traumatic<br><br> | <br><br>* Immobility<br><br>* <u>Surgery</u><br><br>* <u>Pregnancy</u><br><br>* Clotting disorder<br><br><br> | <br><br>* <u>Atrial fibrillation</u><br><br>* <u>Peripheral artery disease</u><br><br><br> | <br><br>* <u>Crush injury</u><br><br>* <u>Seizure</u><br><br>* <u>Adverse drug reactions</u><br><br><br> |
+| Clinical features | <br><br>* Deep <u>pain out of proportion</u> to the injury<br><br>* Swelling and tightness<br><br>* Neurological deficits and impaired <u>perfusion</u><br><br>* <u>6 P's</u> (seen rarely in early <u>ACS</u>)<br><br><br> | <br><br>* Often asymptomatic<br><br>* Nonspecific <u>pain</u> and calf swelling<br><br><br> | <br><br>* Acute onset (embolism) or subacute onset (arterial <u>thrombosis</u>)<br><br>* <u>6 P's</u><br><br><br> | <br><br>* <u>Myalgia</u><br><br>* Generalized <u>weakness</u><br><br>* Darkened urine (red to brown)<br><br><br> |
+| Diagnosis | <br>* Delta pressure ≤ 30 mm Hg<br><br> | <br><br>* <u>Wells score</u><br><br>* <u>Doppler ultrasound</u><br><br><br> | <br><br>* <u>Doppler ultrasound</u> (best initial test)<br><br>* <u>Digital subtraction angiography</u> (<u>confirmatory test</u>)<br><br><br> | <br><br>* Blood: ↑ CK, ↑ <u>LDH</u>, ↑ <u>myoglobin</u><br><br>* Urine: <u>myoglobinuria</u><br><br><br> |
+| Treatment | <br>* Surgical and supportive treatment<br><br> | <br><br>* Anticoagulation<br><br>* <u>Thrombolysis</u><br><br><br> | <br><br>* Anticoagulation<br><br>* <u>Revascularization</u> (interventional or surgical)<br><br><br> | <br>* IV fluid administration<br><br> |
+
+
+
+
+
+Others
+
+
+
+
+* <u>Cellulitis</u>
+
+* <u>Peripheral artery disease</u>
+
+
+
+
+
+The differential diagnoses listed here are not exhaustive.
+
+---
+
+## Treatment
+
+### Immediate management [[3]](https://coursology-qbank.com/amboss/article/s61tm30)[[10]](https://coursology-qbank.com/amboss/article/ks1mER0)
+
+
+
+
+* Stabilize as needed (e.g., <u>IV fluid resuscitation</u> and <u>transfusion</u> for <u>hemorrhagic shock</u>).
+
+* Obtain immediate surgical consultation (e.g., trauma, orthopedic, or vascular <u>surgery</u>) for all suspected cases.
+
+* Initiate <u>supportive care</u> to optimize tissue <u>perfusion</u> and oxygenation.
+
+* Perform serial clinical examinations and/or <u>invasive compartment pressure monitoring</u>.
+
+* Disposition
+
+* Likely or confirmed <u>ACS</u>: Proceed to emergency <u>fasciotomy</u>.
+
+* All other patients: Admit to an <u>ICU</u> or observation unit until <u>ACS</u> has been ruled out.
+
+
+
+
+
+> [!WARNING]
+> <u>ACS</u> is a surgical emergency and requires emergent <u>fasciotomy</u>, as irreversible tissue <u>necrosis</u> and functional impairment can occur within 4–6 hours of onset.
+
+
+
+
+### <u>Supportive care</u> [[3]](https://coursology-qbank.com/amboss/article/s61tm30)[[10]](https://coursology-qbank.com/amboss/article/ks1mER0)
+
+
+
+
+* Remove constrictive dressings, <u>splints</u>, and devices.
+
+* Provide systemic <u>analgesia</u>.  [[10]](https://coursology-qbank.com/amboss/article/ks1mER0)
+
+* Place the limb at the level of the <u>heart</u>.
+
+* Reduce displaced <u>fractures</u>.
+
+* Administer <u>supplemental oxygen</u>. [[14]](https://coursology-qbank.com/amboss/article/Tp16K30)
+
+
+
+
+
+> [!WARNING]
+> Avoid elevated positioning of the limb, as this may worsen <u>ischemia</u> by reducing blood flow.
+
+
+
+
+### Surgical treatment [[3]](https://coursology-qbank.com/amboss/article/s61tm30)[[4]](https://coursology-qbank.com/amboss/article/BeXzax)[[10]](https://coursology-qbank.com/amboss/article/ks1mER0)
+
+
+
+
+* Indications: strongly suspected or confirmed acute <u>compartment syndrome</u>
+
+* Contraindications: late <u>ACS</u> with evidence of irreversible intracompartmental damage  [[10]](https://coursology-qbank.com/amboss/article/ks1mER0)[[15]](https://coursology-qbank.com/amboss/article/-B1DWj0)
+
+* Techniques
+
+* Fasciotomy: <u>incision</u>(s) in the <u>skin</u> and <u>fascia</u> to relieve compartment pressure and restore <u>perfusion</u> 
+
+* Perform emergently to prevent irreversible injury.
+
+* Postoperative <u>wound treatment</u>: usually left open for <u>delayed primary closure</u>     [[4]](https://coursology-qbank.com/amboss/article/BeXzax)[[10]](https://coursology-qbank.com/amboss/article/ks1mER0)
+
+* <u>Escharotomy</u>: <u>incision</u> of circumferential compressing burn <u>eschar</u>
+
+* Fibulectomy: removal of the <u>fibula</u> to decompress all four compartments of the leg  [[4]](https://coursology-qbank.com/amboss/article/BeXzax)
+
+
+
+
+
+![Fasciotomy](../../../../../media/kg6uxchso3pu3jfefca25fa7.jpg)
+
+Fasciotomy
+
+![Forearm fasciotomy](../../../../../media/ergo5zs8aklt630k5tglrp7p.jpg)
+
+Forearm fasciotomy
+
+---
+
+## Complications
+
+* Muscle and <u>soft tissue</u> <u>necrosis</u> with a higher risk of infection [[4]](https://coursology-qbank.com/amboss/article/BeXzax)
+
+* Nerve lesions (esp. the <u>tibial nerve</u> and <u>peroneal nerve</u>) with sensory and motor deficits or <u>paralysis</u>
+
+* <u>Rhabdomyolysis</u> with potential <u>crush syndrome</u>
+
+* <u>Malunion fractures</u>
+
+* Volkmann ischemic contracture
+
+* Definition: permanent shortening of the <u>forearm muscles</u> resulting in a claw-like deformity of the fingers, hand, and wrist
+
+* Etiology
+
+* Undiagnosed <u>compartment syndrome</u> (especially due to tight casts/bandages and <u>crush injuries</u>)
+
+* <u>Supracondylar humeral fracture</u>
+
+* Pathophysiology: blood vessel (e.g., <u>brachial artery</u>) or nerve (e.g., <u>radial nerve</u>) damage ; (e.g., due to <u>forearm fracture</u>, repositioning of the bones, restrictive cast) → sustained <u>ischemia</u> and <u>necrosis</u> → <u>fibrosis</u> and <u>contracture</u> of the forearm flexor muscles → <u>atrophy</u> of the flexors of the hand and fingers
+
+* Clinical features 
+
+* Thumb <u>adduction</u>
+
+* Flexed fingers and wrist
+
+* <u>Pain</u> on passive extension of affected fingers and wrist
+
+* <u>Elbow</u> <u>flexion</u> and forearm <u>pronation</u>
+
+* Decreased sensation
+
+* Intrinsic minus deformation (advanced cases): overextended <u>metacarpophalangeal joints</u> and flexed <u>interphalangeal joint</u>
+
+* Diagnostics: <u>clinical diagnosis</u>
+
+* Differential diagnosis: <u>Dupuytren contracture</u>
+
+* Treatment
+
+* Conservative: <u>physical therapy</u>, dynamic <u>elbow</u> <u>splint</u>
+
+* Surgical: <u>tendon</u> transfer procedures, nerve decompression (severely impaired hand function)
+
+* Rebound compartment syndrome
+
+* Onset: occurs 6–12 hours after surgical reperfusion
+
+* Etiology: increased <u>capillary</u> permeability and <u>edema</u>, often due to insufficient <u>fasciotomy</u> <u>incisions</u>
+
+
+
+
+We list the most important complications. The selection is not exhaustive.
+
+---

@@ -1,0 +1,18 @@
+# Fitness to fly and inflight medical events
+
+*Categories: Clinical knowledge > Family medicine > General medicine > Travel medicine > Fitness to fly and inflight medical events*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/J70s5h)
+
+---
+
+## Summary
+
+The combination of an ongoing <u>global</u> increase in airline passengers and an <u>aging</u> population with more comorbidities means increasing numbers of patients with preexisting medical conditions are traveling by air. [[2]](https://coursology-qbank.com/amboss/article/kvXmZZ0) Basic knowledge of how to assess <u>fitness to fly</u> on commercial airlines and how to respond to <u>inflight medical events</u> is therefore of increasing relevance to clinicians.
+
+
+
+
+<u>Space medicine</u> is the practice of medicine on astronauts during spaceflight and involves the prevention and treatment of common illnesses in space. Stressors unique to space include effects of <u>microgravity</u>, spatial confinement, and limitations of remote help. There is a strong emphasis on prevention and preflight screenings because of limited medical equipment, diagnostic capabilities, and medications during spaceflight.
+
+---

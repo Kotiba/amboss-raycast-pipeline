@@ -1,0 +1,428 @@
+# Rhabdomyolysis and crush syndrome
+
+*Categories: Clinical knowledge > Internal medicine > Nephrology > Renal failure > Rhabdomyolysis and crush syndrome*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/4O03sT)
+
+---
+
+## Summary
+
+<u>Rhabdomyolysis</u> is the breakdown of <u>skeletal muscle</u> tissue that results in the release of intracellular contents, such as <u>myoglobin</u>, <u>potassium</u>, <u>phosphate</u>, <u>creatine phosphokinase</u> (<u>CPK</u>), and <u>urate</u>, into the blood and <u>extracellular space</u>. <u>Rhabdomyolysis</u> has many causes, including trauma and <u>crush injuries</u>, drugs, overexertion, temperature extremes, infections, and prolonged immobility. The classic presenting triad of <u>myalgia</u>, generalized <u>weakness</u>, and tea-colored urine is seen in a minority of patients. The diagnosis is confirmed in patients with an elevated serum <u>CPK</u>, typically > 5× the <u>upper limit of normal</u>. Serious complications include <u>acute kidney injury</u> from <u>myoglobin</u>-induced tubular damage, <u>cardiac arrhythmias</u> and arrest from <u>electrolyte</u> derangements, and <u>compartment syndrome</u>. <u>Crush syndrome</u> is the systemic manifestation of a <u>crush injury</u>. It typically manifests with <u>signs of volume depletion</u> (<u>hypovolemia</u>, <u>shock</u>) and <u>compartment syndrome</u> of the affected extremity, and it is often associated with <u>acute kidney injury</u>. <u>Treatment of rhabdomyolysis</u> includes aggressive <u>fluid resuscitation</u> and the correction of metabolic abnormalities. In cases of <u>renal failure</u>, <u>renal replacement therapy</u> may be indicated.
+
+---
+
+## Definitions
+
+* Rhabdomyolysis: breakdown of <u>skeletal muscle</u> tissue
+
+* Crush injury: localized injury to the <u>skeletal muscle</u> by a crushing force [[1]](https://coursology-qbank.com/amboss/article/UM0bLg)
+
+* Crush syndrome: systemic manifestation of <u>crush injury</u> [[1]](https://coursology-qbank.com/amboss/article/UM0bLg)
+
+---
+
+## Etiology
+
+* Traumatic [[2]](https://coursology-qbank.com/amboss/article/KnbU88)[[3]](https://coursology-qbank.com/amboss/article/35YSPp)[[4]](https://coursology-qbank.com/amboss/article/IJcYvW0)
+
+* <u>Crush injury</u>
+
+* Direct injury
+
+* <u>Electric injury</u>
+
+* Significant <u>burns</u>
+
+* Prolonged downtime/<u>immobilization</u> (e.g., after a fall, overdose, <u>coma</u>)
+
+* Resistance to <u>physical restraints</u>
+
+* <u>Envenomation</u> (e.g., <u>snake bite</u>)
+
+* Nontraumatic [[2]](https://coursology-qbank.com/amboss/article/KnbU88)[[3]](https://coursology-qbank.com/amboss/article/35YSPp)[[4]](https://coursology-qbank.com/amboss/article/IJcYvW0)
+
+* <u>Seizures</u>
+
+* Overexertion (e.g., strenuous exercise)  [[2]](https://coursology-qbank.com/amboss/article/KnbU88)
+
+* Prolonged <u>fasting</u>  [[5]](https://coursology-qbank.com/amboss/article/ih1Jdg0)
+
+* <u>Psychosis</u>, extreme <u>agitation</u>
+
+* <u>Heatstroke</u>
+
+* Intoxication (e.g., <u>cocaine</u>, <u>heroin</u>, <u>amphetamines</u>, <u>MDMA</u>, <u>alcohol</u>, <u>carbon monoxide</u>, <u>phencyclidine</u>)
+
+* <u>Skeletal muscle</u> <u>ischemia</u> [[6]](https://coursology-qbank.com/amboss/article/fM0kLg)
+
+* Infection
+
+* <u>Adverse drug reactions</u> (e.g., <u>neuroleptics</u>, <u>statins</u>)
+
+* <u>Malignant hyperthermia</u>
+
+
+
+
+
+> [!TIP]
+> Recurrent episodes of <u>rhabdomyolysis</u> may indicate an underlying inherited metabolic <u>myopathy</u>. [[2]](https://coursology-qbank.com/amboss/article/KnbU88)
+
+---
+
+## Pathophysiology
+
+* <u>Rhabdomyolysis</u> → release of the following substances: [[1]](https://coursology-qbank.com/amboss/article/UM0bLg)[[7]](https://coursology-qbank.com/amboss/article/VM0Gng)
+
+* <u>Creatine phosphokinase</u> (<u>CPK</u>) and serum <u>myoglobin</u> → <u>pigment nephropathy</u> → <u>acute tubular necrosis</u> → <u>acute kidney injury</u> (intrinsic)
+
+* <u>Potassium</u> → <u>cardiac arrhythmia</u>
+
+* <u>Lactic acid</u> → <u>metabolic acidosis</u>
+
+* <u>Hypovolemia</u> → ↓ renal <u>perfusion</u> → <u>acute kidney injury</u> (<u>prerenal</u>)  [[8]](https://coursology-qbank.com/amboss/article/mIXVWz)
+
+* <u>Reperfusion syndrome</u> → <u>compartment syndrome</u>
+
+---
+
+## Clinical features
+
+### <u>Rhabdomyolysis</u>
+
+
+
+
+* Classic triad
+
+* <u>Myalgia</u>
+
+* Generalized <u>weakness</u>
+
+* Darkened urine (red to brown)
+
+* Nonspecific symptoms: <u>fever</u>, <u>nausea</u>, <u>vomiting</u>
+
+* Signs of complications: : e.g., <u>AKI</u>, <u>compartment syndrome</u>, <u>cardiac arrhythmias</u> (see “Complications” for details)
+
+
+
+
+
+> [!TIP]
+> Many patients are asymptomatic on presentation. The classic triad of <u>myalgia</u>, generalized <u>weakness</u>, and tea-colored urine is seen in a minority of patients. [[9]](https://coursology-qbank.com/amboss/article/dJcoGW0)
+
+
+
+
+### <u>Crush syndrome</u>
+
+
+
+* In addition to signs of <u>rhabdomyolysis</u>: <u>hypovolemia</u> and <u>shock</u>  [[7]](https://coursology-qbank.com/amboss/article/VM0Gng)
+
+---
+
+## Diagnosis
+
+### General principles [[4]](https://coursology-qbank.com/amboss/article/IJcYvW0)
+
+
+
+
+* <u>Rhabdomyolysis</u> is a biochemical diagnosis based on ↑ <u>CPK</u> levels.
+
+* Clinicians should have a low threshold for checking serum <u>CPK</u> levels in patients with supportive clinical features and/or those who are at risk (see “Etiology”).  [[9]](https://coursology-qbank.com/amboss/article/dJcoGW0)
+
+* Further diagnostic studies should focus on identifying <u>complications of rhabdomyolysis</u>.
+
+* The McMahon score for <u>rhabdomyolysis</u> helps identify patients at risk of <u>death</u> or requiring <u>renal replacement therapy</u>.  [[10]](https://coursology-qbank.com/amboss/article/GJcBvW0)
+
+
+
+
+
+> [!WARNING]
+> <u>Acute kidney injury</u> is a complication that suggests a poor prognosis in patients with <u>rhabdomyolysis</u>. [[8]](https://coursology-qbank.com/amboss/article/mIXVWz)
+
+
+
+
+> [!TIP]
+> While there is no specific <u>CPK</u> threshold for the diagnosis of <u>rhabdomyolysis</u>, a concentration of <u>CPK</u> > 5× the <u>ULN</u> or > 1000 IU/L is commonly used. [[9]](https://coursology-qbank.com/amboss/article/dJcoGW0)[[11]](https://coursology-qbank.com/amboss/article/_X150f0)
+
+
+
+
+![McMahon Rhabdomyolysis Risk Score](../../../../../media/w2r51yub3w6bei21hwx3t6st.jpg)
+
+McMahon Rhabdomyolysis Risk Score
+
+
+
+
+### Diagnostic studies
+
+
+
+
+* Blood work [[8]](https://coursology-qbank.com/amboss/article/mIXVWz)[[10]](https://coursology-qbank.com/amboss/article/GJcBvW0)[[12]](https://coursology-qbank.com/amboss/article/SqcyBW0)
+
+* ↑ <u>CPK</u> > 5× the <u>ULN</u> or > 1000 IU/L  [[10]](https://coursology-qbank.com/amboss/article/GJcBvW0)[[11]](https://coursology-qbank.com/amboss/article/_X150f0)
+
+* <u>CPK</u> peaks within 24–72 hours of injury and declines after 3–5 days.
+
+* Sustained elevation should raise concern for <u>compartment syndrome</u> or ongoing <u>muscle injury</u>.
+
+* <u>CMP</u>
+
+* ↑ <u>BUN</u>, ↑ <u>Creatinine</u>, ↓ <u>BUN:Cr ratio</u>
+
+* ↑ <u>Potassium</u>, ↑ <u>Phosphate</u>, ↓ <u>Calcium</u> (<u>ionized Ca</u>)  [[8]](https://coursology-qbank.com/amboss/article/mIXVWz)
+
+* ↑ <u>Lactate dehydrogenase</u>
+
+* <u>CBC</u>
+
+* ↑ <u>Uric acid</u>
+
+* ↑ <u>Myoglobin</u>  [[9]](https://coursology-qbank.com/amboss/article/dJcoGW0)[[12]](https://coursology-qbank.com/amboss/article/SqcyBW0)
+
+* <u>ABG</u>: <u>anion gap metabolic acidosis</u>
+
+* <u>Coagulation studies</u>
+
+* Urine studies [[8]](https://coursology-qbank.com/amboss/article/mIXVWz)
+
+* <u>Urine dipstick</u>: may show a <u>pH</u> < 6.5 and be <u>false-positive</u> for blood (due to <u>myoglobinuria</u>)
+
+* <u>Urine sediment</u>: negative for <u>RBCs</u>, positive for pigmented <u>granular casts</u>
+
+* <u>FENa</u>: variable
+
+* <u>ECG</u>: may show <u>ECG findings of hyperkalemia</u>  or <u>ECG findings of hypocalcemia</u>
+
+
+
+
+
+> [!TIP]
+> <u>Myoglobinuria</u> causes a <u>false-positive</u> result for blood on <u>urine dipstick</u>. Suspect <u>myoglobinuria</u> if <u>urine dipstick</u> is positive for blood in the absence of <u>red blood cells</u> in <u>urine sediment</u>.
+
+
+
+
+> [!WARNING]
+> Elevated serum <u>myoglobin</u> or <u>myoglobinuria</u> are not required to establish a diagnosis but may be useful to confirm the presence of <u>rhabdomyolysis</u> if there is diagnostic uncertainty.
+
+
+
+
+![Fractional excretion of sodium (FENa)](../../../../../media/imnjt1utoenihrfehipu6vmv.jpg)
+
+Fractional excretion of sodium (FENa)
+
+![ECG findings in moderate to severe hyperkalemia](../../../../../media/l8628x5rtc50cpdvxj3jiveb.jpg)
+
+ECG findings in moderate to severe hyperkalemia
+
+![Sine wave pattern in hyperkalemia](../../../../../media/ypr59ee31lgnpz08tvleecd1.jpg)
+
+Sine wave pattern in hyperkalemia
+
+![ECG in hypocalcemia](../../../../../media/ab20f3q7g7ajbcs8vanrgbau.jpg)
+
+ECG in hypocalcemia
+
+---
+
+## Treatment
+
+### Approach   [[4]](https://coursology-qbank.com/amboss/article/IJcYvW0)[[8]](https://coursology-qbank.com/amboss/article/mIXVWz)[[9]](https://coursology-qbank.com/amboss/article/dJcoGW0)[[11]](https://coursology-qbank.com/amboss/article/_X150f0)[[13]](https://coursology-qbank.com/amboss/article/vrcAQd0)
+
+
+
+
+* Provide prompt <u>IV fluid resuscitation</u>.
+
+* Consider stopping medications associated with <u>rhabdomyolysis</u>.  [[14]](https://coursology-qbank.com/amboss/article/HJcKvW0)
+
+* Identify and treat all reversible <u>causes of rhabdomyolysis</u>.
+
+* Monitor and manage complications.
+
+* Perform serial laboratory monitoring (e.g., <u>CPK</u>, <u>urine dipstick</u>, <u>BMP</u>).
+
+* Correct <u>electrolyte</u> derangements when indicated.
+
+* Provide <u>supportive care for acute kidney injury</u>; , consult nephrology early, and assess for <u>indications for acute dialysis</u>.
+
+
+
+
+
+> [!TIP]
+> <u>Fluid resuscitation</u> is indicated in all patients with <u>CPK</u> > 5× the <u>ULN</u> or > 1000 IU/L and should be continued until <u>CPK</u> levels decrease to below this level. [[3]](https://coursology-qbank.com/amboss/article/35YSPp)
+
+
+
+
+### Fluid management [[4]](https://coursology-qbank.com/amboss/article/IJcYvW0)[[8]](https://coursology-qbank.com/amboss/article/mIXVWz)[[9]](https://coursology-qbank.com/amboss/article/dJcoGW0)[[11]](https://coursology-qbank.com/amboss/article/_X150f0)
+
+
+
+
+* Immediate <u>IV fluid resuscitation</u> (e.g., ≥ 10–12 L/day)
+
+* Indicated for all patients to prevent complications
+
+* Aggressively infuse <u>crystalloid solutions</u> (e.g., <u>normal saline</u>  DOSAGE).
+
+* <u>Urine alkalinization</u>: not routinely recommended  [[4]](https://coursology-qbank.com/amboss/article/IJcYvW0)[[11]](https://coursology-qbank.com/amboss/article/_X150f0)
+
+* Consider for patients with a urinary <u>pH</u> < 6.5 if urine output is adequate.
+
+* Target a urine <u>pH</u> > 6.5 using an <u>isotonic bicarbonate solution</u>.
+
+* Avoid inducing <u>metabolic alkalosis</u> and/or <u>hypokalemia</u>. [[2]](https://coursology-qbank.com/amboss/article/KnbU88)
+
+* Monitoring
+
+* Begin strict <u>input/output monitoring</u> and target a high initial urine output (e.g., 1–3 mL/kg/hour up to 300 mL/hour). [[11]](https://coursology-qbank.com/amboss/article/_X150f0)
+
+* Carefully monitor respiratory and <u>volume status</u> in patients with <u>anuria</u> or <u>high risk for volume overload</u>.
+
+* Begin <u>de-escalation of fluid therapy</u> once serum <u>CPK</u> is < 1000 U/L, urine is clear, and <u>urine dipstick</u> is negative for blood. [[3]](https://coursology-qbank.com/amboss/article/35YSPp)
+
+
+
+
+
+> [!TIP]
+> The longer it takes for <u>IV fluids</u> to be started, the more likely it is that <u>acute renal failure</u> will develop. [[8]](https://coursology-qbank.com/amboss/article/mIXVWz)
+
+
+
+
+### <u>Diuretics</u> [[4]](https://coursology-qbank.com/amboss/article/IJcYvW0)[[11]](https://coursology-qbank.com/amboss/article/_X150f0)[[12]](https://coursology-qbank.com/amboss/article/SqcyBW0)
+
+
+
+
+The following therapies are not routinely recommended but may be considered under specialist guidance. Their use remains controversial. [[11]](https://coursology-qbank.com/amboss/article/_X150f0)
+
+
+
+
+* <u>Loop diuretics</u> (e.g., <u>furosemide</u>): may be considered to force diuresis only after the patient's volume has been expanded.
+
+* <u>Mannitol</u>: may be considered under specialist guidance
+
+
+
+
+
+### Management of <u>electrolyte</u> derangements [[4]](https://coursology-qbank.com/amboss/article/IJcYvW0)[[6]](https://coursology-qbank.com/amboss/article/fM0kLg)[[12]](https://coursology-qbank.com/amboss/article/SqcyBW0)
+
+
+
+
+* Correct <u>hyperkalemia</u> aggressively
+
+* Take a <u>therapeutic approach to hyperkalemia</u> based on the risk of <u>hyperkalemic emergency</u>.
+
+* Monitor <u>potassium</u> levels every 4 hours until normalized.
+
+* Consider treatment for:
+
+* <u>Hypocalcemia</u>: Take a cautious approach to <u>calcium replacement</u>, e.g., only for symptomatic patients and those with severe <u>hyperkalemia</u>.
+
+* <u>Hyperphosphatemia</u>: Consider <u>oral phosphate binders</u>.
+
+* <u>Hyperuricemia</u>: Consider <u>urate-lowering therapy</u> (e.g., <u>allopurinol</u>).
+
+
+
+
+
+### Disposition [[2]](https://coursology-qbank.com/amboss/article/KnbU88)[[3]](https://coursology-qbank.com/amboss/article/35YSPp)
+
+
+
+
+* Admission
+
+* Typically required for <u>IV fluid therapy</u>, monitoring, and management of complications
+
+* Consider <u>ICU</u> admission for patients with: [[4]](https://coursology-qbank.com/amboss/article/IJcYvW0)[[8]](https://coursology-qbank.com/amboss/article/mIXVWz)[[10]](https://coursology-qbank.com/amboss/article/GJcBvW0)
+
+* <u>Crush syndrome</u>
+
+* Complications (e.g., <u>AKI</u>, <u>compartment syndrome</u>)
+
+* Significant comorbidities (e.g., cardiovascular disease, <u>CKD</u>)
+
+* Increased risk for complications (e.g., age > 65 years, <u>CPK</u> > 40,000 U/L)
+
+* Discharge can be considered in otherwise healthy patients with all of the following:
+
+* Adequate oral or IV <u>fluid replacement</u>
+
+* Exertional <u>rhabdomyolysis</u> without complications
+
+* Discharge instructions
+
+---
+
+## Complications
+
+### Early complications [[4]](https://coursology-qbank.com/amboss/article/IJcYvW0)[[9]](https://coursology-qbank.com/amboss/article/dJcoGW0)
+
+
+
+
+* <u>Electrolyte</u> abnormalities
+
+* <u>Hyperkalemia</u>
+
+* <u>Hypocalcemia</u>
+
+* <u>Hyperphosphatemia</u>
+
+* <u>Hepatitis</u>  [[12]](https://coursology-qbank.com/amboss/article/SqcyBW0)
+
+* <u>Hypovolemia</u>
+
+* <u>Cardiac arrhythmias</u>, <u>cardiac arrest</u> (due to <u>electrolyte</u> derangements) [[15]](https://coursology-qbank.com/amboss/article/heXcAC)
+
+
+
+
+
+### Late complications [[4]](https://coursology-qbank.com/amboss/article/IJcYvW0)[[9]](https://coursology-qbank.com/amboss/article/dJcoGW0)
+
+
+
+
+* <u>Hypercalcemia</u>
+
+* <u>Acute kidney injury</u>: can be <u>oliguric</u> or <u>anuric</u>
+
+* <u>Disseminated intravascular coagulation</u>  [[12]](https://coursology-qbank.com/amboss/article/SqcyBW0)
+
+* <u>Compartment syndrome</u>: may develop as a result of direct <u>muscle injury</u> or after volume resuscitation
+
+
+
+
+
+> [!TIP]
+> <u>Compartment syndrome</u> can occur at any stage of <u>rhabdomyolysis</u> and is an orthopedic emergency. [[4]](https://coursology-qbank.com/amboss/article/IJcYvW0)[[12]](https://coursology-qbank.com/amboss/article/SqcyBW0)
+
+
+
+
+We list the most important complications. The selection is not exhaustive.
+
+---

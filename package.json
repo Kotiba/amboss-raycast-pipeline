@@ -1,0 +1,11 @@
+{
+  "name": "amboss-raycast-pipeline",
+  "version": "1.0.0",
+  "description": "Content pipeline to generate static API for Amboss Raycast Extension",
+  "main": "build_pipeline.js",
+  "scripts": {
+    "build": "node build_pipeline.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

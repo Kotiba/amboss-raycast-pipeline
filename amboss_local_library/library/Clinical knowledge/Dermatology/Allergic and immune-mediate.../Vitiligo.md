@@ -1,0 +1,324 @@
+# Vitiligo
+
+*Categories: Clinical knowledge > Dermatology > Allergic and immune-mediated disorders > Vitiligo*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/7k046T)
+
+---
+
+## Summary
+
+Vitiligo is a benign <u>skin</u> condition characterized by well-demarcated <u>macules</u> and patches of complete depigmentation. This condition is commonly associated with autoimmune diseases and is believed to be a result of autoimmune destruction of <u>melanocytes</u>, oxidative <u>stress</u>, and/or intrinsic <u>melanocyte</u> defects in genetically predisposed individuals. <u>Nonsegmental vitiligo</u> is the most common subtype with a bilateral and symmetric distribution. Lesions may be limited to specific areas (e.g., acral areas) or widespread. It has a chronic course with unpredictable periods of disease progression. <u>Segmental vitiligo</u> is characterized by lesions with a unilateral distribution and an early phase of rapid spread, followed by long-term stability. Vitiligo is typically a <u>clinical diagnosis</u>, but <u>Wood lamp examination</u> and/or <u>skin biopsy</u> are useful in case of diagnostic uncertainty. Initial management typically includes topical <u>immunosuppressants</u> (e.g., <u>corticosteroids</u> and/or <u>calcineurin inhibitors</u>) alone or in combination with <u>phototherapy</u>. Low-dose oral <u>corticosteroids</u> may be considered for rapidly progressive disease. Surgical therapy (e.g., cellular grafts, tissue grafts) or <u>depigmentation therapy</u> is reserved for refractory stable lesions. Camouflage cosmetics can be offered to patients. Regardless of therapy, depigmentation is often recurrent.
+
+---
+
+## Epidemiology
+
+* <u>Prevalence</u>: 0.4–2% of the general population worldwide [[1]](https://coursology-qbank.com/amboss/article/VWXG4C)
+
+* Peak <u>incidence</u>: 10–30 years; can occur in any age group [[2]](https://coursology-qbank.com/amboss/article/dWXo4C)
+
+* Sex: <u>♂</u> = <u>♀</u>
+
+
+
+
+Epidemiological data refers to the US, unless otherwise specified.
+
+---
+
+## Etiology
+
+* Vitiligo is characterized by an absence of <u>melanocytes</u> in the depigmented lesions. [[2]](https://coursology-qbank.com/amboss/article/dWXo4C)
+
+* The etiology is unknown but is thought to be multifactorial. [[3]](https://coursology-qbank.com/amboss/article/eWXx4C)[[4]](https://coursology-qbank.com/amboss/article/XPW9Wl0)
+
+* Genetic predisposition
+
+* Autoimmune destruction of <u>melanocytes</u>
+
+* Oxidative <u>stress</u> (<u>free radicals</u>)
+
+* Intrinsic defects of <u>melanocytes</u> (early <u>apoptosis</u>, defective cell-to-basement membrane adherence)
+
+* May be triggered by <u>stress</u> or <u>skin</u> injury (e.g., <u>sunburn</u>) [[4]](https://coursology-qbank.com/amboss/article/XPW9Wl0)
+
+---
+
+## Classification
+
+Mixed vitiligo refers to a combination of nonsegmental and <u>segmental vitiligo</u>. [[5]](https://coursology-qbank.com/amboss/article/G5dBlq0)
+
+
+
+
+### Nonsegmental vitiligo [[5]](https://coursology-qbank.com/amboss/article/G5dBlq0)[[6]](https://coursology-qbank.com/amboss/article/ghdFWp0)
+
+
+
+
+* Most common type of vitiligo
+
+* Typically bilateral and symmetric distribution
+
+* Chronic course with unpredictable periods of progression
+
+* Spontaneous repigmentation may occur, but is often temporary. [[7]](https://coursology-qbank.com/amboss/article/K5dUOq0)
+
+* Subtypes include:
+
+* Generalized (involving multiple areas of the body)
+
+* Universal (involving all or nearly all of the body)
+
+* Acrofacial (mainly limited to the face, hands and feet)
+
+* <u>Mucosal</u> (involving the oral and genital <u>mucosa</u>)
+
+
+
+
+
+### Segmental vitiligo [[5]](https://coursology-qbank.com/amboss/article/G5dBlq0)
+
+
+
+
+* More common in children than in adults [[8]](https://coursology-qbank.com/amboss/article/ohd0Up0)
+
+* Typically unilateral distribution
+
+* Initial phase of rapid spread which:
+
+* Includes early <u>leukotrichia</u>
+
+* Can last up to 2 years [[5]](https://coursology-qbank.com/amboss/article/G5dBlq0)
+
+* Lesions typically remain stable after the initial phase.
+
+
+
+
+
+![Segmental vitiligo](../../../../media/vjsl5oz5w2bfwahyw2ja4i58.jpg)
+
+Segmental vitiligo
+
+---
+
+## Clinical features
+
+* Irregular, well-demarcated, depigmented (white) <u>macules</u> or patches, surrounded by normal <u>skin</u>   
+
+* Unilateral (<u>segmental vitiligo</u>) or bilateral and symmetrical distribution (<u>nonsegmental vitiligo</u>)
+
+* Commonly on the face (e.g., perioral and periocular regions), neck, scalp, acral surfaces (e.g., hands), extensor surfaces, or genitalia
+
+* May manifest on areas that repeatedly sustain mechanical trauma (<u>Koebner phenomenon</u>) or are sun-exposed
+
+* Depigmented <u>hair</u> within vitiliginous <u>macules</u> (leukotrichia) [[10]](https://coursology-qbank.com/amboss/article/65djOq0)
+
+* Coexisting autoimmune diseases
+
+* Most common (∼ 20% of patients): <u>Hashimoto thyroiditis</u>, <u>Graves disease</u> [[11]](https://coursology-qbank.com/amboss/article/eMdxnq0)
+
+* Other disorders: <u>type 1 diabetes</u>, <u>psoriasis</u>, <u>inflammatory bowel disease</u>, <u>alopecia areata</u>, <u>pernicious anemia</u>, <u>Addison disease</u>
+
+* Ocular manifestations (e.g., retinal pigmentary changes, dry eyes) can occur, but <u>vision</u> is typically unaffected. [[12]](https://coursology-qbank.com/amboss/article/bhdHcp0)
+
+
+
+
+
+![Vitiligo](../../../../media/d6ac2k8vpr1stwv52pti2gzm.jpg)
+
+Vitiligo
+
+![Vitiligo](../../../../media/jb2blwb6h9pvydnhca1w76ul.jpg)
+
+Vitiligo
+
+![Vitiligo](../../../../media/qdltsa30h9e7hie2ma3bbh3j.jpg)
+
+Vitiligo
+
+![Vitiligo](../../../../media/hu144lsy56b9e1g2qz67w949.jpg)
+
+Vitiligo
+
+![Vitiligo](../../../../media/nrj8eaclmay0nroyvv5wh8t7.jpg)
+
+Vitiligo
+
+---
+
+## Diagnosis
+
+* Typically a <u>clinical diagnosis</u>
+
+* <u>Dermoscopy</u> may show: [[10]](https://coursology-qbank.com/amboss/article/65djOq0)
+
+* White <u>hypopigmented</u> lesions
+
+* Perilesional and perifollicular <u>hyperpigmentation</u>
+
+* <u>Leukotrichia</u>
+
+* If there is diagnostic uncertainty, refer to dermatology for the following.
+
+* <u>Wood lamp examination</u>: blue-white appearance of lesions [[13]](https://coursology-qbank.com/amboss/article/x5dEmq0)
+
+* <u>Skin biopsy</u> and <u>histology</u>: absence of <u>melanocytes</u> in otherwise normal <u>skin</u>
+
+* Consider testing for associated autoimmune disorders (see “Clinical features”) based on clinical suspicion.
+
+---
+
+## Differential diagnoses
+
+* Pityriasis alba: a common <u>hypopigmented</u> scaly patch seen in sun-exposed areas, especially in children (resolves spontaneously or with <u>topical steroids</u>) [[14]](https://coursology-qbank.com/amboss/article/J8asnm)
+
+* <u>Pityriasis versicolor</u>: a fungal infection characterized by scaly <u>hypopigmented</u> <u>macules</u> on the trunk
+
+* Idiopathic guttate hypomelanosis: multiple <u>hypopigmented</u> <u>macules</u> on the sun-exposed areas, common in older individuals
+
+* Nevus depigmentosus: a well-defined area of depigmentation, present since <u>birth</u> or early childhood, which does not enlarge and requires no treatment
+
+* Chemical leukoderma: loss of <u>skin</u> pigment due to contact with chemicals
+
+
+
+
+The differential diagnoses listed here are not exhaustive.
+
+---
+
+## Treatment
+
+### General principles [[4]](https://coursology-qbank.com/amboss/article/XPW9Wl0)[[6]](https://coursology-qbank.com/amboss/article/ghdFWp0)[[15]](https://coursology-qbank.com/amboss/article/nhd7ep0)
+
+
+
+
+* All patients
+
+* Refer to dermatology for early management.
+
+* Recommend <u>photoprotective measures</u>.
+
+* Recommend cosmetic camouflage products if desired.
+
+* Refer for <u>psychotherapy</u>.  [[16]](https://coursology-qbank.com/amboss/article/jSd_z60)
+
+* Initial treatment may include:   [[7]](https://coursology-qbank.com/amboss/article/K5dUOq0)[[17]](https://coursology-qbank.com/amboss/article/s5dtlq0)[[18]](https://coursology-qbank.com/amboss/article/SLdyCq0)
+
+* Topical <u>immunosuppressants</u>
+
+* <u>Phototherapy</u>
+
+* Oral <u>corticosteroids</u> for rapidly progressive disease
+
+* <u>Maintenance therapy</u> may be needed to prevent relapse following repigmentation.
+
+* Advanced treatment for patients with refractory stable disease may include:
+
+* Surgical therapy
+
+* <u>Depigmentation therapy</u>
+
+
+
+
+
+> [!TIP]
+> Regardless of the treatment used, disease recurrence is common. [[7]](https://coursology-qbank.com/amboss/article/K5dUOq0)[[15]](https://coursology-qbank.com/amboss/article/nhd7ep0)
+
+
+
+
+### <u>Immunosuppressants</u> [[6]](https://coursology-qbank.com/amboss/article/ghdFWp0)[[15]](https://coursology-qbank.com/amboss/article/nhd7ep0)[[18]](https://coursology-qbank.com/amboss/article/SLdyCq0)
+
+
+
+
+* <u>Topical corticosteroids</u>
+
+* Ultra-high <u>potency</u> or high <u>potency</u> <u>corticosteroids</u> (e.g., <u>fluocinonide</u> 0.05% ointment): for lesions on the trunk and extremities [[4]](https://coursology-qbank.com/amboss/article/XPW9Wl0)[[6]](https://coursology-qbank.com/amboss/article/ghdFWp0)
+
+* Medium <u>potency</u> <u>corticosteroids</u> (e.g., <u>mometasone</u> 0.1% ointment): for large or thin-skinned (e.g., <u>intertriginous</u>) treatment areas [[17]](https://coursology-qbank.com/amboss/article/s5dtlq0)
+
+* <u>Topical calcineurin inhibitors</u>: may be preferred for lesions on the face or thin-skinned areas
+
+* <u>Tacrolimus</u> 0.1% ointment in adults and 0.03% ointment in children (<u>off-label</u>) [[6]](https://coursology-qbank.com/amboss/article/ghdFWp0)
+
+* <u>Pimecrolimus</u> 1% cream (<u>off-label</u>) [[7]](https://coursology-qbank.com/amboss/article/K5dUOq0)
+
+* Topical <u>Janus kinase inhibitors</u>: <u>ruxolitinib</u> for limited <u>nonsegmental vitiligo</u> in patients ≥ 12 years of age [[15]](https://coursology-qbank.com/amboss/article/nhd7ep0)
+
+* Oral low-dose <u>corticosteroids</u>: may be used as short-term therapy for rapidly progressive vitiligo
+
+
+
+
+
+> [!TIP]
+> Regular breaks from using topical or oral <u>corticosteroids</u> are recommended to reduce adverse effects. [[6]](https://coursology-qbank.com/amboss/article/ghdFWp0)
+
+
+
+
+### <u>Phototherapy</u> [[6]](https://coursology-qbank.com/amboss/article/ghdFWp0)
+
+
+
+
+* Narrowband (NB)-<u>UVB phototherapy</u>: typically preferred  [[15]](https://coursology-qbank.com/amboss/article/nhd7ep0)
+
+* Whole body <u>NB-UVB</u> <u>phototherapy</u>: for widespread or rapidly progressive disease
+
+* Excimer laser therapy (targeted <u>NB-UVB</u>): for disease affecting < 10% of <u>total body surface area</u> [[6]](https://coursology-qbank.com/amboss/article/ghdFWp0)
+
+* Whole body <u>psolaren and UVA phototherapy</u> (<u>PUVA</u>) may be considered for:
+
+* Treatment-resistant vitiligo
+
+* Vitiligo in individuals with darker <u>skin</u>
+
+
+
+
+
+### Surgical therapy [[6]](https://coursology-qbank.com/amboss/article/ghdFWp0)[[15]](https://coursology-qbank.com/amboss/article/nhd7ep0)
+
+
+
+
+* Tissue grafts
+
+* Mini-punch grafts
+
+* <u>Split-thickness skin grafts</u>
+
+* Cellular grafts: <u>melanocyte</u>-<u>keratinocyte</u> <u>transplantation</u>
+
+
+
+
+
+### <u>Depigmentation therapy</u> [[4]](https://coursology-qbank.com/amboss/article/XPW9Wl0)[[6]](https://coursology-qbank.com/amboss/article/ghdFWp0)
+
+
+
+
+The goal of <u>depigmentation therapy</u> is permanent removal of pigmentation of unaffected <u>skin</u> so <u>skin</u> color is consistent. Options include:
+
+
+
+
+* Monobenzone cream
+
+* <u>Cryotherapy</u>
+
+* Laser therapy
+
+---

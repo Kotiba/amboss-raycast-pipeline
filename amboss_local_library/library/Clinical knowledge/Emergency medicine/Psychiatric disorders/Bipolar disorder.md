@@ -1,0 +1,640 @@
+# Bipolar disorder
+
+*Categories: Clinical knowledge > Emergency medicine > Psychiatric disorders > Bipolar disorder*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/4P03UT)
+
+---
+
+## Summary
+
+Bipolar disorder is a psychiatric condition characterized by episodes of <u>mania</u> (or <u>hypomania</u>) and major <u>depression</u>, interspersed with periods of normal mood and functioning. Men and women are equally affected, and there is a strong genetic component to the disease. During <u>manic episodes</u>, patients may experience elevated mood, talkativeness, <u>racing thoughts</u>, and <u>psychosis</u>, which may endanger themselves or others. Depressive episodes are characterized by sadness, <u>anhedonia</u>, and hopelessness. Although episodes of <u>mania</u> or <u>depression</u> can occur at any time, they are especially triggered by environmental factors, such as <u>lack of sleep</u> or psychosocial <u>stress</u>. <u>Manic episodes</u> are treated acutely with <u>lithium</u>, <u>antipsychotics</u>, and <u>benzodiazepines</u>. <u>Lithium</u> is also commonly used for long-term treatment, as is <u>valproic acid</u>.
+
+---
+
+## Epidemiology
+
+* Sex: <u>♀</u> = <u>♂</u>  [[1]](https://coursology-qbank.com/amboss/article/jXY_Bn)
+
+* Age of onset [[2]](https://coursology-qbank.com/amboss/article/dKco2W0)
+
+* The average age of onset is 20 years
+
+* The frequency of depressive and <u>manic episodes</u> increases with age.
+
+* Lifetime <u>prevalence</u>
+
+* General population: 1–3%
+
+* First-degree relative with bipolar disorder: up to 10%
+
+* <u>Monozygotic twin</u>: 40–70%
+
+
+
+
+
+> [!TIP]
+> Patients with bipolar disorder have a very high risk of <u>suicide</u>.
+
+
+
+
+Epidemiological data refers to the US, unless otherwise specified.
+
+---
+
+## Etiology
+
+* Multifactorial origin
+
+* Strong genetic component → increased risk if first-degree relative is affected (see “<u>Epidemiology</u>” above) [[3]](https://coursology-qbank.com/amboss/article/js1_uR0)
+
+* ↑ Paternal age → ↑ mutations during <u>spermatogenesis</u> → ↑ risk of bipolar disorder in offspring [[4]](https://coursology-qbank.com/amboss/article/Ps1WER0)
+
+* Triggers
+
+* Psychosocial <u>stress</u>
+
+* Medications (e.g., <u>dexamethasone</u>)
+
+* Childhood traumatic experiences
+
+* <u>Sleep</u> disturbances
+
+* Physical illness
+
+---
+
+## Clinical features
+
+### General
+
+
+
+
+Bipolar disorder is characterized by alternating episodes of <u>mania</u> (often also <u>hypomania</u>) and major <u>depression</u>, in between which individuals may be asymptomatic. See “<u>DSM-5 diagnostic criteria for bipolar disorder</u>” for details. [[5]](https://coursology-qbank.com/amboss/article/ehcx1X0)
+
+
+
+
+* <u>Manic</u>/<u>hypomanic episode</u>
+
+* Characterized by an elevated mood
+
+* Symptoms include:
+
+* Intense prolonged happiness (e.g., for several days)
+
+* Irritability
+
+* Overconfidence, risky behavior (e.g., overspending money)
+
+* Decreased need for <u>sleep</u>
+
+* Hypersexuality
+
+* <u>Psychotic features</u> (only during <u>manic episodes</u>)
+
+* <u>Major depressive episode</u>
+
+* Characterized by a depressed mood
+
+* Symptoms include:
+
+* <u>Anhedonia</u>
+
+* Fatigue, <u>sleep</u> disturbances
+
+* Frequent reports of <u>pain</u>, e.g., <u>headache</u> or <u>stomach</u> ache
+
+* Lack of interest in activities that were previously enjoyed
+
+* Feelings of worthlessness or guilt
+
+* <u>Suicidal ideation</u>
+
+
+
+
+
+> [!NOTE]
+> <u>DIGFAST</u> for features of <u>mania</u>: Distractibility, Irresponsibility, Grandiosity, Flight of ideas, Activity increase, Sleep deficit, and Talkativeness.
+
+
+
+
+> [!NOTE]
+> <u>SIGECAPS</u> for features of <u>depression</u>: Sleep (<u>insomnia</u> or <u>hypersomnia</u>), Interest loss (<u>anhedonia</u>), Guilt (low self-esteem), Energy (low energy or fatigue), Concentration (poor concentration or difficulty making decisions), Appetite (decreased appetite or overeating), Psychomotor <u>agitation</u> or retardation, and Suicidal ideation.
+
+
+
+
+![Symptom-duration criteria for the diagnosis of mood disorders](../../../../media/zdenxblaj0g34nxaup30s6m1.jpg)
+
+Symptom-duration criteria for the diagnosis of mood disorders
+
+
+
+
+### Types of bipolar disorder [[6]](https://coursology-qbank.com/amboss/article/7ra4iN)
+
+
+
+
+* Bipolar I disorder: at least one episode of <u>mania</u>. Major depressive or <u>hypomanic episodes</u> usually occur but are not required for diagnosis.
+
+* Bipolar II disorder: at least one episode of <u>hypomania</u>  and one major depressive episode; no previous episodes of <u>mania</u> (distinguishing feature from <u>bipolar I</u>)
+
+
+
+
+
+> [!NOTE]
+> In contrast to <u>bipolar II disorder</u>, a history of major depressive episodes is not required for the diagnosis of <u>bipolar I disorder</u>.
+
+
+
+
+![Symptoms of mood disorders](../../../../media/j8qq0zcplac60vfzdwz70mtq.jpg)
+
+Symptoms of mood disorders
+
+
+
+
+### In children and <u>adolescents</u>
+
+
+
+
+A sudden change in mood or activity of a child or <u>adolescent</u> that differs greatly from their normal behavior may be a sign of bipolar disorder. Symptoms of bipolar disorder should be differentiated from mood swings, which are normal for <u>puberty</u>.
+
+
+
+
+* Changes during <u>manic episode</u> may include:
+
+* Sleeping only for a few hours but not feeling tired
+
+* Difficulty staying focused in school
+
+* Increased interest in risky activities (e.g., dangerous sports without proper training)
+
+* Changes during depressive episode may include:
+
+* Sleeping more than usual (e.g., more than 12 hours several days in a row)
+
+* Lack of interest in activities that were previously enjoyed
+
+* Feelings of doing everything wrong
+
+---
+
+## Subtypes and variants
+
+### Rapid cycling [[6]](https://coursology-qbank.com/amboss/article/7ra4iN)
+
+
+
+* Patients affected by <u>rapid cycling</u> have 4 or more episodes of <u>depression</u>, <u>mania</u>, or <u>hypomania</u> occurring in a single year.
+
+
+
+
+### Cyclothymia [[6]](https://coursology-qbank.com/amboss/article/7ra4iN)
+
+
+
+
+* Persistent instability of mood involving numerous periods of depressive symptoms and periods of <u>hypomanic</u> symptoms
+
+* Symptoms are not sufficiently severe or persistent enough to diagnose bipolar disorder (symptoms never meet the criteria for a major depressive or <u>hypomanic episode</u>)
+
+* Symptoms last at least 2 years, are present at least half of the time, and are never absent for more than 2 months at a time.
+
+
+
+
+
+![Symptoms of mood disorders](../../../../media/j8qq0zcplac60vfzdwz70mtq.jpg)
+
+Symptoms of mood disorders
+
+
+
+
+### Substance/medication-induced bipolar and related disorder [[6]](https://coursology-qbank.com/amboss/article/7ra4iN)
+
+
+
+
+* Elevated, disinhibited, or irritable mood with/without <u>depressed mood</u> or <u>anhedonia</u> that develops during or soon after <u>substance intoxication or withdrawal</u>, or after exposure to a medication
+
+* Common precipitants
+
+* <u>Alcohol</u>
+
+* <u>Phencyclidine</u>
+
+* <u>Amphetamine</u>
+
+* <u>Cocaine</u>
+
+* <u>Benzodiazepines</u>
+
+* <u>Glucocorticoids</u> (e.g., <u>dexamethasone</u>)
+
+---
+
+## Diagnosis
+
+### Approach [[7]](https://coursology-qbank.com/amboss/article/0hcecX0)[[8]](https://coursology-qbank.com/amboss/article/RhcldX0)
+
+
+
+
+The diagnosis is clinical and based on the <u>DSM-5 criteria for bipolar disorder</u>. Patients presenting with features of an acute episode should prompt a <u>psychiatry</u> consult and, depending on the severity of the episode, an urgent referral for management.
+
+
+
+
+#### Suspected bipolar disorder [[5]](https://coursology-qbank.com/amboss/article/ehcx1X0)[[7]](https://coursology-qbank.com/amboss/article/0hcecX0)[[8]](https://coursology-qbank.com/amboss/article/RhcldX0)
+
+
+
+
+* Suspect bipolar disorder in patients presenting with current or previous features of <u>mania</u>/<u>hypomania</u> and/or major <u>depression</u>.
+
+* Consider using screening tools  [[5]](https://coursology-qbank.com/amboss/article/ehcx1X0)[[7]](https://coursology-qbank.com/amboss/article/0hcecX0)
+
+* Mood Disorder Questionnaire for <u>manic episodes</u>
+
+* <u>Patient Health Questionnaire-9</u> (<u>PHQ-9</u>) for depressive episodes
+
+* Identify associated features that support the diagnosis, including:
+
+* <u>Suicide attempt</u>
+
+* Onset at an early age
+
+* <u>First-degree relatives</u> with bipolar disorder
+
+* Obtain a detailed clinical history and <u>physical examination</u>; request <u>laboratory studies</u> based on clinical suspicion. 
+
+* Rule out differential diagnoses, including:
+
+* Organic conditions, e.g., <u>hyperthyroidism</u>, <u>hypothyroidism</u>, <u>frontotemporal dementia</u>
+
+* Psychiatric conditions, e.g., <u>schizophrenia</u>, <u>delusional</u> disorders
+
+* Identify coexisting psychiatric conditions  and comorbidities that may affect decisions regarding pharmacotherapy.
+
+* Assess the risk of self-injury and consult <u>psychiatry</u> early for a specialized evaluation.
+
+
+
+
+
+#### Patients with known bipolar disorder [[7]](https://coursology-qbank.com/amboss/article/0hcecX0)[[9]](https://coursology-qbank.com/amboss/article/Nta-dm)
+
+
+
+
+* Symptoms suggest an acute episode
+
+* Assess for <u>suicidal ideation</u>.
+
+* Identify potential substance misuse as the trigger for the acute episode.
+
+* Obtain urgent <u>psychiatry</u> consult for management.
+
+* Follow-up visits or visits not related to bipolar disorder
+
+* Ask about frequency and severity of acute episodes, symptom control, and medication history
+
+* Screen for related medical comorbidities (e.g., <u>migraine</u>, <u>metabolic syndrome</u>, <u>type 2 diabetes</u> mellitus).  [[7]](https://coursology-qbank.com/amboss/article/0hcecX0)[[9]](https://coursology-qbank.com/amboss/article/Nta-dm)
+
+
+
+
+
+> [!WARNING]
+> Patients with bipolar disorder have the highest <u>suicide</u> rate among patients with <u>affective disorders</u>. All patients with suspected or confirmed bipolar disorder should be assessed promptly for <u>suicide</u> risk (especially during acute episodes) and evaluated by a <u>psychiatrist</u>. [[5]](https://coursology-qbank.com/amboss/article/ehcx1X0)
+
+
+
+
+> [!TIP]
+> Patients with bipolar disorder are often misdiagnosed with <u>major depressive disorder</u> because the first presentation is usually a <u>major depressive episode</u>. [[7]](https://coursology-qbank.com/amboss/article/0hcecX0)
+
+
+
+
+### Diagnostic studies [[7]](https://coursology-qbank.com/amboss/article/0hcecX0)[[8]](https://coursology-qbank.com/amboss/article/RhcldX0)
+
+
+
+
+Studies help rule out differential diagnoses and detect conditions that may affect management. A complete history and <u>physical examination</u> should guide the requested studies.
+
+
+
+
+* Blood
+
+* <u>CBC</u>: may detect <u>anemia</u>  [[7]](https://coursology-qbank.com/amboss/article/0hcecX0)
+
+* <u>BMP</u>, <u>liver chemistries</u>: to establish a baseline before long-term pharmacological treatment
+
+* <u>Thyroid function tests</u>: to rule out <u>thyroid disease</u>
+
+* Additional studies based on the suspected underlying condition (e.g., evaluation for <u>syphilis</u> or <u>frontotemporal dementia</u>)
+
+* Monitoring studies depend on medications (e.g., serum levels of <u>lithium</u> or <u>valproate</u>, <u>liver chemistries</u>; see also “<u>Overview of antipsychotics</u>”).
+
+* Urine
+
+* <u>Urinalysis</u>: may identify <u>urinary tract infections</u>
+
+* <u>Urine toxicology screen</u>: to rule out acute intoxication (e.g., with <u>amphetamines</u>)
+
+* <u>Pregnancy test</u>: <u>Pregnancy</u> will affect treatment decisions.
+
+* <u>ECG</u>: To identify <u>QT interval prolongation</u> and other <u>heart</u> conditions that may be aggravated by <u>lithium</u>, <u>valproic acid</u>, and <u>antipsychotics</u>
+
+
+
+
+
+> [!TIP]
+> Always do a <u>urine drug screening</u> in patients presenting with <u>mania</u>.
+
+
+
+
+### DSM-5 diagnostic criteria for bipolar disorder [[9]](https://coursology-qbank.com/amboss/article/Nta-dm)
+
+
+
+* The <u>DSM-5</u> diagnostic criteria are used to identify episodes of <u>mania</u>, <u>hypomania</u>, and major <u>depression</u>.
+
+* <u>Bipolar I</u> disorder: ≥ 1 confirmed episode of <u>mania</u>
+
+* <u>Bipolar II</u> disorder: ≥ 1 confirmed episode of <u>hypomania</u> AND ≥ 1 <u>major depressive episode</u> AND absence of any <u>manic episodes</u>
+
+
+
+
+> [!TIP]
+> In contrast to <u>bipolar II disorder</u>, a history of major depressive episodes is not required for the diagnosis of <u>bipolar I disorder</u>.
+
+
+
+
+#### <u>Manic</u> and <u>hypomanic episodes</u>
+
+
+
+
+| <br>DSM-5 diagnostic criteria for manic and hypomanic episodes [[9]](https://coursology-qbank.com/amboss/article/Nta-dm)<br> |  |  |
+| --- | --- | --- |
+|  | Manic episode | Hypomanic episode |
+| Definition | <br>* Abnormally and persistently elevated, expansive, or irritable mood alongside increased goal-directed behavior, activity, or energy that are unattributable to an organic psychic disorder or psychotropic substances<br><br> |  |
+| Duration | <br>* Most of the day for at least ≥ 7 consecutive days<br><br> | <br>* Most of the day for ≥ 4 consecutive days<br><br> |
+| Criteria | <br>* ≥ 3 of the following: <br><br>* Increased goal-directed activity (sexually, at work, and/or socially ) or <u>psychomotor agitation</u><br><br>* Increased talkativeness or pressure to keep talking<br><br>* <u>Flight of ideas</u> or <u>racing thoughts</u><br><br>* Excessive involvement in risky activities that can potentially lead to negative consequences (e.g., compulsive shopping, indiscreet sexual behavior, impulsive financial investments)<br><br>* Decreased need for <u>sleep</u><br><br>* Heightened self-esteem or <u>grandiosity</u><br><br>* Distractibility<br><br> |  |
+| Extent of dysfunction | <br>* One of the following:<br><br>* Significant professional/social dysfunction<br><br>* The patient requires hospitalization (risk of harm to self or others).<br><br>* <u>Psychotic features</u> may be present.<br><br> | <br><br>* There is an unequivocal change from baseline that:<br><br>* Is observable by others<br><br>* Does not result in significant professional/social dysfunction or hospitalization<br><br>* <u>Psychotic features</u> are not present.<br><br><br> |
+
+
+
+
+
+> [!TIP]
+> A key difference between <u>mania</u> and <u>hypomania</u> is the intensity of the symptoms. Symptoms of <u>mania</u> are much more intense than those of <u>hypomania</u>, result in significant dysfunction, and <u>manic</u> patients often require hospitalization.
+
+
+
+
+> [!TIP]
+> If <u>psychotic symptoms</u> are present, the episode is by definition <u>manic</u>, not <u>hypomanic</u>.
+
+
+
+
+#### Major depressive episodes
+
+
+
+
+| <br>DSM-5 diagnostic criteria for major depressive episode [[9]](https://coursology-qbank.com/amboss/article/Nta-dm)<br> |  |
+| --- | --- |
+| Definition | <br>* A change in usual function that is characterized by <u>depressed mood</u> and/or <u>anhedonia</u>, accompanied by other related symptoms, and not attributable to psychoactive substances, organic disease, or significant loss<br><br> |
+| Duration | <br>* Symptoms are present almost every day, for at least 2 weeks.<br><br> |
+| Criteria | <br><br>* ≥ 5 of the following:<br><br>* <u>Depressed mood</u> lasting for most of the day<br><br>* <u>Sleep</u> disturbance (<u>insomnia</u> or <u>hypersomnia</u>)<br><br>* Loss of interest or <u>anhedonia</u><br><br>* Feelings of worthlessness or guilt<br><br>* Fatigue or loss of energy<br><br>* Diminished concentration or ability to make decisions<br><br>* Significant change in weight (not associated with dieting) or appetite<br><br>* Psychomotor changes (<u>agitation</u> or retardation)<br><br>* Recurrent <u>suicidal ideation</u> or thoughts of <u>death</u><br><br>* At least one of the symptoms must be <u>depressed mood</u> or <u>anhedonia</u>.<br><br><br> |
+| Extent of dysfunction | <br>* Clinically significant <u>distress</u> or impaired functioning in important areas of life (e.g., work, school)<br><br> |
+
+---
+
+## Differential diagnoses
+
+### <u>Substance/medication-induced bipolar and related disorder</u>
+
+
+
+
+| Overview of <u>substance/medication-induced bipolar and related disorder</u> |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Characteristics | <u>Bipolar I disorder</u> | <u>Bipolar II disorder</u> | <u>Cyclothymia</u> | <br>Substance/medication-induced bipolar and related disorder [[10]](https://coursology-qbank.com/amboss/article/KqYUzJ) |
+| Main features | <br>* <u>Manic episodes</u> with or without major depressive episodes<br><br> | <br>* <u>Hypomanic episodes</u> and major depressive episodes<br><br> | <br>* Persistent instability of mood involving numerous periods of depressive symptoms and periods of <u>hypomanic</u> symptoms<br><br> | <br>* <u>Manic</u> or depressive episodes associated with substances/medications<br><br> |
+| Duration | <br>* <u>Manic episode</u> lasting ≥ 1 week<br><br> | <br>* <u>Hypomanic episode</u> lasting ≥ 4 consecutive days<br><br> | <br><br>* ≥ 2 years<br><br>* Remissions last ≤ 2 months<br><br><br> | <br>* During or soon after substance intoxication/withdrawal, or after exposure to a medication<br><br> |
+| <br>* <u>Major depressive episode</u> for at least 2 weeks<br><br> |  |  |  |  |
+| (Hypo)<u>mania</u> | <br>* ≥ 1 <u>manic</u> episode<br><br> | <br><br>* ≥ 1 <u>hypomanic</u> episode<br><br>* No episodes of <u>mania</u><br><br><br> | <br>* <u>Hypomanic</u> symptoms<br><br> | <br>* <u>Hypomania</u> or <u>mania</u><br><br> |
+| Depressive episodes | <br>* May be present or absent<br><br> | <br>* ≥ 1 <u>major depressive episode</u><br><br> | <br>* Depressive symptoms<br><br> | <br>* May be present or absent<br><br> |
+| <u>Psychotic symptoms</u> | <br>* May be present or absent<br><br> | <br>* May be present (only during depressive episodes) or absent<br><br> | <br>* Absent<br><br> |  |
+| Function | <br>* Significant social or occupational dysfunction<br><br> | <br>* May cause significant social or occupational dysfunction during depressive episodes<br><br> | <br>* Significant social or occupational dysfunction<br><br> | <br>* Significant social or occupational dysfunction<br><br> |
+
+
+
+
+
+![Symptoms of mood disorders](../../../../media/j8qq0zcplac60vfzdwz70mtq.jpg)
+
+Symptoms of mood disorders
+
+
+
+
+### Bipolar and related disorder due to another medical condition
+
+
+
+
+<u>Bipolar and related disorder due to another medical condition</u> is a <u>mood disorder</u> that is diagnosed when a persistent period of abnormally elevated, expansive, or irritable mood and abnormally increased activity or energy is attributable to another medical condition. Possible underlying conditions include:
+
+
+
+
+* Endocrine disorders, e.g., <u>hypercortisolism</u> (<u>Cushing disease</u>)
+
+* Autoimmune disorders, e.g., <u>multiple sclerosis</u>
+
+* Neurological disorders, e.g., <u>stroke</u>, <u>traumatic brain injury</u>, <u>delirium</u>
+
+
+
+
+
+### Other
+
+
+
+
+* <u>Catatonia</u>
+
+* Acute <u>anxiety</u>
+
+
+
+
+
+The differential diagnoses listed here are not exhaustive.
+
+---
+
+## Treatment
+
+### General principles [[7]](https://coursology-qbank.com/amboss/article/0hcecX0)[[8]](https://coursology-qbank.com/amboss/article/RhcldX0)[[11]](https://coursology-qbank.com/amboss/article/2vaTzm)
+
+
+
+
+* Consult <u>psychiatry</u> before starting treatment.
+
+* Goals
+
+* Acute treatment: resolution of <u>mania</u> and <u>psychosis</u> (if present) in order to prevent harm to the patient and/or others
+
+* <u>Maintenance therapy</u>: prevention of <u>manic episodes</u>, reduction of <u>suicide</u> risk, improvement in social functioning
+
+* Effective treatment combines pharmacotherapy with psychological interventions (e.g., <u>cognitive behavioral therapy</u>).
+
+
+
+
+
+> [!TIP]
+> Mood stabilizers are a type of drug used as part of the treatment and prevention of episodes of acute <u>mania</u>, <u>hypomania</u>, and <u>depression</u>.
+
+
+
+
+### Acute management for <u>mania</u>, <u>hypomania</u>, and depressive episodes [[8]](https://coursology-qbank.com/amboss/article/RhcldX0)[[11]](https://coursology-qbank.com/amboss/article/2vaTzm)[[12]](https://coursology-qbank.com/amboss/article/fvakzm)
+
+
+
+
+* Initial steps
+
+* Reduce external stimuli.
+
+* Assess symptom severity and for <u>suicidal ideation</u> to determine the appropriate <u>level of care</u>.
+
+* Disposition: Often, patients can be managed by a specialist in ambulatory settings; indications for admission are listed below.
+
+* Immediate risk of harm to themselves or others
+
+* Significant psychiatric or medical comorbidities
+
+* No response to ambulatory treatment
+
+* <u>Management of agitation</u>
+
+* Use rapid-acting intramuscular <u>atypical antipsychotics</u> (e.g., <u>olanzapine</u>, <u>aripiprazole</u>) or <u>benzodiazepines</u> (e.g., <u>lorazepam</u>).
+
+* See “Pharmacotherapy” in “<u>Approach to the agitated or violent patient</u>” for dosages.
+
+
+
+
+
+| <br>Pharmacotherapy for patients with acute bipolar disorder episodes [[8]](https://coursology-qbank.com/amboss/article/RhcldX0)<br> |  |  |
+| --- | --- | --- |
+| <br>Acute <u>mania</u>  [[7]](https://coursology-qbank.com/amboss/article/0hcecX0)<br> | <br>Mild to moderate [[9]](https://coursology-qbank.com/amboss/article/Nta-dm)<br> | <br>* Monotherapy with:<br><br>* <u>Lithium</u><br><br>* <u>Valproic acid</u><br><br>* <u>Atypical antipsychotics</u> (<u>olanzapine</u>, <u>quetiapine</u>) [[11]](https://coursology-qbank.com/amboss/article/2vaTzm)<br><br> |
+| <br>Severe [[9]](https://coursology-qbank.com/amboss/article/Nta-dm)<br> | <br>* Combination therapy<br><br>* <u>Mood stabilizer</u> (<u>lithium</u> OR <u>valproic acid</u> )<br><br>* PLUS <u>antipsychotic</u> (e.g., <u>quetiapine</u>, <u>risperidone</u>, <u>haloperidol</u>)<br><br> |  |
+| Special cases | <br><br>* No response to initial treatment : Change the choice of <u>mood stabilizer</u> and/or <u>antipsychotic</u>.<br><br>* Refractory or severe <u>mania</u>: Consider <u>electroconvulsive therapy</u> (<u>ECT</u>).<br><br>* <u>Mania</u> in <u>pregnancy</u> : Treatment should always be guided by a <u>psychiatrist</u>.<br><br>* Consider <u>antipsychotics</u>.<br><br>* Consider <u>ECT</u> in select patients.  [[13]](https://coursology-qbank.com/amboss/article/6qYjzJ)[[14]](https://coursology-qbank.com/amboss/article/jic_rX0)<br><br><br> |  |
+| Acute <u>depression</u> |  | <br>* <u>Atypical antipsychotics</u> (e.g., <u>quetiapine</u>, <u>lurasidone</u>) PLUS a <u>mood stabilizer</u><br><br> |
+
+
+
+
+
+> [!TIP]
+> <u>Antipsychotics</u> are the preferred initial therapy in <u>agitated</u> patients because of their rapid onset of action.
+
+
+
+
+> [!TIP]
+> Patients with <u>suicidal ideation</u> should be admitted immediately for emergency management and monitoring by a specialist.
+
+
+
+
+> [!TIP]
+> Acute <u>mania</u> is a psychiatric emergency that requires immediate management.
+
+
+
+
+> [!WARNING]
+> <u>Lithium</u> has a <u>narrow therapeutic index</u> and doses should be individualized according to serum levels and clinical response; an overdose may result in life-threatening <u>lithium toxicity</u>. <u>Lithium</u> is contraindicated in patients with renal dysfunction. [[7]](https://coursology-qbank.com/amboss/article/0hcecX0)
+
+
+
+
+### Long-term <u>maintenance treatment</u> [[5]](https://coursology-qbank.com/amboss/article/ehcx1X0)[[8]](https://coursology-qbank.com/amboss/article/RhcldX0)[[11]](https://coursology-qbank.com/amboss/article/2vaTzm)[[12]](https://coursology-qbank.com/amboss/article/fvakzm)
+
+
+
+
+Maintenance <u>treatment of bipolar disorder</u> combines pharmacotherapy with nonpharmacological interventions. Most patients need lifelong <u>maintenance therapy</u> to prevent relapses.
+
+
+
+
+* Indications: Consider for all patients, particularly those with a history of one or more <u>manic episodes</u>.
+
+* Nonpharmacological interventions: an essential part of long-term management associated with better outcomes  [[15]](https://coursology-qbank.com/amboss/article/ChcqTX0)
+
+* Pharmacotherapy: Consider continuing the drug(s) that resolved the acute <u>manic</u> or depressive episode.  [[11]](https://coursology-qbank.com/amboss/article/2vaTzm); 
+
+* Commonly used agents
+
+* <u>Lithium</u> (preferred): Individualize the dose according to clinical response and serum levels.
+
+* <u>Valproic acid</u>  , <u>lamotrigine</u>  , <u>quetiapine</u> [[16]](https://coursology-qbank.com/amboss/article/7qY4-J)
+
+* Alternative agents: <u>aripiprazole</u>, <u>olanzapine</u>, <u>carbamazepine</u>, <u>oxcarbazepine</u>
+
+* Refractory or severe bipolar episodes
+
+* Combination therapy with a <u>mood stabilizer</u> (e.g., <u>lithium</u> or <u>valproic acid</u>)
+
+* PLUS <u>atypical antipsychotics</u> (e.g., <u>quetiapine</u>, <u>olanzapine</u>, <u>aripiprazole</u>)
+
+* Severe <u>depression</u> or predominantly depressive <u>bipolar II</u> disorder: <u>Antidepressants</u> may be started after initiating <u>mood stabilizers</u>.  [[8]](https://coursology-qbank.com/amboss/article/RhcldX0)
+
+
+
+
+
+> [!WARNING]
+> Avoid prescribing <u>antidepressants</u> to patients with bipolar disorder before initiating therapy with <u>mood stabilizers</u>, as <u>antidepressants</u> can precipitate a <u>manic episode</u>. [[11]](https://coursology-qbank.com/amboss/article/2vaTzm)
+
+
+
+
+> [!TIP]
+> <u>Lithium</u> is the only maintenance drug shown to lower the risk of <u>suicide</u>. [[8]](https://coursology-qbank.com/amboss/article/RhcldX0)
+
+---

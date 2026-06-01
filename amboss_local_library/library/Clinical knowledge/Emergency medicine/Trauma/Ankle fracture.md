@@ -1,0 +1,432 @@
+# Ankle fracture
+
+*Categories: Clinical knowledge > Emergency medicine > Trauma > Ankle fracture*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/630jjf)
+
+---
+
+## Summary
+
+Ankle <u>fractures</u> are the most common <u>fractures</u> of the lower extremity and most often result from twisting the ankle. Clinical features include ankle <u>pain</u> and decreased <u>range of motion</u>. If the <u>patient history</u> and <u>physical examination</u> are both consistent with a <u>fracture</u> (e.g., the patient is unable to bear weight on the affected leg), an <u>x-ray</u> is performed. The most important diagnostic consideration is whether the <u>fracture</u> is stable (e.g., isolated malleolar <u>fractures</u>) or unstable (e.g., <u>bimalleolar fracture</u>). <u>Unstable fractures</u> require <u>surgery</u>, whereas stable ones can be <u>treated conservatively</u> with a <u>short leg cast</u>.
+
+---
+
+## Etiology
+
+* <u>Eversion</u> or <u>inversion</u> injury
+
+* Direct trauma
+
+* <u>Crush injury</u>
+
+* Axial loading (e.g., fall from a height, <u>motor vehicle collision</u>)
+
+---
+
+## Classification
+
+### Types of ankle <u>fractures</u> [[1]](https://coursology-qbank.com/amboss/article/AN1Rdh0)
+
+
+
+
+* <u>Lateral malleolar</u> <u>fracture</u>
+
+* <u>Medial malleolar</u> <u>fracture</u>
+
+* <u>Posterior malleolar</u> <u>fracture</u>
+
+* Bimalleolar fracture: <u>fractures</u> of the <u>lateral</u> and <u>medial</u> malleoli
+
+* Trimalleolar fracture: <u>fractures</u> of the <u>lateral</u>, <u>medial</u>, and <u>posterior malleoli</u>
+
+* Pilon fracture: <u>fracture</u> of the <u>distal</u> <u>tibia</u> involving the articular surface of the talocrural <u>joint</u>
+
+* Maisonneuve fracture: <u>fracture</u> of the <u>proximal</u> <u>fibula</u> associated with disruption of the <u>distal tibiofibular syndesmosis</u> and <u>medial malleolar</u> injury (i.e., <u>medial malleolar</u> <u>fracture</u>, <u>deltoid ligament</u> rupture) [[2]](https://coursology-qbank.com/amboss/article/MXWMAP0)
+
+* Other: Volkmann triangle refers to an <u>avulsion fracture</u> of the posterolateral tibial lip
+
+
+
+
+
+![Bimalleolar ankle fracture (1/2)](../../../../media/ienb4c6q83bpq10im26kj6ot.jpg)
+
+Bimalleolar ankle fracture (1/2)
+
+![Bimalleolar ankle fracture (2/2)](../../../../media/f58cyprv3q2okatc6qwzmki6.jpg)
+
+Bimalleolar ankle fracture (2/2)
+
+![Trimalleolar ankle fracture](../../../../media/eh9egs9ki413xeu9jb8mub7e.jpg)
+
+Trimalleolar ankle fracture
+
+![Avulsion fracture of the posterior tibial margin (Volkmann's triangle)](../../../../media/k762wa2ufndt4ia34d2vqn53.jpg)
+
+Avulsion fracture of the posterior tibial margin (Volkmann's triangle)
+
+
+
+
+### Ankle <u>fracture</u> stability [[3]](https://coursology-qbank.com/amboss/article/5XWiAP0)
+
+
+
+
+The ankle becomes increasingly unstable with worsening severity of injury. Generally, <u>fractures</u> at two or more sites are unstable.
+
+
+
+
+* Usually stable: isolated <u>lateral malleolar</u> <u>fracture</u> or isolated <u>medial malleolar</u> <u>fracture</u>
+
+* Usually unstable: <u>posterior malleolar</u> <u>fracture</u>, <u>bimalleolar fracture</u>, <u>Maisonneuve fracture</u>
+
+* Always unstable: <u>trimalleolar fracture</u>, <u>pilon fracture</u>
+
+
+
+
+
+### Weber classification of ankle fractures  [[1]](https://coursology-qbank.com/amboss/article/AN1Rdh0)
+
+
+
+
+The <u>Weber classification</u> categorizes ankle <u>fractures</u> according to the level of the <u>fibular fracture</u> in relation to the <u>distal tibiofibular syndesmosis</u>.
+
+
+
+
+* Weber A: <u>lateral malleolar</u> <u>fracture</u> below the <u>syndesmosis</u>
+
+* Intact <u>syndesmosis</u> and <u>deltoid ligament</u>
+
+* Possible <u>medial malleolar</u> <u>fracture</u>
+
+* Usually stable
+
+* Weber B: <u>fibular fracture</u> at the level of the <u>syndesmosis</u>
+
+* Possible syndesmotic injury and/or <u>deltoid ligament</u> injury
+
+* Variable stability
+
+* Weber C: <u>fibular fracture</u> above the <u>syndesmosis</u>
+
+* Ruptured <u>syndesmosis</u>, torn interosseous membrane
+
+* <u>Medial malleolus</u> <u>fracture</u> and/or <u>deltoid ligament</u> tear
+
+* Unstable
+
+
+
+
+
+> [!TIP]
+> <u>Maisonneuve fractures</u> are considered <u>Weber C</u> <u>fractures</u>. [[1]](https://coursology-qbank.com/amboss/article/AN1Rdh0)
+
+
+
+
+![Weber classification of ankle fractures](../../../../media/ha29wqihlu517op9hv55r7y7.jpg)
+
+Weber classification of ankle fractures
+
+---
+
+## Clinical features
+
+* Local <u>pain</u>, swelling and <u>hematoma</u>
+
+* Tenderness, especially in the area of the malleoli, the <u>syndesmosis</u>, and the <u>posterior</u> aspect of the <u>ankle joint</u>
+
+* Restricted <u>range of movement</u>
+
+* <u>Skin</u> abnormalities (<u>lacerations</u>, discolorations, tenting, or <u>blistering</u>)
+
+* If separation of the ankle <u>mortise</u> elements occurs: <u>lateral</u> displacement of the foot
+
+* In some cases, accompanying injury (e.g., <u>fracture</u> of the <u>proximal</u> <u>fibula</u>, knee, or foot)
+
+
+
+
+
+![Open fracture of the right ankle](../../../../media/v5nxge489fgssfi8n2tpjiug.jpg)
+
+Open fracture of the right ankle
+
+---
+
+## Diagnosis
+
+### Clinical evaluation [[1]](https://coursology-qbank.com/amboss/article/AN1Rdh0)
+
+
+
+
+Perform the following prior to imaging as abnormalities can affect urgent management (see “Approach” in “Treatment”):
+
+
+
+
+* <u>Neurovascular exam</u>
+
+* Assess <u>dorsalis pedis</u> and <u>posterior tibial artery</u> pulses and <u>distal</u> <u>capillary refill time</u>.
+
+* Examine motor and <u>sensory function</u> of the lower leg (see “<u>Sural nerve injury</u>”, “<u>Tibial nerve injury</u>”, and “<u>Peroneal nerve injury</u>”).
+
+* <u>Skin</u> exam: Evaluate for <u>laceration</u>, tearing, and tenting.
+
+* Associated injuries: Examine the foot and knee.
+
+
+
+
+
+> [!TIP]
+> Examine the entire length of the <u>fibula</u> in patients with ankle <u>pain</u> to evaluate for a <u>Maisonneuve fracture</u>. [[1]](https://coursology-qbank.com/amboss/article/AN1Rdh0)
+
+
+
+
+![Innervation areas of the peripheral nerves (leg, ventral view)](../../../../media/gannxnwzf9s34rve65jt2eeb.jpg)
+
+Innervation areas of the peripheral nerves (leg, ventral view)
+
+![Innervation areas of the peripheral nerves (leg, dorsal view)](../../../../media/lrgt7552g9cddfou70cv7b88.jpg)
+
+Innervation areas of the peripheral nerves (leg, dorsal view)
+
+
+
+
+### Ottawa ankle and foot rules [[4]](https://coursology-qbank.com/amboss/article/DVW1940)[[5]](https://coursology-qbank.com/amboss/article/ZeWZx40)
+
+
+
+
+These criteria are used to determine the need for <u>X-rays</u> in patients presenting to the emergency department (ED) with traumatic ankle and/or foot injuries.  [[4]](https://coursology-qbank.com/amboss/article/DVW1940)[[5]](https://coursology-qbank.com/amboss/article/ZeWZx40)
+
+
+
+
+* Ankle <u>x-rays</u> are indicated for <u>pain</u> in the malleolar region PLUS any of the following:
+
+* Tenderness along the <u>posterior</u> <u>distal</u> 6 cm of the:
+
+* <u>Lateral malleolus</u>
+
+* OR <u>medial malleolus</u>
+
+* Inability to weight-bear both immediately post-injury AND for at least 4 steps in the ED
+
+* Foot <u>x-rays</u> are indicated for <u>pain</u> in the midfoot region PLUS any of the following:
+
+* Tenderness at the:
+
+* Base of the 5<sup>th</sup> <u>metatarsal</u>
+
+* OR the <u>navicular bone</u>
+
+* Inability to weight-bear both immediately post-injury AND for at least 4 steps in the ED
+
+
+
+
+
+![Ottawa ankle rules](../../../../media/aiuwt2uiz833t6j20hp5fxbg.jpg)
+
+Ottawa ankle rules
+
+![Ottawa ankle and foot rules](../../../../media/r2t1phaj9289m2c6w1p8c7tm.jpg)
+
+Ottawa ankle and foot rules
+
+
+
+
+### <u>X-ray</u> [[1]](https://coursology-qbank.com/amboss/article/AN1Rdh0)
+
+
+
+
+* 3-view plain ankle <u>x-ray</u>: anteroposterior (AP):  , <u>lateral</u>  and <u>mortise</u> (oblique) views 
+
+* Evaluate for <u>radiographic fracture signs</u>, displacement, and <u>dislocation</u>.
+
+* Compare <u>joint</u> spaces between the <u>talus</u> and <u>medial malleolus</u>, <u>talus</u> and <u>lateral malleolus</u>, and <u>talus</u> and tibial plafond.
+
+* Evaluate the ring-like structure surrounding the <u>talus</u>.
+
+* <u>Tibia</u> <u>fibula</u> <u>x-ray</u>: AP and <u>lateral</u> views to evaluate for pilon or <u>Maisonneuve fracture</u>
+
+
+
+
+
+![Weber B fracture of the upper right ankle](../../../../media/c0khf3xn9mb06f9srme02x57.jpg)
+
+Weber B fracture of the upper right ankle
+
+![Weber B fracture of the upper right ankle](../../../../media/ov84plk4xn4if50gd44rz35v.jpg)
+
+Weber B fracture of the upper right ankle
+
+![Ankle mortise separation](../../../../media/z9kcm3x46wwews6nxqxbijtk.jpg)
+
+Ankle mortise separation
+
+![Proximal fibular fracture (1/2)](../../../../media/rhccm5c3sx4zycrh9ib2lm2x.jpg)
+
+Proximal fibular fracture (1/2)
+
+![Proximal fibular fracture (2/2)](../../../../media/iy2kvvs863kuz8zjymgzbnom.jpg)
+
+Proximal fibular fracture (2/2)
+
+
+
+
+### Advanced imaging [[1]](https://coursology-qbank.com/amboss/article/AN1Rdh0)
+
+
+
+
+* CT: may be obtained for inconclusive <u>x-rays</u> or preoperative planning
+
+* <u>MRI</u>: may be indicated for diagnosis of associated <u>tendon</u>/<u>ligament injuries</u>
+
+---
+
+## Treatment
+
+### Approach [[1]](https://coursology-qbank.com/amboss/article/AN1Rdh0)
+
+
+
+
+* <u>Immobilization</u> and disposition: depends on <u>fracture</u> type and classification (See “<u>Overview of ankle fracture management</u>.”)
+
+* <u>Weight-bearing</u>: Most ankle <u>fractures</u> are <u>non-weight-bearing</u> (<u>NWB</u>) except for isolated <u>Weber A</u> <u>fractures</u> which can be <u>weight-bearing as tolerated</u> (<u>WBAT</u>).
+
+* Urgent interventions
+
+* Perform emergency <u>fracture reduction</u> if there is gross deformity with <u>skin tenting</u> or neurovascular compromise.
+
+* Administer empiric <u>IV antibiotics for open fractures</u> without delay.
+
+* Assess for other <u>reasons for urgent orthopedic consultation for fractures</u>.
+
+
+
+
+
+> [!TIP]
+> Stable, isolated, nondisplaced <u>fractures</u> can be initially managed with <u>immobilization</u> and orthopedic follow-up within 48 hours.
+
+
+
+
+> [!WARNING]
+> Repeat the <u>neurovascular exam</u> after reduction and again after <u>immobilization</u>.
+
+
+
+
+### Overview [[1]](https://coursology-qbank.com/amboss/article/AN1Rdh0)
+
+
+
+
+| <br>Overview of ankle fracture management [[1]](https://coursology-qbank.com/amboss/article/AN1Rdh0) |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| <u>Fracture</u> type |  | Initial <u>immobilization</u> | <u>Weight-bearing status</u> | Disposition |
+| Isolated <u>lateral malleolus</u> | <u>Weber A</u> | <u>Walking boot</u> | <u>WBAT</u> | Orthopedic follow-up within 48 hours<br> |
+| <u>Weber B</u> or <u>Weber C</u> | <br><u>Posterior short-leg splint</u> or <u>CAM boot</u><br> | <u>NWB</u> | Urgent orthopedics consult OR orthopedic follow-up within 48 hours <br> |  |
+| Isolated <u>medial malleolus</u> |  | <br><u>Posterior short-leg splint</u> or <u>walking boot</u><br> | Orthopedic follow-up within 48 hours<br> |  |
+| Isolated <u>posterior malleolus</u> |  | <br><u>Posterior short-leg splint</u> with or without <u>stirrup splint</u><br> |  |  |
+| <u>Bimalleolar fracture</u> |  | Urgent orthopedics consult OR orthopedic follow-up within 48 hours <br> |  |  |
+| <u>Trimalleolar fracture</u> |  | Urgent orthopedics consult |  |  |
+| <u>Pilon fracture</u> |  |  |  |  |
+| <u>Maisonneuve fracture</u> |  | <br><u>Posterior long-leg splint</u> | Urgent orthopedics consult OR orthopedic follow-up within 48 hours <br> |  |
+
+
+
+
+
+### <u>Conservative treatment</u> [[1]](https://coursology-qbank.com/amboss/article/AN1Rdh0)
+
+
+
+
+See “<u>Conservative treatment of fractures</u>” for further details.
+
+
+
+
+* Indications: stable, closed, isolated malleollar <u>fractures</u>
+
+* Definitive management: <u>short leg cast</u> or <u>walking boot</u> for 4–6 weeks
+
+
+
+
+
+### Surgical treatment [[1]](https://coursology-qbank.com/amboss/article/AN1Rdh0)
+
+
+
+
+* Indications
+
+* <u>Unstable fractures</u> (e.g., displaced <u>fractures</u>); See “Classification” for other types of <u>unstable fractures</u>.
+
+* <u>Open fractures</u>
+
+* Definitive management
+
+* <u>Open reduction and internal fixation</u>
+
+* <u>External fixation</u>
+
+
+
+
+
+![Open reduction-internal fixation of Weber B ankle fracture (1/2)](../../../../media/a78cobwshiw315v4glzg2kft.jpg)
+
+Open reduction-internal fixation of Weber B ankle fracture (1/2)
+
+![Open reduction-internal fixation of Weber B ankle fracture  (2/2)](../../../../media/cg9v3e9bwz0f8g0120qv0tj2.jpg)
+
+Open reduction-internal fixation of Weber B ankle fracture  (2/2)
+
+![Bimalleolar fracture after open reduction-internal fixation surgery (1/2)](../../../../media/hd55eda5y032fyy56bmdhuko.jpg)
+
+Bimalleolar fracture after open reduction-internal fixation surgery (1/2)
+
+![Bimalleolar fracture after hardware removal (2/2)](../../../../media/dmbvsrscnfhr3k0tikwwhk2h.jpg)
+
+Bimalleolar fracture after hardware removal (2/2)
+
+---
+
+## Complications
+
+* General <u>complications of fractures</u>
+
+* Damage to the <u>peroneal nerve</u> or <u>saphenous nerve</u>
+
+* Posttraumatic <u>osteoarthritis</u>
+
+
+
+
+We list the most important complications. The selection is not exhaustive.
+
+---

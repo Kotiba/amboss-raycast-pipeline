@@ -1,0 +1,111 @@
+# Splenomegaly
+
+*Categories: Clinical knowledge > Surgery > Abdominal surgery > Spleen > Splenomegaly*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/KT0U72)
+
+---
+
+## Summary
+
+Splenomegaly is enlargement of the <u>spleen</u>. The etiology is diverse and may result from increased splenic activity, decreased venous drainage, or infiltration of the <u>spleen</u>. Symptoms are seldom caused by the size of the <u>spleen</u> directly, but rather due to its hematologic effects on the different cell lines, which manifest as <u>anemia</u>, <u>leucopenia</u>, <u>thrombocytopenia</u>, or as a combination of these (i.e., <u>pancytopenia</u>). Diagnosis can be made by <u>palpation of the spleen</u> in the <u>left upper quadrant</u>, especially on deep inspiration. Imaging studies such as <u>sonography</u> and CT help detect subclinical splenomegaly. Refractory symptoms may necessitate a <u>splenectomy</u>. <u>Vaccination</u> against <u>encapsulated pathogens</u> is essential to reduce the <u>incidence</u> of overwhelming post-<u>splenectomy</u> infection (<u>OPSI</u>).
+
+
+
+
+![Pathophysiology of splenomegaly](../../../../../media/jbbfmmh4jtebt0nsk5rvn3ks.jpg)
+
+Pathophysiology of splenomegaly
+
+---
+
+## Pathophysiology
+
+| <br>Overview of causes of splenomegaly [[1]](https://coursology-qbank.com/amboss/article/wxahA5) |  |  |
+| --- | --- | --- |
+| Cause | Pathophysiology | Associated diseases |
+| Increased splenic activity | <br>* Increased degradation of defective or structurally abnormal blood cells (work <u>hypertrophy</u>)<br><br> | <br><br>* <u>Hemolytic anemias</u> (e.g., <u>spherocytosis</u>, <u>thalassemia</u>, early <u>sickle cell disease</u>)<br><br>* <u>Polycythemia vera</u><br><br><br> |
+| <br>* Increased <u>immune response</u><br><br> | <br><br>* Viral infections (e.g., <u>CMV</u>, <u>EBV</u>, viral <u>hepatitis</u>)<br><br>* Bacterial infections (e.g., <u>leptospirosis</u>, <u>brucellosis</u>, <u>tuberculosis</u>)<br><br>* Mycotic infections (e.g., <u>histoplasmosis</u>)<br><br>* Parasitic infections (e.g., <u>malaria</u>, trypanosomiasis, <u>leishmaniasis</u>)<br><br><br> |  |
+| <br>* Defective <u>immune response</u><br><br> | <br><br>* <u>Vasculitis</u><br><br>* <u>Connective tissue disease</u><br><br>* <u>Rheumatoid arthritis</u><br><br>* <u>SLE</u><br><br>* <u>Sarcoidosis</u><br><br>* <u>ITP</u><br><br><br> |  |
+| <br>* Compensatory <u>extramedullary hematopoiesis</u> within the <u>spleen</u> due to conditions involving <u>bone marrow</u> deficiency<br><br> | <br><br>* <u>Myelofibrosis</u><br><br>* <u>Bone marrow</u> involvement<br><br>* <u>Hodgkin lymphoma</u>, <u>NHL</u><br><br>* <u>Leukemias</u><br><br>* Toxicity/radiation<br><br><br> |  |
+| Decreased venous drainage | <br>* <u>Portal hypertension</u><br><br> | <br><br>* <u>Liver cirrhosis</u><br><br>* Obstruction of portal, hepatic or <u>splenic vein</u><br><br>* <u>Schistosomiasis</u><br><br><br> |
+| Splenic infiltration | <br>* Suppression of splenic tissue<br><br> | <br><br>* <u>Hodgkin lymphoma</u>, <u>NHL</u><br><br>* <u>Leukemia</u> (e.g., <u>hairy cell leukemia</u>, <u>CML</u>)<br><br>* <u>Metastatic</u> tumors: <u>melanoma</u><br><br>* <u>Benign tumors</u> (e.g., <u>hamartomas</u>)<br><br>* Metabolic diseases<br><br>* <u>Gaucher disease</u><br><br>* <u>Niemann-Pick</u><br><br>* <u>Amyloidosis</u><br><br>* <u>Hurler syndrome</u> and other <u>mucopolysaccharidoses</u><br><br><br> |
+
+
+
+
+
+![Splenomegaly](../../../../../media/hq1gtcmn6kxjf9b3g24aisxp.jpg)
+
+Splenomegaly
+
+![Abdomen of a patient with malaria](../../../../../media/t826ad3qk1dgw44eehx970u6.jpg)
+
+Abdomen of a patient with malaria
+
+![Splenic rupture due to splenomegaly](../../../../../media/lvj4zjznbmd4o7aqb1g49qhq.jpg)
+
+Splenic rupture due to splenomegaly
+
+![Examination of the Spleen - Clinical Examination](../../../../../media/small_60753a8a76ea0.jpg)
+
+Examination of the Spleen - Clinical Examination
+
+---
+
+## Massive splenomegaly
+
+* Definition: <u>spleen</u> is palpable more than 8 cm below <u>costal arch</u>, > 20 cm in diameter, and/or weight > 1 kg [[1]](https://coursology-qbank.com/amboss/article/wxahA5)
+
+* Associated with [[1]](https://coursology-qbank.com/amboss/article/wxahA5)
+
+* <u>CML</u> and <u>CLL</u>
+
+* <u>Myelofibrosis</u>
+
+* <u>Polycythemia vera</u>
+
+* Rare: <u>hairy cell leukemia</u>, <u>Hodgkin lymphoma</u> and <u>non-Hodgkin lymphoma</u>
+
+
+
+
+
+> [!NOTE]
+> <u>Myeloproliferative disorders</u> are commonly accompanied by splenomegaly.
+
+---
+
+## Hypersplenism
+
+* Definition: an <u>overactive spleen</u>
+
+* Causes: see “Increased splenic activity” in the table above
+
+* Pathomechanism: overactive <u>spleen</u> → cells are removed from the blood faster than normal → ↓ of a single or combination of cell lines, including possible <u>cytopenia</u> (<u>pancytopenia</u>, <u>leukopenia</u>, <u>anemia</u>, and <u>thrombocytopenia</u>) → reactive <u>bone marrow</u> <u>hyperplasia</u> (unless defective <u>bone marrow</u> is the <u>cause of splenomegaly</u>)
+
+* Clinical features
+
+* Enlarged <u>spleen</u>
+
+* Low levels of one or more types of blood cells
+
+* <u>Anemia</u>: <u>pallor</u>, fatigue, <u>signs of hemolysis</u>
+
+* <u>Thrombocytopenia</u>: ↑ risk of bleeding
+
+* <u>Leukopenia</u>: ↑ risk of infection
+
+* <u>Pancytopenia</u>
+
+* Treatment
+
+* Treatment of underlying disease
+
+* <u>Splenectomy</u> in case of symptomatic <u>cytopenia</u>
+
+* After <u>splenectomy</u> there is an increased risk of infection by <u>encapsulated pathogens</u>, possibly leading to overwhelming post-<u>splenectomy</u> infection (<u>OPSI</u>) → prevention with <u>vaccinations</u> against <u>pneumococci</u>, <u>meningococci</u>, and <u>Haemophilus influenzae</u> type B
+
+* Although not an encapsulated organism, a yearly <u>influenza vaccine</u> is also recommended
+
+---

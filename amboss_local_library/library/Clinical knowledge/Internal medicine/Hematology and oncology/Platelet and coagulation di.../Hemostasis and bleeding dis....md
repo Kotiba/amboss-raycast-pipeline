@@ -1,0 +1,1203 @@
+# Hemostasis and bleeding disorders
+
+*Categories: Clinical knowledge > Internal medicine > Hematology and oncology > Platelet and coagulation disorders > Hemostasis and bleeding disorders*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/8T0Os2)
+
+---
+
+## Summary
+
+<u>Bleeding disorders</u> are a group of heterogeneous conditions characterized by defects in <u>hemostasis</u> that lead to an increased susceptibility to bleeding (also known as <u>hemorrhagic diathesis</u>). They are classified into <u>disorders of primary hemostasis</u> (when caused by a <u>platelet</u> abnormality), <u>disorders of secondary hemostasis</u> (when caused by defects in the extrinsic and/or intrinsic pathway of the <u>coagulation cascade</u>), and <u>hyperfibrinolysis</u> (when there is increased clot degradation). Although clinical features may overlap, mucocutaneous bleeding (e.g., <u>epistaxis</u>, <u>petechiae</u>, <u>gastrointestinal bleeding</u>) is associated with <u>disorders of primary hemostasis</u>, and bleeding into potential spaces (e.g., <u>hemarthrosis</u>, muscular bleeding) is characteristic of <u>disorders of secondary hemostasis</u>. The diagnostic workup of a <u>bleeding disorder</u> begins with a detailed clinical assessment, the <u>CBC</u>, and a <u>coagulation panel</u>. This typically allows the disorder to be classified as one of primary or <u>secondary hemostasis</u>. Specialized studies are then required to determine the specific etiology so that treatment can be initiated. Treatment may include <u>transfusion</u> of <u>blood products</u>, replacement of specific <u>coagulation factors</u>, or administration of adjuvant medications (e.g., <u>tranexamic acid</u> or <u>desmopressin</u>).
+
+---
+
+## Hemostasis
+
+### Overview [[1]](https://coursology-qbank.com/amboss/article/2CaTr5)[[2]](https://coursology-qbank.com/amboss/article/Lvaw05)
+
+
+
+
+<u>Hemostasis</u> is the physiological process by which a bleeding stops. Its final result is a thrombus (blood clot), which consists of blood cells and <u>fibrin</u> strands. <u>Hemostasis</u> involves the following mechanisms:
+
+
+
+
+* <u>Primary hemostasis</u>
+
+* Vascular <u>hemostasis</u>: transient <u>vasoconstriction</u> and <u>vWF</u> activation following <u>endothelial</u> injury
+
+* <u>Platelet</u> <u>hemostasis</u>: adhesion, activation, and aggregation of <u>platelets</u>, which results in the formation of a <u>platelet plug</u> (<u>white thrombus</u>)
+
+* <u>Secondary hemostasis</u>: activation of the <u>coagulation cascade</u>, which results in the formation of a <u>fibrin</u> clot (<u>red thrombus</u>)
+
+
+
+
+
+### Primary hemostasis
+
+
+
+
+* Definition: : processes involved in the formation of a <u>platelet plug</u> (<u>white thrombus</u>) following <u>endothelial</u> injury
+
+* Vascular <u>hemostasis</u>
+
+* <u>Endothelial</u> injury results in:
+
+* Neural stimulation reflexes and <u>endothelin</u> release → transient <u>vasoconstriction</u>, leading to:
+
+* Reduced blood flow
+
+* <u>Platelet</u> accumulation at the vessel walls
+
+* Exposure of subendothelial <u>collagen</u> → circulating <u>von Willebrand factor</u> binds to the exposed <u>collagen</u>
+
+* Von Willebrand factor (<u>vWF</u>): <u>plasma protein</u> that is synthesized by and stored in <u>endothelial</u> cells (in Weibel-Palade bodies) and <u>platelets</u> (in <u>α-granules</u>)
+
+* Mediates <u>platelet adhesion</u> and aggregation
+
+* Binds <u>factor VIII</u> (and thereby prevents its degradation)
+
+* <u>Platelet</u> <u>hemostasis</u>  
+1. * Platelet adhesion: <u>platelets</u> bind to <u>vWF</u> via platelet GpIb receptor at the <u>endothelial</u> injury site
+* <u>Ristocetin</u> normally activates <u>vWF</u> to bind to <u>glycoprotein Ib</u>
+2. * Platelet activation: After binding to <u>vWF</u>, <u>platelets</u> change their shape and release mediators that lead to activation of more <u>platelets</u> (positive feedback). ;   These mediators include: 
+
+* Adenosine diphosphate (<u>ADP</u>): promotes adhesion of <u>platelets</u> to <u>endothelium</u>
+
+* <u>Thromboxane A2</u> (<u>TXA<sub>2</sub></u>): activates additional <u>platelets</u> and promotes <u>vasoconstriction</u>
+
+* <u>Calcium</u>: required for <u>secondary hemostasis</u>
+
+* Platelet-activating factor (PAF): a phospholipid mediator that is produced by <u>platelets</u> and inflammatory cells (e.g., <u>neutrophils</u>, <u>monocytes</u>, <u>macrophages</u>), involved in <u>platelet aggregation</u> and activation and <u>local inflammatory response</u>
+3. * Platelet aggregation
+
+* Mediated by GpIIb/IIIa-receptor and <u>fibrinogen</u> → formation of a white thrombus composed of <u>platelets</u> and <u>fibrinogen</u>
+
+* A <u>white thrombus</u> is transient, unstable, and easily dislodged. It stabilizes through the process of <u>secondary hemostasis</u>.
+
+
+
+
+
+![Primary hemostasis](../../../../../media/bh2lfk20787pvz0pl61bdfgq.jpg)
+
+Primary hemostasis
+
+![Shape of inactive and active platelet](../../../../../media/xbjroou088wpcowxkmlfctsa.jpg)
+
+Shape of inactive and active platelet
+
+![Primary Hemostasis - Part 1: Platelet Adhesion](../../../../../media/small_5dfa19fbd12ff.jpg)
+
+Primary Hemostasis - Part 1: Platelet Adhesion
+
+![Primary Hemostasis - Part 2: Platelet Activation](../../../../../media/small_5dfa1a04547f8.jpg)
+
+Primary Hemostasis - Part 2: Platelet Activation
+
+
+
+
+### Secondary hemostasis
+
+
+
+
+* Definition: : processes that lead to stabilization of the <u>platelet plug</u>;  (<u>white thrombus</u>; ) by creating a <u>fibrin</u> network
+
+* Coagulation cascade: a sequence of events triggered by the activation of the intrinsic or <u>extrinsic pathway of coagulation</u> that results in the formation of a stable <u>thrombus</u>
+
+* Coagulation factors
+
+* Substances that interact with each other to promote blood coagulation
+
+* Activated factors are designated with an “a” (e.g., activated <u>factor VII</u> = <u>factor VIIa</u>).
+
+* Extrinsic pathway of coagulation: triggered by <u>endothelial</u> injury
+1. * Tissue factor (<u>factor III</u>) activates factor VII.
+
+* <u>Tissue factor</u> is expressed on the surface of subendothelial muscle cells and <u>fibroblasts</u>.
+
+* <u>Factor VII</u>: <u>vitamin K-dependent coagulation factor</u> produced by the <u>liver</u>
+2. * <u>Factor VIIa</u> and <u>tissue factor</u> form a complex (<u>TF</u>-FVIIa). This step requires <u>calcium</u> (factor IV) found on the surface of <u>fibrocytes</u> and activated <u>platelets</u>.
+3. * <u>TF</u>-FVIIa activates <u>factor X</u> and <u>factor IX</u>.
+
+* Intrinsic pathway of coagulation
+
+* Exposed <u>collagen</u>, <u>kallikrein</u>, and kininogen (<u>HMWK</u>) activate <u>factor XII</u>.
+
+* Factor XII (<u>Hageman factor</u>): <u>coagulation factor</u> that also plays a role in inflammatory response by activating the <u>kallikrein</u> system, which leads to the production of <u>bradykinin</u>
+
+* Factor XIIa activates <u>factor XI</u>.
+
+* <u>Thrombin</u> activates factor XI and factor VIII.
+
+* Factor XIa activates factor IX.
+
+* <u>Factors VIIIa</u> and IXa form a complex (mediated by <u>calcium</u>) that activates <u>factor X</u>.
+
+* This causes a positive feedback loop of <u>factor X</u> and <u>thrombin</u> activation via the intrinsic pathway.
+
+* Common pathway of coagulation: The extrinsic and intrinsic pathway both end in the common pathway.
+1. * Factor Xa and factor Va form a complex (mediated by <u>calcium</u>) that cleaves prothrombin (<u>factor II</u>) to thrombin (<u>factor IIa</u>).
+2. * <u>Thrombin</u> cleaves fibrinogen (<u>factor I</u>) into insoluble fibrin (<u>factor Ia</u>) monomers.
+3. * Crosslinks of the <u>fibrin</u> network are stabilized by factor XIIIa;   → formation of a <u>fibrin</u> network → <u>fibrin</u> closely binds to the <u>platelet plug</u>, forming a stable <u>thrombus</u> (secondary <u>thrombus</u> or red thrombus)
+
+
+
+
+
+| Overview of <u>coagulation factors</u> |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Factor number | Descriptive name |  |  |  |  |  | Activated by | Involvement in pathways |  |  | Function |
+| Common | Intrinsic | Extrinsic |  |  |  |  |  |  |  |  |  |
+| I<sup>†</sup> | <br><br>* <u>Fibrinogen</u>*<br><br>* Active form (Ia): <u>fibrin</u><br><br><br> |  |  |  |  |  | <br>* <u>Thrombin</u><br><br> | ✓ |  |  | <br>* Stabilization of the <u>platelet plug</u><br><br> |
+| II | <br><br>* <u>Prothrombin</u>*<br><br>* Active form (IIa): <u>thrombin</u><br><br><br> |  |  |  |  |  | <br>* <u>Factor Xa</u>/Va complex<br><br> | ✓ | ✓ | ✓ | <br><br>* Cleaves <u>fibrinogen</u> to <u>fibrin</u><br><br>* Activates numerous other <u>coagulation factors</u><br><br><br> |
+| III<sup>†</sup> | <br>* <u>Tissue factor</u>* (<u>TF</u>)<br><br> |  |  |  |  |  | <br>* <u>Endothelial</u> injury<br><br> |  |  | ✓ | <br><br>* Activates <u>factor VII</u><br><br>* <u>Tissue factor</u> and <u>factor VIIa</u> form a complex that activates <u>factor X</u>.<br><br><br> |
+| <br>IV<sup>†</sup><br> | <br>* <u>Calcium</u>* (<u>Ca<sup>2+</sup></u>)<br><br> |  |  |  |  |  | <br>* Released by <u>platelets</u> and <u>fibrocytes</u><br><br> | ✓ | ✓ | ✓ | <br>* Required for complex formation and other reactions in the <u>coagulation cascade</u><br><br> |
+| <br>V* | <br>* Proaccelerin<sup>†</sup><br><br> |  |  |  |  |  | <br>* <u>Thrombin</u><br><br> | ✓ |  |  | <br>* Factors Va and Xa form a complex that cleaves <u>prothrombin</u> to <u>thrombin</u>.<br><br> |
+| <br>VII* | <br>* Proconvertin<sup>†</sup><br><br> |  |  |  |  |  | <br>* <u>Tissue factor</u><br><br> |  |  | ✓ | <br>* <u>Factor VIIa</u> and <u>tissue factor</u> form a complex that activates <u>factor X</u>.<br><br> |
+| <br>VIII* | <br>* <u>Antihemophilic factor</u> (<u>AHF</u>)<br><br> |  |  |  |  |  | <br>* <u>Thrombin</u><br><br> |  | ✓ |  | <br>* <u>Factors VIIIa</u> and IXa form a complex that activates <u>factor X</u>.<br><br> |
+| <br>IX* | <br><br>* <u>Plasma thromboplastin component</u> (PTC)<br><br>* <u>Christmas factor</u><br><br><br> |  |  |  |  |  | <br>* Factor XIa<br><br> |  | ✓ |  |  |
+| X* | <br>* <u>Stuart factor</u><br><br> |  |  |  |  |  | <br>* Complexes <u>TF</u>-VIIa and VIIIa-IXa<br><br> | ✓ |  |  | <br>* <u>Factors Xa</u> and Va form a complex that cleaves <u>prothrombin</u> to <u>thrombin</u>.<br><br> |
+| XI* | <br>* <u>Plasma thromboplastin</u> antecedent (<u>PTA</u>)<br><br> |  |  |  |  |  | <br><br>* <u>Factor XII</u><br><br>* <u>Thrombin</u><br><br><br> |  | ✓ |  | <br>* Activates <u>factor IX</u><br><br> |
+| XII* | <br>* <u>Hageman factor</u><br><br> |  |  |  |  |  | <br><br>* Exposed <u>collagen</u><br><br>* <u>Kallikrein</u><br><br>* Kininogen (<u>HMWK</u>)<br><br><br> |  | ✓ |  | <br>* Activation of:<br><br>* <u>Factor XI</u><br><br>* <u>Kallikrein</u> system: leads to the production of <u>bradykinin</u><br><br> |
+| XIII* | <br>* <u>Fibrin</u>-stabilizing factor<br><br> |  |  |  |  |  | <br>* <u>Thrombin</u><br><br> | ✓ |  |  | <br>* Stabilizes the <u>fibrin</u> network by introducing crosslinks<br><br> |
+| * = preferred term  [[3]](https://coursology-qbank.com/amboss/article/jvb_-v)<br><sup>†</sup> = rarely used term |  |  |  |  |  |  |  |  |  |  |  |
+
+
+
+
+
+> [!TIP]
+> The <u>coagulation cascade</u> requires the presence of <u>calcium ions</u> (factor IV).
+
+
+
+
+> [!NOTE]
+> A helpful way of remembering the <u>coagulation factors</u> of the extrinsic pathway is 3 + 7 = 10: <u>Tissue factor (factor III)</u> and factor VII form a complex that activates factor X of the common pathway. 
+> A helpful way of remembering the <u>coagulation factors</u> of the common pathway is 10/5 = 2 × 1: Factors Xa and Va form a complex that cleaves <u>prothrombin</u> (factor II) to <u>thrombin</u> (IIa). Factor IIa then cleaves <u>fibrinogen</u> (I) into insoluble <u>fibrin</u> monomers (Ia).
+
+
+
+
+![Secondary hemostasis](../../../../../media/kr4sz0p7gklnf7f04bopcxb5.jpg)
+
+Secondary hemostasis
+
+![Secondary Hemostasis - Part 1: Coagulation Cascade](../../../../../media/small_5dfa1a34aea50.jpg)
+
+Secondary Hemostasis - Part 1: Coagulation Cascade
+
+![Secondary Hemostasis - Part 2: Cell-Based Model of Coagulation](../../../../../media/small_5dfa1a3a7e71d.jpg)
+
+Secondary Hemostasis - Part 2: Cell-Based Model of Coagulation
+
+![Secondary Hemostasis - Part 3: Coagulation on Negatively Charged Surfaces](../../../../../media/small_5dfa1a50ee618.jpg)
+
+Secondary Hemostasis - Part 3: Coagulation on Negatively Charged Surfaces
+
+
+
+
+### Inhibition of <u>hemostasis</u>
+
+
+
+
+In order to prevent <u>hypercoagulability</u> as well as excessive bleeding, activation of the <u>coagulation cascade</u> and the processes that inhibit it occur simultaneously in the <u>circulatory system</u> (procoagulant-anticoagulant balance).
+
+
+
+
+* Tissue factor pathway inhibitor: inhibits <u>tissue factor</u>
+
+* Protein C and protein S: Activated <u>protein C</u> and its <u>cofactor</u> <u>protein S</u> form the activated protein-C complex (<u>APC</u> complex), which inhibits factors Va and VIIIa.
+
+* <u>Vitamin K</u>-dependent synthesis in the <u>liver</u>
+
+* Shorter <u>half-life</u> than <u>vitamin K-dependent coagulation factors</u> (relevant for treatment with <u>vitamin K</u> <u>antagonists</u>, e.g., <u>warfarin</u>)
+
+* Clinical relevance
+
+* <u>APC resistance</u>
+
+* <u>Factor V Leiden</u>
+
+* <u>Protein C deficiency</u>, <u>protein S deficiency</u>
+
+* Antithrombin
+
+* Degrades <u>thrombin</u> and factors IXa and Xa
+
+* Activates <u>tissue plasminogen activator</u> (<u>tPA</u>)
+
+* Clinical relevance: <u>antithrombin III deficiency</u> (e.g., due to <u>liver</u> failure or <u>kidney failure</u>)
+
+* Nonspecific inhibitors: <u>protease inhibitors</u> in plasma (e.g., <u>alpha-1-antitrypsin</u>, alpha-2-macroglobulin)
+
+* Drug-induced: <u>anticoagulant</u> treatment (see “<u>Oral anticoagulants</u>” and “<u>Parenteral anticoagulants</u>”)
+
+* Others
+
+* Protein Z (<u>factor X</u> inhibitor)
+
+* <u>Heparin</u>-like <u>glycosaminoglycans</u> (boosts <u>antithrombin</u>)
+
+* <u>Heparin</u> <u>cofactor</u> II (requires <u>heparin</u> for activation)
+
+
+
+
+
+> [!TIP]
+> Diseases that affect the inhibitors of the <u>coagulation cascade</u> may lead to <u>hypercoagulability</u>.
+
+
+
+
+![Procoagulation-anticoagulation balance](../../../../../media/s0wejf7sqi1ipk2uec2a49ur.jpg)
+
+Procoagulation-anticoagulation balance
+
+---
+
+## Fibrinolysis
+
+### Overview [[2]](https://coursology-qbank.com/amboss/article/Lvaw05)
+
+
+
+
+* Definition: degradation of the <u>fibrin</u> network of <u>thrombi</u> by the enzyme <u>plasmin</u>
+
+* Mechanism
+
+* Tissue injury leads to the release and activation of <u>plasminogen</u> activators, which convert plasminogen to its active form <u>plasmin</u>.
+
+* <u>Tissue plasminogen activator</u> (<u>tPA</u>)
+
+* <u>Urokinase</u> (see <u>fibrinolytics</u>)
+
+* Plasmin breaks down and deactivates <u>fibrin</u> and <u>fibrinogen</u> → release of <u>fibrin degradation products</u> (e.g, <u>D-dimers</u>)
+
+* Regulation
+
+* <u>Plasminogen</u> activator inhibitors (e.g., PAI-1) inhibit <u>tPA</u>
+
+* <u>Plasmin</u> inhibitors (e.g., <u>PPIC</u>)
+
+
+
+
+
+### Fibrinolytic therapy [[4]](https://coursology-qbank.com/amboss/article/XC09qR)
+
+
+
+
+* Agents: <u>Fibrinolytics</u> promote the degradation of <u>thrombi</u> by activating <u>plasminogen</u> to <u>plasmin</u>.
+
+* <u>Fibrin</u>-specific agents 
+
+* <u>Tissue plasminogen activator</u> (<u>tPA</u>)
+
+* <u>Recombinant plasminogen activators</u> (<u>rtPA</u>): tPAs that are produced by recombinant biotechnology techniques
+
+* Alteplase
+
+* <u>Reteplase</u> (rPA)
+
+* <u>Tenecteplase</u> (TNK-<u>tPA</u>)
+
+* Non-<u>fibrin</u>-specific agents 
+
+* Streptokinase: enzyme produced by <u>group A streptococci</u>; catalyzes the conversion of <u>plasminogen</u> to <u>plasmin</u>
+
+* Urokinase: <u>serine</u> <u>protease</u> found in plasma, urine, and various types of tissue that is also used in <u>fibrinolytic therapy</u>
+
+* Mechanism of action: : directly or indirectly increase the concentration of <u>plasmin</u>;   → cleavage of <u>thrombin</u> and <u>fibrin</u>   [[5]](https://coursology-qbank.com/amboss/article/ZVbZGs)
+
+* Laboratory findings
+
+* ↑ <u>PT</u>
+
+* ↑ <u>PTT</u>
+
+* Normal <u>platelet count</u>
+
+* Adverse effects
+
+* Bleeding (e.g., <u>intracranial hemorrhage</u>)
+
+* <u>Hypersensitivity reactions</u> (esp. to <u>streptokinase</u>) [[6]](https://coursology-qbank.com/amboss/article/46b3Ou)
+
+* Indications
+
+* <u>STEMI</u> (for details regarding <u>fibrinolysis in STEMI</u>, see “<u>Fibrinolytic therapy in STEMI</u>”)
+
+* <u>Ischemic stroke</u> (for details regarding <u>fibrinolysis</u> in <u>ischemic stroke</u>, see “<u>Reperfusion therapy for ischemic stroke</u>”)
+
+* <u>Massive pulmonary embolism</u>
+
+* Contraindications to fibrinolytic therapy 
+
+* Active bleeding
+
+* Prior <u>intracranial hemorrhage</u>
+
+* Recent <u>surgery</u>
+
+* Severe <u>hypertension</u>
+
+* Known <u>bleeding diathesis</u>
+
+* Reversal of adverse effects
+
+* Antifibrinolytics: group of drugs that impair <u>fibrinolysis</u>, typically by interfering with <u>plasmin</u> formation
+
+* Tranexamic acid: a synthetic <u>lysine</u> analog and inhibitor of <u>plasminogen</u> with <u>antifibrinolytic action</u>
+
+* Aminocaproic acid: a <u>lysine</u> derivative and inhibitor of <u>plasminogen</u> activators and <u>plasmin</u> with <u>antifibrinolytic action</u>
+
+* <u>Fresh frozen plasma</u> (<u>FFP</u>), <u>PCC</u>, or <u>cryoprecipitate</u> (<u>Cryoprecipitate</u> is obtained from frozen blood plasma via <u>centrifuge</u> and contains more <u>factor VIII</u> and <u>fibrinogen</u> than <u>FFP</u>.)
+
+* <u>Platelet transfusions</u> (if necessary)
+
+
+
+
+
+> [!NOTE]
+> <u>Alteplase</u> is a synthetic <u>tissue plasminogen activator</u> that converts <u>plasminogen</u> to <u>plasmin</u>. It is used in the treatment of <u>STEMI</u>, <u>massive pulmonary embolism</u>, and <u>ischemic stroke</u>.
+
+
+
+
+![Mechanism of action: thrombolytic drugs](../../../../../media/k3cz1akj76oj987eo07djtyn.jpg)
+
+Mechanism of action: thrombolytic drugs
+
+
+
+
+### Disorders of <u>fibrinolysis</u>
+
+
+
+
+#### Hypoplasminogenemia [[7]](https://coursology-qbank.com/amboss/article/W6cPPW0)
+
+
+
+
+* Definition: inherited genetic condition characterized by abnormally low levels of <u>plasminogen</u>, which results in a build-up of <u>fibrin</u>
+
+* <u>Epidemiology</u>: rare disease; <u>prevalence</u> is estimated to be approx. 1:625,000
+
+* Etiology: <u>autosomal recessive</u> inherited mutations in the PLG <u>gene</u>
+
+* Pathophysiology: : mutations of the PLG <u>gene</u> → ↓ concentrations and/or functional impairment of <u>plasminogen</u> → ↓ <u>plasmin</u> → ↓ <u>fibrinolysis</u> → accumulation of <u>fibrin</u>
+
+* Clinical features: usually manifest in early <u>infancy</u>
+
+* Formation of inflamed, thick, wood-like growths (ligneous pseudomembranes) on <u>mucous membranes</u> (especially the <u>conjunctiva</u>) that appear white, yellow, or red
+
+* Other areas that can be affected: <u>skin</u>, <u>CNS</u>, <u>gingiva</u>, <u>gastrointestinal tract</u>, <u>lungs</u>, female genital tract (e.g., <u>fallopian tubes</u>)
+
+* Not associated with <u>thrombophilia</u>
+
+* Diagnostics
+
+* Initially: clinical presentation, laboratory tests for <u>plasminogen</u> activity
+
+* <u>Genetic testing</u> confirms the diagnosis.
+
+* Differential diagnosis: infections (most common), but also conditions such as <u>allergies</u>, <u>GERD</u>, <u>IBD</u>, <u>endometriosis</u>, depending on the area affected
+
+* Treatment
+
+* Intravenous injection of ryplazim [[8]](https://coursology-qbank.com/amboss/article/16c2PW0)
+
+* Plasma-derived human <u>plasminogen</u> used in the treatment of <u>hypoplasminogenemia</u>
+
+* Adverse effects include gastrointestinal upset, extremity <u>pain</u>, and hemorrhage.
+
+* Surgical removal of growths is usually not recommended due to rapid regrowth.
+
+* Complications
+
+* Corneal scarring, loss of <u>vision</u>
+
+* <u>Duodenal ulcers</u>
+
+* <u>Occlusive hydrocephalus</u>
+
+* Can reduce <u>fertility</u>
+
+* Impaired <u>wound healing</u>
+
+---
+
+## Etiology
+
+Hemorrhagic diathesis is the abnormally increased susceptibility to bleeding.
+
+
+
+
+![Bleeding disorders USMLE-style question walkthrough](../../../../../media/small_61fd84f4cd81a.jpg)
+
+Bleeding disorders USMLE-style question walkthrough
+
+
+
+
+### Disorders of primary hemostasis
+
+
+
+
+* <u>Platelet disorders</u> [[9]](https://coursology-qbank.com/amboss/article/5L0iyg)
+
+* <u>Platelet deficiency</u> (see “Etiology” in “<u>Thrombocytopenia</u>”)
+
+* Platelet dysfunction (<u>thrombocytopathy</u>): disorders that lead to dysfunctional adhesion or aggregation of <u>platelets</u>
+
+* Inherited 
+
+* <u>Von Willebrand disease</u>
+
+* <u>Bernard-Soulier syndrome</u>
+
+* <u>Glanzmann thrombasthenia</u>
+
+* Acquired
+
+* Drug-induced: e.g., <u>aspirin</u>, <u>NSAID</u>, <u>clopidogrel</u>
+
+* <u>Immune thrombocytopenic purpura</u>
+
+* <u>Chronic kidney disease</u>
+
+* <u>Cardiopulmonary bypass</u>  [[10]](https://coursology-qbank.com/amboss/article/Dob1Vu)
+
+* Disorders affecting the vessel wall
+
+* Vascular <u>hemorrhagic diathesis</u> (e.g., <u>IgA vasculitis</u>, <u>hereditary hemorrhagic telangiectasia</u>)
+
+* <u>Thrombotic microangiopathy</u> (e.g., <u>HUS</u> and <u>TTP</u>)
+
+* Conditions with impaired <u>collagen synthesis</u> (e.g., <u>scurvy</u>, <u>Ehlers-Danlos syndrome</u>)
+
+
+
+
+
+| Differential diagnosis of platelet disorders |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | <u>HUS</u> | <u>TTP</u> | <u>Disseminated intravascular coagulation</u> (<u>DIC</u>) | <u>Immune thrombocytopenic purpura</u> (<u>ITP</u>) | Bernard-Soulier syndrome | Glanzmann thrombasthenia |
+| Pathophysiology | <br>* <u>Endothelial</u> cell dysfunction due to <u>bacterial toxins</u><br><br> | <br>* <u>ADAMTS13</u> deficiency<br><br> | <br><br>* Systemic coagulation activation<br><br>* <u>Platelet</u> and <u>coagulation factor</u> consumption (mixed disorder)<br><br><br> | <br>* Antiplatelet <u>antibodies</u> (Anti-<u>GpIIb/IIIa</u>)<br><br> | <br><br>* Adhesion disorder: deficient <u>platelet</u> <u>GPIb-IX</u><br><br>* <u>Autosomal recessive</u><br><br><br> | <br><br>* Aggregation disorder: deficient <u>platelet</u> GPIIb-IIIa<br><br>* <u>Autosomal recessive</u><br><br><br> |
+| Typical presentation | <br><br>* <u>Toddler</u> or <u>preschooler</u> with history of <u>diarrheal</u> illness<br><br>* Presents with <u>petechiae</u>, <u>jaundice</u>, and <u>oliguria</u><br><br><br> | <br><br>* Previously healthy adult, sometimes associated with triggers (e.g., infection, <u>surgery</u>, <u>pregnancy</u>)<br><br>* Presents with mental status changes, <u>fever</u>, <u>petechiae</u>, fatigue, and <u>pallor</u><br><br><br> | <br><br>* Patient with a history of serious underlying illness (e.g., <u>sepsis</u>, trauma, <u>malignancy</u>)<br><br>* Presents with <u>thrombosis</u>, embolism, organ dysfunction, and/or bleeding<br><br><br> | <br>* Asymptomatic or presenting with <u>petechiae</u>, <u>purpura</u>, <u>epistaxis</u>, <u>menorrhagia</u>, gingival bleeding<br><br> |  |  |
+| <u>Peripheral smear</u> | <br><br>* + <u>Schistocytes</u><br><br>* ↓ <u>Platelets</u><br><br><br> | <br><br>* + <u>Schistocytes</u><br><br>* ↓ <u>Platelets</u><br><br><br> | <br><br>* +/- <u>Schistocytes</u><br><br>* ↓ <u>Platelets</u><br><br><br> | <br><br>* Normal <u>platelet</u> morphology<br><br>* ↓ <u>Platelets</u><br><br><br> | <br><br>* Giant <u>platelets</u><br><br>* ↓ <u>Platelets</u><br><br>* Abnormal <u>ristocetin cofactor assay</u><br><br><br> | <br><br>* Normal <u>platelets</u><br><br>* Abnormal results on <u>platelet aggregation</u> testing confirm the diagnosis.<br><br><br> |
+| <u>PT</u> (<u>INR</u>) and <u>aPTT</u> | <br>* Normal/increased<br><br> |  | <br>* Increased<br><br> | <br>* Normal<br><br> |  |  |
+| <u>D-dimer</u>, <u>fibrin degradation products</u> | <br>* Normal/increased<br><br> |  | <br>* Increased<br><br> | <br>* Normal<br><br> |  |  |
+
+
+
+
+
+![Congenital disorders affecting primary hemostasis](../../../../../media/rrcfx9efaepvmqcmpw47fna4.jpg)
+
+Congenital disorders affecting primary hemostasis
+
+
+
+
+### Disorders of secondary hemostasis (disorders of the <u>coagulation cascade</u>)
+
+
+
+
+* Intrinsic pathway
+
+* <u>Factor VIII</u> deficiency (<u>hemophilia A</u>)
+
+* <u>Factor IX</u> deficiency (<u>hemophilia B</u>)
+
+* <u>Factor XI</u> deficiency (<u>hemophilia C</u>)
+
+* Extrinsic pathway: : factor VII deficiency (<u>autosomal recessive</u> <u>bleeding disorder</u> caused by mutation of the F7 <u>gene</u>)
+
+* Both pathways
+
+* Deficiency or inhibition of <u>vitamin K-dependent coagulation factors</u> II, VII, IX, and X 
+
+* <u>Vitamin K deficiency</u>: e.g., <u>malabsorption syndrome</u>, depletion of gut flora (e.g., following <u>antibiotic</u> administration), <u>vitamin K deficiency bleeding of the newborn</u>
+
+* <u>Vitamin K antagonist</u> therapy (e.g., <u>warfarin</u>)
+
+* Inhibition of <u>coagulation factors</u> by <u>autoantibodies</u> (most commonly anti-<u>factor VIII</u>) [[11]](https://coursology-qbank.com/amboss/article/8IbOeE)
+
+* <u>Disseminated intravascular coagulation</u> (<u>DIC</u>)
+
+* Impaired hepatic production of <u>coagulation factors</u> (e.g., <u>cirrhosis</u>)
+
+* <u>Fibrinogen</u> deficiency
+
+* <u>Anticoagulant</u> treatment
+
+
+
+
+
+![Disorders of secondary hemostasis](../../../../../media/iy2m4mwdgoc508l2g4azzbsl.jpg)
+
+Disorders of secondary hemostasis
+
+
+
+
+> [!NOTE]
+> In <u>disorders of primary hemostasis</u>, <u>platelet aggregation</u> is impaired, whereas in <u>disorders of secondary hemostasis</u> it is the <u>coagulation cascade</u> that is impaired.
+
+
+
+
+### Hyperfibrinolysis [[12]](https://coursology-qbank.com/amboss/article/VCaGI5)
+
+
+
+
+* Definition: excessive fibrinolytic activity, resulting in increased bleeding
+
+* Etiology
+
+* <u>Disseminated intravascular coagulation</u> (secondary to <u>liver</u> dysfunction, <u>sepsis</u>, etc.)
+
+* Peripartum complications
+
+* Treatment with <u>fibrinolytics</u>
+
+* <u>Surgery</u> in <u>tPA</u>-rich organs such as the <u>prostate</u> and <u>uterus</u>
+
+* <u>Prostate carcinoma</u> (paraneoplastic)
+
+* Pathophysiology: excessive <u>plasmin</u> activity → increased <u>fibrin</u> degradation → <u>thrombus</u> instability and dissolution shortly after formation
+
+* Treatment: <u>antifibrinolytic</u> agents (e.g., <u>tranexamic acid</u>) if <u>DIC</u> has been excluded
+
+
+
+
+
+### Hypofibrinolysis
+
+
+
+
+* Definition: abnormally low fibrinolytic activity, resulting in <u>thrombosis</u>
+
+* Etiology
+
+* <u>tPA</u> or <u>uPA</u> deficiency
+
+* Overexpression of PAI-1 or TAFI
+
+
+
+
+
+### Hypofibrinogenemia [[13]](https://coursology-qbank.com/amboss/article/m5cVk10)
+
+
+
+
+* Definition: : a disorder characterized by low plasma <u>fibrinogen</u> levels
+
+* Etiology
+
+* Congenital: mutation of <u>fibrinogen</u> <u>genes</u> (<u>FGA</u>, FGB, FGG) on <u>chromosome</u> 4
+
+* Acquired: associated with <u>liver</u> failure, <u>disseminated intravascular coagulation</u> (<u>DIC</u>), <u>liver transplantation</u>, <u>massive blood transfusion</u>, hemodilution, consumption of <u>clotting factors</u> [[14]](https://coursology-qbank.com/amboss/article/8_bOJw)
+
+* Pathophysiology
+
+* Congenital: mutation → lack of functional <u>fibrinogen</u> glycoprotein → ↓ production of <u>fibrinogen</u>  → <u>hemorrhagic diathesis</u>
+
+* Acquired: ↓ <u>fibrinogen</u> concentration (various causes) → <u>hemorrhagic diathesis</u>
+
+* Symptoms and findings: <u>epistaxis</u>, <u>gastrointestinal hemorrhage</u>, gingival bleeding
+
+* Treatment: <u>fresh frozen plasma</u>
+
+---
+
+## Clinical features
+
+| <br>Clinical features of bleeding disorders [[15]](https://coursology-qbank.com/amboss/article/Y6bnju)[[16]](https://coursology-qbank.com/amboss/article/NL0-Bg)<br> |  |  |
+| --- | --- | --- |
+| Disorder | Characteristics of bleeding | Manifestations |
+| <br><u>Primary hemostasis disorders</u> [[9]](https://coursology-qbank.com/amboss/article/5L0iyg)<br> | <br>* Onset: immediately after trauma<br><br> | <br><br>* Bleeding of <u>mucous membranes</u>, e.g.:<br><br>* <u>Epistaxis</u><br><br>* Bleeding <u>gums</u><br><br>* <u>Gastrointestinal bleeding</u><br><br>* Cutaneous and subcutaneous bleeding, e.g.:<br><br>* <u>Petechiae</u><br><br>* <u>Purpura</u><br><br>* <u>Superficial</u> <u>ecchymoses</u><br><br>* Easy <u>bruising</u><br><br>* <u>Menorrhagia</u><br><br>* Prolonged and excessive bleeding after <u>surgery</u><br><br><br> |
+| <u>Secondary hemostasis</u> disorders | <br>* Onset: delayed (minutes to hours after trauma)<br><br> | <br><br>* Deep tissue bleeding, e.g.:<br><br>* Hemarthrosis (esp. in <u>hemophilia</u>)<br><br>* <u>Hematomas</u><br><br>* Large, palpable <u>ecchymoses</u><br><br><br> |
+| <u>Disseminated intravascular coagulation</u> | <br>* Variable (depends on underlying cause)<br><br> | <br><br>* Bleeding symptoms may include:<br><br>* <u>Petechial</u> bleeding<br><br>* <u>Ecchymosis</u><br><br>* Oozing of blood from surgical wounds and intravenous lines<br><br>* Symptoms of hypercoagulation (see “Clinical features” in “<u>DIC</u>”)<br><br><br> |
+
+
+
+
+
+* A thorough <u>physical examination</u> is essential for diagnosing <u>bleeding disorders</u> and should include the inspection of the entire <u>skin</u>, <u>mucosa</u> (esp. <u>oral cavity</u>), and <u>joints</u>.
+
+* Watch out for signs of physical abuse, which may produce patterns of <u>bruising</u> that resemble those of <u>bleeding disorders</u>. Signs of physical abuse include:
+
+* Inconsistency of clinical findings and history
+
+* Atypical <u>bruising</u> patterns (e.g., on back, forehead, <u>ears</u>, neck) and/or <u>retinal hemorrhages</u> in children ≤ 4 years (see “<u>Physical child abuse</u>”)
+
+
+
+
+
+> [!NOTE]
+> <u>Superficial</u>, <u>petechial</u> bleeding indicates defects of <u>primary hemostasis</u>, whereas large, palpable <u>ecchymoses</u> and deep tissue bleeding suggest defects of <u>secondary hemostasis</u>!
+
+
+
+
+![Petechial bleeding due to thrombocytopenia](../../../../../media/nh116uknd9gl75dkv7a3lc9q.jpg)
+
+Petechial bleeding due to thrombocytopenia
+
+![Impaired secondary hemostasis in lupus erythematosus](../../../../../media/ipyamtjckmu03quc1rvb0ym6.jpg)
+
+Impaired secondary hemostasis in lupus erythematosus
+
+---
+
+## Diagnosis
+
+Clinical assessment and basic laboratory testing are used to differentiate between primary and secondary disorders of <u>hemostasis</u>. Advanced testing is used to identify the specific disorder.
+
+
+
+
+### Clinical assessment [[17]](https://coursology-qbank.com/amboss/article/35YSPp)[[18]](https://coursology-qbank.com/amboss/article/SpbyKu)[[19]](https://coursology-qbank.com/amboss/article/o-X0y00)
+
+
+
+
+* Symptoms
+
+* Ask about features of <u>mucosal</u>, <u>skin</u>, and deep-tissue bleeding (see “Clinical features”).
+
+* Quantify bleeding severity with a <u>bleeding assessment tool</u>.
+
+* Features associated with <u>bleeding disorders</u>
+
+* Known <u>bleeding disorder</u> in a family member
+
+* Chronic illness: e.g., <u>chronic kidney disease</u>, <u>liver</u> disease, <u>malignancy</u>, autoimmune diseases, <u>malabsorption</u>
+
+* Acute illness: e.g., recent infections , <u>sepsis</u> , use of <u>mechanical circulatory support</u>
+
+* Poor <u>nutritional status</u>
+
+* <u>Pregnancy</u>
+
+* Use of medications
+
+* <u>Antithrombotic agents</u>: <u>anticoagulants</u>, <u>antiplatelet agents</u>
+
+* Other drugs that can affect <u>platelet</u> function and/or count, including:
+
+* <u>Chemotherapeutic agents</u>
+
+* <u>NSAIDs</u>
+
+* <u>Phosphodiesterase inhibitors</u> (e.g., <u>cilostazol</u>, <u>sildenafil</u>, <u>theophylline</u>)
+
+* <u>Beta-lactam antibiotics</u>
+
+* <u>Antimycotics</u> and <u>antibiotics</u> (e.g., <u>miconazole</u>, <u>nitrofurantoin</u>)
+
+* <u>Nitrates</u>
+
+* <u>Antidepressants</u>
+
+
+
+
+
+> [!TIP]
+> Most <u>bleeding disorders</u> are acquired; i.e., secondary to medications or associated with acute or chronic illness. [[17]](https://coursology-qbank.com/amboss/article/35YSPp)
+
+
+
+
+> [!TIP]
+> Women presenting with <u>menorrhagia</u> should also be evaluated by a <u>gynecologist</u>.
+
+
+
+
+### Bleeding assessment tools (BATs) [[20]](https://coursology-qbank.com/amboss/article/L-XwB00)[[21]](https://coursology-qbank.com/amboss/article/r-XfA00)[[22]](https://coursology-qbank.com/amboss/article/7-X4A00)
+
+
+
+
+BATs are questionnaires that standardize the assessment of bleeding symptoms and identify patients who may benefit from advanced testing. Multiple tools are available.
+
+
+
+
+* The International Society of <u>Thrombosis</u> and <u>Hemostasis</u> BAT includes the following symptoms: [[21]](https://coursology-qbank.com/amboss/article/r-XfA00)[[22]](https://coursology-qbank.com/amboss/article/7-X4A00)[[23]](https://coursology-qbank.com/amboss/article/bVcHGY0)
+
+* Mucocutaneous symptoms: cutaneous signs of bleeding, bleeding from minor wounds, <u>epistaxis</u>, bleeding in the <u>oral cavity</u>
+
+* Bleeding after procedures: after a <u>surgery</u> or dental extraction
+
+* Musculoskeletal bleeding: <u>hemarthroses</u>, or <u>muscular hematomas</u>
+
+* <u>CNS</u> bleeding
+
+* <u>GI bleeding</u>
+
+* <u>Hematuria</u>
+
+* Gynecological bleeding: <u>menorrhagia</u> or <u>postpartum hemorrhage</u>
+
+* Each symptom receives a score based on its severity.
+
+* An elevated total score should prompt evaluation for <u>bleeding disorders</u>.  [[22]](https://coursology-qbank.com/amboss/article/7-X4A00)[[24]](https://coursology-qbank.com/amboss/article/aVcQGY0) [[25]](https://coursology-qbank.com/amboss/article/XVc9GY0)[[26]](https://coursology-qbank.com/amboss/article/cVcatY0)
+
+* A low score does not exclude <u>bleeding disorder</u>.
+
+
+
+
+
+### Initial <u>laboratory studies</u> [[18]](https://coursology-qbank.com/amboss/article/SpbyKu)[[19]](https://coursology-qbank.com/amboss/article/o-X0y00)[[20]](https://coursology-qbank.com/amboss/article/L-XwB00)[[27]](https://coursology-qbank.com/amboss/article/RVcl8Y0)
+
+
+
+
+* Indications
+
+* History or <u>physical examination</u> suggestive of a <u>bleeding disorder</u>
+
+* Elevated BAT score
+
+* Studies 
+
+* <u>CBC</u>, <u>BMP</u>, <u>liver chemistries</u>
+
+* <u>Peripheral blood smear</u>
+
+* <u>Platelet clumping</u>: suggests <u>pseudothrombocytopenia</u>
+
+* <u>Schistocytes</u> or other fragmented cells: consistent with <u>microangiopathic hemolytic anemia</u> (e.g., <u>thrombotic thrombocytopenic purpura</u>)
+
+* Identification of blasts: suggests hematologic malignancies
+
+* <u>Coagulation panel</u>;  including <u>fibrinogen</u> level: Elevated <u>PT</u>/<u>INR</u> and/or <u>aPTT</u> are suggestive of <u>disorders of secondary hemostasis</u>.
+
+* <u>Platelet function analysis</u> (PFA): Abnormal <u>platelet</u> function (or, if not available, a prolonged <u>bleeding time</u>; ) suggests a <u>disorder of primary hemostasis</u>.  [[19]](https://coursology-qbank.com/amboss/article/o-X0y00)
+
+* <u>vWF</u> <u>antigen</u> and <u>vWF</u> activity (<u>vWF</u> <u>ristocetin</u> activity): for diagnosis of <u>vWD</u>
+
+
+
+
+
+> [!TIP]
+> <u>Von Willebrand disease</u> is the most common inherited <u>bleeding disorder</u>, affecting up to 1% of the population. <u>Von Willebrand factor</u> concentration and <u>vWF</u> activity are now commonly part of initial diagnostic studies. [[20]](https://coursology-qbank.com/amboss/article/L-XwB00)[[27]](https://coursology-qbank.com/amboss/article/RVcl8Y0)
+
+
+
+
+| <br>Interpretation of laboratory findings in bleeding disorders [[18]](https://coursology-qbank.com/amboss/article/SpbyKu)[[20]](https://coursology-qbank.com/amboss/article/L-XwB00)[[28]](https://coursology-qbank.com/amboss/article/SVcyFY0)<br> |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Defective pathway | Disorders | <u>Platelet count</u> | PFA or <u>bleeding time</u> | <u>PT</u>/<u>INR</u> | <u>aPTT</u> |
+| <u>Disorders of primary hemostasis</u> | <u>Thrombocytopenia</u> | <br>* ↓<br><br> | <br>* ↑<br><br> | <br>* Normal<br><br> | <br>* Normal<br><br> |
+| <br><u>Platelet dysfunction</u> (e.g., <u>aspirin</u> therapy, <u>chronic kidney disease</u>) | <br>* Normal<br><br> | <br>* ↑<br><br> | <br>* Normal<br><br> | <br>* Normal<br><br> |  |
+| <u>Disorders of secondary hemostasis</u> | <br>Extrinsic pathway (e.g., <u>factor VII deficiency</u>)<br> | <br>* Normal<br><br> | <br>* Normal<br><br> | <br>* ↑<br><br> | <br>* Normal<br><br> |
+| <br>Intrinsic pathway (e.g., <u>hemophilia</u>, <u>heparin</u> therapy)<br> | <br>* Normal<br><br> | <br>* Normal<br><br> | <br>* Normal<br><br> | <br>* ↑<br><br> |  |
+| <br>Intrinsic and extrinsic pathways (e.g., deficiency of <u>vitamin K-dependent coagulation factors</u>)<br> | <br>* Normal<br><br> | <br>* Normal<br><br> | <br>* ↑<br><br> | <br>* ↑<br><br> |  |
+| Disorders of primary AND <u>secondary hemostasis</u> | <u>Von Willebrand disease</u> | <br>* Normal<br><br> | <br>* ↑<br><br> | <br>* Normal<br><br> | <br>* Normal/↑  [[27]](https://coursology-qbank.com/amboss/article/RVcl8Y0)<br><br> |
+| <br><u>Disseminated intravascular coagulation</u> (<u>DIC</u>) <br> | <br>* ↓<br><br> | <br>* ↑<br><br> | <br>* ↑<br><br> | <br>* ↑<br><br> |  |
+
+
+
+
+
+> [!WARNING]
+> <u>DIC</u> is characterized by <u>thrombosis</u>, hemorrhage, and organ dysfunction and can be a <u>medical emergency</u> that requires immediate treatment.
+
+
+
+
+> [!TIP]
+> A detailed clinical assessment and initial <u>laboratory studies</u> are sufficient to diagnose the most common disorders of <u>hemostasis</u> (e.g., <u>platelet dysfunction</u> secondary to medications or <u>bleeding disorders</u> associated with acute or chronic disease).
+
+
+
+
+### Advanced <u>laboratory studies</u> [[18]](https://coursology-qbank.com/amboss/article/SpbyKu)[[19]](https://coursology-qbank.com/amboss/article/o-X0y00)
+
+
+
+
+Advanced <u>laboratory studies</u> help identify specific disorders. The choice of studies depends on the suspected underlying pathology and usually requires specialist consult.
+
+
+
+
+* <u>Disorders of primary hemostasis</u>: <u>low platelet count</u> or abnormal <u>platelet function test</u> with normal <u>INR</u> and <u>PTT</u>
+
+* <u>Disorders of secondary hemostasis</u>: abnormal <u>INR</u> or <u>PTT</u> with normal <u>platelet counts</u> and <u>platelet</u> function
+
+* Unclear after initial studies: normal <u>platelet count</u> and function and normal <u>coagulation panel</u> but high clinical suspicion for a <u>bleeding disorder</u>
+
+
+
+
+
+#### Suspected <u>disorders of primary hemostasis</u>
+
+
+
+
+* <u>Low platelet count</u>
+
+* Base further testing on clinical suspicion. For example:
+
+* <u>Thrombocytopenia</u> in a pregnant patient: Start investigations for <u>HELLP syndrome</u>.
+
+* <u>Anemia</u> and <u>thrombocytopenia</u> in a patient with suggestive symptoms: Start investigations for <u>TTP</u>.
+
+* Presence of <u>B symptoms</u> or other abnormalities on <u>CBC</u> and/or <u>blood smear</u>: Start investigations for a hematologic <u>malignancy</u>.
+
+* See “Diagnostics” in “<u>Thrombocytopenia</u>” for details.
+
+* Abnormal <u>platelet</u> function [[29]](https://coursology-qbank.com/amboss/article/zZcrVa0)
+
+* Acquired (most common): etiology (e.g., medications or chronic illness) usually clear after initial evaluation
+
+* Inherited (rare): advanced testing to further assess <u>platelet</u> function and identify the etiology
+
+* See also “<u>Differential diagnoses of platelet disorders</u>.”
+
+
+
+
+
+#### Suspected <u>disorders of secondary hemostasis</u> [[19]](https://coursology-qbank.com/amboss/article/o-X0y00)[[30]](https://coursology-qbank.com/amboss/article/UZcbaa0)
+
+
+
+
+* Congenital factor deficiencies: confirmed with factor assays (low factor concentrations)
+
+* Presence of factor inhibitors: can be diagnosed using <u>mixing studies</u>
+
+
+
+
+
+| <br>Possible mechanisms and <u>coagulation factors</u> affected in <u>disorders of secondary hemostasis</u> [[19]](https://coursology-qbank.com/amboss/article/o-X0y00)[[30]](https://coursology-qbank.com/amboss/article/UZcbaa0)<br> |  |  |
+| --- | --- | --- |
+|  | Elevated <u>PT</u>/<u>INR</u> | Normal <u>PT</u>/<u>INR</u> |
+| Elevated <u>aPTT</u> | <br>* <u>Factors II</u>, V, VIII, or X (common pathway)<br><br> | <br>* <u>Factors VIII</u>, IX, or XI (intrinsic pathway)<br><br> |
+| Normal <u>aPTT</u> | <br>* <u>Factor VII</u> (extrinsic pathway)<br><br> | <br>* See “Disorder unclear after initial testing” below<br><br> |
+
+
+
+
+
+#### Disorder unclear after initial testing [[19]](https://coursology-qbank.com/amboss/article/o-X0y00)
+
+
+
+
+Additional testing is required if suspicion of a <u>bleeding disorder</u> is high but <u>coagulation testing</u> is normal. Possible etiologies include:
+
+
+
+
+* <u>Hyperfibrinolysis</u>: Testing includes alpha 2-antiplasmin level and <u>plasminogen</u> activation inhibitor-1 level.  [[31]](https://coursology-qbank.com/amboss/article/lecv_Y0)
+
+* Vascular disorders (e.g., <u>Ehler Danlos syndrome</u>, <u>hereditary hemorrhagic telangiectasia</u>): <u>Genetic testing</u> is required.
+
+* <u>Factor XIII</u> deficiency
+
+* Combined <u>coagulation factor</u> deficiency
+
+
+
+
+
+> [!TIP]
+> If the diagnosis remains unclear, repeat testing for <u>vWD</u> is recommended. [[19]](https://coursology-qbank.com/amboss/article/o-X0y00)
+
+---
+
+## Treatment
+
+Treatment should be guided by a specialist and target the specific cause of the bleeding. Occasionally, the <u>transfusion</u> of <u>blood products</u> may be indicated. For patients with acute or <u>major bleeding</u>, see “Management of acute bleeding” below.
+
+
+
+
+### General principles [[30]](https://coursology-qbank.com/amboss/article/UZcbaa0)[[32]](https://coursology-qbank.com/amboss/article/eZcx0a0)
+
+
+
+
+* Avoid medications that may impair <u>hemostasis</u>.
+
+* Ensure optimal preventive medical and dental health care.
+
+* Consult a specialist to determine any preventive measures that are necessary before invasive procedures.
+
+* Provide patient education on lifestyle modification in the setting of <u>bleeding disorders</u>.
+
+* Consider <u>screening for HIV</u> and <u>hepatitis</u> if the patient has a history of multiple <u>transfusions</u>.
+
+
+
+
+
+### <u>Disorders of primary hemostasis</u> [[33]](https://coursology-qbank.com/amboss/article/I-XYA00)[[34]](https://coursology-qbank.com/amboss/article/fZckaa0)
+
+
+
+
+#### <u>Platelet transfusion</u>
+
+
+
+
+* Used in the treatment of both <u>thrombocytopenia</u> and <u>platelet dysfunction</u>
+
+* Indications
+
+* Active bleeding
+
+* Prevention of bleeding during invasive procedures
+
+* Prophylactically in patients with extremely <u>low platelet count</u>  [[30]](https://coursology-qbank.com/amboss/article/UZcbaa0)
+
+* Contraindications: uremic <u>platelet</u> dysfuntion
+
+
+
+
+
+#### Disease-specific treatment
+
+
+
+
+* <u>Uremic platelet dysfunction</u> [[35]](https://coursology-qbank.com/amboss/article/nZc7Xa0)
+
+* Preventative measures include dialysis, <u>erythropoietin</u>, and conjugated <u>estrogens</u>. [[36]](https://coursology-qbank.com/amboss/article/gZcFaa0)
+
+* <u>Desmopressin</u>: may be used prior to invasive procedures or to treat active bleeding
+
+* <u>Platelet transfusion</u> is not indicated due to rapid inactivation of transfused <u>platelets</u>
+
+* Drug-related <u>platelet dysfunction</u> [[33]](https://coursology-qbank.com/amboss/article/I-XYA00)
+
+* Discontinue medications causing dysfunction.
+
+* Consider <u>desmopressin</u>
+
+* <u>Immune thrombocytopenia</u>: Treatment may include <u>corticosteroids</u> and IVIG. <u>Platelet transfusion</u> is typically ineffectual.
+
+* <u>Heparin-induced thrombocytopenia</u>: Stop all <u>heparin</u> and initiate an alternative form of anticoagulation.
+
+* <u>HELLP syndrome</u>: Consult <u>obstetrician</u> immediately for specific management.
+
+
+
+
+
+> [!TIP]
+> One random donor <u>platelet</u> unit typically increases <u>platelet count</u> by 5,000–10,000 /mm³ in a 70-kg patient. One <u>apheresis</u> unit (the equivalent of 6–8 single units) increases <u>platelet count</u> by 30,000–40,000 /mm³. [[37]](https://coursology-qbank.com/amboss/article/5ecizY0)
+
+
+
+
+### <u>Disorders of secondary hemostasis</u>
+
+
+
+
+#### Inherited <u>coagulation factor</u> deficiency [[27]](https://coursology-qbank.com/amboss/article/RVcl8Y0)
+
+
+
+
+* Depending on the etiology, treatment can include one or more of the following:
+
+* <u>Blood product</u> <u>transfusions</u>
+
+* Replacement of specific <u>coagulation factors</u>, e.g.:
+
+* <u>Factors VIII</u>, IX, or XI (e.g., for <u>hemophilia</u>)
+
+* Concentrates containing <u>vWF</u> and <u>factor VIII</u> (for <u>vWD</u>)
+
+* Pharmacological therapy (e.g., <u>desmopressin</u>, <u>antifibrinolytics</u>)
+
+* <u>Monoclonal antibody</u> therapy
+
+* See "<u>Management of hemophilia</u>" and "<u>Treatment of von Willebrand disease</u>" for specific recommendations.
+
+
+
+
+
+#### Acquired <u>coagulation factor</u> deficiency
+
+
+
+
+* <u>Vitamin K deficiency</u> [[38]](https://coursology-qbank.com/amboss/article/jVc_8Y0)
+
+* Dietary deficiency
+
+* <u>Vitamin K</u> replacement: <u>phytonadione</u> DOSAGE
+
+* Optimize enteral or <u>parenteral nutrition</u>.
+
+* Associated with <u>anticoagulant</u> use: See “<u>Anticoagulant reversal</u>” for specific recommendations.
+
+* <u>Liver</u> disease: complex management [[39]](https://coursology-qbank.com/amboss/article/6Zcjca0)[[40]](https://coursology-qbank.com/amboss/article/UEbbEv)[[41]](https://coursology-qbank.com/amboss/article/MecMzY0)
+
+* Consult gastroenterology and <u>hematology</u> early.
+
+* Consider <u>vitamin K</u> replacement for patients with abnormal <u>coagulation studies</u>.  [[40]](https://coursology-qbank.com/amboss/article/UEbbEv)[[42]](https://coursology-qbank.com/amboss/article/PVcWuY0)
+
+* Screen for and manage comorbid conditions that affect <u>hemostasis</u> (e.g., <u>uremia</u>, bacterial overgrowth, <u>portal hypertension</u>, <u>thrombocytopenia</u>).
+
+
+
+
+
+> [!TIP]
+> The effect of <u>liver</u> disease on <u>hemostasis</u> is complex: The clinical effects of <u>thrombocytopenia</u> and reduced <u>coagulation factor</u> synthesis are often negated by a simultaneous decrease in the production of profibrinolytic factors. Bleeding often does not occur, even if the <u>laboratory values</u> of <u>hemostasis</u> are markedly abnormal. [[39]](https://coursology-qbank.com/amboss/article/6Zcjca0)
+
+
+
+
+#### Impaired <u>coagulation factor</u> function
+
+
+
+
+* Therapeutic or accidental <u>anticoagulant</u> use: See “<u>Anticoagulant reversal</u>.”
+
+* <u>Coagulation factor</u> inhibitors: Treatment includes <u>immunosuppression</u> (e.g., <u>glucocorticoids</u>) and occasional use of <u>bypassing agents</u>. [[43]](https://coursology-qbank.com/amboss/article/oZc0ca0)
+
+
+
+
+
+> [!WARNING]
+> Patients with an inhibitor to a <u>coagulation factor</u> are at high risk of severe or fatal bleeding. [[43]](https://coursology-qbank.com/amboss/article/oZc0ca0)
+
+---
+
+## Management of acute bleeding
+
+### Management [[17]](https://coursology-qbank.com/amboss/article/35YSPp)
+
+
+
+
+* Start <u>ABCDE approach</u> and stabilize the patient as needed.
+
+* Establish appropriate <u>IV access</u>.
+
+* Consult <u>hematology</u> service.
+
+* Assess the need for <u>anticoagulant reversal</u>, discontinue ongoing <u>anticoagulants</u> and <u>platelet inhibitors</u>, unless contraindicated.
+
+* Consider consultation for a procedural intervention to control bleeding (e.g., <u>upper endoscopy</u>, <u>colonoscopy</u>, <u>surgery</u>).
+
+* Start <u>transfusion</u> of <u>blood products</u> if needed (see also “<u>Massive transfusion</u>”).
+
+* <u>pRBCs</u>: Target <u>Hb</u> using a liberal or restrictive <u>transfusion</u> strategy.
+
+* <u>Platelet transfusion</u>: for <u>thrombocytopenia</u> or as part of a <u>massive transfusion protocol</u>
+
+* <u>Fresh frozen plasma</u> (<u>FFP</u>), <u>cryoprecipitate</u> : as part of <u>massive transfusion protocol</u> or to replace <u>coagulation factors</u> and/or <u>fibrinogen</u>
+
+* <u>Prothrombin complex concentrate</u>: Use only with expert guidance; potentially fatal <u>thrombotic</u> complications may occur.  [[44]](https://coursology-qbank.com/amboss/article/JZcsca0)[[45]](https://coursology-qbank.com/amboss/article/HZcK1a0)
+
+* Consider replacement of specific <u>coagulation factors</u>
+
+* Known <u>hemophilia</u>: <u>factors VIII</u>, IX, or XI
+
+* Known <u>von Willebrand disease</u> (<u>vWD</u>): concentrates containing <u>vWF</u> and <u>factor VIII</u>
+
+* Consider adjuvant drug therapy depending on suspected etiology
+
+* <u>Anticoagulant reversal</u>, e.g., <u>Vitamin K</u> (<u>phytonadione</u> DOSAGE)  [[38]](https://coursology-qbank.com/amboss/article/jVc_8Y0)
+
+* <u>Desmopressin</u> DOSAGE  [[46]](https://coursology-qbank.com/amboss/article/7hc42X0)
+
+* <u>Antifibrinolytics</u> (e.g., for <u>hyperfibrinolysis</u>)
+
+
+
+
+
+> [!WARNING]
+> Diagnostics should not delay <u>factor replacement therapy</u> in patients with known <u>bleeding disorders</u> presenting with <u>major bleeding</u>. [[47]](https://coursology-qbank.com/amboss/article/hGXc_z)[[48]](https://coursology-qbank.com/amboss/article/jGX__z)[[49]](https://coursology-qbank.com/amboss/article/R-XlC00)
+
+
+
+
+> [!TIP]
+> Patients with a suspected disorder of <u>secondary hemostasis</u> presenting with <u>major bleeding</u> can benefit from the <u>transfusion</u> of <u>fresh frozen plasma</u> while diagnostic studies are performed. [[17]](https://coursology-qbank.com/amboss/article/35YSPp)
+
+
+
+
+### Diagnostics [[17]](https://coursology-qbank.com/amboss/article/35YSPp)
+
+
+
+
+* Routine testing
+
+* <u>CBC</u> with <u>blood smear</u>, <u>BMP</u>, <u>liver chemistries</u>, and type and cross
+
+* <u>Coagulation studies</u>: Obtain a <u>coagulation panel</u> and measure <u>vWF</u> and <u>vWF</u> activity.
+
+* Viscoelastic hemostatic assays (<u>VHAs</u>): a <u>point-of-care test</u> with rapid results that provides a comprehensive assessment of hemostatic function [[50]](https://coursology-qbank.com/amboss/article/Djb1cF)[[51]](https://coursology-qbank.com/amboss/article/9jbNcF)[[52]](https://coursology-qbank.com/amboss/article/J-Xsy00) 
+
+* Common modalities: <u>thromboelastogram</u> (<u>TEG</u>®), <u>rotational thromboelastometry</u> (<u>ROTEM</u>®), and <u>Sonoclot</u>®
+
+* Uses  [[52]](https://coursology-qbank.com/amboss/article/J-Xsy00)[[53]](https://coursology-qbank.com/amboss/article/ntb7Vv)[[54]](https://coursology-qbank.com/amboss/article/LtbwVv)[[55]](https://coursology-qbank.com/amboss/article/otb0ev)[[56]](https://coursology-qbank.com/amboss/article/KtbUev)
+
+* Rapid bleeding (e.g., cardiac and <u>liver transplant</u> <u>surgery</u>, trauma, <u>DIC</u>, <u>peripartum hemorrhage</u>)
+
+* Complex <u>hemostasis</u> disorders (e.g., <u>liver</u> disease)
+
+
+
+
+
+![Thromboelastogram (TEG)](../../../../../media/o4tzl6641yv2uqkpca5db1sa.jpg)
+
+Thromboelastogram (TEG)
+
+---

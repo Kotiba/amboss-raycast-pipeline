@@ -1,0 +1,284 @@
+# Pyoderma gangrenosum
+
+*Categories: Clinical knowledge > Dermatology > Allergic and immune-mediated disorders > Pyoderma gangrenosum*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/Xv09A3)
+
+---
+
+## Summary
+
+Pyoderma gangrenosum is an inflammatory <u>skin</u> condition characterized by one or more rapidly progressive, painful <u>skin ulcers</u> with neutrophilic infiltration. Pyoderma gangrenosum is likely due to autoimmune dysregulation and is associated with autoimmune conditions such as <u>inflammatory bowel disease</u> (<u>IBD</u>) and <u>rheumatoid arthritis</u>. Pyoderma gangrenosum may be precipitated by trauma, often developing as a result of <u>pathergy</u>. Diagnosis is often based on clinical suspicion and can be confirmed with <u>skin biopsy</u>. Treatment includes <u>supportive care</u>, <u>immunosuppressants</u>, and monitoring.
+
+---
+
+## Etiology
+
+Pyoderma gangrenosum is likely due to autoimmune dysregulation and may be <u>idiopathic</u> or associated with systemic autoimmune conditions. [[2]](https://coursology-qbank.com/amboss/article/IrdYir0)
+
+
+
+
+* Precipitating factors [[3]](https://coursology-qbank.com/amboss/article/rrdfir0)
+
+* Trauma or <u>surgery</u> (often via <u>pathergy</u>)
+
+* Drugs (e.g., <u>G-CSF</u>, <u>retinoids</u>, <u>TNF inhibitors</u>, <u>imatinib</u>, <u>hydralazine</u>, <u>rituximab</u>, <u>cocaine</u>)
+
+* Associated conditions [[1]](https://coursology-qbank.com/amboss/article/MrdM3r0)[[2]](https://coursology-qbank.com/amboss/article/IrdYir0)
+
+* <u>Inflammatory bowel disease</u> (e.g., <u>Crohn disease</u>, <u>ulcerative colitis</u>)
+
+* <u>Autoimmune arthritis</u> (e.g., <u>rheumatoid arthritis</u>)
+
+* <u>Malignancy</u> (e.g., <u>myelodysplastic syndrome</u>, <u>MGUS</u>, <u>AML</u>)
+
+* Autoinflammatory syndromes (e.g., <u>SAPHO syndrome</u>)
+
+* <u>Pregnancy</u>
+
+---
+
+## Clinical features
+
+### Distinguishing features
+
+
+
+
+* <u>Skin</u> lesions [[1]](https://coursology-qbank.com/amboss/article/MrdM3r0)[[2]](https://coursology-qbank.com/amboss/article/IrdYir0)[[3]](https://coursology-qbank.com/amboss/article/rrdfir0)   
+
+* One or more <u>pustules</u>, <u>papules</u>, or <u>blisters</u> that rapidly progress into deep <u>ulcers</u> with irregular, undermined <u>erythematous</u>, purple (violaceous) edges, central <u>necrosis</u>, and <u>pus</u>
+
+* Severely painful
+
+* Marginal <u>edema</u> during acute phase
+
+* Scarring: <u>cribriform</u> or wrinkled (like cigarette paper)
+
+* Distribution [[3]](https://coursology-qbank.com/amboss/article/rrdfir0)
+
+* Frequently extensor surfaces of lower legs
+
+* Other possible sites: head, neck, trunk, fingers, <u>vulva</u>, peristomal <u>skin</u>
+
+
+
+
+
+![Pyoderma gangrenosum](../../../../media/vk4lje2trahf55olhbq2dk6g.jpg)
+
+Pyoderma gangrenosum
+
+![Pyoderma gangrenosum](../../../../media/qtixqdv9ks680rr1ffhrzy3w.jpg)
+
+Pyoderma gangrenosum
+
+
+
+
+### Disease severity [[1]](https://coursology-qbank.com/amboss/article/MrdM3r0)[[2]](https://coursology-qbank.com/amboss/article/IrdYir0)
+
+
+
+
+The severity of pyoderma gangrenosum can be classified based on <u>ulcer</u> size, number, and/or distribution.  [[4]](https://coursology-qbank.com/amboss/article/PudWr70)
+
+
+
+
+* Mild disease
+
+* <u>Ulcer</u> size ≤ 3 cm
+
+* ≤ 3 lesions
+
+* ≤ 5% total body surface area
+
+* Moderate to severe disease
+
+* <u>Ulcer</u> size > 3 cm
+
+* > 3 lesions
+
+* > 5% total body surface area
+
+* Involvement of the face or genitals
+
+* Visibility of <u>tendon</u>, bone, and/or muscle
+
+---
+
+## Diagnosis
+
+Consult a specialist (e.g., dermatology) early to avoid diagnostic delay and misdiagnosis, as there are no standardized diagnostic criteria.
+
+
+
+
+### <u>Skin biopsy</u> [[1]](https://coursology-qbank.com/amboss/article/MrdM3r0)[[3]](https://coursology-qbank.com/amboss/article/rrdfir0)
+
+
+
+
+* Indication: all patients with suspected pyoderma gangrenosum
+
+* Site: preferably taken from the edge of the <u>ulcer</u>
+
+* Histological findings (nonspecific)
+
+* Neutrophilic infiltration (common) and/or <u>lymphocytic</u> infiltration
+
+* <u>Dermal</u> <u>edema</u>
+
+* Bacterial and fungal staining to rule out infection
+
+
+
+
+
+> [!TIP]
+> <u>Biopsy</u> findings alone cannot confirm the diagnosis of pyoderma gangrenosum.
+
+
+
+
+### Routine <u>laboratory studies</u> [[3]](https://coursology-qbank.com/amboss/article/rrdfir0)
+
+
+
+
+* <u>CBC with differential</u> and <u>PBS</u>:
+
+* <u>Leukocytosis</u> (often neutrophilic)
+
+* <u>Leukemoid reaction</u> (rare)
+
+* <u>Inflammatory markers</u>: ↑ <u>ESR</u> and <u>CRP</u>
+
+
+
+
+
+### Additional studies [[1]](https://coursology-qbank.com/amboss/article/MrdM3r0)[[3]](https://coursology-qbank.com/amboss/article/rrdfir0)
+
+
+
+
+Perform age-appropriate <u>cancer screening</u> for all patients and consider the following studies based on clinical suspicion.
+
+
+
+
+* Alternative diagnoses, e.g.:
+
+* <u>Syphilis testing</u> (e.g., <u>RPR</u>, <u>VDRL</u>)
+
+* Autoimmune testing (e.g., <u>p-ANCA</u>, <u>c-ANCA</u>)
+
+* Associated conditions, e.g.:
+
+* Evaluation for <u>IBD</u> (e.g., <u>colonoscopy</u>)
+
+* See “Diagnosis of <u>Crohn disease</u>.”
+
+* See “<u>Diagnosis of ulcerative colitis</u>.”
+
+* <u>X-ray</u> of affected <u>joints</u> to assess for inflammatory <u>arthritis</u>
+
+---
+
+## Treatment
+
+Treatment is largely based on expert opinion as there have been few large-scale clinical trials on pyoderma gangrenosum.
+
+
+
+
+### General principles
+
+
+
+
+* All patients
+
+* Consult dermatology for treatment guidance.
+
+* Provide <u>supportive care</u>.
+
+* Manage concurrent associated conditions (e.g., <u>IBD</u>, <u>rheumatoid arthritis</u>) if present.
+
+* Mild disease: Start topical or intralesional therapy with or without <u>prednisone</u>. [[2]](https://coursology-qbank.com/amboss/article/IrdYir0)
+
+* Moderate to severe disease: Start <u>prednisone</u> and/or <u>cyclosporine</u>. [[2]](https://coursology-qbank.com/amboss/article/IrdYir0)
+
+* Monitoring
+
+* Reassess after 1–3 weeks or longer for response. [[1]](https://coursology-qbank.com/amboss/article/MrdM3r0)[[2]](https://coursology-qbank.com/amboss/article/IrdYir0)
+
+* Add additional <u>immunosuppressive therapy</u> if the lesion does not resolve with subsequent reassessments.
+
+* Consider either tapering off therapy or providing long-term maintenance in patients with complete resolution.
+
+
+
+
+
+### Pharmacological treatment [[1]](https://coursology-qbank.com/amboss/article/MrdM3r0)[[2]](https://coursology-qbank.com/amboss/article/IrdYir0)
+
+
+
+
+* Topical therapy, e.g.:
+
+* <u>Glucocorticoids</u> (e.g., <u>clobetasol propionate</u>) [[2]](https://coursology-qbank.com/amboss/article/IrdYir0)
+
+* <u>Calcineurin inhibitors</u> (e.g., <u>tacrolimus</u>)
+
+* Intralesional therapy: : e.g., <u>triamcinolone</u>, <u>cyclosporine</u>
+
+* Systemic <u>immunosuppressants</u>
+
+* Initial therapy (first-line): <u>glucocorticoids</u> (e.g., <u>prednisone</u>) and/or <u>cyclosporine</u>
+
+* Refractory disease: <u>biologics</u> (e.g., <u>anti-TNF-α</u> agent, <u>IL-17 inhibitor</u>, <u>IL-23 inhibitor</u>) or <u>DMARDs</u> (e.g., <u>mycophenolate mofetil</u>)
+
+* Adjunctive therapies: for refractory disease (e.g., <u>dapsone</u>, <u>IV immunoglobulin</u>, <u>granulocyte</u> and <u>monocyte</u> adsorption <u>apheresis</u>) [[2]](https://coursology-qbank.com/amboss/article/IrdYir0)
+
+
+
+
+
+> [!TIP]
+> The size and appearance of the <u>ulcer</u> should be well-documented before starting pharmacological treatment since <u>immunosuppression</u> can alter the characteristic appearance of pyoderma gangrenosum <u>ulcers</u>. [[1]](https://coursology-qbank.com/amboss/article/MrdM3r0)
+
+
+
+
+### <u>Supportive care</u> [[1]](https://coursology-qbank.com/amboss/article/MrdM3r0)
+
+
+
+
+* <u>Wound care</u> [[1]](https://coursology-qbank.com/amboss/article/MrdM3r0)[[2]](https://coursology-qbank.com/amboss/article/IrdYir0)
+
+* Daily gentle cleansing
+
+* Dressings based on wound environment: Avoid drying the wound.
+
+* Treatment of any superimposed <u>skin and soft tissue infection</u>
+
+* Consider <u>split-thickness skin graft</u> with <u>negative pressure wound therapy</u> and <u>immunosuppressive therapy</u>.
+
+* <u>Pain management</u> (e.g., <u>NSAIDs</u> or <u>acetaminophen</u>)
+
+* <u>Psychosocial counseling</u>
+
+
+
+
+
+> [!WARNING]
+> Avoid debriding the wound as this can exacerbate the <u>ulcer</u>.
+
+---

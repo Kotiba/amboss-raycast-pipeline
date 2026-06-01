@@ -1,0 +1,13 @@
+# Soft tissue sarcoma
+
+*Categories: Clinical knowledge > Internal medicine > Hematology and oncology > Other hemato-oncologic conditions > Soft tissue sarcoma*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/3E0Sv3)
+
+---
+
+## Summary
+
+<u>Soft tissue</u> <u>sarcomas</u> are rare <u>malignant tumors</u> of <u>connective tissue</u> (e.g., fat and muscle). The most common histological subtypes are <u>liposarcoma</u> and <u>leiomyosarcoma</u>. <u>Soft tissue</u> <u>sarcomas</u> most commonly occur in the extremities (45% of cases) but can develop in any body site, such as the intra-abdominal region or the trunk. The clinical presentation varies by the anatomical location of the <u>tumor</u> and overlaps with the presentation of benign <u>soft tissue</u> masses (e.g., <u>lipoma</u>). Features that strongly suggest <u>soft tissue</u> <u>sarcoma</u> include mass size > 5 cm, <u>pain</u>, and/or a deep site (e.g., in musculature). Patients with concerning features should be urgently referred to a <u>multidisciplinary sarcoma team</u>. <u>MRI</u> is performed to assess the <u>tumor</u> area and invasion, with or without initial <u>ultrasound</u> assessment. Diagnosis is confirmed with imaging-guided <u>core needle biopsy</u>. Management combines surgical resection with <u>radiation therapy</u>. Factors associated with a poor prognosis include <u>retroperitoneal</u> location and high-grade tumors.
+
+---

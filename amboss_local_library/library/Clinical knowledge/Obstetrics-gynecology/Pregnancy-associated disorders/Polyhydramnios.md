@@ -1,0 +1,184 @@
+# Polyhydramnios
+
+*Categories: Clinical knowledge > Obstetrics/gynecology > Pregnancy-associated disorders > Polyhydramnios*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/r80fL3)
+
+---
+
+## Summary
+
+Polyhydramnios is an <u>amniotic fluid volume</u> that is greater than expected for <u>gestational age</u>. Causes may be <u>idiopathic</u> (in approx. 70% of cases) or due to maternal (e.g., <u>diabetes</u>, <u>rhesus incompatibility</u>) or fetal factors (e.g., conditions that impair <u>swallowing</u> or increase <u>urine production</u>). Polyhydramnios is often discovered incidentally on routine <u>prenatal ultrasound</u> or during an evaluation for increased <u>fundal height</u> for <u>gestational age</u>. All patients should be referred to <u>maternal-fetal medicine</u> for further evaluation and management of underlying causes and/or complications. <u>Idiopathic</u>, uncomplicated, <u>mild polyhydramnios</u> is managed with routine care and delivery at term. Additional management (e.g., <u>antepartum fetal surveillance</u>, planned delivery at a tertiary care center, and/or <u>amnioreduction</u>) is individualized based on identified causes, complications, and disease severity. Complications include <u>intrauterine fetal demise</u>, <u>fetal malposition</u>, <u>umbilical cord prolapse</u>, <u>premature labor</u> and <u>birth</u>, and complications due to underlying fetal factors.
+
+
+
+
+![Oligohydramnios vs. polyhydramnios](../../../../media/xswcon4yrpw4g1lksw8ncoum.jpg)
+
+Oligohydramnios vs. polyhydramnios
+
+---
+
+## Etiology
+
+Polyhydramnios is <u>idiopathic</u> in ∼ 70% of cases but may also occur due to underlying fetal or maternal factors.
+
+
+
+
+### Fetal factors [[2]](https://coursology-qbank.com/amboss/article/v_1AJj0)[[3]](https://coursology-qbank.com/amboss/article/OC1IHQ0)
+
+
+
+
+* Impaired <u>swallowing</u>
+
+* Gastrointestinal obstructions (e.g., <u>tracheoesophageal fistula</u>, <u>esophageal atresia</u>, <u>duodenal atresia</u>)
+
+* Esophageal compression (e.g., from <u>congenital neck masses</u> or <u>congenital pulmonary airway malformations</u>) [[4]](https://coursology-qbank.com/amboss/article/wkdhJJ0)
+
+* Neuromuscular disorders (e.g., <u>neural tube defects</u>, <u>myotonic dystrophy</u>)
+
+* Craniofacial deformities (e.g., <u>cleft lip</u>, <u>cleft palate</u>, <u>micrognathia</u>)
+
+* Increased <u>urine production</u>
+
+* High-output cardiac states (e.g., <u>tachyarrhythmias</u>, fetal <u>anemia</u>)
+
+* Inability to concentrate urine (e.g., <u>Bartter syndrome</u>, <u>diabetes insipidus</u>)
+
+* <u>Twin-to-twin transfusion syndrome</u> (recipient twin)  [[5]](https://coursology-qbank.com/amboss/article/Ekd8pJ0)[[6]](https://coursology-qbank.com/amboss/article/_kd5qJ0)
+
+* Other
+
+* <u>Chromosomal abnormalities</u> (e.g., <u>aneuploidy</u>)
+
+* <u>TORCH infections</u>
+
+
+
+
+
+### Maternal factors [[2]](https://coursology-qbank.com/amboss/article/v_1AJj0)[[3]](https://coursology-qbank.com/amboss/article/OC1IHQ0)
+
+
+
+
+* <u>Diabetes mellitus</u>
+
+* <u>Rhesus incompatibility</u>
+
+---
+
+## Diagnosis
+
+Polyhydramnios is diagnosed with an <u>obstetric ultrasound</u>, typically in the 2<sup>nd</sup> or <u>3<sup>rd</sup> trimester</u>. [[2]](https://coursology-qbank.com/amboss/article/v_1AJj0)[[7]](https://coursology-qbank.com/amboss/article/MmdMTq0)
+
+
+
+
+* Indications
+
+* <u>Routine prenatal care</u> or <u>antepartum fetal surveillance</u>
+
+* <u>Fundal height</u> increased for <u>gestational age</u> [[2]](https://coursology-qbank.com/amboss/article/v_1AJj0)
+
+* Findings [[2]](https://coursology-qbank.com/amboss/article/v_1AJj0)[[8]](https://coursology-qbank.com/amboss/article/ME1Mwi0)
+
+* Increased <u>amniotic fluid</u> determined by either of the following:
+
+* <u>Deepest vertical pocket (DVP)</u>: ≥ 8 cm  [[2]](https://coursology-qbank.com/amboss/article/v_1AJj0)
+
+* <u>Amniotic fluid index (AFI)</u>: ≥ 24 cm
+
+* Severity of polyhydramnios [[2]](https://coursology-qbank.com/amboss/article/v_1AJj0)
+
+* Mild polyhydramnios: <u>AFI</u> 24–29.9 cm or <u>DVP</u> 8–11 cm
+
+* Moderate <u>pol</u>yhydramnios:  <u>AFI</u> 30–35 cm or <u>DVP</u> 12–15 cm
+
+* Severe polyhydramnios: <u>AFI</u> > 35 cm or <u>DVP</u> ≥ 16 cm
+
+* <u>Fetal abnormalities associated with polyhydramnios</u>
+
+
+
+
+
+> [!TIP]
+> <u>Routine prenatal care</u> includes <u>screening for diabetes</u>, <u>alloimmunization</u>, and <u>syphilis</u>. [[2]](https://coursology-qbank.com/amboss/article/v_1AJj0)
+
+---
+
+## Management
+
+Refer patients with polyhydramnios to <u>maternal-fetal medicine</u> for further evaluation and management, which may include the following: [[2]](https://coursology-qbank.com/amboss/article/v_1AJj0)[[9]](https://coursology-qbank.com/amboss/article/LMdw6q0)
+
+
+
+
+* Evaluation for <u>causes of polyhydramnios</u> and fetal <u>complications of polyhydramnios</u>
+
+* Detailed fetal <u>ultrasound</u>
+
+* Screen for <u>maternal diabetes</u> (or rescreen if prior testing was normal)
+
+* Optimization of modifiable conditions (e.g., <u>management of diabetes in pregnancy</u>, <u>management of maternal alloimmunization</u>)
+
+* <u>Prenatal care</u> and delivery planning
+
+* <u>Idiopathic</u>, uncomplicated, <u>mild polyhydramnios</u> [[2]](https://coursology-qbank.com/amboss/article/v_1AJj0)
+
+* <u>Routine prenatal care</u>
+
+* Spontaneous delivery at term (i.e., ≥ 39 weeks' <u>gestation</u>)
+
+* Underlying cause, complication, and/or moderate to <u>severe polyhydramnios</u> [[8]](https://coursology-qbank.com/amboss/article/ME1Mwi0)
+
+* <u>Antepartum fetal surveillance</u>  [[8]](https://coursology-qbank.com/amboss/article/ME1Mwi0)
+
+* Planned delivery at a tertiary care center  [[2]](https://coursology-qbank.com/amboss/article/v_1AJj0)
+
+* Amnioreduction (drainage of excess <u>amniotic fluid</u>) for temporary symptomatic relief. ;  [[10]](https://coursology-qbank.com/amboss/article/9kdNJJ0)
+
+* Indications: <u>severe polyhydramnios</u> causing severe maternal discomfort and/or <u>dyspnea</u> [[8]](https://coursology-qbank.com/amboss/article/ME1Mwi0)
+
+* Complications: <u>preterm labor</u> or <u>premature rupture of membranes</u>
+
+
+
+
+
+> [!TIP]
+> Management is individualized based on the <u>severity of polyhydramnios</u>, underlying cause, and any associated complications. [[2]](https://coursology-qbank.com/amboss/article/v_1AJj0)
+
+---
+
+## Complications
+
+* Fetal complications
+
+* <u>Intrauterine fetal demise</u>  [[8]](https://coursology-qbank.com/amboss/article/ME1Mwi0)
+
+* <u>Intrauterine growth restriction</u>  [[2]](https://coursology-qbank.com/amboss/article/v_1AJj0)
+
+* <u>Macrosomia</u>  [[3]](https://coursology-qbank.com/amboss/article/OC1IHQ0)
+
+* Delivery complications [[2]](https://coursology-qbank.com/amboss/article/v_1AJj0)
+
+* <u>Fetal malposition</u>
+
+* <u>Umbilical cord prolapse</u>
+
+* <u>Preterm labor and birth</u>
+
+* <u>Premature rupture of membranes</u>
+
+* Obstetric interventions (e.g., <u>assisted vaginal delivery</u>, <u>cesarean delivery</u>)
+
+
+
+
+We list the most important complications. The selection is not exhaustive.
+
+---

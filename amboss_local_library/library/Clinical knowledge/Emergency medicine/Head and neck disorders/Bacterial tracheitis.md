@@ -1,0 +1,219 @@
+# Bacterial tracheitis
+
+*Categories: Clinical knowledge > Emergency medicine > Head and neck disorders > Bacterial tracheitis*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/_G05b3)
+
+---
+
+## Summary
+
+Bacterial <u>tracheitis</u> is a condition characterized by profuse <u>exudates</u> and pseudomembranes due to severe bacterial infection of the <u>trachea</u>. It can occur as a primary bacterial infection or following a viral illness. The most common manifestation is <u>stridor</u> in young children. Bacterial <u>tracheitis</u> is similar to viral <u>croup</u> and <u>epiglottitis</u>; however, affected individuals typically have higher <u>fevers</u>, are ill-appearing, and have severe respiratory symptoms that do not respond to treatments (e.g., with <u>nebulized epinephrine</u>). Patients usually require immediate stabilization and <u>airway management</u> before proceeding to <u>bronchoscopy</u> for diagnostic confirmation and treatment. Additional treatment includes <u>broad-spectrum antibiotics</u> and <u>ICU</u> management. If left untreated, bacterial <u>tracheitis</u> may progress to complete <u>airway obstruction</u>, <u>sepsis</u>, and <u>death</u>.
+
+
+
+
+This article only addresses bacterial <u>tracheitis</u> in patients with native <u>airways</u>; disease characteristics and management are different in patients with artificial <u>airways</u>.
+
+---
+
+## Epidemiology
+
+* Rare; primarily occurs in children < 6 years of age [[2]](https://coursology-qbank.com/amboss/article/3V1S8f0)
+
+* <u>♂</u> > <u>♀</u> [[2]](https://coursology-qbank.com/amboss/article/3V1S8f0)[[3]](https://coursology-qbank.com/amboss/article/svctYe0)
+
+* More common during the fall and winter [[2]](https://coursology-qbank.com/amboss/article/3V1S8f0)
+
+
+
+
+Epidemiological data refers to the US, unless otherwise specified.
+
+---
+
+## Etiology
+
+* <u>Staphylococcus aureus</u> (most common) [[4]](https://coursology-qbank.com/amboss/article/-d1Dsf0)[[5]](https://coursology-qbank.com/amboss/article/fV1kFf0)
+
+* Others: <u>H. influenzae</u>, <u>S. pneumoniae</u>, <u>S. pyogenes</u>, <u>M. catarrhalis</u> [[4]](https://coursology-qbank.com/amboss/article/-d1Dsf0)[[5]](https://coursology-qbank.com/amboss/article/fV1kFf0)
+
+---
+
+## Clinical features
+
+* Preceding viral <u>upper respiratory tract infection</u>: productive <u>cough</u>, <u>hoarseness</u>, <u>sore throat</u> [[6]](https://coursology-qbank.com/amboss/article/Od1IJf0)
+
+* Severe rapidly progressing symptoms (within 2–10 hours) [[5]](https://coursology-qbank.com/amboss/article/fV1kFf0)
+
+* Unwell appearance
+
+* High <u>fever</u>
+
+* <u>Signs of respiratory distress</u>
+
+* Life-threatening <u>airway obstruction</u>: <u>signs of impending respiratory failure</u>
+
+
+
+
+
+> [!TIP]
+> In contrast to <u>croup</u>, the <u>symptoms of bacterial tracheitis</u> do not improve with <u>nebulized epinephrine</u>. [[7]](https://coursology-qbank.com/amboss/article/lH1vqR0)
+
+---
+
+## Management
+
+### Approach [[5]](https://coursology-qbank.com/amboss/article/fV1kFf0)[[6]](https://coursology-qbank.com/amboss/article/Od1IJf0)[[7]](https://coursology-qbank.com/amboss/article/lH1vqR0)
+
+
+
+
+* Stabilization with <u>difficult airway management</u> and <u>respiratory support</u>
+
+* Give empiric IV <u>antibiotics</u>.
+
+* Urgently consult ENT for direct visualization; <u>bronchoscopy</u> confirms the diagnosis and can treat <u>airway obstruction</u>.
+
+* Consider supportive studies to rule out <u>differential diagnoses of stridor</u>.
+
+* Admit to <u>ICU</u> for further management.  [[3]](https://coursology-qbank.com/amboss/article/svctYe0)
+
+
+
+
+
+> [!WARNING]
+> Bacterial <u>tracheitis</u> is an <u>airway</u> emergency. Do not delay treatment to obtain diagnostic studies.
+
+
+
+
+### Immediate stabilization [[6]](https://coursology-qbank.com/amboss/article/Od1IJf0)[[7]](https://coursology-qbank.com/amboss/article/lH1vqR0)[[8]](https://coursology-qbank.com/amboss/article/AN1Rdh0)[[9]](https://coursology-qbank.com/amboss/article/kB1maj0)
+
+
+
+
+Most patients (> 75%) have severe <u>airway</u> compromise requiring <u>intubation</u> and intensive care management. [[6]](https://coursology-qbank.com/amboss/article/Od1IJf0)[[7]](https://coursology-qbank.com/amboss/article/lH1vqR0)[[9]](https://coursology-qbank.com/amboss/article/kB1maj0)
+
+
+
+
+* <u>Respiratory support</u>: if there are <u>signs of airway compromise</u> and/or <u>signs of respiratory distress</u>
+
+* <u>Supplemental oxygen</u>
+
+* Consider suctioning. [[10]](https://coursology-qbank.com/amboss/article/1v12_i0)
+
+* Prepare for <u>difficult intubation</u>: if patients are <u>hypoxic</u> and/or in severe <u>distress</u>
+
+* Intubate in the operating room if possible. [[8]](https://coursology-qbank.com/amboss/article/AN1Rdh0)[[11]](https://coursology-qbank.com/amboss/article/ZV1ZGf0)
+
+* Calculate <u>ET tube</u> size  and then use a tube 1–2 mm smaller than predicted for age.  [[3]](https://coursology-qbank.com/amboss/article/svctYe0)[[12]](https://coursology-qbank.com/amboss/article/bv1HAi0)
+
+* Have the most experienced clinician perform the <u>intubation</u>.
+
+* <u>Immediate hemodynamic support</u>: if there are <u>clinical features of shock</u>
+
+
+
+
+
+> [!WARNING]
+> In children with <u>signs of airway compromise</u>, minimize any <u>agitation</u>, as this can worsen <u>airway obstruction</u>.
+
+
+
+
+### Medical therapy [[6]](https://coursology-qbank.com/amboss/article/Od1IJf0)[[8]](https://coursology-qbank.com/amboss/article/AN1Rdh0)[[13]](https://coursology-qbank.com/amboss/article/Ef18LT0)
+
+
+
+
+* Empiric IV <u>antibiotics</u> with antistreptococcal and antistaphylococcal coverage for 7–10 days 
+
+* <u>Vancomycin</u> (<u>off-label</u>) DOSAGE  [[13]](https://coursology-qbank.com/amboss/article/Ef18LT0)[[14]](https://coursology-qbank.com/amboss/article/MRbMnt)[[15]](https://coursology-qbank.com/amboss/article/8NbO18)
+
+* PLUS one of the following:
+
+* <u>Ceftriaxone</u> (<u>off-label</u>) DOSAGE
+
+* <u>Ampicillin/sulbactam</u> (<u>off-label</u>) DOSAGE  [[13]](https://coursology-qbank.com/amboss/article/Ef18LT0)
+
+* If <u>anaphylaxis</u> to <u>beta-lactams</u>: <u>ciprofloxacin</u> (<u>off-label</u>) DOSAGE [[13]](https://coursology-qbank.com/amboss/article/Ef18LT0)
+
+* Supportive treatment (e.g., <u>antipyretics</u>, <u>IV fluids</u>) as needed
+
+* Consider <u>glucocorticoids</u> to reduce <u>airway</u> <u>edema</u>.  [[16]](https://coursology-qbank.com/amboss/article/hV1c8f0)[[17]](https://coursology-qbank.com/amboss/article/oH10rR0)
+
+
+
+
+
+### Direct visualization [[6]](https://coursology-qbank.com/amboss/article/Od1IJf0)[[7]](https://coursology-qbank.com/amboss/article/lH1vqR0)
+
+
+
+
+* Goals
+
+* Diagnostic confirmation
+
+* Relief of <u>airway obstruction</u>
+
+* <u>Debridement</u> (e.g., stripping pseudomembranes, suctioning <u>exudates</u>)
+
+* Repeated treatments may be necessary.
+
+* Collection of microbiological studies (e.g., <u>gram stain</u>, culture)
+
+* Modalities: <u>bronchoscopy</u>, <u>flexible laryngoscopy</u>  [[7]](https://coursology-qbank.com/amboss/article/lH1vqR0)
+
+* Findings include: [[6]](https://coursology-qbank.com/amboss/article/Od1IJf0)
+
+* Inflamed <u>trachea</u> and <u>subglottis</u>
+
+* Thick mucopurulent <u>exudates</u>
+
+* Pseudomembrane
+
+* <u>Mucosal</u> <u>necrosis</u>
+
+
+
+
+
+![Pseudomembranous bacterial tracheitis](../../../../media/k3v1w6vv5qc6md2kv8g4ld4c.jpg)
+
+Pseudomembranous bacterial tracheitis
+
+
+
+
+### Additional studies  [[6]](https://coursology-qbank.com/amboss/article/Od1IJf0)
+
+
+
+
+* <u>Laboratory studies</u> [[6]](https://coursology-qbank.com/amboss/article/Od1IJf0)
+
+* <u>CBC</u>: May show nonspecific findings; <u>left-shift</u> is common.
+
+* <u>Blood cultures</u>: typically negative; consider for patients with severe infection (e.g., <u>signs of sepsis</u>)
+
+* Imaging [[6]](https://coursology-qbank.com/amboss/article/Od1IJf0)
+
+* <u>X-ray</u> neck;  (AP and <u>lateral</u>): may show <u>subglottic</u> narrowing (<u>steeple sign</u>) and/or <u>tracheal</u> wall irregularities  [[5]](https://coursology-qbank.com/amboss/article/fV1kFf0)
+
+* <u>X-ray chest</u> (AP and <u>lateral</u>): may show focal infiltrates  [[6]](https://coursology-qbank.com/amboss/article/Od1IJf0)
+
+
+
+
+
+![Steeple sign](../../../../media/wff6a84ry8dy82qcp5n1h9jn.jpg)
+
+Steeple sign
+
+---

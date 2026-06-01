@@ -1,0 +1,13 @@
+# Eye pain and red eye
+
+*Categories: Clinical knowledge > Ophthalmology > Basics of ophthalmology > Eye pain and red eye*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/4u03r3)
+
+---
+
+## Summary
+
+<u>Eye</u> <u>pain</u> and redness are symptoms that often manifest together, but not always. They present a diagnostic challenge due to the wide range of possible causes requiring quick risk <u>stratification</u> and appropriate action. Causes are generally <u>diagnosed clinically</u> and include traumatic injury, inflammatory and/or infectious conditions, and other (e.g., neurological) conditions. <u>Vision</u>-threatening causes must be urgently ruled out. Assessment begins with a focused history, including both ophthalmologic and relevant nonophthalmologic symptoms, <u>medical history</u> (e.g., contact <u>lens</u> use, autoimmune conditions), and past surgeries. A focused ophthalmologic examination is then performed, which includes many aspects of the <u>comprehensive eye examination</u> (e.g., <u>visual acuity</u>, <u>examination of the extraocular muscles</u>, and <u>slit-lamp examination</u>). The diagnosis is narrowed based on clinical findings, and condition-specific diagnostics and treatment are initiated. <u>Vision-threatening causes of eye pain</u> require urgent ophthalmology consultation, while most non-<u>vision</u>-threatening causes may be followed up with outpatient ophthalmology.
+
+---

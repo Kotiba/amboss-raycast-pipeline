@@ -1,0 +1,563 @@
+# Osteoarthritis
+
+*Categories: Clinical knowledge > Surgery > Trauma and orthopedic surgery > General orthopedics > Osteoarthritis*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/bT0H62)
+
+---
+
+## Summary
+
+Osteoarthritis is a disabling <u>joint</u> disease characterized by degeneration of the <u>joint</u> complex (<u>articular cartilage</u>, subchondral bone, and <u>synovium</u>) that can have various causes, most notably advanced age and overuse. It mainly affects <u>weight-bearing</u> <u>joints</u> and <u>joints</u> that are heavily used, such as the hip, knee, hands, and <u>vertebrae</u>. Despite the widespread view that osteoarthritis is a condition caused exclusively by degenerative “wear and tear” of the <u>joints</u>, newer research indicates that there are various causes, including preexisting <u>joint</u> abnormalities, genetics, local inflammation, mechanical forces, and biochemical processes that are promoted by proinflammatory mediators and <u>proteases</u>. Major <u>risk factors</u> for osteoarthritis include advanced age, <u>obesity</u>, previous injuries, and asymmetrically stressed <u>joints</u>. In early-stage osteoarthritis, patients typically report a reduced <u>range of motion</u>, <u>joint</u> stiffness, and <u>pain</u> that is aggravated with heavy use. As the disease advances, persistent <u>pain</u> may also be present during the night and/or at rest. The diagnosis is predominantly based on clinical features and supported by radiological findings, as classic radiographic features of osteoarthritis do not always correlate with the patient's clinical symptoms or appearance. If lifestyle changes (e.g., moderate exercise, weight loss) fail to improve symptoms, pharmacotherapy is typically used for the management of active osteoarthritis. If these measures do not improve the patient's quality of life, surgical procedures such as <u>arthroplasty</u> may be necessary.
+
+
+
+
+See also “<u>Osteoarthritis of the hip and knee</u>” for more specific information.
+
+
+
+
+![Arthritis & Osteoarthritis - Part 1: Joint Structure](../../../../../media/small_5dfa178c7003b.jpg)
+
+Arthritis & Osteoarthritis - Part 1: Joint Structure
+
+![Arthritis & Osteoarthritis - Part 2: Medical History](../../../../../media/small_5dfa17941360d.jpg)
+
+Arthritis & Osteoarthritis - Part 2: Medical History
+
+![Arthritis & Osteoarthritis - Part 3: Patterns of Joint Involvement](../../../../../media/small_5dfa17abaaf13.jpg)
+
+Arthritis & Osteoarthritis - Part 3: Patterns of Joint Involvement
+
+![Arthritis & Osteoarthritis - Part 4: Joint Involvement Patterns in Rheumatic Diseases](../../../../../media/small_5dfa17b0da1b9.jpg)
+
+Arthritis & Osteoarthritis - Part 4: Joint Involvement Patterns in Rheumatic Diseases
+
+---
+
+## Epidemiology
+
+* <u>Prevalence</u>: most common <u>joint</u> disorder in the USA, affecting more than 20 million adults [[1]](https://coursology-qbank.com/amboss/article/0Jaesl)
+
+* <u>Incidence</u>: increases with age
+
+* Sex: : <u>♀</u> > <u>♂</u>, especially in patients older than 50 years
+
+* <u>Incidence rates</u> in specific <u>joints</u>: knee > hip > hand [[1]](https://coursology-qbank.com/amboss/article/0Jaesl)
+
+
+
+
+Epidemiological data refers to the US, unless otherwise specified.
+
+---
+
+## Etiology
+
+* <u>Modifiable risk factors</u> [[1]](https://coursology-qbank.com/amboss/article/0Jaesl)
+
+* <u>Obesity</u>
+
+* Excessive <u>joint</u> loading or overuse (mechanical <u>stress</u>)
+
+* <u>Nonmodifiable risk factors</u> [[1]](https://coursology-qbank.com/amboss/article/0Jaesl)
+
+* Age (> 55 years)
+
+* <u>Family history</u>
+
+* History of <u>joint</u> injury (especially <u>anterior cruciate ligament injury</u>), trauma, and/or <u>surgery</u>
+
+* Anatomic factors causing asymmetrical <u>joint</u> <u>stress</u>
+
+* Hemophilic <u>hemarthroses</u> and deposition diseases that stiffen <u>cartilage</u>
+
+* Sex (See “<u>Epidemiology</u>” above.)
+
+* <u>Neuromuscular weakness</u>
+
+* Infections
+
+* Inflammatory disorders
+
+---
+
+## Classification
+
+Osteoarthritis can be classified according to the underlying cause: [[2]](https://coursology-qbank.com/amboss/article/6gXjwx)
+
+
+
+
+* <u>Idiopathic</u> OA
+
+* No identifiable underlying cause
+
+* Can be localized or generalized
+
+* Genetic factors of causation have been implicated, but not definitively proven.
+
+* Secondary OA 
+
+* <u>Hemochromatosis</u>
+
+* <u>Wilson disease</u>
+
+* <u>Ehlers-Danlos syndrome</u>
+
+* <u>Diabetes</u>
+
+* <u>Avascular necrosis</u>
+
+* Congenital disorders of <u>joints</u>
+
+* <u>Alkaptonuria</u>
+
+* <u>Joint</u> trauma
+
+---
+
+## Pathophysiology
+
+Chronic mechanical <u>stress</u> on the <u>joints</u> and age-related decrease in <u>proteoglycans</u> → <u>cartilage</u> loses elasticity and becomes <u>friable</u> → degeneration and inflammation of <u>cartilage</u> ;   → <u>joint</u> space narrowing and thickening and <u>sclerosis</u> of the subchondral bone  [[3]](https://coursology-qbank.com/amboss/article/8M0Oqg)[[4]](https://coursology-qbank.com/amboss/article/uM0pqg)
+
+
+
+
+![Pathophysiology of osteoarthritis](../../../../../media/i88l6mjwhr9aqycctql54vj7.jpg)
+
+Pathophysiology of osteoarthritis
+
+---
+
+## Clinical features
+
+### Common clinical findings [[5]](https://coursology-qbank.com/amboss/article/p0cLSa0)[[6]](https://coursology-qbank.com/amboss/article/J0csSa0)[[7]](https://coursology-qbank.com/amboss/article/oyX0T00)[[8]](https://coursology-qbank.com/amboss/article/q0cCSa0)
+
+
+
+
+* <u>Pain</u> during or after exertion (e.g., at the end of the day) that is relieved with rest
+
+* <u>Pain</u> in both complete <u>flexion</u> and extension
+
+* <u>Crepitus</u> on <u>joint</u> movement
+
+* <u>Joint</u> stiffness and restricted <u>range of motion</u>
+
+* Morning <u>joint</u> stiffness usually lasting < 30 minutes
+
+* Possible formation of <u>varus deformity</u> if the knee is affected
+
+* <u>Joints</u> are usually asymmetrically involved, as opposed to <u>rheumatoid arthritis</u>.
+
+* Findings in late-stage disease: constant <u>pain</u> (including at night) and a more severely restricted <u>range of motion</u> than during the early stages
+
+
+
+
+
+### <u>Joint</u>-specific findings [[5]](https://coursology-qbank.com/amboss/article/p0cLSa0)
+
+
+
+
+* Heberden nodes: <u>pain</u> and nodular thickening on the <u>dorsal</u> sides of the <u>distal interphalangeal joints</u>, <u>♀</u> > <u>♂</u>
+
+* Bouchard nodes: <u>pain</u> and nodular thickening on the <u>dorsal</u> sides of the <u>proximal interphalangeal joints</u> , <u>♀</u> > <u>♂</u>
+
+* Rhizarthrosis: osteoarthritis of the <u>first carpometacarpal joint</u>, between the <u>trapezium</u> and the first <u>metacarpal</u> bone
+
+* Hallux rigidus: osteoarthritis of the first <u>metatarsophalangeal joint</u>, between the first <u>metatarsal</u> and the first <u>proximal</u> <u>phalanx</u>; characterized by <u>hypertrophy</u> of the <u>sesamoid bones</u>
+
+* See also “Clinical features” in “<u>Osteoarthritis of the hip and knee</u>.”
+
+
+
+
+
+![Heberden and Bouchard nodes](../../../../../media/ebu9z9apzn44cujck70xgkd0.jpg)
+
+Heberden and Bouchard nodes
+
+![Heberden node](../../../../../media/i9dkaho3c6zpk83bicjta51j.jpg)
+
+Heberden node
+
+![Heberden nodes](../../../../../media/yqjlk6u3y94w7vapmilrggcg.jpg)
+
+Heberden nodes
+
+![Heberden node](../../../../../media/qmco8jfsgb35l53r3dxr5gth.jpg)
+
+Heberden node
+
+![Carpometacarpal osteoarthritis](../../../../../media/dlwgsgfvr093omgpji9brdl1.jpg)
+
+Carpometacarpal osteoarthritis
+
+![Trapeziometacarpal osteoarthritis](../../../../../media/u1f4bm0cpptftf1ez8iaki6r.jpg)
+
+Trapeziometacarpal osteoarthritis
+
+![Advanced degenerative arthritis of the great toe metatarsophalangeal joint](../../../../../media/agd74928wh91h6qd6rduu32w.jpg)
+
+Advanced degenerative arthritis of the great toe metatarsophalangeal joint
+
+![Advanced degenerative arthritis of the great toe metatarsophalangeal joint (2/2)](../../../../../media/f7ibyx5ajyp2rom4t8l8gqi5.jpg)
+
+Advanced degenerative arthritis of the great toe metatarsophalangeal joint (2/2)
+
+![Distribution pattern of osteoarthritis of the hand](../../../../../media/nbr7va487bck8qqvcifdibeg.jpg)
+
+Distribution pattern of osteoarthritis of the hand
+
+![Medial compartment osteoarthritis of the knee](../../../../../media/jwswhy6z42rzobcoku4x0cd1.jpg)
+
+Medial compartment osteoarthritis of the knee
+
+![Osteoarthritis of the knee](../../../../../media/d40senwq5pgnv3e7fnjfflq4.jpg)
+
+Osteoarthritis of the knee
+
+
+
+
+> [!NOTE]
+> In contrast to <u>rheumatoid arthritis</u>, osteoarthritis can affect the <u>distal interphalangeal joints</u>.
+
+---
+
+## Diagnosis
+
+### Approach
+
+
+
+
+* Osteoarthritis is a <u>clinical diagnosis</u> 
+
+* Consider the diagnosis in patients ≥ 45 years of age with typical clinical features.  [[7]](https://coursology-qbank.com/amboss/article/oyX0T00)
+
+* There are no specific diagnostic criteria.  [[9]](https://coursology-qbank.com/amboss/article/LwbwjD)
+
+* If there is clinical doubt, consider imaging and additional testing to:
+
+* Support the <u>clinical diagnosis</u> with radiological evidence of <u>joint</u> degeneration [[1]](https://coursology-qbank.com/amboss/article/0Jaesl)
+
+* Rule out differential diagnoses [[7]](https://coursology-qbank.com/amboss/article/oyX0T00)[[10]](https://coursology-qbank.com/amboss/article/LyXwf00)
+
+* Invasive procedures are not routinely recommended, but may be helpful in select circumstances, for example:
+
+* Uncertain diagnosis
+
+* Assessing <u>cartilage</u> damage
+
+* Ruling out <u>septic arthritis</u>
+
+* Procedures with dual diagnostic and therapeutic purposes.
+
+
+
+
+
+> [!NOTE]
+> Osteoarthritis is often diagnosed based on the patient's history and the presence of typical clinical features. Radiographic signs often do not correlate with the patient's reported symptoms or clinical findings; therefore, imaging is usually used to support the diagnosis.
+
+
+
+
+### Imaging [[7]](https://coursology-qbank.com/amboss/article/oyX0T00)[[10]](https://coursology-qbank.com/amboss/article/LyXwf00)
+
+
+
+
+The presence of at least one of the <u>radiological signs of osteoarthritis</u>, in addition to typical clinical features, supports the <u>diagnosis of osteoarthritis</u>.
+
+
+
+
+#### First-line modality: <u>plain radiography</u> of affected <u>joints</u>
+
+
+
+
+* Indications
+
+* Suspected <u>fracture</u>
+
+* To rule out inflammatory <u>arthritis</u>
+
+* Uncertain diagnosis
+
+* Consideration: Multiple views are typically more accurate than a single view.
+
+
+
+
+
+#### Other imaging modalities
+
+
+
+
+Other modalities may be indicated if the diagnosis remains uncertain after <u>radiography</u>.
+
+
+
+
+* <u>MRI</u> 
+
+* Indications
+
+* Suspicion of a <u>cartilage</u> or <u>meniscal tear</u> to determine if knee <u>surgery</u> is required
+
+* To rule out or confirm differential diagnoses (e.g., <u>avascular necrosis</u>, <u>femoroacetabular impingement</u>)
+
+* Disadvantages: expensive, not as widely available as other imaging modalities, and the contrast can cause hypersensitivity or <u>kidney injury</u>
+
+* <u>Ultrasonography</u>
+
+* Indications
+
+* <u>Joint</u> swelling: to differentiate from inflammatory <u>arthritis</u>
+
+* <u>Joint</u> interventions (e.g., <u>aspiration</u>, injection): to guide the needle
+
+* Disadvantages: A skilled technician is required, and subchondral bone lesions cannot be visualized.
+
+* <u>Computed tomography</u> : may offer improved visualization of <u>osteophytes</u> and <u>subchondral cysts</u>, particularly in the <u>hip joint</u>, compared with <u>radiography</u> and <u>MRI</u>
+
+
+
+
+
+#### Radiological signs of osteoarthritis  [[1]](https://coursology-qbank.com/amboss/article/0Jaesl)
+
+
+
+
+* Irregular <u>joint</u> space narrowing
+
+* Subchondral sclerosis: a dense area of bone (visible on <u>x-ray</u>) just below the <u>cartilage</u> zone of a <u>joint</u> that forms as a result of a compressive load on the <u>joint</u>
+
+* Osteophytes (<u>bone spurs</u>): spurs or densifications that develop on the edges of the <u>joint</u>, increasing its surface area
+
+* Subchondral cyst: a fluid-filled cyst that develops on the surface of a <u>joint</u> due to local bone <u>necrosis</u> induced by the <u>joint</u> <u>stress</u> caused by osteoarthritis
+
+
+
+
+
+![Illustration of right hip radiograph in osteoarthritis](../../../../../media/x5oh8ymfd3kzww41d9tbmqam.jpg)
+
+Illustration of right hip radiograph in osteoarthritis
+
+![Carpometacarpal osteoarthritis](../../../../../media/dlwgsgfvr093omgpji9brdl1.jpg)
+
+Carpometacarpal osteoarthritis
+
+![Advanced degenerative arthritis of the great toe metatarsophalangeal joint](../../../../../media/agd74928wh91h6qd6rduu32w.jpg)
+
+Advanced degenerative arthritis of the great toe metatarsophalangeal joint
+
+![Osteoarthritis of the knee](../../../../../media/d40senwq5pgnv3e7fnjfflq4.jpg)
+
+Osteoarthritis of the knee
+
+![Lateral compartment osteoarthritis of the knee](../../../../../media/ok7pkjdd1521a705rqddkpuw.jpg)
+
+Lateral compartment osteoarthritis of the knee
+
+
+
+
+### Further investigations
+
+
+
+
+* Laboratory testing: <u>Inflammatory markers</u> (e.g., <u>erythrocyte sedimentation rate</u>, <u>C-reactive protein</u>) are usually normal in osteoarthritis.
+
+* <u>Arthrocentesis</u>: <u>Synovial fluid analysis</u> usually does not show the presence of inflammation (<u>white blood cell count</u> < 2000/mmÂ³). [[11]](https://coursology-qbank.com/amboss/article/F_XgJ00)
+
+* <u>Arthroscopy</u>: may show a thickened capsule, synovial <u>hypertrophy</u>, and/or ulcerated <u>cartilage</u>
+
+---
+
+## Treatment
+
+Treatment recommendations are consistent with the 2019 American College of Rheumatology (<u>ACR</u>) management guidelines for osteoarthritis of the hand, hip, and knee. [[12]](https://coursology-qbank.com/amboss/article/_yX5300)
+
+
+
+
+### Approach [[12]](https://coursology-qbank.com/amboss/article/_yX5300)[[13]](https://coursology-qbank.com/amboss/article/zyXr300)
+
+
+
+
+* Follow a stepwise approach to treatment: Start with nonpharmacological management, followed by pharmacological and/or surgical treatment if needed.
+
+* Nonpharmacological management: e.g., exercise and weight loss
+
+* Pharmacotherapy
+
+* First line: e.g., topical or oral <u>NSAIDs</u>
+
+* Second line: e.g., <u>acetaminophen</u> or intraarticular <u>glucocorticoid</u> injections
+
+* Surgical management: e.g., complete or partial <u>joint</u> replacement (<u>arthroplasty</u>) using an <u>endoprosthesis</u>
+
+* Individualize treatment based on patient preferences, comorbidities, treatment goals, and available resources.
+
+* Consider referral to <u>physical therapy</u> or <u>occupational therapy</u>.
+
+
+
+
+
+### Nonpharmacological management
+
+
+
+
+* Educate patients about the disease and self-management techniques.
+
+* Exercise: indicated in all patients, especially those with <u>osteoarthritis of the hip and knee</u>
+
+* Formulate a specific exercise plan, taking into account patient preference and availability.
+
+* There is no clear evidence that one form of exercise is superior to another.
+
+* Tai chi offers benefits that are comparable to <u>physical therapy</u> in patients with <u>osteoarthritis of the knee</u>.  [[14]](https://coursology-qbank.com/amboss/article/aAXQR00)
+
+* Weight loss: indicated in <u>overweight</u> and <u>obese</u> patients  [[15]](https://coursology-qbank.com/amboss/article/YAXnR00)
+
+* Supportive devices (e.g., a cane or <u>knee brace</u>): Consider for patients with <u>osteoarthritis of the hip and knee</u> who are experiencing <u>joint</u> instability and <u>pain</u> when weight is placed on the <u>joint</u>.
+
+* Other symptomatic therapy: e.g., <u>acupuncture</u>, kinesiology taping, or heat/cold therapy
+
+
+
+
+
+### Pharmacotherapy [[12]](https://coursology-qbank.com/amboss/article/_yX5300)[[13]](https://coursology-qbank.com/amboss/article/zyXr300)
+
+
+
+
+Pharmacotherapy for osteoarthritis should be consistent with the <u>WHO pain ladder</u>. See “<u>Treatment of pain</u>” for dosages and important considerations.
+
+
+
+
+* <u>NSAIDs</u> (e.g., <u>ibuprofen</u>): first-line treatment option
+
+* <u>Topical analgesics</u>: preferred initial therapy for patients with <u>osteoarthritis of the knee</u> because of the lack of systemic absorption
+
+* <u>Oral analgesics</u>: recommended for <u>hip osteoarthritis</u> or if there is inadequate relief with topical <u>NSAIDs</u>
+
+* <u>Acetaminophen</u>: an option for patients who are unable to tolerate oral <u>NSAIDs</u>; less effective than <u>NSAIDs</u>
+
+* <u>Opioids</u> (e.g., <u>tramadol</u>): short-term use for patients who cannot tolerate or have had insufficient relief with <u>NSAIDs</u>
+
+* <u>Tramadol</u> is the preferred <u>opioid</u> for patients with <u>osteoarthritis of the knee</u>, hip, and/or hand
+
+* If all other oral medication options are ineffective, consider nontramadol <u>opioids</u>.  [[12]](https://coursology-qbank.com/amboss/article/_yX5300)
+
+* Use <u>opioids</u> sparingly because of the risk of dependence and severe adverse effects.
+
+* <u>Intraarticular glucocorticoid injection</u>: local, short-term relief in patients with <u>osteoarthritis of the hip and knee</u>
+
+* Other treatments: conditionally recommended for specific <u>joints</u>  [[12]](https://coursology-qbank.com/amboss/article/_yX5300)
+
+* <u>Osteoarthritis of the knee</u>: topical <u>capsaicin</u>
+
+* <u>Osteoarthritis of the knee</u>, hip, and/or hand: <u>duloxetine</u> DOSAGE
+
+
+
+
+
+> [!TIP]
+> Pharmacotherapy should only be used as a short-term treatment in symptomatic patients; long-term therapy is associated with many adverse effects.
+
+
+
+
+### Surgical management [[16]](https://coursology-qbank.com/amboss/article/-yXD300)[[17]](https://coursology-qbank.com/amboss/article/ZAXZR00)
+
+
+
+
+#### Modalities
+
+
+
+
+<u>Surgery</u> is typically indicated if <u>conservative measures</u> fail.
+
+
+
+
+* <u>Arthroscopy</u>
+
+* Indications: patients with <u>meniscus</u> or <u>cartilage</u> damage, or <u>femoroacetabular impingement</u>
+
+* Procedures: <u>debridement</u> and lavage
+
+* <u>Osteotomy</u>: realigns <u>joints</u> to relieve <u>pain</u> and potentially delay disease progression 
+
+* Indication: young patients (typically ≤ 60 years of age) with single compartment <u>arthritis</u>
+
+* Procedures: tibial <u>osteotomy</u> for varus alignment; <u>femoral osteotomy</u> for <u>valgus deformity</u>
+
+* Arthrodesis
+
+* Indication: patients with advanced, therapy-resistant osteoarthritis of the wrist and/or ankle
+
+* Procedure: surgical fusion of the two bones that form the <u>joint</u> in a functional position; can be performed arthroscopically
+
+* <u>Arthroplasty</u>
+
+* Indication: patients who have experienced inadequate relief using <u>conservative measures</u>
+
+* Procedure: complete or partial replacement of a <u>joint</u> using an <u>endoprosthesis</u>
+
+* Risks: infection, blood clot (e.g., <u>deep vein thrombosis</u>, <u>pulmonary embolism</u>), <u>dislocation</u>, implant failure  [[16]](https://coursology-qbank.com/amboss/article/-yXD300)
+
+* See also “Treatment” in “<u>Osteoarthritis of the hip and knee</u>” and “<u>Complications after osteosynthesis/arthroplasty</u>.”
+
+
+
+
+
+#### Perioperative considerations
+
+
+
+
+* Follow <u>measures to prevent surgical site infection</u>. [[18]](https://coursology-qbank.com/amboss/article/qM1Cph0)
+
+* <u>Perioperative antibiotic prophylaxis</u>: <u>Cefazolin</u>  is recommended for patients undergoing <u>total joint replacement</u>.  [[19]](https://coursology-qbank.com/amboss/article/v9YA6r)
+
+* Postoperative considerations [[20]](https://coursology-qbank.com/amboss/article/wQ1hyg0)[[21]](https://coursology-qbank.com/amboss/article/BQ1zyg0)
+
+* Initiate <u>VTE prophylaxis</u> after total hip or <u>knee joint replacement</u>. [[22]](https://coursology-qbank.com/amboss/article/bebHxs)
+
+* Refer patients for <u>physical therapy</u>.  [[20]](https://coursology-qbank.com/amboss/article/wQ1hyg0)[[21]](https://coursology-qbank.com/amboss/article/BQ1zyg0)
+
+* <u>Antibiotics</u> are not routinely recommended prior to dental work in patients with a history of <u>joint</u> replacement. [[23]](https://coursology-qbank.com/amboss/article/In1Yuh0)
+
+* Individuals with comorbidities  may be less likely to experience symptomatic improvement postoperatively.
+
+
+
+
+
+> [!TIP]
+> After <u>total joint replacement</u>, patients should receive <u>aspirin</u> or an <u>anticoagulant</u> (e.g., a <u>direct oral anticoagulant</u> or <u>low molecular weight heparin</u>) for <u>VTE prophylaxis</u>. [[22]](https://coursology-qbank.com/amboss/article/bebHxs)
+
+---

@@ -1,0 +1,504 @@
+# Hiatal hernia
+
+*Categories: Clinical knowledge > Internal medicine > Gastroenterology > Hernias > Hiatal hernia*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/Dg01x2)
+
+---
+
+## Summary
+
+A hiatal (or hiatus) <u>hernia</u> is the abnormal protrusion of an abdominal structure into the <u>thoracic cavity</u> through a lax <u>esophageal hiatus</u>. Sliding hiatal <u>hernias</u> (type I), in which the <u>gastroesophageal junction</u> (<u>GEJ</u>) and the <u>gastric cardia</u> migrate into the thorax, account for 95% of hiatal <u>hernias</u>. In <u>paraesophageal hernia</u> (type II), only the <u>gastric fundus</u> herniates into the thorax, and in mixed hiatal <u>hernias</u> (type III), the <u>GEJ</u> and the <u>gastric fundus</u> herniate. Complex hiatal <u>hernias</u> (type IV) are rare and characterized by <u>herniation</u> of the <u>stomach</u> and other abdominal organs. Most patients with sliding hiatal <u>hernias</u> are asymptomatic and do not require medical or surgical intervention. Patients experiencing <u>symptoms of gastroesophageal reflux disease</u> (<u>GERD</u>) due to a <u>sliding hiatal hernia</u> can be treated with <u>proton pump inhibitors</u> or <u>antireflux surgery</u> and/or managed with lifestyle changes. Patients with <u>paraesophageal hernia</u> or <u>mixed hiatal hernia</u> may present with intermittent <u>dysphagia</u>, substernal discomfort, and/or abdominal <u>pain</u>, and, in rare cases, acute <u>gastric volvulus</u> and strangulation. Surgical intervention is necessary for symptomatic patients with paraesophageal, mixed, or complex hiatal <u>hernias</u> to prevent life-threatening complications.
+
+
+
+
+For other <u>diaphragmatic hernias</u>, see “<u>Congenital diaphragmatic hernias</u>” and “<u>Acquired diaphragmatic hernias</u>.”
+
+---
+
+## Definitions
+
+Protrusion of any abdominal structure/organ into the thorax through a lax diaphragmatic <u>esophageal hiatus</u>. In 95% of cases, a portion of the <u>stomach</u> is herniated.
+
+---
+
+## Etiology
+
+The etiology is multifactorial.
+
+
+
+
+* Lax diaphragmatic <u>esophageal hiatus</u>
+
+* Advanced age
+
+* Smoking
+
+* <u>Obesity</u>
+
+* Genetic predisposition (rare) [[1]](https://coursology-qbank.com/amboss/article/nCW7sn0)
+
+* Prolonged periods of increased <u>intra-abdominal pressure</u>
+
+* <u>Pregnancy</u>
+
+* <u>Ascites</u>
+
+* <u>Chronic cough</u>
+
+* Chronic <u>constipation</u>
+
+---
+
+## Classification
+
+### Type I: sliding hiatal hernia [[1]](https://coursology-qbank.com/amboss/article/nCW7sn0)
+
+
+
+
+* Most common type (95% of cases) [[1]](https://coursology-qbank.com/amboss/article/nCW7sn0)
+
+* The <u>GEJ</u> and the <u>gastric cardia</u> slide up into the <u>posterior mediastinum</u>.
+
+* The <u>gastric fundus</u> remains below the <u>diaphragm</u> (hourglass <u>stomach</u>)
+
+
+
+
+
+### Type II: paraesophageal hiatal hernia [[1]](https://coursology-qbank.com/amboss/article/nCW7sn0)
+
+
+
+
+* Part of the <u>gastric fundus</u> herniates into the thorax.
+
+* The <u>GEJ</u> remains in its <u>anatomical position</u> below the <u>diaphragm</u>.
+
+
+
+
+
+### Type III: mixed hiatal hernia [[1]](https://coursology-qbank.com/amboss/article/nCW7sn0)
+
+
+
+
+* Mix of types I and II
+
+* The <u>GEJ</u> and a portion of the <u>gastric fundus</u> prolapse through the hiatus.
+
+
+
+
+
+### Type IV: complex hiatal hernia [[1]](https://coursology-qbank.com/amboss/article/nCW7sn0)
+
+
+
+
+* <u>Herniation</u> of any abdominal structure in addition to the <u>stomach</u> (e.g., <u>spleen</u>, <u>colon</u>)
+
+* Rarest type
+
+
+
+
+
+![Types of hiatal hernias](../../../../../media/pwnz5vvqj3fiqhv8ddcb1kfg.jpg)
+
+Types of hiatal hernias
+
+---
+
+## Pathophysiology
+
+### Anatomy
+
+
+
+
+* <u>Esophageal hiatus</u>
+
+* Central opening of the <u>diaphragm</u>, which allows the <u>esophagus</u> to pass through into the <u>peritoneal cavity</u>; forms the lower part of the esophageal sphincter and the reflux barrier
+
+* Formed by:
+
+* Left and right paravertebral tendinous crura
+
+* <u>Median arcuate ligament</u>
+
+* <u>Gastroesophageal junction</u> (<u>GEJ</u>)
+
+* Normally lies at the level of the <u>esophageal hiatus</u>
+
+* Phrenoesophageal ligament (<u>PEL</u>) attaches to the <u>esophagus</u> at the <u>GEJ</u>
+
+* <u>Peritoneal fold</u> that encircles the <u>distal</u> portion of the <u>esophagus</u> and <u>gastroesophageal junction</u> and connects them to the <u>peritoneal</u> surface of the <u>diaphragm</u>
+
+* Closes the <u>esophageal hiatus</u> and helps maintain the intra-abdominal position of the <u>GEJ</u>
+
+
+
+
+
+### Changes in the presence of a hiatal <u>hernia</u>
+
+
+
+
+* Predisposing factors lead to laxity of the <u>esophageal hiatus</u>, e.g.:
+
+* Advanced age → <u>phrenoesophageal ligament</u> weakens
+
+* Smoking → loss of <u>elastin</u> fibers in the diaphragmatic crura
+
+* <u>Obesity</u> → deposition of fat in and around the crura → widened hiatus
+
+* Relative negative intrathoracic pressure ;   and the lax hiatus → <u>herniation</u> of the abdominal contents into the thorax → loss of reflux barrier + compromised fluid emptying of <u>distal</u> <u>esophagus</u> → <u>gastroesophageal reflux disease</u> (<u>GERD</u>)
+
+
+
+
+
+![Anatomy of the stomach](../../../../../media/m4ckgym572ezymralm1j8hbz.jpg)
+
+Anatomy of the stomach
+
+![Dilation of the esophageal hiatus](../../../../../media/qv1m2y55zl102rmht1vc56yc.jpg)
+
+Dilation of the esophageal hiatus
+
+---
+
+## Clinical features
+
+* <u>Type I hiatal hernia</u> [[2]](https://coursology-qbank.com/amboss/article/xCWE8n0)
+
+* Most patients are asymptomatic.
+
+* <u>Symptoms of GERD</u> may be present.
+
+* <u>Type II hiatal hernia</u> and <u>type IV hiatal hernia</u> [[2]](https://coursology-qbank.com/amboss/article/xCWE8n0)
+
+* Epigastric and/or substernal <u>pain</u>
+
+* Early satiety, <u>nausea</u>, <u>vomiting</u>
+
+* <u>Postprandial</u> <u>dyspnea</u>
+
+* Retching
+
+* <u>Symptoms of GERD</u> may be present.
+
+* <u>Type III hiatal hernia</u>: combination of symptoms of other types
+
+---
+
+## Diagnosis
+
+Hiatal <u>hernias</u> are often discovered incidentally on chest or abdomen imaging, especially when asymptomatic.
+
+
+
+
+### Approach [[1]](https://coursology-qbank.com/amboss/article/nCW7sn0)[[3]](https://coursology-qbank.com/amboss/article/WxWPvn0)
+
+
+
+
+* Only obtain confirmatory studies (e.g., <u>barium swallow</u>, <u>upper endoscopy</u>) if results are expected to alter treatment.
+
+* Obtain urgent imaging (CT chest and abdomen) if acute complications (e.g., <u>gastric outlet obstruction</u>) are suspected. [[4]](https://coursology-qbank.com/amboss/article/9zWNEL0)
+
+* For patients with <u>symptoms of GERD</u>, obtain <u>GERD diagnostics</u>.
+
+* Consider additional studies as required for <u>preoperative assessment</u>, e.g., determining the extent of <u>herniation</u>.
+
+
+
+
+
+### Confirmatory studies [[1]](https://coursology-qbank.com/amboss/article/nCW7sn0)[[3]](https://coursology-qbank.com/amboss/article/WxWPvn0)[[5]](https://coursology-qbank.com/amboss/article/cxWavn0)
+
+
+
+
+* <u>Barium swallow</u> 
+
+* Most sensitive study for hiatal <u>hernia</u> [[6]](https://coursology-qbank.com/amboss/article/1xW2vn0)
+
+* Used to evaluate hiatal <u>hernia</u> size and type
+
+* Endoscopy 
+
+* Used to evaluate hiatal <u>hernia</u> size and type and to assess for complications (e.g., <u>Barrett esophagus</u>) by evaluating <u>mucosal</u> condition
+
+* The location of the <u>GEJ</u> is determined using the <u>Z-line</u> (<u>squamocolumnar junction</u>).
+
+* <u>Sliding hiatal hernia</u>: <u>Z-line</u> lies > 2 cm above the diaphragmatic hiatus [[3]](https://coursology-qbank.com/amboss/article/WxWPvn0)
+
+* <u>Paraesophageal hernia</u>: <u>Z-line</u> remains undisplaced and the <u>gastric fundus</u> herniates through the hiatus
+
+
+
+
+
+![Hiatal hernia](../../../../../media/hpd48wxz402d3nsnt9lhj4ro.jpg)
+
+Hiatal hernia
+
+![Sliding hiatal hernia](../../../../../media/x9bf179j3yb8od92jrb1nq7x.jpg)
+
+Sliding hiatal hernia
+
+
+
+
+### Imaging [[1]](https://coursology-qbank.com/amboss/article/nCW7sn0)[[5]](https://coursology-qbank.com/amboss/article/cxWavn0)
+
+
+
+
+* <u>Chest x-ray</u>
+
+* Not usually indicated for evaluation of hiatal <u>hernias</u>  [[3]](https://coursology-qbank.com/amboss/article/WxWPvn0)
+
+* Typical incidental findings
+
+* Types I, II, III: retrocardiac <u>soft tissue</u> opacity with or without <u>air-fluid levels</u>
+
+* Type IV: retrocardiac <u>visceral</u> gas (<u>small bowel</u> and/or <u>colon</u>) or <u>soft tissue</u> shadows (<u>spleen</u> or <u>omentum</u>)
+
+* CT thorax: Used for urgent <u>preoperative evaluation</u> of paraesophageal <u>hernias</u>
+
+* Can help determine the type, size, and contents of the <u>hernia</u>
+
+* Can help detect acute complications (e.g., <u>gastric perforation</u>, <u>gastric volvulus</u>)
+
+
+
+
+
+![Hiatal hernia](../../../../../media/nsfipli1ym7j22i8q2241spk.jpg)
+
+Hiatal hernia
+
+![Paraesophageal hiatal hernia](../../../../../media/mj1nq3ladow7coyre2p9ws53.jpg)
+
+Paraesophageal hiatal hernia
+
+
+
+
+### Additional diagnostics [[1]](https://coursology-qbank.com/amboss/article/nCW7sn0)[[5]](https://coursology-qbank.com/amboss/article/cxWavn0)
+
+
+
+
+* <u>Esophageal manometry</u>
+
+* Helps calculate the size of a <u>sliding hiatal hernia</u> by identifying the level of the diaphragmatic hiatus
+
+* Can assess for <u>esophageal motility disorders</u> (e.g., <u>achalasia</u>) preoperatively
+
+* <u>Esophageal pH monitoring</u>
+
+* Not diagnostic for hiatal <u>hernias</u>
+
+* Can determine the extent of <u>gastroesophageal reflux</u>
+
+
+
+
+
+> [!TIP]
+> Obtain <u>diagnostics for GERD</u> in patients with sliding hiatal <u>hernias</u> before considering surgical treatment. [[1]](https://coursology-qbank.com/amboss/article/nCW7sn0)
+
+---
+
+## Treatment
+
+### <u>Type I hiatal hernia</u> [[1]](https://coursology-qbank.com/amboss/article/nCW7sn0)[[7]](https://coursology-qbank.com/amboss/article/QY1uK20)
+
+
+
+
+#### Approach
+
+
+
+
+* Asymptomatic patients: no treatment necessary
+
+* Symptomatic patients
+
+* Begin <u>conservative management</u>.
+
+* Consider <u>antireflux surgery</u> in all patients with <u>symptoms of GERD</u>, especially for:
+
+* Failure or intolerance of <u>conservative management</u>
+
+* Large hiatal <u>hernia</u>
+
+* <u>Complications of GERD</u> (e.g., bleeding, strictures, <u>ulcerations</u>)
+
+
+
+
+
+#### <u>Conservative management</u>
+
+
+
+
+* Lifestyle modifications, e.g., avoidance of triggers such as <u>nicotine</u>
+
+* <u>Proton pump inhibitors</u>
+
+* See “<u>Management of GERD</u>” for details.
+
+* See “<u>Antacids and acid suppression medications</u>” for <u>PPI</u> dosages.
+
+
+
+
+
+#### Surgical techniques [[2]](https://coursology-qbank.com/amboss/article/xCWE8n0)[[3]](https://coursology-qbank.com/amboss/article/WxWPvn0)
+
+
+
+
+* <u>Fundoplication</u>, typically <u>laparoscopic</u>
+
+* Hiatoplasty: reinforcement of the <u>esophageal hiatus</u> using sutures and/or mesh
+
+
+
+
+
+> [!WARNING]
+> Surgical repair of asymptomatic type I hiatal <u>hernias</u> is not recommended. [[1]](https://coursology-qbank.com/amboss/article/nCW7sn0)
+
+
+
+
+![Nissen fundoplication](../../../../../media/xyeeq3d8gs77k5uzprv7ym24.jpg)
+
+Nissen fundoplication
+
+
+
+
+### All other types [[1]](https://coursology-qbank.com/amboss/article/nCW7sn0)[[2]](https://coursology-qbank.com/amboss/article/xCWE8n0)[[3]](https://coursology-qbank.com/amboss/article/WxWPvn0)
+
+
+
+
+The following applies to <u>type II hiatal hernia</u>, <u>type III hiatal hernia</u>, and <u>type IV hiatal hernia</u>.
+
+
+
+
+* Asymptomatic patients
+
+* Usually <u>managed conservatively</u> with <u>watchful waiting</u> until symptoms develop  [[3]](https://coursology-qbank.com/amboss/article/WxWPvn0)
+
+* Select patients may benefit from <u>surgery</u>.
+
+* Symptomatic patients: <u>surgery</u> indicated [[8]](https://coursology-qbank.com/amboss/article/xd1EHf0)
+
+* There is no standardized technique for <u>paraesophageal hernia</u> repair.
+
+* Techniques include: [[7]](https://coursology-qbank.com/amboss/article/QY1uK20)
+
+* <u>Hernia</u> reduction and <u>hernia</u> sac excision
+
+* Closure of the <u>hernia</u> with <u>hiatoplasty</u>
+
+* Gastropexy/<u>fundopexy</u>: fixation of the <u>gastric fundus</u> to the <u>diaphragm</u>
+
+* <u>Fundoplication</u>
+
+---
+
+## Complications
+
+### <u>Type I hiatal hernia</u>
+
+
+
+
+* Arise from long-standing <u>gastroesophageal reflux</u>
+
+* See "<u>Complication of GERD</u>.”
+
+
+
+
+
+### All other types
+
+
+
+
+Strangulation and incarceration of herniated <u>stomach</u> and/or other intraabdominal organs can result in <u>ischemic</u> complications requiring emergent surgical intervention.
+
+
+
+
+* <u>Upper gastrointestinal bleeding</u> (occult/massive) → <u>iron deficiency anemia</u>  [[9]](https://coursology-qbank.com/amboss/article/QN0uag)
+
+* <u>Gastric ulcers</u>
+
+* <u>Gastric perforation</u>
+
+* <u>Gastric volvulus</u> [[1]](https://coursology-qbank.com/amboss/article/nCW7sn0)
+
+* A rare condition characterized by abnormal rotation of the <u>stomach</u>
+
+* Can occur in the abdomen or chest (upside-down stomach)
+
+* Classified according to the rotational axis: organoaxial (around the long axis of the <u>stomach</u>) and mesenteroaxial (between the lesser and <u>greater curvature</u>)
+
+* Total <u>gastric outlet obstruction</u>
+
+
+
+
+
+> [!WARNING]
+> The complications of <u>type II hiatal hernia</u>, <u>type III hiatal hernia</u>, and <u>type IV hiatal hernia</u> are often surgical emergencies.
+
+
+
+
+![Upside-down stomach (1/2)](../../../../../media/r7d8j6k3j7do0xddvucswxig.jpg)
+
+Upside-down stomach (1/2)
+
+![Upside-down stomach (2/2)](../../../../../media/xjqrq79tmufia9u65n7p70o0.jpg)
+
+Upside-down stomach (2/2)
+
+![Mediastinal mass](../../../../../media/nexmmxktddzrcyawroglbfs4.jpg)
+
+Mediastinal mass
+
+![Upside-down stomach](../../../../../media/narmtp8if2ckkozxcl3y03oz.jpg)
+
+Upside-down stomach
+
+![Upside-down stomach](../../../../../media/pa0vbx175tzu7i8jf5d19mg7.jpg)
+
+Upside-down stomach
+
+
+
+
+We list the most important complications. The selection is not exhaustive.
+
+---

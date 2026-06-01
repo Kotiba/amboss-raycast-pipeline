@@ -1,0 +1,559 @@
+# Alzheimer disease
+
+*Categories: Clinical knowledge > Neurology > Neurocognitive disorders > Alzheimer disease*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/D301kf)
+
+---
+
+## Summary
+
+Alzheimer disease (AD) is a progressive <u>neurodegenerative disorder</u> and the leading cause of <u>dementia</u>. The clinical spectrum of AD ranges from preclinical to severe. <u>Risk factors</u> include age > 65 years and genetic factors. The main histopathological features are extraneuronal <u>β-amyloid</u> (<u>Aβ</u>) <u>plaques</u> and intraneuronal <u>tau protein</u> <u>neurofibrillary tangles</u>. The most common initial presentation is <u>short-term memory</u> loss, which insidiously progresses to <u>dementia</u> with deficits in other cognitive domains. Patients commonly have neuropsychiatric symptoms (e.g., <u>depression</u>, <u>anxiety</u>, and <u>apathy</u>) alongside cognitive deficits. The diagnosis is based on clinical criteria. Specialized imaging (<u>PET-CT</u>) and <u>cerebrospinal fluid</u> (<u>CSF</u>) analysis can be used to help clarify diagnostic uncertainty. There is no curative therapy; patients should receive supportive management. Pharmacotherapy (e.g., <u>cholinesterase inhibitors</u> and/or <u>memantine</u>) are modestly effective at slowing symptom progression. Average survival following diagnosis usually ranges from 3 to 10 years.
+
+---
+
+## Epidemiology
+
+* AD is the leading cause of <u>dementia</u> and the sixth most common <u>cause of death</u> in the US. [[1]](https://coursology-qbank.com/amboss/article/ZnXZ7A)
+
+* <u>Incidence</u> and <u>prevalence</u> increase with age.
+
+* <u>Incidence</u>
+
+* ∼ 400:100,000 in individuals between 65 and 74 years of age
+
+* ∼ 3200:100,000 in individuals 75–84 years of age
+
+* ∼ 7600:100,000 in individuals ≥ 85 years of age
+
+* <u>Prevalence</u>: A total number of ∼ 5.8 million individuals in the US have AD.
+
+* 65–74 years of age: 1 million individuals (17%)
+
+* 75–84 years of age: 2.7 million individuals (47%)
+
+* ≥ 85 years of age: 2.1 million individuals (36%)
+
+* Sex: <u>♀</u> > <u>♂</u>
+
+* Early-onset (before the age of 65) familial AD represents ∼ 10% of all AD cases
+
+
+
+
+Epidemiological data refers to the US, unless otherwise specified.
+
+---
+
+## Etiology
+
+### Genetic factors [[1]](https://coursology-qbank.com/amboss/article/ZnXZ7A)[[2]](https://coursology-qbank.com/amboss/article/U30b3f)
+
+
+
+
+| Overview of genetic factors in Alzheimer disease |  |  |
+| --- | --- | --- |
+| <u>Genes</u> | <u>Proteins</u> | Characteristics |
+| <br>Amyloid precursor protein (<u>APP</u>) <u>gene</u><br> | <br>* <u>APP</u><br><br> | <br><br>* Linked to 10–15% of early-onset familial AD cases<br><br>* Since the <u>APP</u> <u>gene</u> is located on <u>chromosome</u> 21, individuals with <u>trisomy 21</u> have an increased risk of early-onset AD due to <u>APP</u>. overexpression<br><br>* Age at disease onset usually resembles parental age at disease onset (median ∼ 49 years).<br><br><br> |
+| <br>Presenilin-1<br> | <br>* PSEN1<br><br> | <br><br>* Earlier onset compared to AD due to mutations of other <u>genes</u> (median is ∼ 43 years)<br><br>* Linked to ∼ 50% of familial AD cases<br><br><br> |
+| <br>Presenilin-2 [[3]](https://coursology-qbank.com/amboss/article/-MXDrA)<br> | <br>* PSEN2<br><br> | <br><br>* Mutations cause the rarest form of familial AD.<br><br>* Later onset (average ∼ 54 years)<br><br><br> |
+| <br>Apo ε<br> | <br>* <u>Apolipoprotein E</u> (<u>ApoE</u>)<br><br> | <br><br>* Risk of late-onset AD increases with the number of carried Apo ε4 <u>alleles</u>.<br><br>* Apo ε2 <u>alleles</u> may have a protective effect (reduce the risk of late-onset sporadic AD).<br><br>* Apo ε3 <u>alleles</u> neither decrease nor increase risk of developing AD.<br><br><br> |
+
+
+
+
+
+### Other <u>risk factors</u> [[1]](https://coursology-qbank.com/amboss/article/ZnXZ7A)[[2]](https://coursology-qbank.com/amboss/article/U30b3f)
+
+
+
+
+* Age (strongest predisposing factor for regular AD)
+
+* <u>Family history</u> of <u>dementia</u> (strongest predisposing factor for early-onset AD)
+
+* Low socioeconomic and/or educational status
+
+* <u>Diabetes</u>, <u>obesity</u>, <u>dyslipidemia</u>
+
+* <u>Hypertension</u>, peripheral <u>atherosclerosis</u>, and <u>cerebrovascular disease</u>
+
+* African American or Hispanic descent (compared to White individuals)
+
+* Lack of physical activity (independent <u>risk factor</u>)
+
+* <u>Traumatic brain injuries</u>
+
+* Environmental factors (e.g., <u>secondhand smoke</u>)
+
+* <u>Sleep deprivation</u>
+
+---
+
+## Pathophysiology
+
+The following pathophysiological mechanisms contribute to AD: [[2]](https://coursology-qbank.com/amboss/article/U30b3f)
+
+
+
+
+* Senile plaques (<u>neuritic plaques</u>)
+
+* Extracellular
+
+* Located in the grey matter of the <u>brain</u>
+
+* Aβ protein is the main component of the <u>plaques</u>.
+
+* Enzymatic cleavage of transmembranous <u>APP</u> by β-secretase and γ-secretase → <u>Aβ peptide</u> aggregation → formation of insoluble <u>plaques</u> → <u>neurotoxic</u> effect
+
+* Neurofibrillary tangles
+
+* Intracellular
+
+* Tangles are composed of hyperphosphorylated tau protein (an insoluble <u>microtubule</u>-associated protein).
+
+* ↑ <u>Phosphorylation</u> (hyperphosphorylation) of <u>tau</u> → formation of intracellular fibrils → <u>neurotoxic</u> effect (number of tangles correlates with the degree of cognitive impairment)  [[4]](https://coursology-qbank.com/amboss/article/ZgbZFG)
+
+* Reduced cholinergic function
+
+* <u>Acetylcholine</u> deficiency is related to the degeneration of cholinergic <u>neurons</u> and likely plays a role in the decline of cognitive abilities.
+
+* Other <u>neurotransmitter</u> systems (e.g., noradrenergic transmission) are affected less severely.
+
+
+
+
+
+![Amyloid-β plaque formation in Alzheimer disease](../../../../media/qzzhhax6dtt48hc84lilspyf.jpg)
+
+Amyloid-β plaque formation in Alzheimer disease
+
+---
+
+## Clinical features
+
+### Cognitive [[2]](https://coursology-qbank.com/amboss/article/U30b3f)
+
+
+
+
+* Common <u>symptoms of cognitive impairment</u>
+
+* Short-term <u>memory</u> impairment 
+
+* Insidious onset
+
+* Slow progression
+
+* <u>Episodic memory</u> affected first
+
+* Language impairment
+
+* Temporal and spatial <u>disorientation</u> (patients are usually not oriented to person, place, time, or events)
+
+* Impairment of <u>executive functions</u> and judgment
+
+* Less common symptoms
+
+* <u>Primary progressive aphasia</u>
+
+* <u>Apraxia</u>
+
+* <u>Alexia</u>
+
+* <u>Agnosia</u>
+
+* <u>Acalculia</u>
+
+
+
+
+
+### Noncognitive [[2]](https://coursology-qbank.com/amboss/article/U30b3f)
+
+
+
+
+* Behavioral changes
+
+* <u>Apathy</u>
+
+* <u>Agitation</u>, aggression, irritability
+
+* <u>Mood disorders</u> (e.g., <u>symptoms of depression</u>)
+
+* <u>Urinary incontinence</u>
+
+* <u>Anxiety</u> and <u>mutism</u>
+
+* <u>Hallucinations</u> and <u>paranoia</u>
+
+* <u>Hyposmia</u>
+
+* <u>Insomnia</u>
+
+* <u>Myoclonus</u>
+
+* <u>Seizures</u>
+
+
+
+
+
+> [!TIP]
+> Patients with mild to moderate AD are often able to maintain a social facade and preserve certain skills (e.g., dressing, hygiene routines).
+
+---
+
+## Diagnosis
+
+### Approach [[5]](https://coursology-qbank.com/amboss/article/uDcpTe0)[[6]](https://coursology-qbank.com/amboss/article/9DcNge0)[[7]](https://coursology-qbank.com/amboss/article/nDc7Ue0)
+
+
+
+
+* Consider AD in patients with <u>dementia</u> or <u>mild neurocognitive disorder</u>. (See “<u>Diagnosis of major neurocognitive disorder</u>.”)
+
+* Establish the diagnosis based on clinical criteria and <u>neuropsychological testing</u>.
+
+* Consider advanced testing in consultation with <u>neurology</u>, e.g.:
+
+* Biomarkers (<u>PET scan</u> or <u>CSF</u>)  [[8]](https://coursology-qbank.com/amboss/article/wDchge0)
+
+* <u>EEG</u>
+
+* Testing for <u>genetic factors in Alzheimer disease</u>
+
+* A definitive diagnosis requires neurohistopathological confirmation (not usually done).
+
+
+
+
+
+### Diagnostic criteria for Alzheimer disease [[9]](https://coursology-qbank.com/amboss/article/Y5XniA)
+
+
+
+
+| <br><u>DSM-5 diagnostic criteria for major neurocognitive disorder</u> due to Alzheimer disease  [[9]](https://coursology-qbank.com/amboss/article/Y5XniA)[[10]](https://coursology-qbank.com/amboss/article/MDcMUe0)[[11]](https://coursology-qbank.com/amboss/article/YQanu4)<br> |  |  |
+| --- | --- | --- |
+|  | Probable <u>major neurocognitive disorder</u> due to AD | Possible <u>major neurocognitive disorder</u> due to AD |
+| Criteria | <br><br>* <u>Diagnostic criteria for major neurocognitive disorder</u> are fulfilled.<br><br>* Insidious onset with gradually progressive symptoms in ≥ 2 cognitive domains<br><br><br> |  |
+| <br><br>* All of the following:<br><br>* Objective impairment in <u>learning and memory</u> and ≥ 1 other cognitive domain<br><br>* Steady cognitive decline with no plateaus<br><br>* No evidence of other causes<br><br>* OR evidence of a causative genetic mutation<br><br><br> | <br>* Absence of any features indicating probable AD<br><br> |  |
+
+
+
+
+
+### <u>MRI</u> <u>brain</u> [[7]](https://coursology-qbank.com/amboss/article/nDc7Ue0)[[8]](https://coursology-qbank.com/amboss/article/wDchge0)
+
+
+
+
+* Indication: all patients as part of the <u>initial evaluation of major neurocognitive disorder</u>
+
+* Supportive findings
+
+* Signs of generalized or focal <u>cerebral atrophy</u>  
+
+* Enlarged ventricles (<u>ventriculomegaly</u>)
+
+* Narrowing of <u>gyri</u>
+
+* Prominent cerebral sulci (<u>hydrocephalus ex vacuo</u>)
+
+* Disproportionate <u>atrophy</u> of the <u>medial</u> <u>temporal lobe</u> including the <u>hippocampi</u>, <u>amygdala</u>, cingulate cortex, and parahippocampal <u>gyrus</u>
+
+
+
+
+
+![Cerebral atrophy in Alzheimer disease 1/3](../../../../media/ib25efy1qoswgao7un9vjtwz.jpg)
+
+Cerebral atrophy in Alzheimer disease 1/3
+
+![Cerebral atrophy in Alzheimer disease 2/3](../../../../media/kgt2bsgravwruzoj4kat376s.jpg)
+
+Cerebral atrophy in Alzheimer disease 2/3
+
+![Cerebral atrophy in Alzheimer disease 3/3](../../../../media/clf9l4pm4mrrqai1w5ztk3xn.jpg)
+
+Cerebral atrophy in Alzheimer disease 3/3
+
+
+
+
+### Advanced studies [[8]](https://coursology-qbank.com/amboss/article/wDchge0)[[12]](https://coursology-qbank.com/amboss/article/kc1mcf0)
+
+
+
+
+* Consider in selected cases under specialist guidance.
+
+* May be indicated for patients with:
+
+* Progressive unexplained <u>mild cognitive impairment</u>
+
+* Possible AD
+
+* <u>Early-onset dementia</u>
+
+* <u>Rapidly progressive dementia</u>
+
+
+
+
+
+#### PET Scan
+
+
+
+
+* <u>FDG-PET</u> [[13]](https://coursology-qbank.com/amboss/article/Nc1-cf0)
+
+* Used to:
+
+* Differentiate between <u>types of dementia</u>, as well as between AD subtypes
+
+* Assess severity and prognosis
+
+* Supportive finding: ↓ <u>glucose</u> metabolism in temporal and parietal cortices
+
+* <u>Amyloid-β</u> (<u>Aβ</u>)-PET [[13]](https://coursology-qbank.com/amboss/article/Nc1-cf0)
+
+* A negative result reduces the <u>probability</u> of AD.
+
+* Supportive finding: ↑ <u>amyloid</u> uptake signal
+
+* <u>Tau</u>-PET [[14]](https://coursology-qbank.com/amboss/article/Oc1Icf0)
+* To assess prognosis based on ↑ <u>tau</u> uptake signal in temporal and parietal cortices
+
+
+
+
+
+#### Additional studies
+
+
+
+
+* <u>CSF analysis</u>
+
+* May be used to differentiate between <u>types of dementia</u> [[5]](https://coursology-qbank.com/amboss/article/uDcpTe0)[[6]](https://coursology-qbank.com/amboss/article/9DcNge0)
+
+* Supportive findings
+
+* ↑ Phospho-<u>tau</u> protein
+
+* ↓ <u>Aβ</u> <u>proteins</u> Aβ1–42
+
+* <u>Electroencephalogram</u> (<u>EEG</u>) [[6]](https://coursology-qbank.com/amboss/article/9DcNge0)[[15]](https://coursology-qbank.com/amboss/article/xDcEge0)
+
+* Indication: to rule out <u>seizures</u> and subcortical <u>dementia</u> or <u>frontal lobe</u> degeneration
+
+* Supportive findings include:
+
+* Slower basic rhythm (↑ δ and θ activity, ↓ α and β activity)
+
+* Decreased synchronization
+
+
+
+
+
+> [!TIP]
+> Patients with preclinical Alzheimer disease are asymptomatic but have measurable <u>brain</u> changes (e.g., abnormal <u>Aβ</u> on <u>PET-CT</u> or <u>CSF analysis</u>). There is often a duration of several years between the onset of mild cognitive symptoms and the <u>diagnosis of dementia</u>. [[16]](https://coursology-qbank.com/amboss/article/Qc1uXf0)
+
+---
+
+## Pathology
+
+### Macroscopic
+
+
+
+* <u>Cerebral atrophy</u>
+
+* Damage to the <u>hippocampus</u> and parahippocampal cortex (<u>medial</u> <u>temporal lobe</u> structures) is the earliest gross pathological change. 
+
+* Axonal degeneration
+
+* Neuronal loss
+
+* Degeneration of cholinergic <u>neurons</u> in the <u>nucleus basalis of Meynert</u>
+
+* Diffuse cortical <u>atrophy</u> occurs as the disease progresses.
+
+
+
+
+![Brain atrophy in Alzheimer disease](../../../../media/mcjvjpkw6s0d669bhj6kosd1.jpg)
+
+Brain atrophy in Alzheimer disease
+
+
+
+
+### Microscopic
+
+
+
+
+* <u>Amyloid beta</u> (<u>Aβ</u>): stains with <u>Congo red</u> under polarization 
+
+* <u>Cerebral amyloid angiopathy</u>
+
+* Extracellular <u>senile plaques</u> (<u>beta-amyloid</u> core) in <u>gray matter</u>
+
+* <u>Tau protein</u>: intracellular <u>neurofibrillary tangles</u> that stain with Gallyas silver
+
+* Hirano bodies
+
+* Intracellular rod-shaped eosinophilic aggregates of <u>actin</u> and <u>actin</u>-associated <u>proteins</u> in <u>neurons</u>, especially in <u>hippocampus</u>
+
+* Also found in other <u>neurodegenerative diseases</u> (e.g., Creutzfeldt–Jakob disease) and sometimes in normal elderly as well
+
+
+
+
+
+![Amyloid plaques in Alzheimer disease](../../../../media/zyhg1quaan7if2eoizda0enz.jpg)
+
+Amyloid plaques in Alzheimer disease
+
+![Neurofibrillary tangles in Alzheimer disease](../../../../media/xkuine374lldvuxrpxl04bmj.jpg)
+
+Neurofibrillary tangles in Alzheimer disease
+
+
+
+
+References:[[2]](https://coursology-qbank.com/amboss/article/U30b3f)
+
+---
+
+## Differential diagnoses
+
+See “<u>Differential diagnosis of subtypes of dementia</u>.”
+
+
+
+The differential diagnoses listed here are not exhaustive.
+
+---
+
+## Treatment
+
+### General principles [[6]](https://coursology-qbank.com/amboss/article/9DcNge0)
+
+
+
+
+* There is currently no curative therapy for AD.
+
+* Management should include:
+
+* <u>Supportive care for dementia</u>, including lifestyle modifications
+
+* Pharmacological treatment for AD as indicated
+
+* Management of conditions commonly associated with <u>dementia</u>
+
+* Overall goals
+
+* Maintain function
+
+* Delay symptom progression
+
+
+
+
+
+### Pharmacological treatment [[6]](https://coursology-qbank.com/amboss/article/9DcNge0)[[7]](https://coursology-qbank.com/amboss/article/nDc7Ue0)
+
+
+
+
+Recommendations are based on disease severity, which is based on symptoms , and the results of a <u>functional status assessment</u> and a <u>cognitive assessment</u>.
+
+
+
+
+> [!TIP]
+> Pharmacological therapies provide only modest delay in the progression of cognitive decline. Treatment choices should be a <u>shared decision</u>.
+
+
+
+
+| <br>Antidementia medications [[6]](https://coursology-qbank.com/amboss/article/9DcNge0)[[17]](https://coursology-qbank.com/amboss/article/-DcDSe0)[[18]](https://coursology-qbank.com/amboss/article/ZwcZhe0)<br> |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  |  | Indications | Mechanism of action | Adverse effects |
+| <u>Acetylcholinesterase inhibitors</u> (<u>AChEIs</u>) | <br>Rivastigmine  <br> | <br><br>* Mild to moderate AD (first-line)<br><br>* Mild to moderate <u>Parkinson dementia</u><br><br>* <u>Dementia with Lewy bodies</u> (<u>off label</u>)  [[17]](https://coursology-qbank.com/amboss/article/-DcDSe0)[[18]](https://coursology-qbank.com/amboss/article/ZwcZhe0)<br><br><br> | <br>* Reversible <u>cholinesterase</u> inhibition → ↑ <u>ACh</u> concentration at the <u>synaptic gap</u><br><br> | <br><br>* <u>Nausea</u>, <u>vomiting</u><br><br>* <u>Dizziness</u><br><br>* <u>Insomnia</u><br><br>* <u>Cholinergic crisis</u><br><br>* <u>Bradycardia</u>, conduction abnormalities<br><br><br> |
+| Galantamine |  |  |  |  |
+| Donepezil |  |  |  |  |
+| <u>NMDA receptor antagonist</u>: memantine |  | <br><br>* Moderate to severe AD<br><br>* Often used in combination with <u>donepezil</u><br><br><br> | <br>* <u>NMDA receptor</u> <u>antagonism</u> → ↓ <u>glutamate</u>-induced <u>calcium</u>-mediated <u>excitotoxicity</u><br><br> | <br><br>* <u>Headaches</u><br><br>* <u>Dizziness</u><br><br>* Confusion<br><br>* <u>Hallucinations</u><br><br>* <u>Seizures</u><br><br>* <u>Constipation</u><br><br><br> |
+
+
+
+
+
+> [!WARNING]
+> <u>Cholinesterase inhibitors</u> affect the sinoatrial and <u>atrioventricular nodes</u> and increase the risk of <u>bradycardia</u>, <u>syncope</u>, and <u>heart block</u>. Check <u>heart rate</u> and obtain a 12-lead <u>ECG</u> prior to initiating a <u>cholinesterase inhibitor</u>, and screen for <u>bradyarrhythmias</u> at each visit thereafter. [[19]](https://coursology-qbank.com/amboss/article/C21qPT0)
+
+
+
+
+> [!NOTE]
+> Think “Gallantly Down the River“ to remember the centrally acting <u>AChE</u> inhibitors used in the <u>treatment of dementia</u>: Galantamine, Donepezil, and Rivastigmine.
+
+
+
+
+### Supportive management
+
+
+
+
+* Similar to management in other <u>types of dementia</u>
+
+* Includes lifestyle modifications, e.g., maintaining <u>sleep hygiene</u> and a predictable schedule
+
+* May require management of common comorbidities, e.g.:
+
+* <u>Major depressive disorder</u>: low-dose <u>SSRIs</u> (e.g., <u>citalopram</u>)
+
+* <u>Agitation</u> or <u>psychosis</u>: low-dose <u>atypical antipsychotics</u> (e.g., <u>risperidone</u>)
+
+* See “<u>Management of major neurocognitive disorder</u>” for further details.
+
+
+
+
+
+> [!WARNING]
+> Avoid drugs with strong <u>anticholinergic effects</u> (e.g., <u>diphenhydramine</u>).
+
+---
+
+## Complications
+
+* Infections: <u>Aspiration pneumonia</u> is the most common contributing factor to AD-related mortality.
+
+* <u>Malnourishment</u>/<u>dehydration</u>
+
+* <u>Intracerebral hemorrhage</u> (↑ risk due to <u>cerebral amyloid angiopathy</u>)
+
+
+
+
+We list the most important complications. The selection is not exhaustive.
+
+---
+
+## Prognosis
+
+The mean survival time is ∼ 3 to 10 years after diagnosis.
+
+---

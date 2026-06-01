@@ -1,0 +1,690 @@
+# Infant nutrition and breastfeeding
+
+*Categories: Clinical knowledge > Pediatrics > Child development and wellbeing > Infant nutrition and breastfeeding*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/N80-53)
+
+---
+
+## Summary
+
+<u>Infant</u> nutrition includes the use of <u>breast milk</u>, <u>infant formula</u>, <u>infant vitamin supplementation</u>, and <u>complementary feeding</u>. <u>Breast milk</u> (i.e., from <u>breastfeeding</u>, self-expression, or donors) is the preferred source of <u>infant</u> nutrition for the first 6 months of life. <u>Contraindications to breastfeeding</u> are rare and include <u>infant</u> metabolic conditions (e.g., <u>galactosemia</u>) and, in lactating individuals, certain untreated infections and the use of toxic substances (e.g., <u>recreational drug</u> use, <u>chemotherapy agents</u>, radioactive agents). <u>Iron</u>-fortified <u>infant formula</u> is an appropriate alternative or supplement to <u>breast milk</u> if <u>indications for formula</u> are present. Exclusively or partially breastfed <u>infants</u> require <u>vitamin D</u> and <u>iron</u> supplementation. <u>Complementary feeding</u> is introduced at 6 months of age, while continuing to provide <u>breast milk</u> or <u>infant formula</u> until 12 months of age. Due to the many <u>benefits of breastfeeding</u>, prolonged <u>breastfeeding</u> is encouraged for ≥ 2 years if desired. To prevent early cessation of <u>breastfeeding</u>, provide regular <u>assessment of breastfeeding</u> and promptly manage any <u>breastfeeding</u> issues or complications. A risk-benefit analysis is recommended before prescribing medications to lactating individuals; most medications are not contraindicated during <u>breastfeeding</u>.
+
+
+
+
+For children ≥ 1 year of age, see “<u>Pediatric well-child anticipatory guidance</u>” for nutritional guidance.
+
+---
+
+## Infant nutrition
+
+### General principles [[1]](https://coursology-qbank.com/amboss/article/lnWvtN0)[[2]](https://coursology-qbank.com/amboss/article/xnWEvN0)[[3]](https://coursology-qbank.com/amboss/article/RnWlGN0)[[4]](https://coursology-qbank.com/amboss/article/Jmdsgq0)
+
+
+
+
+* Counseling on <u>infant</u> nutrition should begin during <u>prenatal care</u> and continue during <u>well-child visits</u>. [[5]](https://coursology-qbank.com/amboss/article/qr1CRR0)
+
+* While <u>breast milk</u> is preferred, formula is an acceptable alternative.
+
+* Provide education and support for the caregiver's preferred feeding choice. [[3]](https://coursology-qbank.com/amboss/article/RnWlGN0)
+
+
+
+
+
+#### Age < 6 months [[1]](https://coursology-qbank.com/amboss/article/lnWvtN0)[[2]](https://coursology-qbank.com/amboss/article/xnWEvN0)[[3]](https://coursology-qbank.com/amboss/article/RnWlGN0)[[4]](https://coursology-qbank.com/amboss/article/Jmdsgq0)
+
+
+
+
+* Encourage <u>exclusive breast milk</u> for the first 6 months of life.  [[2]](https://coursology-qbank.com/amboss/article/xnWEvN0)[[3]](https://coursology-qbank.com/amboss/article/RnWlGN0)[[4]](https://coursology-qbank.com/amboss/article/Jmdsgq0)[[6]](https://coursology-qbank.com/amboss/article/ImdYSq0)
+
+* <u>Iron</u>-fortified <u>infant formula</u> may be used as an alternative or supplement.
+
+
+
+
+
+#### Age 6–11 months [[1]](https://coursology-qbank.com/amboss/article/lnWvtN0)[[2]](https://coursology-qbank.com/amboss/article/xnWEvN0)[[3]](https://coursology-qbank.com/amboss/article/RnWlGN0)[[4]](https://coursology-qbank.com/amboss/article/Jmdsgq0)
+
+
+
+
+* Continue <u>breast milk</u> (preferred) and/or <u>iron</u>-fortified <u>infant formula</u> until 12 months of age.
+
+* <u>Introduce complementary foods</u>.
+
+* Water is optional; limit most <u>infants</u> to â¤ 4 oz per day  [[7]](https://coursology-qbank.com/amboss/article/wfdho60)
+
+* Introduce a sippy cup.
+
+
+
+
+
+#### At 12 months [[1]](https://coursology-qbank.com/amboss/article/lnWvtN0)[[2]](https://coursology-qbank.com/amboss/article/xnWEvN0)[[3]](https://coursology-qbank.com/amboss/article/RnWlGN0)[[4]](https://coursology-qbank.com/amboss/article/Jmdsgq0)
+
+
+
+
+* Recommended beverages: <u>breast milk</u>, whole milk, and/or water
+
+* Encourage continued <u>breast milk</u> ≥ 2 years of age, if desired.  [[3]](https://coursology-qbank.com/amboss/article/RnWlGN0)[[8]](https://coursology-qbank.com/amboss/article/AnWRDN0)
+
+* <u>Infant</u> formulas or <u>toddler</u> formulas are not recommended.  [[9]](https://coursology-qbank.com/amboss/article/IfdYn60)
+
+* See “<u>Pediatric well-child anticipatory guidance</u>” for further recommendations.
+
+
+
+
+
+> [!TIP]
+> Discourage parents from offering <u>foods and beverages that are not recommended for infants</u>.
+
+
+
+
+### Infant feeding schedule [[5]](https://coursology-qbank.com/amboss/article/qr1CRR0)[[10]](https://coursology-qbank.com/amboss/article/lAWvPL0)[[11]](https://coursology-qbank.com/amboss/article/OoWIXm0)
+
+
+
+
+* <u>Infant</u> feeding should be on demand and guided by <u>infant hunger cues</u> rather than at set times.
+
+* Stop feeding when the <u>infant shows signs of satiety</u>.
+
+* <u>Infants</u> who consume <u>breast milk</u> typically drink smaller amounts and more frequently than formula-fed <u>infants</u>. [[11]](https://coursology-qbank.com/amboss/article/OoWIXm0)
+
+
+
+
+
+| Typical feeding frequency and amounts for <u>infants</u> [[7]](https://coursology-qbank.com/amboss/article/wfdho60)[[11]](https://coursology-qbank.com/amboss/article/OoWIXm0)[[12]](https://coursology-qbank.com/amboss/article/rfdfn60) |  |
+| --- | --- |
+| Age | Feeding amount and frequency |
+| <br>First month [[1]](https://coursology-qbank.com/amboss/article/lnWvtN0)<br> | <br><br>* First few days: 10–12 feeds per day, 0.5–2 oz per feed  [[1]](https://coursology-qbank.com/amboss/article/lnWvtN0)[[7]](https://coursology-qbank.com/amboss/article/wfdho60)<br><br>* Days 5–28: 8–12 feeds per day, 2–3 oz (60–90 mL) per feed<br><br>* Wake the baby to feed if: [[12]](https://coursology-qbank.com/amboss/article/rfdfn60)<br><br>* ≥ 3 hours since last daytime feed<br><br>* ≥ 4 hours since last nighttime feed<br><br><br> |
+| 1–5 months | <br>* 4–6 feeds per day, 4–8 oz (120–240 mL) per feed<br><br> |
+| <br>6–11 months[[13]](https://coursology-qbank.com/amboss/article/Dfd1o60)<br> | <br><br>* <u>Introduce complementary feeds</u> at 6 months.<br><br>* Start with strained or pureed foods.<br><br>* Between 8 and 12 months advance to mashed foods.<br><br>* Gradually increase to 2–4 tbsp from each food group at each meal.<br><br>* Continue <u>breast milk</u> or <u>infant formula</u>.<br><br><br> |
+| 12 months | <br><br>* Provide three meals and two snacks per day.<br><br>* Total milk intake  : 16–24 oz per day<br><br>* See “<u>Pediatric well-child anticipatory guidance</u>.”<br><br><br> |
+
+
+
+
+
+> [!TIP]
+> Do not wake <u>infants</u> for feeds once they are ≥ 1 month of age with good weight gain. [[12]](https://coursology-qbank.com/amboss/article/rfdfn60)
+
+
+
+
+### Assessment of milk intake [[1]](https://coursology-qbank.com/amboss/article/lnWvtN0)[[14]](https://coursology-qbank.com/amboss/article/9y1Nhj0)
+
+
+
+
+The following clinical signs apply to both formula-fed and breastfed <u>infants</u>.
+
+
+
+
+#### Adequate milk intake in newborns
+
+
+
+
+* 8–12 feeds per day
+
+* <u>Signs of infant satiety</u> after feeds
+
+* 6–8 wet diapers per day after the first 2 days
+
+* Stools transition from black to green by day 3 and to a bright, seedy yellow by day 5
+
+* Normal weight patterns [[1]](https://coursology-qbank.com/amboss/article/lnWvtN0)
+
+* An initial weight loss < 8% of <u>birth</u> weight
+
+* After days 3–4, gains 15–30 g/day
+
+
+
+
+
+#### Inadequate milk intake in newborns
+
+
+
+
+* No audible <u>swallowing</u> during feeds
+
+* <u>Infant hunger cues</u> persist after feeds
+
+* <u>Lethargy</u>
+
+* Insufficient wet diapers for age (<u>uric acid crystals</u> may be in diaper)  [[15]](https://coursology-qbank.com/amboss/article/zfdrK60)[[16]](https://coursology-qbank.com/amboss/article/lKWvgm0)
+
+* Persistent black-green stools after days 3–5.
+
+* <u>Excessive weight loss in breastfed infants</u>
+
+
+
+
+
+### Infant vitamin supplementation
+
+
+
+
+* <u>Vitamin D</u> [[3]](https://coursology-qbank.com/amboss/article/RnWlGN0)[[17]](https://coursology-qbank.com/amboss/article/A31ROg0)
+
+* Exclusively or partially breastfed <u>infants</u>; : <u>oral vitamin D</u> DOSAGE from <u>birth</u> until meeting the <u>recommended daily intake of vitamin D</u> through diet  [[17]](https://coursology-qbank.com/amboss/article/A31ROg0)[[3]](https://coursology-qbank.com/amboss/article/RnWlGN0)
+
+* See “<u>Prevention of vitamin D deficiency</u>” for additional information.
+
+* <u>Iron</u> [[18]](https://coursology-qbank.com/amboss/article/sF1tji0)[[19]](https://coursology-qbank.com/amboss/article/Cr1qjR0)
+
+* Exclusively or partially breastfed <u>infants</u>: <u>oral iron</u> DOSAGEfrom 4 months of age until consuming the <u>recommended daily intake of iron</u> through diet [[5]](https://coursology-qbank.com/amboss/article/qr1CRR0)[[10]](https://coursology-qbank.com/amboss/article/lAWvPL0)[[19]](https://coursology-qbank.com/amboss/article/Cr1qjR0)
+
+* <u>Premature infants</u>: <u>oral iron</u> from <u>birth</u> until consuming the <u>recommended daily intake of iron</u> through diet  [[19]](https://coursology-qbank.com/amboss/article/Cr1qjR0)
+
+* See “<u>Prevention of iron deficiency in children</u>” for additional information.
+
+* <u>Fluoride</u> DOSAGE for <u>infants</u> ≥ 6 months of age if water supply is not fluoridated  [[10]](https://coursology-qbank.com/amboss/article/lAWvPL0)[[20]](https://coursology-qbank.com/amboss/article/mH1VIR0)
+
+
+
+
+
+> [!TIP]
+> Exclusively or partially breastfed <u>infants</u> require <u>vitamin D</u> and <u>iron</u> supplementation until they can meet their daily requirements through their diet. [[10]](https://coursology-qbank.com/amboss/article/lAWvPL0)
+
+
+
+
+> [!TIP]
+> In exclusively formula-fed <u>infants</u>, <u>vitamin D</u> and <u>iron</u> supplementation are generally not required unless there are underlying medical conditions (e.g., <u>malabsorption</u>, <u>prematurity</u>). [[17]](https://coursology-qbank.com/amboss/article/A31ROg0)[[18]](https://coursology-qbank.com/amboss/article/sF1tji0)[[19]](https://coursology-qbank.com/amboss/article/Cr1qjR0)
+
+---
+
+## Breast milk
+
+### Breast milk composition
+
+
+
+
+<u>Breast milk</u> contains all the required <u>nutrients</u> (except <u>vitamin D</u> and <u>vitamin K</u>) for <u>infants</u> up to 6 months of age.
+
+
+
+
+* Colostrum: the first milk produced during late <u>pregnancy</u> until 3–4 days postpartum; rich in <u>proteins</u> and <u>immunoglobulins</u>
+
+* Mature milk is composed of:
+
+* <u>Proteins</u>, <u>lactose</u> and oligosaccharides, fats, <u>minerals</u>, <u>trace elements</u>, and <u>vitamins</u>
+
+* <u>Proteins</u> and cells that provide <u>passive immunity</u> in <u>neonates</u>
+
+* <u>Immunoglobulins</u> (secretory <u>IgA</u>), <u>lactoferrin</u>, <u>lysozymes</u>
+
+* <u>Lymphocytes</u>, <u>macrophages</u>
+
+* Bifidobacteria that contribute to the <u>neonate</u>'s gastrointestinal flora
+
+
+
+
+
+> [!TIP]
+> Refer <u>breastfeeding</u> parents who follow a <u>vegan</u> or <u>vegetarian diet</u> to a dietitian to evaluate for additional nutritional needs (e.g., <u>vitamin B<sub>12</sub></u> supplementation). [[10]](https://coursology-qbank.com/amboss/article/lAWvPL0)[[21]](https://coursology-qbank.com/amboss/article/6FbjQv)
+
+
+
+
+### Storage and preparation of <u>breast milk</u> [[10]](https://coursology-qbank.com/amboss/article/lAWvPL0)[[22]](https://coursology-qbank.com/amboss/article/WHWP650)
+
+
+
+
+* Freshly expressed <u>breast milk</u>: Discard after ≥ 4 hours at room temperature or ≥ 4 days of refrigeration. [[22]](https://coursology-qbank.com/amboss/article/WHWP650)
+
+* Frozen <u>breast milk</u> [[22]](https://coursology-qbank.com/amboss/article/WHWP650)
+
+* Discard after ≥ 2 hours at room temperature, ≥ 24 hours of refrigeration, or > 12 months in the freezer.
+
+* Use <u>breast milk</u> that has been frozen the longest first.
+
+* Thaw <u>breast milk</u> in the refrigerator overnight or with lukewarm water.
+
+* Never refreeze <u>breast milk</u>.
+
+* Freshly expressed or frozen <u>breast milk</u>: Discard any remaining <u>breast milk</u> offered as a feed within 2 hours after the <u>infant</u> stops feeding.
+
+
+
+
+
+> [!TIP]
+> Donor <u>breast milk</u>, which may be used for <u>very low birth weight</u> <u>infants</u>, should be pasteurized and come from a qualified milk bank. [[3]](https://coursology-qbank.com/amboss/article/RnWlGN0)
+
+
+
+
+> [!WARNING]
+> Avoid storing <u>breast milk</u> in the door of the refrigerator or freezer due to temperature fluctuations. [[22]](https://coursology-qbank.com/amboss/article/WHWP650)
+
+---
+
+## Infant formula
+
+### Indications for infant formula [[3]](https://coursology-qbank.com/amboss/article/RnWlGN0)[[14]](https://coursology-qbank.com/amboss/article/9y1Nhj0)
+
+
+
+
+* Parental desire
+
+* <u>Contraindications to breastfeeding</u>
+
+* Need for supplementation, e.g., [[16]](https://coursology-qbank.com/amboss/article/lKWvgm0)
+
+* <u>Inadequate breast milk production</u>
+
+* <u>Signs of inadequate breast milk intake</u>
+
+* <u>Excessive weight loss in breastfed infants</u>
+
+* Complications in the <u>infant</u>
+
+
+
+
+
+### <u>Infant formula</u> options [[7]](https://coursology-qbank.com/amboss/article/wfdho60)[[10]](https://coursology-qbank.com/amboss/article/lAWvPL0)[[23]](https://coursology-qbank.com/amboss/article/LTdwr60)
+
+
+
+
+* <u>Iron</u>-fortified <u>infant</u> formulas are an acceptable alternative to <u>breast milk</u> until 12 months of age.
+
+* Cow's milk <u>infant formula</u> is the standard initial formula for healthy, term <u>infants</u>.
+
+* Medical indications for specialized formulas include 
+
+* <u>Allergies</u> (e.g., <u>cow milk protein allergy</u>): <u>hypoallergenic formulas</u>
+
+* <u>Prematurity</u>: premature formulas
+
+* <u>Galactosemia</u>, <u>lactose intolerance</u>: soy-based formulas
+
+* During formula shortages, see “Tips and Links” for recommendations from trusted societies.
+
+
+
+
+
+> [!TIP]
+> Generic and brand commercial <u>infant</u> formulas are nutritionally equivalent.
+
+
+
+
+> [!WARNING]
+> Avoid homemade <u>infant</u> formulas due to the risk of nutritional deficiencies. [[10]](https://coursology-qbank.com/amboss/article/lAWvPL0)
+
+
+
+
+### Storage and preparation of <u>infant formula</u> [[10]](https://coursology-qbank.com/amboss/article/lAWvPL0)[[24]](https://coursology-qbank.com/amboss/article/vCWAFn0)[[25]](https://coursology-qbank.com/amboss/article/Ef18LT0)
+
+
+
+
+* Use clean bottles and <u>nipples</u>; sterilization is not necessary for healthy, term <u>infants</u>. [[26]](https://coursology-qbank.com/amboss/article/iyWJUL0)
+
+* Ensure water is safe to use for consumption.
+
+* Follow package instructions for recommended measurements and preparation.
+
+* Offer prepared formula immediately or keep refrigerated until the <u>infant</u> is ready to feed.
+
+* If warming is desired, use lukewarm water and check the temperature before feeding.
+
+* Discard prepared formula after
+
+* ≥ 1 hour after being offered as a feed
+
+* ≥ 2 hours at room temperature
+
+* ≥ 24 hours of refrigeration
+
+
+
+
+
+> [!TIP]
+> Compared to breastfed <u>infants</u>, the stools of formula-fed <u>infants</u> are usually firmer, browner, and have a stronger odor due to differences in digestion and the composition of formula. The stool frequency of formula-fed <u>infants</u> varies greatly from several stools per day to one stool every 3 to 4 days.
+
+---
+
+## Complementary feeding
+
+### <u>Introducing complementary feeding</u> [[3]](https://coursology-qbank.com/amboss/article/RnWlGN0)[[5]](https://coursology-qbank.com/amboss/article/qr1CRR0)[[10]](https://coursology-qbank.com/amboss/article/lAWvPL0)
+
+
+
+
+* In addition to <u>breast milk</u> or formula, start offering foods at 6 months if the <u>infant</u> shows <u>signs of complementary feeding readiness</u>.  [[10]](https://coursology-qbank.com/amboss/article/lAWvPL0)[[27]](https://coursology-qbank.com/amboss/article/b6WHjm0)
+
+* Recommend the following:
+
+* Foods rich in protein, <u>iron</u>, and <u>zinc</u>; <u>iron</u>-fortified <u>infant</u> cereal and pureed meats are good first sources of <u>iron</u>
+
+* A variety of foods that includes fruits, vegetables, and <u>potentially allergenic foods</u> (see “<u>Food allergy prevention</u>”) [[27]](https://coursology-qbank.com/amboss/article/b6WHjm0)[[28]](https://coursology-qbank.com/amboss/article/s2dtQ60)
+
+* Avoidance of <u>foods and beverages that are not recommended for infants</u>
+
+* Start with 0.5–1 oz (1–2 tbsp) of a single food once a day. [[10]](https://coursology-qbank.com/amboss/article/lAWvPL0)
+
+* Consider waiting 3–5 days before introducing another food to monitor for <u>allergic reactions</u>.   [[5]](https://coursology-qbank.com/amboss/article/qr1CRR0)[[10]](https://coursology-qbank.com/amboss/article/lAWvPL0)
+
+* Gradually increase the amount, variety, and texture of foods as tolerated.
+
+* Avoid overfeeding.
+
+* Stop feeding when the <u>infant shows signs of satiety</u>.
+
+* As solid food intake increases, <u>breast milk</u> and/or formula intake will decrease.
+
+* See “<u>Infant feeding schedule</u>” for recommendations by age.
+
+
+
+
+
+> [!WARNING]
+> Delaying the introduction of allergenic foods (e.g., peanut products, eggs, wheat) is no longer recommended and may increase the risk of <u>food allergies</u>. [[27]](https://coursology-qbank.com/amboss/article/b6WHjm0)[[28]](https://coursology-qbank.com/amboss/article/s2dtQ60)
+
+
+
+
+### Signs of complementary feeding readiness [[10]](https://coursology-qbank.com/amboss/article/lAWvPL0)
+
+
+
+
+* Interest when food is presented, e.g., smiling, mouth opening, reaching for food.
+
+* Developmental readiness
+
+* Good head and neck control
+
+* Sitting upright with minimal support
+
+* Exploring objects with the mouth
+
+* Reaching for desired objects
+
+* Resolution of the <u>tongue</u> thrust reflex
+
+
+
+
+
+> [!WARNING]
+> <u>Infants</u> with <u>developmental delay</u> may not be ready for <u>solid foods</u> at 6 months of age. [[10]](https://coursology-qbank.com/amboss/article/lAWvPL0)
+
+
+
+
+### Foods and beverages to avoid in infants [[10]](https://coursology-qbank.com/amboss/article/lAWvPL0)[[29]](https://coursology-qbank.com/amboss/article/06Wejm0)
+
+
+
+
+* Foods
+
+* Honey
+
+* Unpasteurized dairy products, e.g., yogurt, cheese, milk
+
+* Uncooked meat
+
+* Sweetened products, e.g., syrups, chocolate
+
+* Salt, e.g., canned foods, processed meats
+
+* Fish high in <u>mercury</u>
+
+* Beverages
+
+* Water: no water if < 6 months of age and generally limit to 4 oz/day between 6–11 months
+
+* Teas
+
+* Cow's milk (excluding <u>infant formula</u>) or alternative milk, e.g., goat's milk  [[7]](https://coursology-qbank.com/amboss/article/wfdho60)
+
+* Drinks that are carbonated or sweetened (including artificial sweeteners)
+
+
+
+
+
+> [!WARNING]
+> Do not give honey to <u>infants</u> < 12 months of age due to the risk of <u>infant botulism</u>. [[10]](https://coursology-qbank.com/amboss/article/lAWvPL0)[[25]](https://coursology-qbank.com/amboss/article/Ef18LT0)
+
+
+
+
+### Storage and preparation of complementary food [[10]](https://coursology-qbank.com/amboss/article/lAWvPL0)[[30]](https://coursology-qbank.com/amboss/article/_fd5K60)
+
+
+
+
+Home-prepared food and commercially prepared <u>infant</u> food are acceptable. For commercially prepared food, follow the instructions on the container. For home-prepared food: [[30]](https://coursology-qbank.com/amboss/article/_fd5K60)
+
+
+
+
+* Cook foods according to <u>FDA</u> food safety standards. [[31]](https://coursology-qbank.com/amboss/article/AfdRK60)
+
+* Do not add sugar, salt, or excess fat.
+
+* Ensure food is served safely to prevent choking hazards.
+
+* Mash or puree foods to the right consistency.
+
+* Remove bones from fish and meat before cooking.
+
+* Cut finger foods, especially round firm foods (e.g., grapes), into small cubes or thin slices. [[30]](https://coursology-qbank.com/amboss/article/_fd5K60)
+
+* Remove seeds and pits.
+
+* Discard food after:
+
+* Offering it as a feed (due to the risk of contamination)
+
+* 2 days of refrigeration
+
+* 3 months in the freezer
+
+---
+
+## Breastfeeding
+
+### General principles [[1]](https://coursology-qbank.com/amboss/article/lnWvtN0)[[14]](https://coursology-qbank.com/amboss/article/9y1Nhj0)
+
+
+
+
+* Recommend <u>exclusive breastfeeding</u> for all <u>infants</u> 6 months of age.
+
+* Encourage continued <u>breastfeeding</u> ≥ 2 years of age, if desired.
+
+* Consider waiting to introduce <u>nipples</u> (e.g., pacifiers, bottles) until <u>breastfeeding</u> is well-established. [[32]](https://coursology-qbank.com/amboss/article/Vw1G3Q0)
+
+* <u>Breastfeeding</u> <u>infants</u> require <u>infant vitamin supplementation</u>.
+
+
+
+
+
+### Physiology of lactation
+
+
+
+
+* Lactogenesis: the process of mammary <u>epithelial</u> <u>cell differentiation</u> and milk production in the <u>mammary gland</u> that begins mid <u>pregnancy</u> as a result of increased <u>estrogen</u> and <u>progesterone</u> levels
+
+* Lactation is initiated by the delivery of the <u>placenta</u> → abrupt ↓ <u>progesterone</u> levels → ↑ <u>prolactin</u> → stimulation of milk secretion
+
+* Maintaining lactation requires suckling, which stimulates the secretion of: 
+
+* <u>Prolactin</u>;  from the <u>anterior pituitary</u>: leads to stimulation of continued <u>lactogenesis</u> (milk production);  and disruption of pulsatile <u>GnRH</u> secretion (causing <u>lactational amenorrhea</u>)
+
+* <u>Oxytocin</u>;  from the <u>posterior pituitary</u>: leads to stimulation of milk ejection (letdown);   and uterine contractions
+
+
+
+
+
+![Stimulation of milk production and ejection](../../../../media/otfv1cll92pxeypuk5x34gia.jpg)
+
+Stimulation of milk production and ejection
+
+
+
+
+### Benefits of breastfeeding [[1]](https://coursology-qbank.com/amboss/article/lnWvtN0)[[3]](https://coursology-qbank.com/amboss/article/RnWlGN0)[[33]](https://coursology-qbank.com/amboss/article/pnWL8N0)
+
+
+
+
+In addition to promoting <u>infant</u>-parent bonding, <u>breastfeeding</u> offers a range of benefits for both individuals.
+
+
+
+
+* Benefits for the <u>infant</u> include reductions in
+
+* <u>Infant</u> mortality (e.g., <u>sudden infant death syndrome</u>)
+
+* Allergic conditions: <u>asthma</u>, <u>atopic dermatitis</u>
+
+* Infections: <u>AOM</u>, respiratory, gastrointestinal (e.g., <u>pediatric gastroenteritis</u>, <u>necrotizing enterocolitis</u>)
+
+* <u>Inflammatory bowel disease</u>
+
+* Metabolic conditions: <u>obesity</u>, <u>type 2 diabetes</u>
+
+* Benefits for the lactating individual
+
+* Faster postpartum <u>uterine involution</u> and weight loss [[34]](https://coursology-qbank.com/amboss/article/EKW8Rm0)
+
+* Spaced births for <u>family planning</u> (see “<u>Lactational amenorrhea</u>”)
+
+* Reduced costs  [[10]](https://coursology-qbank.com/amboss/article/lAWvPL0)[[35]](https://coursology-qbank.com/amboss/article/N-W-xL0)
+
+* Decreased risk of cancers (e.g., ovarian, <u>endometrial</u>, <u>breast</u>), <u>hypertension</u>, <u>diabetes mellitus</u>
+
+
+
+
+
+> [!TIP]
+> <u>Breast milk</u> has antimicrobial, antiinflammatory, and immunoregulatory properties, which help the <u>infant</u>'s <u>immune system</u> develop. [[3]](https://coursology-qbank.com/amboss/article/RnWlGN0)[[25]](https://coursology-qbank.com/amboss/article/Ef18LT0)
+
+
+
+
+> [!TIP]
+> <u>Breast milk</u> contains maternal <u>immunoglobulins</u> (especially <u>IgA</u>), which provide <u>passive immunity</u> to the <u>infant</u>. [[10]](https://coursology-qbank.com/amboss/article/lAWvPL0)
+
+
+
+
+### Contraindications to breastfeeding
+
+
+
+
+| <br><u>Contraindications to breastfeeding</u> [[3]](https://coursology-qbank.com/amboss/article/RnWlGN0)[[25]](https://coursology-qbank.com/amboss/article/Ef18LT0)[[33]](https://coursology-qbank.com/amboss/article/pnWL8N0)[[36]](https://coursology-qbank.com/amboss/article/IJWYvm0)<br> |  |  |
+| --- | --- | --- |
+|  | <u>Absolute contraindications</u> | Possible indications for <u>breastfeeding</u> modification |
+| <u>Infant</u> metabolic conditions | <br>* <u>Galactosemia</u><br><br> | <br>* <u>Infants</u> diagnosed with any <u>inborn error of metabolism</u> <br><br>* Follow ACT sheet recommendations regarding initial feeds.<br><br>* Refer to a metabolic specialist for dietary recommendations.<br><br> |
+| Infections in the lactating individual | <br><br>* Inadequately treated <u>HIV</u>  [[37]](https://coursology-qbank.com/amboss/article/PedW_K0)<br><br>* <u>Human T-cell lymphotropic virus</u><br><br>* <u>Ebola virus</u><br><br>* Untreated <u>brucellosis</u><br><br>* <u>Mpox</u> (while <u>isolation precautions</u> are indicated) [[38]](https://coursology-qbank.com/amboss/article/A2dR460)<br><br><br> | <br><br>* Infections requiring <u>airborne precautions</u> (e.g., <u>measles</u>, <u>varicella</u>, <u>tuberculosis</u>): Avoid <u>breastfeeding</u>, but milk may be expressed for feeds.<br><br>* Active <u>HSV</u> lesions on the <u>breast</u>: Continue <u>breastfeeding</u> or expressing <u>breast milk</u> from the unaffected <u>breast</u>.<br><br>* <u>Hepatitis C</u>: Avoid <u>breastfeeding</u> from cracked or bleeding <u>nipples</u>. [[39]](https://coursology-qbank.com/amboss/article/Bedza60)[[40]](https://coursology-qbank.com/amboss/article/3SVSzF0)<br><br><br> |
+| Drug or medication use in the lactating individual | <br><br>* <u>Recreational substance</u> use<br><br>* Certain medications [[41]](https://coursology-qbank.com/amboss/article/4fd3m60)[[42]](https://coursology-qbank.com/amboss/article/AKWRQm0)<br><br>* Radioactive agents<br><br>* <u>Chemotherapy agents</u><br><br>* Medications that decrease milk supply<br><br><br> | <br><br>* For prescribed medications, used <u>shared decision-making</u> based on:<br><br>* <u>Pharmacodynamics</u>, e.g., excretion in <u>breast milk</u><br><br>* Medications with high risk to the <u>infant</u>, e.g., <u>tetracycline</u>, <u>chloramphenicol</u>, <u>lithium</u><br><br>* Need for the medication in the lactating individual<br><br>* Available alternatives<br><br>* <u>Alcohol</u> intake: Recommend ≤ 1 standard drink per day and waiting ≥ 2 hours before <u>breastfeeding</u> or expressing <u>breast milk</u>.<br><br><br> |
+
+
+
+
+
+> [!WARNING]
+> Discourage the use of <u>alcohol</u>, <u>marijuana</u>, and tobacco while <u>breastfeeding</u>. [[3]](https://coursology-qbank.com/amboss/article/RnWlGN0)
+
+
+
+
+> [!TIP]
+> Lactating individuals with <u>opioid use disorder</u> on stable treatment doses (i.e., <u>methadone</u> or <u>buprenorphine</u>) should be encouraged to breastfeed. [[36]](https://coursology-qbank.com/amboss/article/IJWYvm0)
+
+
+
+
+> [!TIP]
+> LactMed (see “Tips and Links”) and <u>FDA</u> labels are good resources for evaluating medication safety while <u>breastfeeding</u>.
+
+---
+
+## Breastfeeding complications
+
+* <u>Breastfeeding issues and complications</u> are common reasons for early cessation of <u>breastfeeding</u>.
+
+* <u>Anticipatory lactation counseling</u>, <u>assessment of breastfeeding</u>, and referral to a lactation consultant can prevent or quickly address identified issues.
+
+
+
+
+
+| <br>Common <u>breastfeeding issues and complications</u> [[1]](https://coursology-qbank.com/amboss/article/lnWvtN0)[[3]](https://coursology-qbank.com/amboss/article/RnWlGN0)[[14]](https://coursology-qbank.com/amboss/article/9y1Nhj0)<br> |  |  |
+| --- | --- | --- |
+|  | Clinical findings | Initial management |
+| <br>Breast engorgement [[43]](https://coursology-qbank.com/amboss/article/zoWrem0)[[44]](https://coursology-qbank.com/amboss/article/g-WF9L0)<br> | <br><br>* Timing<br><br>* 3–5 days postpartum (i.e., physiological engorgement) [[14]](https://coursology-qbank.com/amboss/article/9y1Nhj0)[[43]](https://coursology-qbank.com/amboss/article/zoWrem0)<br><br>* Following insufficient removal of <u>breast milk</u><br><br>* <u>Breast</u> tenderness, firmness, and/or fullness<br><br>* Complication: <u>puerperal mastitis</u><br><br><br> | <br><br>* Express enough <u>breast milk</u> to soften the <u>breast</u> and alleviate pressure.  [[14]](https://coursology-qbank.com/amboss/article/9y1Nhj0)<br><br>* Encourage frequent <u>breastfeeding</u>.<br><br>* Cold compresses between feeds<br><br>* Warm compresses prior to feeds<br><br>* <u>Analgesia</u> [[35]](https://coursology-qbank.com/amboss/article/N-W-xL0)[[45]](https://coursology-qbank.com/amboss/article/VMWGnN0)<br><br>* <u>Ibuprofen</u> DOSAGE<br><br>* <u>Acetaminophen</u> DOSAGE<br><br><br> |
+| Nipple injury | <br><br>* Common in <u>primiparous</u> women and the early <u>postpartum period</u><br><br>* Painful latch<br><br>* <u>Erythematous</u>, bruised, cracked, blistered, and/or bleeding <u>nipples</u><br><br>* Associated complications<br><br>* <u>Breast engorgement</u><br><br>* <u>Puerperal mastitis</u><br><br>* <u>Nipple</u> vasospasm<br><br><br> | <br><br>* Correct the underlying cause, e.g., poor latch, <u>infant</u> positioning, <u>infant</u> <u>ankyloglossia</u>.<br><br>* Topical <u>wound care</u><br><br>* Barrier protection<br><br>* <u>Analgesia</u> [[45]](https://coursology-qbank.com/amboss/article/VMWGnN0)<br><br>* <u>Ibuprofen</u> DOSAGE<br><br>* <u>Acetaminophen</u> DOSAGE<br><br><br> |
+| <u>Puerperal mastitis</u> | <br><br>* Unilateral wedge-shaped <u>breast</u> <u>erythema</u>, tenderness, and/or induration<br><br>* <u>Flu-like symptoms</u> (<u>malaise</u>, <u>fever</u>, and chills)<br><br><br> | <br>* See “<u>Mastitis</u>” for management.<br><br> |
+| <br><u>Mammary candidiasis</u> [[46]](https://coursology-qbank.com/amboss/article/pi1Lsg0)<br> | <br><br>* Itchy, <u>erythematous</u>, shiny, or flaky <u>areolas</u> and <u>nipples</u><br><br>* Painful <u>breastfeeding</u>: deep, stabbing, and/or burning <u>pain</u> in <u>nipples</u> and <u>breast</u><br><br><br> | <br>* See “<u>Treatment of mucocutaneous candidiasis</u>” for management.<br><br> |
+| <u>Galactocele</u> | <br><br>* A firm, nontender mass, typically in the subareolar region<br><br>* May decrease in size after <u>breastfeeding</u><br><br><br> | <br>* See “<u>Galactocele</u>” for management.<br><br> |
+| Inadequate breast milk production | <br><br>* Lack of <u>breast</u> fullness and/or no visible milk 3–5 days postpartum  [[3]](https://coursology-qbank.com/amboss/article/RnWlGN0)[[11]](https://coursology-qbank.com/amboss/article/OoWIXm0)[[14]](https://coursology-qbank.com/amboss/article/9y1Nhj0)<br><br>* Signs of <u>inadequate milk intake in newborns</u><br><br><br> | <br><br>* Quantify <u>infant</u> milk intake to confirm.  [[14]](https://coursology-qbank.com/amboss/article/9y1Nhj0)<br><br>* Consider supplemental feeds (see “Tips and Links”).  [[16]](https://coursology-qbank.com/amboss/article/lKWvgm0)<br><br>* Address any contributing factors.<br><br>* Boost milk supply<br><br>* Increase the frequency of <u>breast</u> emptying (first-line).<br><br>* Consider galactagogues (second line).<br><br><br> |
+| <u>Excessive weight loss in breastfed infants</u> | <br><br>* Other signs of <u>inadequate milk intake in newborns</u><br><br>* Decreased <u>subcutaneous fat</u> in <u>infants</u><br><br><br> | <br><br>* Admit <u>infants</u> with <u>admission criteria for growth faltering</u> or complications.<br><br>* Quantify milk intake.<br><br>* Encourage frequent <u>breastfeeding</u> and address contributing factors.<br><br>* Consider supplemental feeds (see “Tips and Links”).  [[16]](https://coursology-qbank.com/amboss/article/lKWvgm0)<br><br>* Reweigh frequently until adequate weight gain is achieved.<br><br><br> |
+| <u>Neonatal jaundice</u> | <br>* <u>Jaundice</u>, typically within the first 2 weeks of life<br><br> | <br>* See “<u>Breastfeeding jaundice</u>” and “<u>Breast milk jaundice</u>” for management.<br><br> |
+
+
+
+
+
+> [!TIP]
+> Encourage continued <u>breastfeeding</u> or <u>breast milk</u> expression while addressing <u>breastfeeding</u> issues or complications. [[14]](https://coursology-qbank.com/amboss/article/9y1Nhj0)
+
+
+
+
+> [!WARNING]
+> Negative <u>breastfeeding</u> experiences increase the risk for <u>postpartum depression</u> and <u>anxiety</u>; screen and treat individuals accordingly. [[14]](https://coursology-qbank.com/amboss/article/9y1Nhj0)[[47]](https://coursology-qbank.com/amboss/article/BnWzvN0)
+
+
+
+
+![Nipple injury after breastfeeding](../../../../media/y14z0hmbf452ny2hfcyv0qo7.jpg)
+
+Nipple injury after breastfeeding
+
+![Lactational mastitis](../../../../media/f9tuinm8wdwwitmt32c6u2li.jpg)
+
+Lactational mastitis
+
+---

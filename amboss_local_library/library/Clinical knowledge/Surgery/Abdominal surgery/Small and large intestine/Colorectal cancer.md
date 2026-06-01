@@ -1,0 +1,1104 @@
+# Colorectal cancer
+
+*Categories: Clinical knowledge > Surgery > Abdominal surgery > Small and large intestine > Colorectal cancer*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/TS06_2)
+
+---
+
+## Summary
+
+Colorectal cancer (<u>CRC</u>) is the fourth most commonly diagnosed cancer in the United States. <u>Risk factors</u> include a positive <u>family history</u>, hereditary syndromes, diet, and a number of conditions, such as <u>inflammatory bowel disease</u>. Most colorectal cancers (95%) are <u>adenocarcinomas</u>. Clinical signs are often nonspecific and may include a change in bowel habits, <u>lower GI bleeding</u>, and weight loss. These features as well as <u>iron deficiency anemia</u> in men older than 50 years of age and <u>postmenopausal</u> women are <u>red flags for CRC</u>. Since the introduction of screening with direct visualization or stool-based testing, early-stage <u>carcinomas</u> have become easier to diagnose in asymptomatic patients. Complete <u>colonoscopy</u> with histopathologic analysis confirms the diagnosis. Staging of the cancer is necessary to evaluate the extent of disease and determine the appropriate management. Curative surgical resection of colorectal cancers and <u>metastases</u> is preferred when feasible. The type and extent of resection depend on the stage of the cancer. In addition, for cancer stages ≥ II, <u>chemotherapy</u> is required for <u>colon</u> cancer and <u>chemotherapy</u> and/or <u>radiation therapy</u> for rectal cancer. <u>Surveillance following CRC treatment</u> is essential to identify and manage recurrence and/or <u>metastases</u>. As the <u>incidence</u> of <u>CRC</u> is high, <u>screening for CRC</u> is recommended for all individuals, starting at 45–50 years of age (earlier in high-risk individuals).
+
+---
+
+## Epidemiology
+
+* <u>Incidence</u> [[1]](https://coursology-qbank.com/amboss/article/c60aPS)[[2]](https://coursology-qbank.com/amboss/article/-SXDXB)
+
+* Excluding <u>skin</u> cancers, colorectal cancer is the fourth most common cancer in the US overall
+
+* Accounts for ∼ 8% of all new cancer cases in the US
+
+* Peak <u>incidence</u>: between 65 and 74 years of age
+
+* <u>Prevalence</u>: ∼ 0.4%
+
+* Mortality: third leading cause of cancer-related deaths in the US overall
+
+
+
+
+
+![Incidence of cancers in the US (2025 estimates)](../../../../../media/n8tcd1ek75tg6wb4cm151bm6.jpg)
+
+Incidence of cancers in the US (2025 estimates)
+
+![Cancer mortality in the US (2025 estimates)](../../../../../media/cmtdkq8mdeoxni1pgur3p4zg.jpg)
+
+Cancer mortality in the US (2025 estimates)
+
+
+
+
+Epidemiological data refers to the US, unless otherwise specified.
+
+---
+
+## Etiology
+
+### Colorectal carcinogenesis pathways (molecular pathology)
+
+
+
+
+* Chromosomal instability pathway in colon cancer: The adenoma-carcinoma sequence is the progressive accumulation of mutations in <u>oncogenes</u> (e.g., <u>KRAS</u>) and <u>tumor suppressor genes</u> (e.g., <u>APC</u>, <u>TP53</u>) that results in the slow transformation of <u>adenomas</u> into <u>carcinomas</u>.
+
+* <u>APC gene</u> mutation (loss of cellular adhesion and increased cellular <u>proliferation</u>) → <u>KRAS</u> <u>gene</u> mutation (unregulated cellular signaling and cellular <u>proliferation</u>) → <u>TP53</u> and <u>DCC</u> <u>gene</u> mutation
+
+* Most cases of sporadic <u>CRC</u> develop via this pathway.
+
+* Microsatellite instability pathway in colon cancer: due to <u>methylation</u> or mutations in <u>mismatch repair genes</u> (<u>MMR genes</u>, e.g., <u>MLH1</u> or <u>MSH2</u>)
+
+* Hypermethylation <u>phenotype</u> pathway in <u>colon</u> cancer
+
+* <u>CpG island</u> methylator <u>phenotype</u> (CIMP): <u>global</u> hypermethylation of <u>CpG islands</u> → silencing of <u>MMR gene</u> expression
+
+* Associated with <u>BRAF</u> mutations
+
+* Up to 20% of sporadic <u>CRCs</u> develop from <u>serrated polyps</u> that underwent malignant transformation via this pathway.
+
+* <u>COX-2</u> overexpression
+
+* Associated with colorectal cancer
+
+* Possible protective effect of long-term use of <u>aspirin</u> and other <u>NSAIDs</u>
+
+
+
+
+
+![Colorectal carcinogenesis pathways](../../../../../media/m2oz8iszukfh1lk5by22nzyv.jpg)
+
+Colorectal carcinogenesis pathways
+
+
+
+
+### Risk factors for colorectal cancer [[3]](https://coursology-qbank.com/amboss/article/lSXv-x)
+
+
+
+
+* Age: older age (> 40 years) [[4]](https://coursology-qbank.com/amboss/article/GyXBg00)
+
+* Hereditary syndromes
+
+* <u>Family history</u>: Approx. 25% of individuals with colorectal cancer (<u>CRC</u>) have a positive <u>family history</u>.
+
+* <u>Familial adenomatous polyposis</u>: 100% of individuals will have developed <u>CRC</u> by the age of 40 years, <u>Gardner syndrome</u>, <u>Turcot syndrome</u>, <u>Peutz-Jeghers syndrome</u>, <u>Juvenile polyposis syndrome</u>)
+
+* <u>Hereditary nonpolyposis colorectal cancer</u> (<u>HNPCC</u>): progression to <u>CRC</u> in 80% of cases
+
+* Associated conditions
+
+* Colorectal <u>adenomas</u> and <u>serrated polyps</u> (see “<u>Colonic polyps</u>”)
+
+* <u>Inflammatory bowel disease</u>: chronic inflammation → <u>hyperplasia</u> → non-polypoid <u>dysplasia</u> → <u>neoplasia</u> [[5]](https://coursology-qbank.com/amboss/article/fRYkmK)
+
+* <u>Ulcerative colitis</u>
+
+* <u>Crohn disease</u>
+
+* <u>Endocarditis</u> and <u>bacteremia</u> due to <u>S. gallolyticus</u>  [[6]](https://coursology-qbank.com/amboss/article/kJ0m8S)
+
+* <u>Diabetes mellitus type 2</u>
+
+* Lifestyle
+
+* Smoking
+
+* <u>Alcohol</u> consumption
+
+* Diet
+
+* <u>Obesity</u>
+
+* Processed meat
+
+* High-fat and low-fiber
+
+* Pathogens: <u>Streptococcus bovis</u>, <u>Clostridium septicum</u>
+
+* Other: History of abdominal radiation during childhood
+
+
+
+
+
+### Protective factors [[3]](https://coursology-qbank.com/amboss/article/lSXv-x)
+
+
+
+
+* Long-term use of <u>aspirin</u> and other <u>NSAIDs</u>
+
+* Physical activity
+
+* Diet rich in fiber and vegetables and lower in meat
+
+---
+
+## Clinical features
+
+Colorectal cancer can be asymptomatic, particularly during the early stages.
+
+
+
+
+### <u>Constitutional symptoms</u> [[7]](https://coursology-qbank.com/amboss/article/NSX--x)
+
+
+
+
+* Weight loss
+
+* <u>Fever</u>
+
+* Night sweats
+
+* Fatigue
+
+* Abdominal discomfort (symptoms similar to <u>diverticulitis</u>, especially in <u>carcinoma</u> of the rectosigmoid or <u>descending colon</u>)
+
+
+
+
+
+### Right-sided colon carcinomas [[7]](https://coursology-qbank.com/amboss/article/NSX--x)[[8]](https://coursology-qbank.com/amboss/article/ehXx1B)
+
+
+
+
+* Definition: large bowel malignancies arising from the <u>cecum</u>, <u>ascending colon</u>, or <u>transverse colon</u>
+
+* Clinical features
+
+* Occult bleeding or <u>melena</u>
+
+* Manifestations of <u>iron deficiency anemia</u> (due to chronic bleeding)
+
+* <u>Diarrhea</u>
+
+
+
+
+
+> [!TIP]
+> <u>Iron deficiency anemia</u> in men > 50 years of age and <u>postmenopausal</u> women should raise suspicion for colorectal cancer.
+
+
+
+
+### Left-sided colon carcinomas [[7]](https://coursology-qbank.com/amboss/article/NSX--x)[[8]](https://coursology-qbank.com/amboss/article/ehXx1B)
+
+
+
+
+* Definition: large bowel malignancies arising from the <u>splenic flexure</u>, <u>descending colon</u>, <u>sigmoid colon</u>, or the rectosigmoid junction
+
+* Clinical features
+
+* Changes in bowel habits (size, consistency, frequency)
+
+* Blood-streaked stools
+
+* Colicky abdominal <u>pain</u> (due to obstruction)
+
+
+
+
+
+> [!TIP]
+> <u>Bowel obstruction</u> occurs earlier in <u>left-sided colon carcinomas</u> because the <u>distal</u> <u>colon</u> has a smaller lumen than the <u>proximal</u> <u>colon</u> and contains solid fecal matter.
+
+
+
+
+### Rectal <u>carcinomas</u>  [[7]](https://coursology-qbank.com/amboss/article/NSX--x)[[8]](https://coursology-qbank.com/amboss/article/ehXx1B)
+
+
+
+
+* Definition: large bowel malignancies located ≤ 15 cm from the <u>anal verge</u>  [[9]](https://coursology-qbank.com/amboss/article/KOXUty)
+
+* Clinical features
+
+* <u>Hematochezia</u>
+
+* ↓ Stool caliber (pencil-shaped stool)
+
+* Rectal <u>pain</u>
+
+* <u>Tenesmus</u>
+
+* Flatulence
+
+* <u>Fecal incontinence</u>
+
+
+
+
+
+> [!TIP]
+> Cancers located ≤ 15 cm <u>proximal</u> to the <u>anal verge</u> are considered rectal <u>carcinomas</u>; cancers above this point are considered <u>colon</u> cancers.
+
+
+
+
+> [!TIP]
+> Consider colorectal cancer in every patient with <u>rectal bleeding</u>, even if there is a history of <u>hemorrhoids</u> or <u>diverticular disease</u>.
+
+
+
+
+### <u>Metastatic</u> disease [[10]](https://coursology-qbank.com/amboss/article/0hXecB)
+
+
+
+
+<u>CRC</u> can <u>metastasize</u> through hematogenous, lymphatic, transperitoneal, and contiguous routes. Symptomatic <u>metastases</u> may be the first manifestation of <u>CRC</u>.
+
+
+
+
+* <u>Liver metastases</u> (most common site of <u>metastasis</u>: ; 40–50%) 
+
+* <u>Ascites</u>, abdominal distention
+
+* <u>Hepatomegaly</u>, <u>RUQ</u> <u>pain</u>
+
+* <u>Jaundice</u>  [[11]](https://coursology-qbank.com/amboss/article/a9XQNZ0)
+
+* <u>Anorexia</u>, early satiety
+
+* <u>Lung metastases</u> 
+
+* <u>Dyspnea</u>
+
+* <u>Cough</u>
+
+* <u>Hemoptysis</u>
+
+* <u>Pleural effusion</u>
+
+* <u>Peritoneal metastases</u>
+
+* <u>Ascites</u>, abdominal distension, <u>diffuse abdominal pain</u>
+
+* <u>Bowel obstruction</u>
+
+* Evidence of distant lymphatic spread: <u>Virchow node</u> (rare)  [[12]](https://coursology-qbank.com/amboss/article/b9XHNZ0)
+
+
+
+
+
+> [!TIP]
+> Typically, cancers of the <u>colon</u> and upper <u>rectum</u> initially <u>metastasize</u> to the <u>liver</u> via the <u>portal vein</u>, and cancers of the lower <u>rectum</u> initially <u>metastasize</u> to the <u>lung</u> via the <u>inferior vena cava</u>.
+
+
+
+
+![Most common routes of metastasis with TNM classification](../../../../../media/fwwecln2pm6hsmumxho29bj2.jpg)
+
+Most common routes of metastasis with TNM classification
+
+
+
+
+### Red flags for colorectal cancer [[13]](https://coursology-qbank.com/amboss/article/sz0t8i)[[14]](https://coursology-qbank.com/amboss/article/QCXu7Z0)[[15]](https://coursology-qbank.com/amboss/article/jCX_7Z0)
+
+
+
+
+The <u>sensitivity</u> and <u>specificity</u> of <u>symptoms of colorectal cancer</u> are limited. The following features have the strongest association with <u>CRC</u>, especially in patients with <u>risk factors for colorectal cancer</u>, and should always prompt further investigation.
+
+
+
+
+* <u>Melena</u>, <u>hematochezia</u>
+
+* Altered bowel habits
+
+* Unexplained weight loss
+
+* Unexplained <u>iron deficiency anemia</u>, especially in men older than 50 years of age and <u>postmenopausal</u> women
+
+---
+
+## Diagnosis
+
+All patients with suspected <u>CRC</u> should undergo a complete <u>colonoscopy</u> with <u>biopsy</u> of suspicious lesions. Once the diagnosis is confirmed, additional tests to stage the cancer are required to guide management.
+
+
+
+
+### Initial workup [[9]](https://coursology-qbank.com/amboss/article/KOXUty)[[16]](https://coursology-qbank.com/amboss/article/oOX0ty)
+
+
+
+
+#### <u>Digital rectal examination</u>
+
+
+
+
+* Indication: all patients with <u>lower gastrointestinal bleeding</u> (<u>LGIB</u>) or other <u>red flags for CRC</u>
+
+* Findings
+
+* <u>Distal</u> rectal cancers may be palpable.
+
+* Evidence of blood on <u>DRE</u> may indicate <u>CRC</u>.
+
+* Important considerations
+
+* <u>DRE</u> is a part of the routine clinical evaluation in patients with lower gastrointestinal symptoms.
+
+* Endoscopic evaluation is essential if there is any suspicion for <u>CRC</u>, such as:
+
+* Inconclusive <u>DRE</u> in a patient with <u>LGIB</u>
+
+* Any <u>risk factor for CRC</u>
+
+* Any <u>red flag for CRC</u>
+
+* Assess sphincter tone during <u>DRE</u> to plan optimal surgical resection for rectal cancer.
+
+
+
+
+
+#### <u>Flexible sigmoidoscopy</u> with or without <u>anoscopy</u> [[13]](https://coursology-qbank.com/amboss/article/sz0t8i)
+
+
+
+
+* Indication: Consider in patients with scanty intermittent <u>hematochezia</u> and all of the following features. 
+
+* Age < 40 years
+
+* No other <u>red flags for CRC</u>
+
+* No <u>risk factor for CRC</u>
+
+* Important consideration: Patients who do not fulfill any of these criteria require a complete <u>colonoscopy</u>.
+
+* Findings and next steps
+
+* Inconclusive <u>sigmoidoscopy</u> or lesion that raises concern for <u>malignancy</u> : Perform a complete <u>colonoscopy</u>.
+
+* Benign pathology confirmed: Manage accordingly (see, e.g., “<u>Hemorrhoids</u>” and “<u>Anal fissures</u>”).
+
+
+
+
+
+![Rectal cancer](../../../../../media/bsz7hjiowoy1cqsjnpws55ru.jpg)
+
+Rectal cancer
+
+
+
+
+#### Complete <u>colonoscopy</u>
+
+
+
+
+<u>Colonoscopy</u> is the <u>gold standard</u> test for <u>CRC</u> as it allows for direct visualization and <u>biopsy</u> of polyps and suspicious lesions. [[17]](https://coursology-qbank.com/amboss/article/FlXgAy)
+
+
+
+
+* Indication: : all patients with suspected <u>CRC</u>
+
+* Typical findings [[18]](https://coursology-qbank.com/amboss/article/NsX-Ez)
+
+* Ulceroproliferative <u>friable</u> mass
+
+* A <u>biopsy</u> is required to confirm the diagnosis (see “Pathology” section for details).
+
+* Important considerations: Consider the following to identify <u>synchronous tumors</u> if <u>colonoscopy</u> cannot be completed (e.g., patients with occlusive <u>CRC</u>). [[9]](https://coursology-qbank.com/amboss/article/KOXUty)[[16]](https://coursology-qbank.com/amboss/article/oOX0ty)
+
+* Pretreatment <u>CT colonography</u> or <u>capsule endoscopy</u>  [[16]](https://coursology-qbank.com/amboss/article/oOX0ty)[[19]](https://coursology-qbank.com/amboss/article/dxXovZ0)
+
+* Intra- or postoperative <u>colonoscopy</u>
+
+* In patients with rectal cancer, reattempt complete <u>colonoscopy</u> after <u>neoadjuvant chemotherapy</u> if there is evidence of <u>tumor</u> regression. [[9]](https://coursology-qbank.com/amboss/article/KOXUty)
+
+
+
+
+
+> [!TIP]
+> A complete <u>colonoscopy</u> is imperative in all patients with suspected/confirmed <u>CRC</u> as multiple <u>adenocarcinomas</u> (<u>synchronous tumors</u>) are present in up to 5% of cases. [[20]](https://coursology-qbank.com/amboss/article/YNXn-y)
+
+
+
+
+![Colon cancer](../../../../../media/er60oxhscsainz7o86tp1t80.jpg)
+
+Colon cancer
+
+![Colon cancer](../../../../../media/i69pn7hwv2x9v4f9pu0epqoh.jpg)
+
+Colon cancer
+
+![Colon cancer](../../../../../media/k0jd0rpcijmaxnetm05292p4.jpg)
+
+Colon cancer
+
+
+
+
+#### <u>Double-contrast barium enema</u> (uncommonly performed)
+
+
+
+
+* Indication: an alternative to <u>CT colonography</u> in patients who decline/cannot undergo a complete <u>colonoscopy</u> at presentation
+
+* Findings
+
+* Endoluminal filling defect typically with irregular margins
+
+* Apple core lesion (<u>napkin ring sign</u>): sharply defined circumferential narrowing of the bowel caused by a stenosing <u>CRC</u>  [[16]](https://coursology-qbank.com/amboss/article/oOX0ty)[[21]](https://coursology-qbank.com/amboss/article/lOXvsy)[[22]](https://coursology-qbank.com/amboss/article/vzYAu7)
+
+* Important considerations
+
+* <u>Double-contrast barium enema</u> is not routinely recommended because of its low diagnostic yield and the widespread availability of <u>CT colonography</u>. . [[16]](https://coursology-qbank.com/amboss/article/oOX0ty)[[23]](https://coursology-qbank.com/amboss/article/VxXGvZ0)
+
+* Findings that raise suspicion for <u>CRC</u> on <u>barium enema</u> require <u>biopsy</u> and histopathological confirmation.
+
+
+
+
+
+![Apple core sign](../../../../../media/m8mj0nc0yajh1fr6bz6t1wlz.jpg)
+
+Apple core sign
+
+
+
+
+### Preoperative staging
+
+
+
+
+* All colorectal cancers: Assess for local and distant spread (<u>T stage</u>, <u>N stage</u>, and <u>M stage</u>). [[16]](https://coursology-qbank.com/amboss/article/oOX0ty)[[24]](https://coursology-qbank.com/amboss/article/FOXg8y)
+
+* CT abdomen, <u>pelvis</u>, and chest (with IV and oral contrast)
+
+* Consider <u>CTA</u> or <u>MRI</u> of the <u>liver</u> if hepatic <u>metastases</u> are suspected.  [[25]](https://coursology-qbank.com/amboss/article/HCXKtZ0) [[24]](https://coursology-qbank.com/amboss/article/FOXg8y)
+
+* Evaluate for specific sites of <u>metastasis</u> based on clinical suspicion (e.g., <u>diagnostic laparoscopy</u> and <u>peritoneal</u> <u>cytology</u> for suspected <u>peritoneal metastasis</u>).  [[26]](https://coursology-qbank.com/amboss/article/kCXmHZ0)[[27]](https://coursology-qbank.com/amboss/article/fxXkDZ0)
+
+* Typical findings of distant <u>metastasis</u>
+
+* Hepatic <u>metastases</u>: multiple <u>hypodense</u> lesions during the <u>portal venous</u> phase of <u>CTA</u> ; may show peripheral washout [[25]](https://coursology-qbank.com/amboss/article/HCXKtZ0)
+
+* <u>Pulmonary metastases</u>: multiple, peripheral <u>nodules</u> of varying sizes  [[28]](https://coursology-qbank.com/amboss/article/sCXttZ0)[[29]](https://coursology-qbank.com/amboss/article/8CXOFZ0)
+
+* See also “<u>Differential diagnosis of pulmonary nodules</u>” and “<u>Metastatic liver disease</u>.”
+
+* Additional staging workup in rectal cancer  [[9]](https://coursology-qbank.com/amboss/article/KOXUty)
+
+* <u>Pelvic</u> <u>MRI</u> with and without IV contrast: to determine <u>T stage</u> and <u>N stage</u>
+
+* Rectal <u>endoscopic ultrasound</u>: Consider in early <u>tumor</u> stages or if <u>MRI is contraindicated</u>.
+
+* Rigid proctosigmoidoscopy: to assess the distance of the <u>tumor</u> from the <u>anus</u>
+
+
+
+
+
+![Liver metastases](../../../../../media/rpxuhca1qr68qgh4kpd7m1fh.jpg)
+
+Liver metastases
+
+![Small pulmonary nodules](../../../../../media/loe2inqt2ikn25s39uk8hmg4.jpg)
+
+Small pulmonary nodules
+
+
+
+
+#### <u>Laboratory studies</u> [[16]](https://coursology-qbank.com/amboss/article/oOX0ty)
+
+
+
+
+* <u>Carcinoembryonic antigen</u> (<u>CEA</u>): Obtain baseline levels in all patients before initiating treatment. ;  [[16]](https://coursology-qbank.com/amboss/article/oOX0ty)
+
+* Monitor <u>CEA</u> levels during treatment and follow-up to assess response to treatment and evaluate recurrence.
+
+* Should not be used for screening  [[30]](https://coursology-qbank.com/amboss/article/zoXre_)
+
+* <u>CBC</u>: may show <u>microcytic anemia</u> (<u>iron deficiency anemia</u>)
+
+* <u>Liver chemistries</u> and coagulation: may be abnormal in patients with multiple hepatic <u>metastases</u>
+
+* Counseling and <u>genetic testing</u>: for patients < 50 years of age with <u>CRC</u> or those with a <u>family history</u> of <u>CRC</u> at a young age (see “<u>Revised Bethesda guidelines</u>” for details)
+
+
+
+
+
+> [!TIP]
+> <u>CEA</u> is a prognostic marker and should not be used to screen for colorectal cancer.
+
+---
+
+## Staging
+
+Once the diagnosis is confirmed, <u>CRC</u> should be staged to determine management. The American <u>Joint</u> Committee for Cancer (AJCC) <u>TNM classification</u> is currently the standard staging system used in clinical practice. The Dukes classification is a simplified approach to staging that is of academic interest but is not used to guide management.
+
+
+
+
+| Colorectal cancer staging |  |  |  |
+| --- | --- | --- | --- |
+| <br>AJCC staging 8<sup>th</sup> edition (simplified) [[31]](https://coursology-qbank.com/amboss/article/h9XcMZ0)<br> | <u>TNM stage</u> | Corresponding Dukes classification stage | Description |
+| 0 | <br>* <u>Tis</u>, N0, M0<br><br> | <br>* A<br><br> | <br><br>* <u>Tumor</u> invasion: none (<u>tumor in situ</u>)<br><br>* <u>Lymph node</u> involvement: none (N0)<br><br>* Distant <u>metastases</u>: none (M0)<br><br><br> |
+| I | <br>* Up to T2, N0, M0<br><br> | <br><br>* <u>Tumor</u> invasion<br><br>* T1: <u>submucosa</u><br><br>* T2: muscularis propria<br><br>* <u>Lymph node</u> involvement: none (N0)<br><br>* Distant <u>metastases</u>: none (M0)<br><br><br> |  |
+| II | <br>* Up to T4, N0, M0<br><br> | <br>* B<br><br> | <br><br>* <u>Tumor</u> invasion<br><br>* T1: <u>submucosa</u><br><br>* T2: muscularis propria<br><br>* T3: subserosa<br><br>* T4a: <u>visceral peritoneum</u><br><br>* T4b: adjacent tissue or organs<br><br>* N0: no <u>lymph node</u> involvement<br><br>* M0: no distant <u>metastases</u><br><br><br> |
+| III | <br>* Any T, N1/N2, M0<br><br> | <br>* C<br><br> | <br><br>* <u>Tumor</u> invasion: any structure<br><br>* <u>Lymph node</u> involvement<br><br>* N1: 1–3 regional <u>lymph nodes</u><br><br>* N2a: 4–6 regional <u>lymph nodes</u><br><br>* N2b: ≥ 7 regional <u>lymph nodes</u><br><br>* Distant <u>metastases</u>: none (M0)<br><br><br> |
+| IV | <br>* Any T, any N, M1<br><br> | <br>* D<br><br> | <br><br>* <u>Tumor</u> invasion: any structure<br><br>* <u>Lymph node</u> involvement: any number<br><br>* Distant <u>metastases</u><br><br>* M1a: affecting only one organ or site<br><br>* M1b: affecting more than one organ or site<br><br>* M1c: <u>peritoneal metastases</u> (regardless of <u>metastasis</u> to other organs)  [[31]](https://coursology-qbank.com/amboss/article/h9XcMZ0)[[32]](https://coursology-qbank.com/amboss/article/FtXg2-)<br><br><br> |
+
+---
+
+## Treatment
+
+### General principles [[9]](https://coursology-qbank.com/amboss/article/KOXUty)[[16]](https://coursology-qbank.com/amboss/article/oOX0ty)
+
+
+
+
+* A multidisciplinary approach is recommended.
+
+* Treatment depends primarily on the location of the <u>tumor</u> and the <u>TNM stage</u>.
+
+* Curative treatment is primarily surgical and may involve <u>neoadjuvant</u> or <u>adjuvant chemotherapy</u> and/or <u>radiation therapy</u>.
+
+* <u>Palliative treatment</u> may involve <u>chemotherapy</u>, <u>radiation therapy</u>, and, in some cases, <u>surgery</u>.
+
+* See “<u>Treatment of colon cancer</u>” and “<u>Treatment of rectal cancer</u>” for details.
+
+
+
+
+
+### Surgery for colorectal cancer [[9]](https://coursology-qbank.com/amboss/article/KOXUty)[[16]](https://coursology-qbank.com/amboss/article/oOX0ty)
+
+
+
+
+#### Curative <u>surgery</u>
+
+
+
+
+* <u>Surgery</u> of primary <u>tumor</u>
+
+* Indicated in any resectable primary <u>tumor</u> with no <u>metastasis</u> or resectable distant <u>metastases</u>
+
+* Conventional or <u>laparoscopic</u> approach is possible  [[16]](https://coursology-qbank.com/amboss/article/oOX0ty)
+
+* Complete resection with clear margins (<u>R0</u> resection) is associated with the best prognosis.
+
+* See “<u>Surgery for colon cancer</u>” and “<u>Surgery for rectal cancer</u>” for details.
+
+* Regional <u>lymph node dissection</u>: performed routinely alongside resection of the primary <u>tumor</u>  
+
+* Resection of <u>mesenteric</u> <u>lymph nodes</u> along the path of <u>lymphatic drainage</u>
+
+* Histological analysis of 12 removed <u>lymph nodes</u> to accurately define the <u>lymph node</u> status is required for accurate staging. [[32]](https://coursology-qbank.com/amboss/article/FtXg2-)
+
+* Resection of <u>metastases</u>
+
+* Indicated in patients with resectable <u>metastases</u> (e.g., <u>liver</u> and/or <u>lung metastasis</u>)
+
+* May significantly improve the survival of patients with limited <u>metastatic</u> disease.
+
+
+
+
+
+#### Palliative <u>surgery</u>
+
+
+
+
+Consider in patients with nonresectable distant <u>metastases</u> to prevent or treat complications of colorectal cancer.
+
+
+
+
+* Intestinal bypass (e.g., ileocolonic <u>anastomosis</u>, <u>colostomy</u>) or <u>enteral stenting</u> for obstructing/occlusive <u>CRC</u>
+
+* <u>Tumor</u> resection to manage immediately life-threatening complications, such as <u>complete bowel obstruction</u>, persistent <u>GI bleeding</u>, or perforation. [[16]](https://coursology-qbank.com/amboss/article/oOX0ty)
+
+
+
+
+
+### Systemic therapy [[9]](https://coursology-qbank.com/amboss/article/KOXUty)[[16]](https://coursology-qbank.com/amboss/article/oOX0ty)[[34]](https://coursology-qbank.com/amboss/article/6sXjDz)
+
+
+
+
+Systemic therapy is indicated in most patients with <u>colon</u> or rectal cancer. See “<u>Treatment of colon cancer by stage</u>” and “<u>Treatment of rectal cancer by stage</u>” for details. [[34]](https://coursology-qbank.com/amboss/article/6sXjDz)[[35]](https://coursology-qbank.com/amboss/article/KsXUDz)
+
+
+
+
+* <u>Chemotherapy</u> regimens
+
+* FOLFOX: <u>folinic acid</u> (<u>leucovorin</u>) PLUS 5-<u>fluorouracil</u> (<u>5-FU</u>) PLUS <u>oxaliplatin</u>
+
+* FOLFIRI: <u>folinic acid</u> (<u>leucovorin</u>) PLUS 5-<u>fluorouracil</u> (<u>5-FU</u>) PLUS <u>irinotecan</u>
+
+* CAPOX: <u>capecitabine</u> PLUS <u>oxaliplatin</u>
+
+* <u>Biologics</u> 
+
+* Anti-<u>VEGF</u> <u>antibodies</u> (e.g., <u>bevacizumab</u>)
+
+* <u>EGFR</u> <u>antibodies</u> (e.g., <u>cetuximab</u>)
+
+
+
+
+
+### <u>Radiation therapy</u>
+
+
+
+
+* Rectal cancer: standard treatment modality in most stages of rectal cancer [[9]](https://coursology-qbank.com/amboss/article/KOXUty)
+
+* <u>Colon</u> cancer
+
+* Not a standard modality because of adverse effects on the <u>small intestine</u> leading to enteritis and strictures
+
+* May be used in <u>palliative care</u> to treat bone and <u>brain metastases</u> [[36]](https://coursology-qbank.com/amboss/article/ctXac-)[[37]](https://coursology-qbank.com/amboss/article/1tX2c-)
+
+---
+
+## Treatment of colon cancer
+
+### Principles of <u>colon cancer treatment</u> [[16]](https://coursology-qbank.com/amboss/article/oOX0ty)
+
+
+
+
+| Treatment of colon cancer by stage |  |  |
+| --- | --- | --- |
+| AJCC stage |  | Treatment approach |
+| Stage I |  | <br>* Curative <u>surgery</u><br><br> |
+| Stage II |  | <br><br>* Curative <u>surgery</u><br><br>* Consider <u>adjuvant chemotherapy</u> in patients with high-risk stage II disease<br><br><br> |
+| Stage III |  | <br><br>* Curative <u>surgery</u><br><br>* <u>Adjuvant chemotherapy</u><br><br><br> |
+| Stage IV |  | <br><br>* All patients<br><br>* Individualized, multidisciplinary approach<br><br>* Consider <u>neoadjuvant</u> treatment if downstaging may enable curative surgical resection.<br><br>* Resectable <u>metastatic</u> disease<br><br>* Curative <u>surgery</u><br><br>* <u>Adjuvant chemotherapy</u><br><br>* Unresectable <u>metastatic</u> disease or severe comorbidities preventing curative surgical treatment<br><br>* Consider palliative <u>surgery</u>.<br><br>* Consider <u>palliative chemotherapy</u>.<br><br><br> |
+
+
+
+
+
+> [!TIP]
+> The <u>treatment of colon cancer</u> is mainly surgical, supplemented with <u>chemotherapy</u>. <u>Radiation therapy</u> is not a standard therapeutic modality for <u>colon</u> cancers.
+
+
+
+
+### Surgery for colon cancer [[16]](https://coursology-qbank.com/amboss/article/oOX0ty)[[38]](https://coursology-qbank.com/amboss/article/psXLDz)[[39]](https://coursology-qbank.com/amboss/article/uz0pui)
+
+
+
+
+* <u>Colectomy</u> with <u>lymph node dissection</u> is indicated in all resectable tumors.
+
+* The extent of the resection depends on the location of the <u>tumor</u> as well as the blood supply and <u>lymphatic drainage</u> of the affected region.
+
+* En bloc resection of infiltrated adjacent tissue is recommended to obtain an <u>R0</u> resection.
+
+* In patients with <u>peritoneal metastases</u>, consider <u>cytoreductive surgery</u> in combination with <u>intraperitoneal</u> <u>chemotherapy</u> (HIPEC or <u>hyperthermic intraperitoneal chemotherapy</u>). [[16]](https://coursology-qbank.com/amboss/article/oOX0ty)
+
+* Bowel continuity should be restored via <u>anastomosis</u> when feasible; a <u>stoma</u> (temporary/permanent) may be needed. [[40]](https://coursology-qbank.com/amboss/article/VtXGc-)
+
+
+
+
+
+| <br>Typical <u>surgeries for colon cancer</u> [[38]](https://coursology-qbank.com/amboss/article/psXLDz)[[39]](https://coursology-qbank.com/amboss/article/uz0pui)[[41]](https://coursology-qbank.com/amboss/article/StXy1-)<br> |  |  |  |
+| --- | --- | --- | --- |
+| Type of resection |  | Description | Indication |
+| Hemicolectomy | <br>Right hemicolectomy  <br> | <br>* Resection of part of the <u>distal</u> <u>ileum</u>, the <u>ileocecal valve</u>, <u>cecum</u>, <u>ascending colon</u>, hepatic flexure, and <u>proximal</u> third of the <u>transverse colon</u><br><br> | <br>* <u>Tumor</u> in the <u>cecum</u> and <u>ascending colon</u><br><br> |
+| <br>Extended right hemicolectomy  <br> | <br>* <u>Right hemicolectomy</u> and resection of the <u>transverse colon</u><br><br> | <br>* <u>Tumor</u> near the hepatic flexure or in the <u>proximal</u> or middle <u>transverse colon</u><br><br> |  |
+| <br>Left hemicolectomy <br> | <br>* Resection of the <u>distal</u> third of the <u>transverse colon</u>, the <u>splenic flexure</u>, <u>descending colon</u>, and <u>sigmoid colon</u><br><br> | <br>* <u>Tumor</u> in the <u>descending colon</u><br><br> |  |
+| <br><u>Sigmoid colectomy</u>  <br> |  | <br>* Resection of the <u>sigmoid colon</u><br><br> | <br>* <u>Tumor</u> in the <u>sigmoid colon</u><br><br> |
+| Subtotal or total abdominal colectomy |  | <br>* Resection of most of or the entire <u>colon</u><br><br> | <br><br>* Multifocal <u>carcinomas</u><br><br>* Underlying <u>colonic</u> disease<br><br><br> |
+| Less commonly used techniques |  | <br><br>* Extended <u>left hemicolectomy</u><br><br>* Transverse <u>colectomy</u>   [[42]](https://coursology-qbank.com/amboss/article/olX0By)<br><br>* <u>Anterior</u> resection<br><br><br> |  |
+
+
+
+
+
+![Parts of the colon](../../../../../media/noabsqbuero4i5c2kfmhosgx.jpg)
+
+Parts of the colon
+
+![Surgical techniques in colon cancer](../../../../../media/oz1l59uddu6enqopif4kr0pp.jpg)
+
+Surgical techniques in colon cancer
+
+![Right hemicolectomy](../../../../../media/d0zvuf8mhzkpj7j5m11kxbsl.jpg)
+
+Right hemicolectomy
+
+![Extended right hemicolectomy](../../../../../media/w53yx61h28zrifj6jmzal48b.jpg)
+
+Extended right hemicolectomy
+
+![Left hemicolectomy](../../../../../media/c4w91xwo0wwvb75mphmvr7i3.jpg)
+
+Left hemicolectomy
+
+![Radical sigmoid colectomy](../../../../../media/afjgtt13izs2a4jljkdy60sn.jpg)
+
+Radical sigmoid colectomy
+
+![Extended left hemicolectomy](../../../../../media/j5j839jazxdldvx6qowhicg3.jpg)
+
+Extended left hemicolectomy
+
+![Transverse colectomy](../../../../../media/bj1t5br75ic16m7eugreb9bm.jpg)
+
+Transverse colectomy
+
+![Anterior resection](../../../../../media/ikx9wrtdhzcx3pazoj666msq.jpg)
+
+Anterior resection
+
+---
+
+## Treatment of rectal cancer
+
+### Principles of <u>rectal cancer treatment</u> [[9]](https://coursology-qbank.com/amboss/article/KOXUty)[[34]](https://coursology-qbank.com/amboss/article/6sXjDz)
+
+
+
+
+| Treatment of rectal cancer by stage |  |
+| --- | --- |
+| AJCC Stage | Treatment approach |
+| Stage I | <br>* Curative <u>surgery</u><br><br> |
+| Stage II | <br><br>* <u>Neoadjuvant chemotherapy</u> and/or <u>radiotherapy</u><br><br>* Curative <u>surgery</u><br><br>* <u>Adjuvant chemotherapy</u><br><br>* Consider <u>adjuvant radiotherapy</u> in patients with high-risk stage II disease.<br><br><br> |
+| Stage III | <br><br>* <u>Neoadjuvant chemotherapy</u> and/or <u>radiotherapy</u><br><br>* Curative <u>surgery</u><br><br>* <u>Adjuvant chemotherapy</u><br><br>* Consider <u>adjuvant radiotherapy</u>.<br><br><br> |
+| Stage IV | <br><br>* All patients<br><br>* Individualized treatment with a multidisciplinary approach<br><br>* Consider <u>neoadjuvant</u> treatment in potentially resectable <u>metastatic</u> disease.<br><br>* Resectable metastasic disease<br><br>* Curative <u>surgery</u><br><br>* Individualized <u>chemotherapy</u> and/or <u>radiotherapy</u> with curative intent<br><br>* Unresectable <u>metastatic</u> disease or severe comorbidities preventing surgical treatment<br><br>* <u>Palliative chemotherapy</u><br><br>* Consider palliative <u>surgery</u>.<br><br><br> |
+
+
+
+
+
+### Surgery for rectal cancer [[9]](https://coursology-qbank.com/amboss/article/KOXUty)
+
+
+
+
+* The extent of the resection depends on the location of the <u>tumor</u> and the <u>TNM stage</u>.
+
+* The sphincter tone and the distance of the <u>tumor</u> from the <u>anal verge</u> (e.g., via rigid proctosigmoidoscopy) should be assessed preoperatively to plan appropriate surgical resection.
+
+* Consider gynecology and/or urology consult if imaging shows a regional spread past the <u>rectum</u>.
+
+
+
+
+
+| Typical <u>surgeries for rectal cancer</u> |  |  |  |
+| --- | --- | --- | --- |
+|  | Description | Indication | <u>Tumor stage</u> |
+| Transanal excision | <br>* Minimally invasive excision of small <u>superficial</u> tumors<br><br> | <br>* Small (< 3 cm) T1 tumors with no <u>risk factors</u><br><br> | <br>* Early, localized disease (stage I)<br><br> |
+| Low anterior resection (<u>LAR</u>) | <br><br>* Sphincter-preserving resection of the <u>rectum</u> and sigmoid<br><br>* Total mesorectal excision (<u>TME</u>)<br><br>* En bloc excision of the <u>rectum</u>, <u>mesorectum</u>, regional <u>lymph nodes</u>, and vasculature<br><br>* Indicated in tumors of the middle and lower third of the <u>rectum</u><br><br>* Immediate reconstruction (e.g., side-to-side <u>anastomosis</u>)<br><br>* Optional <u>diverting ostomy</u><br><br><br> | <br>* <u>Tumor</u> location allowing for sphincter preservation in patients with good preoperative sphincter function <br><br>* Appropriate <u>distal</u> resection margins depend on the location of the <u>tumor</u>.<br><br>* 5 cm for tumors of the upper third of the <u>rectum</u><br><br>* For tumors closer to the anal sphincter, smaller resection margins may be tolerated.<br><br>* Shorter margins may be acceptable when <u>neoadjuvant therapy</u> has been successful.<br><br> | <br><br>* Stage I tumors ineligible for transanal excision<br><br>* Locally advanced disease (stages II–III)<br><br>* Resectable <u>metastatic</u> disease (stage IV)<br><br><br> |
+| Abdominoperineal resection (<u>APR</u>) | <br><br>* Resection of the <u>rectum</u>, sigmoid, and <u>anus</u><br><br>* <u>TME</u><br><br>* Permanent <u>colostomy</u><br><br><br> | <br>* <u>Tumor</u> too close to the sphincter to achieve an adequate <u>distal</u> margin without compromising the sphincter or cancer that has infiltrated the sphincter<br><br> |  |
+
+
+
+
+
+> [!TIP]
+> A complete <u>TME</u> is necessary to adequately assess the nodal status and prevent recurrence.
+
+
+
+
+![Parts of the colon](../../../../../media/noabsqbuero4i5c2kfmhosgx.jpg)
+
+Parts of the colon
+
+![Low anterior resection](../../../../../media/m2fmor2k2m7id3cpj6vyt9m5.jpg)
+
+Low anterior resection
+
+![Abdominoperineal resection](../../../../../media/nq5qy6ry41e5qgolix2vghp5.jpg)
+
+Abdominoperineal resection
+
+---
+
+## Pathology
+
+### Gross pathology
+
+
+
+
+* <u>Right-sided colon carcinomas</u>: mostly <u>exophytic</u> mass
+
+* <u>Left-sided colon carcinomas</u>: mostly infiltrating mass
+
+
+
+
+
+![Villous adenoma and adenocarcinoma of the colon](../../../../../media/yii6juz8gy2qfbblykql0ybr.jpg)
+
+Villous adenoma and adenocarcinoma of the colon
+
+![Colon cancer arising from adenoma](../../../../../media/o615bjqo3fu44cknssl9ahie.jpg)
+
+Colon cancer arising from adenoma
+
+![Colorectal carcinoma and adenomatous polyps](../../../../../media/n32l3uhr96w3m3jqpixl5tp1.jpg)
+
+Colorectal carcinoma and adenomatous polyps
+
+
+
+
+### <u>Histopathology</u>
+
+
+
+
+* Most common: <u>adenocarcinoma</u> (95%)
+
+* Less common
+
+* <u>Mucinous</u> <u>adenocarcinoma</u>
+
+* <u>Signet ring cell carcinoma</u>
+
+* <u>Small cell carcinoma</u>
+
+* Adenosquamous <u>carcinoma</u> (rare)
+
+* <u>Squamous cell carcinoma of the colon</u> (rare)
+
+
+
+
+
+> [!TIP]
+> 95% of all colorectal cancers are <u>adenocarcinomas</u>.
+
+
+
+
+![Colorectal adenocarcinoma (pT1)](../../../../../media/li508m0onlu3m2b6yhuv79yk.jpg)
+
+Colorectal adenocarcinoma (pT1)
+
+![Colorectal adenocarcinoma (pT3)](../../../../../media/l78z6bcrbjtmv6x9sbsgvw1t.jpg)
+
+Colorectal adenocarcinoma (pT3)
+
+![Mucinous adenocarcinoma of the colon](../../../../../media/wub7rjb3yunb2t1ampf7j367.jpg)
+
+Mucinous adenocarcinoma of the colon
+
+---
+
+## Complications
+
+### Peritoneal carcinomatosis [[43]](https://coursology-qbank.com/amboss/article/oKc0hW0)[[44]](https://coursology-qbank.com/amboss/article/KKcUhW0)
+
+
+
+
+* Definition: a terminal feature of abdominal cancers (most commonly of the <u>ovary</u>, <u>appendix</u>, or <u>colon</u>) characterized by seeding of the <u>tumor</u> to the <u>peritoneum</u>
+
+* <u>Epidemiology</u>: : depends on underlying <u>malignancy</u>; <u>peritoneal carcinomatosis</u> develops in ∼ 10% of individuals with colorectal cancer [[45]](https://coursology-qbank.com/amboss/article/LKcwSW0)
+
+* Etiology: primary <u>tumor</u> <u>metastasizes</u> to the <u>peritoneal</u> surface
+
+* Clinical features
+
+* <u>Ascites</u>
+
+* <u>Fistulas</u>
+
+* Fatigue
+
+* Abdominal <u>pain</u>, <u>nausea</u>, <u>cachexia</u>
+
+* Diagnostics: CT is preferred; typically shows metastatic studding (<u>tumor</u> <u>nodules</u> studding the surface of the <u>peritoneum</u>) and <u>omental caking</u>
+
+* Treatment
+
+* Operable disease: involves <u>cytoreductive surgery</u> followed by <u>hyperthermic intraperitoneal chemotherapy</u> (<u>HIPEC</u>), systemic <u>chemotherapy</u>, <u>targeted therapy</u>, and/or <u>immune checkpoint inhibitors</u>
+
+* Inoperable disease: experimental pressurized <u>intraperitoneal</u> aerosolized <u>chemotherapy</u> or repeated <u>intraperitoneal</u> <u>chemotherapy</u> infusion
+
+* Complications: bowel, biliary, and/or <u>ureteral obstruction</u>
+
+* Prognosis: : poor; 5-year survival rates after <u>cytoreductive surgery</u> and <u>HIPEC</u> are approx. 40%
+
+
+
+
+
+We list the most important complications. The selection is not exhaustive.
+
+---
+
+## Follow-up
+
+All patients with <u>CRC</u> should be followed up closely after curative treatment to ensure early identification and management of recurrence. These recommendations are consistent with the American Society of <u>Colon</u> and Rectal Surgeons' 2015 guidelines. [[46]](https://coursology-qbank.com/amboss/article/nOX7Gy)[[47]](https://coursology-qbank.com/amboss/article/HOXKFy)[[48]](https://coursology-qbank.com/amboss/article/JOXsty)
+
+
+
+
+* <u>Patient history</u>, <u>physical examination</u>, <u>CEA</u> level 
+
+* Every 3–6 months for 2 years
+
+* Every 6 months for an additional 3 years
+
+* CT chest/abdomen/<u>pelvis</u>: annually for 5 years
+
+* <u>Colonoscopy</u>
+
+* 1 year after preoperative <u>colonoscopy</u>
+
+* Every 3–5 years in the further follow-up, depending on findings
+
+* <u>Proctoscopy</u>/<u>sigmoidoscopy</u>
+
+* Recommended additional follow-up modality after the <u>treatment of rectal cancer</u>
+
+* Every 6–12 months for 3–5 years
+
+* May be supplemented with endorectal <u>ultrasound</u>
+
+* Recommended duration of close follow-up: 5 years following the completion of curative treatment
+
+
+
+
+
+> [!TIP]
+> 90% of recurrences occur within the first five years following treatment. [[48]](https://coursology-qbank.com/amboss/article/JOXsty)
+
+---
+
+## Screening
+
+Screening modalities and screening intervals depend on individual <u>risk factors</u> and differ for individuals at average risk and those at <u>high risk of CRC</u>.
+
+
+
+
+### Individuals at average risk (general population)  [[49]](https://coursology-qbank.com/amboss/article/q8WCnM0)[[50]](https://coursology-qbank.com/amboss/article/LwXwjZ0)[[51]](https://coursology-qbank.com/amboss/article/3XcSBa0)
+
+
+
+
+* Criteria for average risk of CRC include:
+
+* No history of <u>CRC</u>, <u>IBD</u>, or <u>adenomatous polyps</u>
+
+* No <u>family history</u> of hereditary <u>colon</u> cancer syndromes (e.g., <u>HNPCC</u>, <u>familial adenomatous polyposis</u>)
+
+* Recommended screening age
+
+* All individuals ≥ 45 years of age  [[49]](https://coursology-qbank.com/amboss/article/q8WCnM0)[[51]](https://coursology-qbank.com/amboss/article/3XcSBa0)
+
+* The decision to continue screening in patients aged 75–85 years should be made on a case-by-case basis.  [[49]](https://coursology-qbank.com/amboss/article/q8WCnM0)
+
+* Screening modalities: Consider individual <u>risk factors</u> and patient preference when choosing a screening method. 
+
+* Direct visualization
+
+* <u>Gold standard</u>: Complete <u>colonoscopy</u> every 10 years if no polyps or <u>carcinomas</u> are detected
+
+* Alternatives 
+
+* <u>CT colonography</u> or <u>capsule endoscopy</u> every 5 years [[50]](https://coursology-qbank.com/amboss/article/LwXwjZ0)
+
+* <u>Flexible sigmoidoscopy</u> every 5–10 years
+
+* Stool-based testing
+
+* Annual fecal immunochemical testing (FIT)
+
+* Uses <u>antibodies</u> to detect <u>occult GI bleeding</u>
+
+* Has a higher <u>sensitivity</u> for <u>CRC</u> than <u>FOBT</u>
+
+* All positive stool-based test results need to be confirmed using <u>colonoscopy</u>.
+
+* Annual fecal occult blood test (<u>FOBT</u>) 
+
+* Used to detect the presence of blood in feces that is not visibly apparent.
+
+* Used as a screening tool for colorectal <u>carcinoma</u>, but <u>upper gastrointestinal bleeding</u> (e.g., from a <u>peptic ulcer</u>) can also yield positive results
+
+* A positive result merits additional follow-up (e.g., <u>upper endoscopy</u>, <u>colonoscopy</u>)
+
+* Has poor <u>sensitivity</u> for detecting polyps
+
+* Multitargeted stool DNA test every 3 years 
+
+* A stool-based assay that detects certain mutations typical for early colorectal <u>carcinoma</u>, such as mutations of the <u>KRAS gene</u>.
+
+* Used as a screening tool for colorectal <u>carcinoma</u>
+
+* Positive tests are followed up with <u>colonoscopy</u>
+
+
+
+
+
+### Individuals at high risk [[21]](https://coursology-qbank.com/amboss/article/lOXvsy)[[50]](https://coursology-qbank.com/amboss/article/LwXwjZ0)
+
+
+
+
+| Colorectal cancer screening for high-risk individuals |  |  |
+| --- | --- | --- |
+| High-risk characteristics |  | <u>Screening recommendations</u> |
+| History of <u>adenomatous polyps</u> |  | <br>* See “<u>Surveillance after colon polypectomy</u>.”<br><br> |
+| History of <u>CRC</u> |  | <br>* See “<u>Surveillance after colorectal cancer treatment</u>.”<br><br> |
+| <br>Positive <u>family history</u> (Also consider <u>genetic testing</u> in patients with multiple affected family members or relatives affected at a young age)<br> | ≥ 2 first-degree relatives with <u>CRC</u> diagnosed at any age | <br><br>* Start screening with complete <u>colonoscopy</u> at age 40 or 10 years earlier than the <u>index patient</u>'s age at diagnosis; whichever is earlier<br><br>* Followed by complete <u>colonoscopy</u> every 5 years<br><br><br> |
+| <br>≥ 1 first-degree relative with <u>CRC</u> or advanced <u>adenoma</u> diagnosed at < 60 years of age<br> |  |  |
+| ≥ 1 first-degree relative with <u>CRC</u> or advanced <u>adenoma</u> diagnosed at ≥ 60 years of age | <br><br>* Start screening age 40 or 10 years earlier than the <u>index patient</u>'s age at diagnosis; whichever is earlier<br><br>* Screening modalities: same as those for individuals at <u>average risk for CRC</u><br><br>* Follow screening protocol for individuals at <u>average risk for CRC</u> (see above).<br><br><br> |  |
+| One <u>second-degree relative</u> with <u>CRC</u> or advanced <u>adenoma</u> | <br>* Follow screening protocol for individuals at <u>average risk for CRC</u> (see above).<br><br> |  |
+| Other high-risk conditions | Hereditary syndromes associated with increased risk of <u>CRC</u> (e.g., <u>FAP</u>, <u>HNPCC</u>) | <br>* Individual screening protocols (see “<u>FAP</u>,” “<u>HNPCC</u>,” and “<u>Inflammatory bowel diseases</u>”)<br><br> |
+| <u>Inflammatory bowel disease</u> |  |  |
+
+---

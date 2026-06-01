@@ -1,0 +1,277 @@
+# Dehydration and hypovolemia
+
+*Categories: Clinical knowledge > Internal medicine > Nephrology > Fluids, electrolytes, and acid-base disorders > Dehydration and hypovolemia*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/Ig0Y92)
+
+---
+
+## Summary
+
+<u>Hypovolemia</u> refers to a state of <u>intravascular</u> <u>volume depletion</u>, while <u>dehydration</u> describes a state of reduced <u>total body water</u> volume, mostly affecting the intracellular <u>fluid compartment</u>. In clinical practice, however, these terms are often used interchangeably, as they are often encountered simultaneously. Body fluid loss (<u>dehydration</u> and/or <u>hypovolemia</u>) occurs when fluid excretion exceeds fluid intake, e.g., due to inadequate fluid intake, <u>vomiting</u>, and/or <u>diarrhea</u>. Young children and the elderly are at an increased risk of clinical <u>dehydration</u> because of differences in <u>body water distribution</u>, the potential inability to communicate needs to caregivers, and increased <u>diuretic</u> use in elderly patients. Patients may present with increased thirst, <u>lethargy</u>, prolonged <u>capillary refill</u>, abnormal <u>vital signs</u>, and decreased <u>skin turgor</u>. Patients can also develop <u>hypovolemic shock</u> if <u>hypovolemia</u> is so severe that the body is unable to compensate, resulting in <u>end-organ damage</u> due to <u>hypoperfusion</u>. <u>Hypovolemia</u> and <u>dehydration</u> are <u>clinical diagnoses</u> and laboratory tests are only indicated in patients with suspected associated metabolic disturbances or severe enough fluid loss to cause <u>end-organ damage</u>. The primary goals of treatment are to first address the <u>hypovolemia</u>, if present, in order to quickly restore the circulatory volume, followed by the <u>management of dehydration</u> through the gradual correction of any <u>remaining fluid deficit</u> (including <u>free water deficit</u>), associated <u>electrolyte</u> abnormalities, ongoing fluid losses, and <u>maintenance fluid requirements</u>.
+
+
+
+
+See also “<u>Intravenous fluid therapy</u>” and “<u>Shock</u>.”
+
+---
+
+## Etiology
+
+* Insufficient water intake, particularly in elderly individuals and the critically ill
+
+* Increased free water loss
+
+* Renal loss: <u>diuretics</u>, <u>hyperglycemia</u>, <u>polyuric</u> phase of <u>renal failure</u>, <u>diabetes insipidus</u>
+
+* Extrarenal loss: <u>diarrhea</u> , <u>vomiting</u>, <u>burns</u>, increased sweating, <u>fever</u>, inflammation, <u>ascites</u>
+
+* See also <u>hypovolemic hypernatremia</u> and <u>euvolemic hypernatremia</u>.
+
+
+
+
+
+References:[[5]](https://coursology-qbank.com/amboss/article/tMaXqO)[[6]](https://coursology-qbank.com/amboss/article/8MaOqO)[[7]](https://coursology-qbank.com/amboss/article/uMapqO)[[8]](https://coursology-qbank.com/amboss/article/EMa8qO)[[9]](https://coursology-qbank.com/amboss/article/GKaB3l)
+
+---
+
+## Clinical features
+
+### Common features
+
+
+
+
+* General symptoms include thirst, <u>headache</u>, <u>weakness</u>, <u>dizziness</u>, and fatigue.
+
+* Physical findings often include:
+
+* All patients: dry <u>skin</u>, dry mucus membranes, and reduced tears
+
+* <u>Infants</u>: sunken <u>fontanelle</u>, irritability, and <u>lethargy</u>
+
+* <u>Hemodynamic instability</u> may be present in severe cases
+
+
+
+
+
+### Estimating severity
+
+
+
+
+* <u>Dehydration</u> and <u>hypovolemia</u> often coexist in the same patient (see “Overview” for a comparison of clinical features and etiology).
+
+* Estimating overall fluid loss (due to both processes) is helpful to <u>stratify</u> clinical severity upon presentation
+
+* Estimate percent weight loss based on clinical features.
+
+* For children ≤ 5 years of age with <u>gastroenteritis</u>, consider using the <u>clinical dehydration scale</u> (see “<u>Infectious gastroenteritis in children</u>”).
+
+* <u>Severe fluid loss</u> is a cause of <u>hypovolemic shock</u> (see also “<u>Clinical features of shock</u>”).
+
+
+
+
+
+| <br><u>Clinical features of dehydration and hypovolemia</u>[[1]](https://coursology-qbank.com/amboss/article/oCX0GZ0)[[10]](https://coursology-qbank.com/amboss/article/NEX-D-)<br> |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Clinical features |  | <br>Mild fluid loss (3–5% weight loss)<br> | <br>Moderate fluid loss (6–9% weight loss)<br> | <br>Severe fluid loss, i.e, <u>hypovolemic shock</u>  (≥ 10%weight loss)<br> |
+| Symptoms | Behavior and activity level | <br>* Normal<br><br> | <br><br>* Reduced activity level<br><br>* Children: may also be irritable<br><br><br> | <br><br>* <u>Lethargic</u><br><br>* Disoriented<br><br>* Children: may also have marked irritability when touched<br><br><br> |
+| Thirst | <br>* Slightly increased<br><br> | <br>* Moderately increased<br><br> | <br>* Extreme but may be too <u>lethargic</u> to drink<br><br> |  |
+| Physical findings | <u>Vitals</u> | <br><br>* HR: normal<br><br>* BP: normal<br><br>* Peripheral <u>pulse</u>: strong, easily palpable<br><br>* RR: normal<br><br><br> | <br><br>* HR: elevated<br><br>* BP: Normal or slightly reduced; <u>orthostatic hypotension</u> may be present.<br><br>* Palpated pulses weaker than normal<br><br>* RR: may be elevated with deep inspirations<br><br><br> | <br><br>* HR: <u>Tachycardia</u> or <u>bradycardia</u><br><br>* BP: Hypotensive<br><br>* Peripheral pulses: thready, difficult to palpate<br><br>* RR: <u>Kussmaul breathing</u>; <u>Bradypnea</u> may indicate impending <u>respiratory failure and arrest</u>.<br><br><br> |
+| Eyes | <br><br>* Normal appearance<br><br>* Normal tear production<br><br><br> | <br><br>* Sunken <u>orbits</u><br><br>* Decreased tear production<br><br><br> | <br><br>* Deeply sunken <u>orbits</u><br><br>* No tear production<br><br><br> |  |
+| <u>Skin</u> | <br><br>* Warm to the touch<br><br>* Normal <u>skin turgor</u><br><br>* Normal <u>capillary refill</u><br><br><br> | <br><br>* Cool to the touch<br><br>* Reduced <u>skin turgor</u><br><br>* Mildly delayed <u>capillary refill</u> (2–3 seconds)<br><br><br> | <br><br>* Cool, mottled <u>skin</u><br><br>* <u>Skin tenting</u><br><br>* Delayed <u>capillary refill</u> (> 3 seconds)<br><br><br> |  |
+| <u>Mucous membranes</u> | <br>* Tacky<br><br> | <br>* Dry<br><br> | <br><br>* Extremely dry<br><br>* Deep longitudinal furrows may be visible on the <u>tongue</u><br><br><br> |  |
+| Urine output | <br>* Normal or slightly decreased<br><br> | <br>* Moderately decreased<br><br> | <br>* <u>Oliguria</u> or <u>anuria</u><br><br> |  |
+| <br><u>Anterior fontanelle</u> (<u>infants</u> only)<br> | <br>* Normal<br><br> | <br>* Sunken<br><br> | <br>* Markedly sunken<br><br> |  |
+| <br>* Key: HR = <u>heart rate</u>, BP = blood pressure, RR = <u>respiratory rate</u><br><br> |  |  |  |  |
+
+
+
+
+
+![Sunken eyes in dehydration](../../../../../media/feufsw2gjuemh7dce2b75ogz.jpg)
+
+Sunken eyes in dehydration
+
+![Severe dehydration in an infant](../../../../../media/kqzv9f3uw4v5hscjjonpcit4.jpg)
+
+Severe dehydration in an infant
+
+![Tongue furrows](../../../../../media/j8xhg2ysnbysxd6flqh66hci.jpg)
+
+Tongue furrows
+
+![Sunken fontanelle](../../../../../media/nrgfnqjhuox7ztfksegx5jgd.jpg)
+
+Sunken fontanelle
+
+---
+
+## Diagnosis
+
+### Approach
+
+
+
+
+* Diagnosing <u>dehydration</u> and/or <u>hypovolemia</u> relies on clinical assessment (see “<u>Clinical features of dehydration and hypovolemia</u>”).
+
+* <u>Laboratory studies</u> can help support the <u>clinical diagnosis</u> but are not routinely required.
+
+* Obtain <u>laboratory studies</u> for:
+
+* <u>Severe fluid loss</u> requiring <u>IV fluids</u>
+
+* <u>Moderate fluid loss</u> following unsuccessful enteral (e.g., PO/NG) fluid replacement
+
+* Evaluation of the underlying cause, e.g., <u>diabetes insipidus</u>, <u>hyperglycemic crises</u>
+
+
+
+
+
+> [!TIP]
+> <u>Dehydration</u> and <u>hypovolemia</u> are <u>clinical diagnoses</u>.
+
+
+
+
+### <u>Laboratory studies</u>
+
+
+
+
+* Orders: to evaluate <u>severe fluid loss</u>
+
+* <u>BMP</u>: Serum Na used to guide treatment.
+
+* <u>CBC</u>
+
+* <u>Lactate</u>
+
+* <u>Uric acid</u>
+
+* <u>POC glucose</u>
+
+* <u>Urinalysis</u>
+
+* Urine <u>electrolytes</u>: e.g., urine Na
+
+* Findings
+
+* Interpret in context on an individual basis
+
+* Vary depending on: [[2]](https://coursology-qbank.com/amboss/article/KCXUGZ0)
+
+* Predominance of <u>dehydration</u> vs. <u>hypovolemia</u>
+
+* Age: e.g., <u>infants</u>, older adults
+
+* Underlying etiology: e.g., <u>diabetes insipidus</u>
+
+* Medications: e.g., <u>diuretic</u> use
+
+* Comorbidities: e.g., <u>CKD</u>
+
+* See also “Diagnostic findings in <u>hypernatremia</u>.”
+
+
+
+
+
+| <br>Laboratory findings in dehydration and hypovolemia[[2]](https://coursology-qbank.com/amboss/article/KCXUGZ0) |  |  |
+| --- | --- | --- |
+|  | <u>Dehydration</u> | <u>Hypovolemia</u> |
+| Plasma | <br><br>* Normal <u>Hb</u> and <u>Hct</u><br><br>* Normal <u>renal function tests</u><br><br>* <u>Hypernatremia</u> (if free water loss exceeds isotonic fluid loss)<br><br><br> | <br><br>* ↑ <u>Hb</u> and <u>Hct</u><br><br>* <u>Renal function tests</u>: may show <u>signs of AKI</u><br><br>* ↑ <u>BUN/creatinine ratio</u> (> 20:1), typically secondary to renal <u>hypoperfusion</u><br><br>* ↓ <u>GFR</u><br><br>* <u>Hypernatremia</u>, isonatremia, or <u>hyponatremia</u> can be seen, depending on multiple factors (e.g., the degree of free water loss, renal function, medications)<br><br>* <u>Metabolic acidosis</u> with ↓ <u>HCO<sub>3</sub>-</u><br><br>* ↑ <u>Lactate</u><br><br>* ↑ <u>Uric acid</u><br><br>* See also “<u>Diagnostic findings in shock</u>.”<br><br><br> |
+| Urine | <br><br>* ↑ Specific gravity and ↑ <u>osmolality</u><br><br>* Urine Na > 30 mEq/L<br><br>* Normal or increased <u>FENa</u><br><br><br> | <br><br>* ↑ Specific gravity and ↑ <u>osmolarity</u><br><br>* Urine Na ≤ 30 mEq/L  [[10]](https://coursology-qbank.com/amboss/article/NEX-D-)<br><br>* <u>FENa</u> < 1%  [[10]](https://coursology-qbank.com/amboss/article/NEX-D-)<br><br><br> |
+
+---
+
+## Treatment
+
+Replacing body fluid losses typically involves rapid correction of extracellular <u>volume depletion</u> and judicious correction of intracellular <u>dehydration</u> (see also “<u>IV fluid therapy strategies</u>”).
+
+
+
+
+### Approach
+
+
+
+
+* <u>Initial fluids for dehydration and hypovolemia</u>: Administer isotonic fluid and choose route and rate based on estimated fluid loss.
+
+* <u>Severe fluid loss</u>;  (<u>hypovolemic shock</u>): Begin <u>immediate hemodynamic support</u> with aggressive <u>IV fluid resuscitation</u>, e.g., 20 mL/kg bolus of isotonic <u>crystalloid</u>.
+
+* <u>Moderate fluid loss</u> (<u>hypovolemia</u> without <u>shock</u>)
+
+* Administer enteral OR parenteral fluids to correct extracellular volume deficit.  [[11]](https://coursology-qbank.com/amboss/article/35YSPp)
+
+* If starting with <u>IV fluids</u>, transition to enteral fluids as soon as possible.
+
+* <u>Mild fluid loss</u>: Prioritize enteral replacement of fluids (i.e., <u>oral rehydration therapy</u>).
+
+* <u>Supportive care</u> for all patients: Management of these is often begun concurrently with initial fluid administration.
+
+* Treat associated metabolic disturbances: e.g., <u>glucose</u> and <u>electrolyte</u> abnormalities.
+
+* Identify and treat underlying causes (see “Etiology”).
+
+* Address <u>continued fluid needs</u>.
+
+* <u>Replace free water deficit</u> to restore intracellular volume losses and correct <u>hypernatremia</u>.
+
+* Meet <u>maintenance fluid requirements</u>.
+
+* Replace ongoing fluid losses.
+
+* Monitoring and disposition
+
+* Evaluate the need for hospital admission (see “Disposition”).
+
+* Inpatient monitoring
+
+* Regular <u>vital sign</u> monitoring
+
+* Regular <u>input/output monitoring</u>
+
+* Consider serial serum <u>electrolytes</u>.
+
+
+
+
+
+> [!WARNING]
+> Stabilization through correction of <u>intravascular</u> volume deficit with <u>fluid resuscitation</u> is the first priority. Manage urgent metabolic abnormalities (e.g., severe symptomatic <u>hyponatremia</u>, acute <u>hypoglycemia</u>) concurrently with <u>fluid resuscitation</u>. Address subacute <u>electrolyte</u> abnormalities after stabilization.
+
+---
+
+## Complications
+
+* <u>Hypovolemic shock</u> → <u>prerenal renal failure</u>
+
+* Increased risk of infection, particularly of the <u>urinary tract</u>
+
+* <u>Thrombosis</u>
+
+* <u>Osmotic demyelination syndrome</u>
+
+* Patients with <u>diabetes mellitus</u>: <u>Dehydration</u> can trigger <u>diabetic ketoacidosis</u>.
+
+
+
+
+
+References:[[29]](https://coursology-qbank.com/amboss/article/4703Nh)[[30]](https://coursology-qbank.com/amboss/article/ZoaZ0l)[[31]](https://coursology-qbank.com/amboss/article/0oae0l)[[32]](https://coursology-qbank.com/amboss/article/aoaQ0l)
+
+
+
+
+We list the most important complications. The selection is not exhaustive.
+
+---

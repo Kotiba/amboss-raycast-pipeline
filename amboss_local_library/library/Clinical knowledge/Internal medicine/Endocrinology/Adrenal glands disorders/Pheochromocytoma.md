@@ -1,0 +1,429 @@
+# Pheochromocytoma
+
+*Categories: Clinical knowledge > Internal medicine > Endocrinology > Adrenal glands disorders > Pheochromocytoma*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/Tg06u2)
+
+---
+
+## Summary
+
+A pheochromocytoma is a <u>catecholamine</u>-secreting <u>tumor</u> that develops in the <u>adrenal medulla</u>. Pheochromocytomas are malignant in approximately 10% of cases. Excess <u>sympathetic nervous system</u> stimulation in individuals with pheochromocytoma leads to episodic blood pressure crises with <u>paroxysmal</u> <u>headaches</u>, <u>diaphoresis</u>, <u>heart</u> <u>palpitations</u>, and <u>pallor</u>. Pheochromocytomas may also be asymptomatic or manifest with persistent <u>hypertension</u>. Elevated <u>catecholamine</u> metabolites in the plasma or urine confirm the diagnosis, and imaging studies are used to determine the location of the <u>tumor</u>. Surgical resection is the treatment of choice. Preoperative <u>alpha-adrenergic</u> blockade (e.g., <u>phenoxybenzamine</u>) is indicated to prevent intraoperative complications such as <u>hypertensive crises</u>.
+
+---
+
+## Epidemiology
+
+* <u>Incidence</u> [[5]](https://coursology-qbank.com/amboss/article/Uq0bBS)
+
+* Most common <u>tumor</u> of the <u>adrenal medulla</u> in adults
+
+* Present in up to 1% of all hypertensive patients
+
+* Age: 3<sup>rd</sup>–5<sup>th</sup> decades of life [[5]](https://coursology-qbank.com/amboss/article/Uq0bBS)
+
+
+
+
+Epidemiological data refers to the US, unless otherwise specified.
+
+---
+
+## Etiology
+
+* The majority of pheochromocytomas are benign, unilateral, <u>catecholamine</u>-producing tumors, that rarely produce other <u>hormones</u> such as <u>EPO</u>.
+
+* Tumors arise from <u>chromaffin cells</u>, which are derived from the <u>neural crest</u>.
+
+* Localization [[6]](https://coursology-qbank.com/amboss/article/U30b3f)
+
+* ∼ 90% <u>adrenal medulla</u> (physiologically activated by <u>acetylcholine</u>)
+
+* ∼ 10% extra-<u>adrenal</u> in the <u>sympathetic ganglia</u>
+
+* ∼ 10% at multiple locations
+
+* 25% of pheochromocytomas are hereditary (<u>germline mutations</u>):
+
+* <u>Multiple endocrine neoplasia type 2</u> (<u>MEN 2A</u>, <u>MEN 2B</u>)
+
+* <u>Neurofibromatosis type 1</u> (<u>NF1</u>)
+
+* <u>Von Hippel-Lindau disease</u> (<u>VHL</u>)
+
+
+
+
+
+> [!NOTE]
+> MAry P. sang “superCALi-fragilistic-EXpiali-DOcious” to the children 10 times: 10% of pheochromocytomas are MAlignant; 10% show CALcifications; 10% are EXtra-<u>adrenal</u>; 10% are DUal sided, i.e., bilateral; and 10% affect children.   [[7]](https://coursology-qbank.com/amboss/article/ba1HQ20)[[8]](https://coursology-qbank.com/amboss/article/Xa19Q20)
+
+---
+
+## Clinical features
+
+Clinical presentation is related to fluctuating levels of excess <u>epinephrine</u>, <u>norepinephrine</u>, and <u>dopamine</u> secretion, so symptoms are characterized by patterns of relapse and remitting (episodic hyperadrenergic syndrome).
+
+
+
+
+* Episodic <u>hypertension</u> (or persistent <u>hypertension</u> in some cases) ;  [[9]](https://coursology-qbank.com/amboss/article/RXYlBn)
+* Triggers for <u>paroxysmal</u> elevations in blood pressure: foods and beverages high in <u>tyramine</u>;  (e.g., red wine, aged cheese), <u>surgery</u>, pressure on the <u>tumor</u> (e.g., during massage), or certain drugs (e.g., <u>beta blockers</u>, <u>MAOIs</u>)
+
+* <u>Paroxysmal</u> [[6]](https://coursology-qbank.com/amboss/article/U30b3f)
+
+* Throbbing <u>headache</u>
+
+* <u>Diaphoresis</u>
+
+* <u>Heart</u> <u>palpitations</u>, <u>tachycardia</u>
+
+* <u>Pallor</u>
+
+* Abdominal <u>pain</u> and <u>nausea</u>
+
+* <u>Anxiety</u>
+
+* Weight loss due to increased basal metabolism
+
+* <u>Hyperglycemia</u>
+
+* Signs of <u>polycythemia</u>, if <u>EPO</u> is secreted
+
+* Additional features of hereditary disorders associated with pheochromocytoma
+
+* <u>Medullary thyroid cancer</u> and parathyroid <u>hyperplasia</u> (<u>MEN 2A</u>)
+
+* <u>Medullary thyroid cancer</u>, oral/intestinal <u>neuromas</u>, and <u>marfanoid habitus</u> (<u>MEN 2B</u>)
+
+* Cutaneous <u>neurofibromas</u>, <u>cafe-au-lait spots</u>, and <u>Lisch nodules</u> (<u>NF1</u>)
+
+* <u>Renal cell carcinoma</u>, <u>hemangioblastoma</u>, <u>angiomatosis</u> (<u>VHL</u>)
+
+
+
+
+
+> [!TIP]
+> Patients can show typical clinical features (e.g., <u>secondary hypertension</u>) but may also be asymptomatic.
+
+
+
+
+> [!NOTE]
+> 5 most important Problems (5 P’s) of Pheochromocytoma: increased blood Pressure, head Pain (<u>headache</u>), Perspiration, Palpitations, and Pallor
+
+
+
+
+> [!WARNING]
+> <u>Hypertensive crises</u> can be triggered by palpation of the <u>tumor</u> on <u>abdominal exam</u>.
+
+---
+
+## Diagnosis
+
+### Approach [[1]](https://coursology-qbank.com/amboss/article/MW1MNf0)[[10]](https://coursology-qbank.com/amboss/article/ri1fGg0)[[11]](https://coursology-qbank.com/amboss/article/Cj1qcS0)
+
+
+
+
+* Consult a specialist early.
+
+* Obtain biochemical testing to prove <u>catecholamine</u> excess.
+
+* Obtain imaging to locate the <u>tumor</u>.
+
+* Consider indications for <u>genetic testing</u> on an individual basis.
+
+
+
+
+
+### Biochemical testing [[1]](https://coursology-qbank.com/amboss/article/MW1MNf0)[[2]](https://coursology-qbank.com/amboss/article/5W1iNf0)[[10]](https://coursology-qbank.com/amboss/article/ri1fGg0)
+
+
+
+
+#### Screening for catecholamine excess [[1]](https://coursology-qbank.com/amboss/article/MW1MNf0)
+
+
+
+
+* Indications
+
+* Characteristic <u>features of pheochromocytoma</u>
+
+* <u>Adrenal incidentaloma</u>
+
+* Known or suspected <u>hereditary disorders associated with pheochromocytoma</u>
+
+* Preferred modalities (highly sensitive): plasma free <u>metanephrines</u> (taken in <u>supine position</u> ), OR urinary fractionated <u>metanephrines</u> (<u>24-hour urine collection</u>)
+
+* Significantly elevated <u>metanephrines</u>:  Diagnosis is likely.
+
+* Normal <u>metanephrines</u>: Diagnosis is unlikely.
+
+* Moderately elevated <u>metanephrines</u> (inconclusive results)
+
+* Repeat the initial test after removal of interfering factors.  [[2]](https://coursology-qbank.com/amboss/article/5W1iNf0)[[12]](https://coursology-qbank.com/amboss/article/UV1bFf0)
+
+* If results remain inconclusive after repeat testing: Obtain a <u>clonidine suppression test</u>.
+
+* Other modalities (lower diagnostic <u>accuracy</u>): no longer routinely recommended
+
+* Fractionated <u>catecholamines</u> (plasma or <u>24-hour urine collection</u>)  [[2]](https://coursology-qbank.com/amboss/article/5W1iNf0)
+
+* <u>Homovanillic acid</u> and <u>vanillylmandelic acid</u>
+
+
+
+
+
+> [!TIP]
+> Inconclusive test results should prompt further testing. <u>False positives</u> are common because of low <u>pretest probability</u>, suboptimal <u>specificity</u>, and the possibility of interfering factors.
+
+
+
+
+#### Clonidine suppression test [[1]](https://coursology-qbank.com/amboss/article/MW1MNf0)
+
+
+
+
+* Indication (not routinely recommended): inconclusive results from <u>catecholamine</u> excess testing
+
+* Method: normetanephrine is measured in plasma at baseline and 3 hours after oral administration of <u>clonidine</u>.
+
+* Interpretation
+
+* Inadequate normetanephrine suppression : Diagnosis is likely.
+
+* Adequate normetanephrine suppression : Diagnosis is unlikely.
+
+
+
+
+
+### Imaging [[1]](https://coursology-qbank.com/amboss/article/MW1MNf0)[[2]](https://coursology-qbank.com/amboss/article/5W1iNf0)[[10]](https://coursology-qbank.com/amboss/article/ri1fGg0)
+
+
+
+
+Obtain imaging studies only after <u>catecholamine</u> excess has been confirmed.
+
+
+
+
+* CT abdomen and <u>pelvis</u> with contrast: preferred initial modality
+
+* <u>MRI</u>: preferred in patients with known <u>metastatic</u> disease
+
+* Functional imaging studies: Consider in select patients under specialist consultation. 
+
+* <u>PET-CT</u>
+
+* <u>Scintigraphy (MIBG)</u>
+
+
+
+
+
+![Bilateral adrenal tumors](../../../../../media/vauixepesh70nwapwplkczns.jpg)
+
+Bilateral adrenal tumors
+
+![Right adrenal lesion](../../../../../media/to8cfifbclhi41m1hh7sbnq3.jpg)
+
+Right adrenal lesion
+
+![Pheochromocytoma](../../../../../media/f0p420zoh6gz9yzzb0hm546v.jpg)
+
+Pheochromocytoma
+
+
+
+
+### Additional diagnostics
+
+
+
+
+* <u>Genetic testing</u>: Practice <u>shared decision-making</u> under specialist guidance.  [[1]](https://coursology-qbank.com/amboss/article/MW1MNf0)[[2]](https://coursology-qbank.com/amboss/article/5W1iNf0)
+
+* Includes testing for <u>MEN 2A</u>, <u>MEN 2B</u>, <u>von Hippel Lindau</u>, <u>NF1</u>, and <u>familial paraganglioma syndrome</u>
+
+* Indications include
+
+* Extra-<u>adrenal</u> <u>paraganglioma</u>
+
+* Features consistent with <u>hereditary disorders associated with pheochromocytoma</u>
+
+* <u>First-degree relatives</u> of individuals who carry mutations
+
+* <u>Histopathology</u> [[11]](https://coursology-qbank.com/amboss/article/Cj1qcS0)[[13]](https://coursology-qbank.com/amboss/article/Ei18tg0)
+
+* <u>Biopsies</u> are not indicated for diagnostic purposes.
+
+* <u>Histopathological studies</u> may be performed postoperatively.
+
+* <u>Immunohistochemical</u> staining is typically positive for chromogranin, <u>synaptophysin</u>, and <u>NSE</u>.
+
+
+
+
+
+![Pheochromocytoma](../../../../../media/esl9addtr517xofpzryk41tt.jpg)
+
+Pheochromocytoma
+
+![Pheochromocytoma](../../../../../media/ld1jimo1pw8h4loahcp2h643.jpg)
+
+Pheochromocytoma
+
+---
+
+## Treatment
+
+### General principles [[1]](https://coursology-qbank.com/amboss/article/MW1MNf0)[[2]](https://coursology-qbank.com/amboss/article/5W1iNf0)[[10]](https://coursology-qbank.com/amboss/article/ri1fGg0)
+
+
+
+
+<u>Multidisciplinary care</u> at a specialized center is recommended.
+
+
+
+
+* Surgical <u>tumor</u> resection is the only curative treatment.
+
+* Preoperative blood pressure management and postoperative monitoring for <u>adrenal crisis</u> are essential.
+
+* Management of advanced nonoperable disease (e.g., <u>metastatic</u> disease) is palliative and may include: [[11]](https://coursology-qbank.com/amboss/article/Cj1qcS0)
+
+* <u>Cytoreductive therapies</u> (e.g., <u>cytoreductive surgery</u>, <u>radiotherapy</u>, <u>chemotherapy</u>)
+
+* Symptomatic therapy (e.g., <u>alpha blockers</u>)
+
+* Patients with <u>germline mutations</u> should be included in surveillance programs led by endocrinologists.
+
+
+
+
+
+> [!WARNING]
+> <u>Treat hypertensive crisis</u> due to pheochromocytoma with <u>IV antihypertensives</u> that target <u>catecholamine</u> excess (e.g., <u>phentolamine</u>, <u>clevidipine</u>, or <u>nicardipine</u>) and avoid <u>beta blockers</u>. [[19]](https://coursology-qbank.com/amboss/article/OzaIGM)[[20]](https://coursology-qbank.com/amboss/article/_sY5xq)[[21]](https://coursology-qbank.com/amboss/article/fEYkEI)
+
+
+
+
+### Surgical resection [[1]](https://coursology-qbank.com/amboss/article/MW1MNf0)[[2]](https://coursology-qbank.com/amboss/article/5W1iNf0)[[10]](https://coursology-qbank.com/amboss/article/ri1fGg0)
+
+
+
+
+* <u>Adrenalectomy</u>: treatment of choice for pheochromocytoma
+
+* Subtotal (organ sparing) <u>adrenalectomy</u>: removal of the part of the gland containing the <u>tumor</u>
+
+* Total (radical) <u>adrenalectomy</u>: removal of the entire <u>adrenal gland</u>
+
+* Techniques
+
+* <u>Laparoscopic</u> resection: preferred for most tumors
+
+* Open resection: preferred for large;  (> 6 cm) or invasive tumors
+
+* Removal of extra-<u>adrenal</u> <u>paragangliomas</u>: Open resection is preferred.  [[1]](https://coursology-qbank.com/amboss/article/MW1MNf0)
+
+
+
+
+
+> [!TIP]
+> A no-touch technique should be used because contact with the <u>tumor</u> can lead to massive <u>catecholamine</u> release.
+
+
+
+
+#### <u>Preoperative management</u>   [[1]](https://coursology-qbank.com/amboss/article/MW1MNf0)[[2]](https://coursology-qbank.com/amboss/article/5W1iNf0)[[11]](https://coursology-qbank.com/amboss/article/Cj1qcS0)
+
+
+
+
+<u>Preoperative management</u> of blood pressure and <u>heart rate</u> is required.
+
+
+
+
+* Treatment target
+
+* BP < 130/80 mmHg, > 90 mmHg systolic
+
+* <u>Heart rate</u> 60–80/min while seated
+
+* Pharmacotherapy: Initiate 7–14 days prior to <u>surgery</u>. [[1]](https://coursology-qbank.com/amboss/article/MW1MNf0)
+
+* Indicated for all patients with hormonally active pheochromocytoma
+
+* Start with <u>alpha-adrenergic</u> blockade. 
+
+* Nonselective irreversible: <u>phenoxybenzamine</u> DOSAGE  [[1]](https://coursology-qbank.com/amboss/article/MW1MNf0)[[2]](https://coursology-qbank.com/amboss/article/5W1iNf0)
+
+* OR selective alpha-1 blocker: <u>doxazosin</u> (<u>off label</u>) DOSAGE  [[1]](https://coursology-qbank.com/amboss/article/MW1MNf0)
+
+* Add a <u>beta blocker</u> after effective alpha blockade to control <u>tachycardia</u>, e.g.:  [[2]](https://coursology-qbank.com/amboss/article/5W1iNf0)
+
+* <u>Metoprolol</u> (<u>off label</u>) DOSAGE
+
+* OR <u>propranolol</u> DOSAGE
+
+* Consider the following for additional blood pressure control: 
+
+* <u>Calcium channel blockers</u>, e.g., <u>amlodipine</u> DOSAGE [[1]](https://coursology-qbank.com/amboss/article/MW1MNf0)
+
+* Metyrosine  [[1]](https://coursology-qbank.com/amboss/article/MW1MNf0)
+
+* Nonpharmacological therapy: Ensure high <u>sodium</u> and fluid intake to prevent postoperative <u>hypotension</u>.  [[2]](https://coursology-qbank.com/amboss/article/5W1iNf0)
+
+
+
+
+
+> [!NOTE]
+> Treat PHEochromocytoma with PHEnoxybenzamine, but remember that Alpha blockers should be given Ahead and Beta blockers Behind.
+
+
+
+
+> [!WARNING]
+> Starting <u>beta blockers</u> before <u>alpha blockers</u> is contraindicated because doing so can cause life-threatening <u>hypertensive crisis</u>. <u>Beta-blockers</u> cancel out the <u>vasodilatory</u> effect of peripheral beta-2 <u>adrenoceptors</u>, potentially leading to unopposed alpha-<u>adrenoceptor</u> stimulation and thereby causing <u>vasoconstriction</u> and increased blood pressure.
+
+
+
+
+#### <u>Postoperative management</u> [[1]](https://coursology-qbank.com/amboss/article/MW1MNf0)[[2]](https://coursology-qbank.com/amboss/article/5W1iNf0)[[10]](https://coursology-qbank.com/amboss/article/ri1fGg0)
+
+
+
+
+* Postoperative monitoring
+
+* Measure blood pressure, <u>heart rate</u>, and blood <u>glucose</u> levels for 24–48 hours.
+
+* Start management for <u>acute adrenal insufficiency</u> as needed (e.g., <u>glucocorticoids</u>, <u>IV fluids</u>).
+
+* Long-term monitoring
+
+* May include repeat biochemical testing and imaging studies; see “Diagnostics.”
+
+* The frequency of monitoring is based on individual risk for persistent, recurrent, and/or <u>metastatic</u> disease.  [[11]](https://coursology-qbank.com/amboss/article/Cj1qcS0)
+
+
+
+
+
+> [!TIP]
+> The risk of postoperative <u>acute adrenal insufficiency</u> and subsequent <u>hypoglycemia</u> is especially high in individuals with bilateral <u>adrenalectomy</u>.
+
+---

@@ -1,0 +1,345 @@
+# Delayed onset of puberty
+
+*Categories: Clinical knowledge > Urology > Andrology > Delayed onset of puberty*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/4v03ZR)
+
+---
+
+## Summary
+
+Delayed onset of <u>puberty</u> is defined in boys by testicular volume < 4 mL or length < 2.5 cm by 14 years of age; it is defined in girls by absence of <u>breast</u> development by 13 years of age or <u>menarche</u> by 15 years of age. The most common cause is <u>constitutional delay of growth and puberty</u> (<u>CDGP</u>). Other causes include congenital or acquired conditions that impair <u>gonadotropin-releasing hormone</u> (<u>GnRH</u>) and/or <u>gonadotropin</u> release (<u>hypogonadotropic hypogonadism</u>) and primary failure of the <u>gonads</u> to produce sex <u>hormones</u> (<u>hypergonadotropic hypogonadism</u>). Clinical evaluation involves a focused history and <u>physical examination</u>, including a <u>pediatric growth</u> assessment and <u>sexual maturity rating</u>. Initial diagnostic evaluation includes laboratory testing (<u>gonadotropin</u> and <u>sex hormone levels</u>) and a <u>bone age</u> assessment. Targeted testing to determine the underlying cause is based on clinical presentation and initial testing. Management includes treatment of underlying causes and <u>expectant management</u> in patients with <u>CDGP</u>. Hormonal therapy may be indicated to stimulate <u>pubertal development</u>.
+
+---
+
+## Etiology
+
+### Constitutional delay of growth and puberty (most common) [[2]](https://coursology-qbank.com/amboss/article/qgVCwF0)[[3]](https://coursology-qbank.com/amboss/article/4Bd3as0)[[4]](https://coursology-qbank.com/amboss/article/IodYWI0)
+
+
+
+
+* Likely genetic cause
+
+* Delayed <u>puberty</u> occurs due to delay in pulsatile <u>hypothalamic</u> <u>GnRH</u> release.
+
+
+
+
+
+### <u>Hypogonadotropic hypogonadism</u> [[2]](https://coursology-qbank.com/amboss/article/qgVCwF0)[[3]](https://coursology-qbank.com/amboss/article/4Bd3as0)[[4]](https://coursology-qbank.com/amboss/article/IodYWI0)
+
+
+
+
+See also "<u>Etiology of male hypogonadism</u>."
+
+
+
+
+* Congenital 
+
+* <u>Idiopathic hypogonadotropic hypogonadism</u>, including <u>Kallmann syndrome</u>
+
+* Genetic syndromes (e.g., <u>Prader-Willi syndrome</u>, <u>CHARGE syndrome</u>)
+
+* Acquired
+
+* Functional causes 
+
+* <u>Undernutrition</u> or excessive exercise (e.g., in <u>anorexia nervosa</u>, <u>REDs</u>)
+
+* Chronic diseases (e.g., <u>inflammatory bowel disease</u>, <u>hypothyroidism</u>, <u>cystic fibrosis</u>)
+
+* Medications (e.g., <u>glucocorticoids</u>)
+
+* <u>CNS</u> causes
+
+* <u>CNS tumors</u> (e.g., <u>craniopharyngioma</u>, <u>pituitary adenoma</u>, <u>germinoma</u>)
+
+* <u>Brain injury</u> (e.g., <u>traumatic brain injury</u>, <u>radiation injury</u>)
+
+* Intracranial infections (e.g., <u>encephalitis</u>, <u>meningitis</u>)
+
+* Infiltration (e.g., in <u>Langerhans cell histiocytosis</u>)
+
+
+
+
+
+### <u>Hypergonadotropic hypogonadism</u> [[2]](https://coursology-qbank.com/amboss/article/qgVCwF0)[[3]](https://coursology-qbank.com/amboss/article/4Bd3as0)[[4]](https://coursology-qbank.com/amboss/article/IodYWI0)
+
+
+
+
+See also "<u>Etiology of male hypogonadism</u>" and "<u>Etiology of primary ovarian insufficiency</u>."
+
+
+
+
+* Congenital
+
+* <u>Klinefelter syndrome</u>
+
+* <u>Down syndrome</u>
+
+* <u>Gonadal dysgenesis</u> (e.g., in <u>Turner syndrome</u>)
+
+* Anorchia
+
+* <u>LH</u> and <u>FSH</u> <u>receptor</u> defects
+
+* <u>Androgen insensitivity syndrome</u>
+
+* Acquired 
+
+* <u>Chemotherapy</u>
+
+* Gonadal radiation
+
+* Infection (e.g., <u>mumps</u>)
+
+* Gonadal trauma or <u>surgery</u>
+
+* Autoimmune disease
+
+
+
+
+
+> [!TIP]
+> <u>Hypergonadotropic hypogonadism</u> is a more common cause of delayed <u>puberty</u> in girls than in boys. [[4]](https://coursology-qbank.com/amboss/article/IodYWI0)
+
+---
+
+## Clinical evaluation
+
+The clinical presentation depends on the underlying condition.
+
+
+
+
+### Focused history [[2]](https://coursology-qbank.com/amboss/article/qgVCwF0)[[3]](https://coursology-qbank.com/amboss/article/4Bd3as0)[[4]](https://coursology-qbank.com/amboss/article/IodYWI0)
+
+
+
+
+* <u>Pubertal development</u>: timing and sequence of development of any <u>secondary sexual characteristic</u>
+
+* <u>Past medical history</u>
+
+* <u>Developmental delay</u>
+
+* Chronic medical conditions
+
+* History of <u>chemotherapy</u> and/or radiation
+
+* <u>CNS</u> trauma or infection
+
+* Gonadal injury or infection (e.g., <u>testicular torsion</u>, <u>mumps</u>)
+
+* <u>Cryptorchidism</u>
+
+* <u>Family history</u> 
+
+* Timing of parental <u>puberty</u>, including:
+
+* Maternal <u>menarche</u>
+
+* Timing of paternal final adult height
+
+* Genetic and/or endocrine disorders
+
+* <u>Infertility</u>
+
+* Focused review of symptoms
+
+* <u>CNS</u> symptoms (e.g., <u>headaches</u>, <u>vision</u> changes)
+
+* <u>Anosmia</u> or <u>hyposmia</u>
+
+* <u>Symptoms of eating disorders</u>
+
+* Signs of excessive exercise
+
+* Symptoms of <u>estrogen deficiency</u>
+
+* <u>Symptoms of hyperprolactinemia</u> (e.g., <u>galactorrhea</u>)
+
+* Features of chronic disease, e.g.:
+
+* Gastrointestinal symptoms (e.g., <u>diarrhea</u>, abdominal <u>pain</u>)
+
+* <u>Symptoms of hypothyroidism</u> or <u>symptoms of hyperthyroidism</u>
+
+* <u>Arthralgia</u>
+
+
+
+
+
+### Focused examination [[2]](https://coursology-qbank.com/amboss/article/qgVCwF0)[[3]](https://coursology-qbank.com/amboss/article/4Bd3as0)[[4]](https://coursology-qbank.com/amboss/article/IodYWI0)[[5]](https://coursology-qbank.com/amboss/article/OBdIas0)
+
+
+
+
+* <u>Pediatric growth</u> assessment
+
+* Standard <u>pediatric growth parameters</u> (e.g., height, weight, and <u>BMI</u>)
+
+* <u>Growth velocity</u>
+
+* <u>Midparental height</u>
+
+* Evaluation for <u>physical changes during puberty</u>
+
+* <u>Sexual maturity rating</u>
+
+* Genital examination
+
+* Testicular examination: for location, volume, and texture  [[4]](https://coursology-qbank.com/amboss/article/IodYWI0)
+
+* Vaginal examination: for signs of <u>hypoestrogenism</u> (e.g., thin and/or pale <u>mucosa</u>)
+
+* Evaluation for underlying cause, e.g., 
+
+* <u>Thyroid examination</u>
+
+* Assessment for dysmorphic features suggesting genetic syndromes
+
+* <u>Neurological examination</u>: for suspected <u>CNS</u> pathology
+
+---
+
+## Diagnostics
+
+### Approach [[2]](https://coursology-qbank.com/amboss/article/qgVCwF0)[[3]](https://coursology-qbank.com/amboss/article/4Bd3as0)[[4]](https://coursology-qbank.com/amboss/article/IodYWI0)
+
+
+
+
+Evaluate for delayed onset of <u>puberty</u> in boys if there is no testicular growth by 14 years of age. Evaluate for delayed onset of <u>puberty</u> in girls if there is no <u>thelarche</u> by 13 years of age or <u>menarche</u> by 15 years of age.
+
+
+
+
+* All patients
+
+* Obtain initial studies, including early morning <u>gonadotropin</u> levels and <u>bone age</u> <u>radiography</u>.
+
+* Girls ≥ 15 years of age without <u>menarche</u>: See also "<u>Diagnostics for amenorrhea</u>."
+
+* Prepubertal or normal <u>FSH</u>, <u>LH</u>, <u>testosterone</u>, and/or <u>estradiol</u>  
+
+* Perform targeted testing for <u>hypogonadotropic hypogonadism</u>.
+
+* Suspected <u>CDGP</u>
+
+* Normal <u>LH</u>, <u>FSH</u>: Consider repeat testing in 1–3 months.
+
+* Prepubertal <u>LH</u>, <u>FSH</u>: Consider observation or trial of hormonal therapy; see "Management."
+
+* Elevated <u>FSH</u> (with or without <u>LH</u>); : Perform targeted testing for <u>hypergonadotropic hypogonadism</u>.
+
+* Diagnostic uncertainty: Refer to a specialist (e.g., <u>endocrinology</u>, genetics).
+
+
+
+
+
+> [!TIP]
+> Distinguishing between <u>CDGP</u> and <u>congenital hypogonadotropic hypogonadism</u> is challenging. Refer for specialist evaluation in the case of diagnostic uncertainty. [[3]](https://coursology-qbank.com/amboss/article/4Bd3as0)[[4]](https://coursology-qbank.com/amboss/article/IodYWI0)
+
+
+
+
+### Initial diagnostic studies [[2]](https://coursology-qbank.com/amboss/article/qgVCwF0)[[3]](https://coursology-qbank.com/amboss/article/4Bd3as0)[[4]](https://coursology-qbank.com/amboss/article/IodYWI0)
+
+
+
+
+* <u>Laboratory studies</u>
+
+* <u>LH</u>, <u>FSH</u>
+
+* <u>Testosterone</u> (boys)
+
+* <u>Estradiol</u> (girls)
+
+* If abnormal <u>growth velocity</u>: <u>TSH</u>, <u>prolactin</u>, <u>IGF-1</u>
+
+* <u>Bone age</u> <u>radiography</u>: delayed (less than the patient's chronological age)
+
+
+
+
+
+### Targeted testing [[2]](https://coursology-qbank.com/amboss/article/qgVCwF0)[[3]](https://coursology-qbank.com/amboss/article/4Bd3as0)[[4]](https://coursology-qbank.com/amboss/article/IodYWI0)
+
+
+
+
+Obtain targeted testing based on clinical presentation and initial studies. Consult a specialist (e.g., <u>endocrinology</u>, genetics) as needed.
+
+
+
+
+#### <u>Hypogonadotropic hypogonadism</u>
+
+
+
+
+* <u>Signs of hypothyroidism</u> or <u>signs of hyperthyroidism</u>: <u>TSH</u>
+
+* Suspected <u>growth hormone deficiency</u> (e.g., ↓ <u>growth velocity</u>): <u>IGF-1</u>
+
+* <u>CNS</u> symptoms: <u>prolactin</u>, <u>MRI</u> <u>brain</u>
+
+* Suspected chronic systemic illness
+
+* General: <u>CBC</u>, <u>CMP</u>, <u>ESR</u>
+
+* Specific: <u>diagnostics for diabetes</u>, <u>diagnostics for celiac disease</u>, <u>diagnostics for inflammatory bowel disease</u>
+
+* <u>Genetic testing</u> (e.g., for <u>Kallmann syndrome</u>, <u>Prader-Willi syndrome</u>, <u>CHARGE syndrome</u>)
+
+
+
+
+
+#### <u>Hypergonadotropic hypogonadism</u>
+
+
+
+
+* <u>Karyotype</u>: to assess for genetic syndromes (e.g., <u>Turner syndrome</u>, <u>Klinefelter syndrome</u>)
+
+* <u>Pelvic</u> or testicular <u>ultrasound</u>: to assess presence and location of <u>gonads</u>
+
+* Testing for autoimmune disorders (e.g., <u>type 1 diabetes</u>, <u>Hashimoto disease</u>)
+
+---
+
+## Management
+
+* <u>CDGP</u>: Eventual pubertal progression and normal adult height are expected. [[2]](https://coursology-qbank.com/amboss/article/qgVCwF0)[[3]](https://coursology-qbank.com/amboss/article/4Bd3as0)[[4]](https://coursology-qbank.com/amboss/article/IodYWI0)
+
+* Initiate <u>expectant management</u>; repeat evaluation in 1–3 months. [[4]](https://coursology-qbank.com/amboss/article/IodYWI0)
+
+* Patients with psychological <u>stress</u>
+
+* Consider trial of <u>hormone</u> therapy to initiate <u>puberty</u>.  [[4]](https://coursology-qbank.com/amboss/article/IodYWI0)
+
+* If no response after 6 months, refer to pediatric <u>endocrinology</u> for evaluation of persistent <u>hypogonadotropic hypogonadism</u>.
+
+* Pathologic causes of <u>hypogonadism</u> [[3]](https://coursology-qbank.com/amboss/article/4Bd3as0)[[4]](https://coursology-qbank.com/amboss/article/IodYWI0)
+
+* Treat the underlying cause (e.g., <u>thyroid disorders</u>, <u>eating disorders</u>).
+
+* Nonreversible causes: Refer to pediatric <u>endocrinology</u> for hormonal therapy to stimulate development of <u>secondary sexual characteristics</u> and <u>growth spurt</u>.
+
+* <u>Testosterone</u> (for boys)
+
+* <u>Estrogen</u> (for girls)  [[3]](https://coursology-qbank.com/amboss/article/4Bd3as0)
+
+---

@@ -1,0 +1,612 @@
+# Abnormal uterine bleeding
+
+*Categories: Clinical knowledge > Emergency medicine > Gynecologic and obstetric disorders > Abnormal uterine bleeding*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/G80BL3)
+
+---
+
+## Summary
+
+Abnormal uterine bleeding (AUB) refers to abnormal <u>menstruation</u> in nonpregnant individuals of reproductive age. The <u>FIGO-AUB system 1</u> classifies AUB according to bleeding characteristics, i.e., frequency, regularity, duration, volume of bleeding, and <u>intermenstrual bleeding</u>. The <u>PALM-COEIN system</u> classifies AUB by structural causes (e.g., <u>endometrial polyps</u>, <u>leiomyomas</u>) and nonstructural causes (e.g., <u>coagulopathy</u>, <u>ovulatory dysfunction</u>). Initial diagnostic evaluation involves exclusion of <u>pregnancy</u>, <u>gynecological examination</u>, and basic laboratory tests (e.g., <u>CBC</u>, <u>coagulation tests</u>). Emergency treatment for patients with acute AUB with significant blood loss and/or <u>hemodynamic instability</u> includes <u>immediate hemodynamic support</u>, intrauterine <u>hemostatic control</u>, high-dose IV conjugated <u>estrogen</u>, and, in refractory cases, surgical intervention. In stable patients, acute and long-term management may include hormonal and/or nonhormonal pharmacotherapy and treatment of the underlying <u>cause of AUB</u>.
+
+
+
+
+This article addresses AUB in nonpregnant individuals of reproductive age. For bleeding in <u>pregnancy</u>, <u>postmenopausal bleeding</u>, and bleeding in children and <u>adolescents</u>, see “<u>Vaginal bleeding</u>.”
+
+---
+
+## Etiology
+
+The following applies to nonpregnant individuals of reproductive age. For other patients, see “<u>Vaginal bleeding</u>.”
+
+
+
+
+### PALM-COEIN system [[2]](https://coursology-qbank.com/amboss/article/-YXD79)
+
+
+
+
+AUB may have one or more of the following causes.
+
+
+
+
+* Structural causes (PALM)
+
+* Polyp (<u>endometrial polyp</u>)
+
+* Adenomyosis
+
+* Leiomyoma (<u>uterine leiomyoma</u>)
+
+* Malignancy and <u>hyperplasia</u>
+
+* Nonstructural causes (COEIN)
+
+* Coagulopathy (AUB-C): e.g., <u>Von Willebrand disease</u>  [[3]](https://coursology-qbank.com/amboss/article/g21FST0)[[4]](https://coursology-qbank.com/amboss/article/cEWauM0)
+
+* Ovulatory dysfunction (anovulatory bleeding; AUB-O): e.g., secondary to <u>hyperprolactinemia</u>, <u>thyroid disorders</u>, <u>PCOS</u>, <u>obesity</u>
+
+* Endometrial (AUB-E): <u>endometrial</u> dysfunction in a structurally normal <u>uterus</u> with regular cycles (diagnosis of exclusion)  [[3]](https://coursology-qbank.com/amboss/article/g21FST0)[[5]](https://coursology-qbank.com/amboss/article/-x1D_Q0)
+
+* Iatrogenic (AUB-I): e.g., <u>estrogens</u>, <u>progestins</u>, <u>IUD</u>, <u>antithrombotic agents</u>
+
+* Not otherwise classified (AUB-N): e.g., cesarean <u>scar</u> defect, uterine <u>arteriovenous malformations</u> (<u>AVM</u>)  [[6]](https://coursology-qbank.com/amboss/article/HAWKOL0)[[7]](https://coursology-qbank.com/amboss/article/PAWWPL0)
+
+
+
+
+
+> [!TIP]
+> In patients with acute AUB and <u>menarche</u> within the last year, consider anovulatory bleeding due to immaturity of the <u>hypothalamic-pituitary-gonadal axis</u>. [[8]](https://coursology-qbank.com/amboss/article/yzadvM)
+
+
+
+
+### Causes by menstrual abnormality
+
+
+
+
+| <u>Causes of AUB</u> by menstrual abnormality |  |
+| --- | --- |
+|  | Common causes |
+| Absent <u>menstruation</u> | <br>* See “<u>Amenorrhea</u>.”<br><br> |
+| <u>Infrequent menstruation</u> | <br><br>* <u>Pregnancy</u> (including <u>ectopic pregnancy</u>)<br><br>* <u>PCOS</u><br><br>* Insufficient caloric intake (e.g., due to <u>anorexia nervosa</u>)<br><br>* <u>Thyroid disorders</u> (<u>hyperthyroidism</u> or <u>hypothyroidism</u>)<br><br>* <u>Perimenopause</u><br><br><br> |
+| <u>Frequent menstruation</u> | <br><br>* <u>Menarche</u><br><br>* <u>Perimenopause</u><br><br>* Psychological <u>stress</u><br><br><br> |
+| Irregular <u>menstruation</u> | <br><br>* <u>PCOS</u><br><br>* <u>Perimenopause</u><br><br>* <u>Thyroid disorders</u> (<u>hyperthyroidism</u> or <u>hypothyroidism</u>)<br><br><br> |
+| Prolonged <u>menstruation</u> | <br><br>* <u>Endometriosis</u><br><br>* <u>Endometrial hyperplasia</u><br><br>* <u>Endometrial cancer</u><br><br><br> |
+| <u>Light menstruation</u> | <br><br>* <u>Endometrial</u> <u>atrophy</u><br><br>* <u>Eating disorders</u> (e.g., <u>anorexia nervosa</u>)<br><br>* Chronic <u>endometritis</u><br><br>* <u>OCP</u> use<br><br><br> |
+| <u>Heavy menstrual bleeding</u> | <br><br>* <u>Endometrial cancer</u><br><br>* <u>Endometrial hyperplasia</u><br><br>* <u>Endometriosis</u><br><br>* <u>Uterine leiomyoma</u><br><br>* <u>Thyroid disorders</u> (<u>hyperthyroidism</u> or <u>hypothyroidism</u>)<br><br><br> |
+| <br><u>Intermenstrual bleeding</u> [[8]](https://coursology-qbank.com/amboss/article/yzadvM)[[9]](https://coursology-qbank.com/amboss/article/nua77m)<br> | <br><br>* <u>Endometriosis</u><br><br>* <u>Uterine leiomyoma</u><br><br>* <u>Endometrial polyps</u><br><br>* <u>IUD</u> use<br><br>* <u>Cervicitis</u><br><br>* Contact bleeding (e.g., during <u>gynecological examination</u> in patients with <u>cervical carcinoma</u>)<br><br>* <u>Ovulation</u>  [[8]](https://coursology-qbank.com/amboss/article/yzadvM)<br><br><br> |
+| <br><u>Unscheduled bleeding</u> [[10]](https://coursology-qbank.com/amboss/article/7ua4sm)<br> | <br><br>* <u>Estrogen</u> breakthrough<br><br>* <u>Progesterone</u> breakthrough<br><br>* <u>Estrogen</u> withdrawal<br><br><br> |
+
+---
+
+## Clinical features
+
+### Clinical criteria [[2]](https://coursology-qbank.com/amboss/article/-YXD79)
+
+
+
+
+One of the following bleeding abnormalities described in the <u>FIGO-AUB classification system 1</u> must be present: [[2]](https://coursology-qbank.com/amboss/article/-YXD79)
+
+
+
+
+* Abnormal bleeding frequency, duration, regularity, and/or volume
+
+* <u>Intermenstrual bleeding</u>
+
+* <u>Unscheduled bleeding</u>
+
+
+
+
+
+### Associated features [[2]](https://coursology-qbank.com/amboss/article/-YXD79)[[3]](https://coursology-qbank.com/amboss/article/g21FST0)[[4]](https://coursology-qbank.com/amboss/article/cEWauM0)[[11]](https://coursology-qbank.com/amboss/article/uEWpxM0)
+
+
+
+
+These vary depending on the underlying <u>cause of AUB</u> and can include:
+
+
+
+
+* Other <u>menstrual cycle abnormalities</u>, e.g., <u>dysmenorrhea</u>
+
+* Abdominal and/or <u>pelvic pain</u>
+
+* <u>Postcoital bleeding</u>
+
+* <u>Signs of anemia</u>
+
+* <u>Signs of bleeding disorders</u>
+
+* <u>Signs of hyperandrogenism</u>
+
+* <u>Red flags for sexual assault</u>
+
+* Clinical features of <u>sexually transmitted infections</u> (<u>STIs</u>)
+
+* <u>Clinical features of cervical cancer</u>
+
+---
+
+## Classification
+
+<u>FIGO</u> classifies AUB in nonpregnant individuals of reproductive age using the <u>FIGO-AUB system 1</u> and <u>FIGO-AUB system 2</u>. [[12]](https://coursology-qbank.com/amboss/article/jbX_t9)
+
+
+
+
+### FIGO-AUB system 1: bleeding characteristics [[2]](https://coursology-qbank.com/amboss/article/-YXD79)
+
+
+
+
+#### Frequency
+
+
+
+
+* Definition: the number of days in the cycle interval
+
+* Classification
+
+* Normal: 24–38 days
+
+* Absent (<u>amenorrhea</u>): no bleeding days
+
+* Infrequent (formerly <u>oligomenorrhea</u>): > 38 days
+
+* Frequent (formerly <u>polymenorrhea</u>): < 24 days
+
+
+
+
+
+#### Regularity
+
+
+
+
+* Definition: variation between shortest and longest cycle <u>menstrual cycle</u> length
+
+* Classification
+
+* Normal: ≤ 7–9 days (i.e., normal cycle length ± 4 days)
+
+* Irregular: ≥ 8–10 days
+
+
+
+
+
+#### Duration
+
+
+
+
+* Definition: the length of <u>menstruation</u>
+
+* Classification
+
+* Normal: ≤ 8 days
+
+* Prolonged: > 8 days
+
+
+
+
+
+#### Volume
+
+
+
+
+* Definition: the amount of bleeding as described by the patient
+
+* Classification
+
+* Normal
+
+* <u>Light menstrual bleeding</u> (formerly <u>hypomenorrhea</u>)
+
+* Heavy menstrual bleeding (formerly <u>hypermenorrhea</u> or <u>menorrhagia</u>): excessive menstrual bleeding that interferes with quality of life  [[13]](https://coursology-qbank.com/amboss/article/WEWPuM0)
+
+
+
+
+
+#### Intermenstrual bleeding [[2]](https://coursology-qbank.com/amboss/article/-YXD79)
+
+
+
+
+Formerly <u>metrorrhagia</u>
+
+
+
+
+* Definition: bleeding between regular menstrual periods
+
+* Classification
+
+* Normal: none
+
+* Random: occurs unpredictably
+
+* Cyclic: predictable bleeding during early, mid, or late cycle
+
+
+
+
+
+#### Unscheduled bleeding (<u>breakthrough bleeding</u>) [[2]](https://coursology-qbank.com/amboss/article/-YXD79)[[5]](https://coursology-qbank.com/amboss/article/-x1D_Q0)[[14]](https://coursology-qbank.com/amboss/article/HCWKtn0)
+
+
+
+
+* Definition: <u>endometrial</u> bleeding that occurs on unexpected days while taking <u>hormonal contraceptives</u>
+
+* Classification
+
+* Not applicable: not on <u>hormonal contraceptives</u>
+
+* None: on <u>hormonal contraceptives</u> with no <u>unscheduled bleeding</u>
+
+* Present
+
+
+
+
+
+### FIGO-AUB system 2: underlying cause [[2]](https://coursology-qbank.com/amboss/article/-YXD79)
+
+
+
+
+See “<u>PALM-COEIN system</u>” for details.
+
+
+
+
+* Structural causes: generally identifiable on imaging or <u>histopathology</u>
+
+* Nonstructural causes: generally not identifiable on imaging or <u>histopathology</u>
+
+
+
+
+
+### Other classifications [[2]](https://coursology-qbank.com/amboss/article/-YXD79)[[15]](https://coursology-qbank.com/amboss/article/e-WxwL0)
+
+
+
+
+* Acute AUB: : an episode of AUB requiring immediate measures to prevent further blood loss
+
+* Chronic AUB: AUB persisting for most of the preceding 6 months
+
+* Ovulatory AUB: abnormal bleeding associated with ovulatory cycles; typically occurs at regular intervals
+
+* Anovulatory AUB: bleeding associated with recurrent <u>anovulatory cycles</u>; typically occurs irregularly and/or infrequently
+
+---
+
+## Diagnosis
+
+The following applies to nonpregnant individuals of reproductive age, including <u>adolescents</u>. For other patients, see “<u>Vaginal bleeding</u>.”
+
+
+
+
+### Approach [[2]](https://coursology-qbank.com/amboss/article/-YXD79)[[3]](https://coursology-qbank.com/amboss/article/g21FST0)[[4]](https://coursology-qbank.com/amboss/article/cEWauM0)[[11]](https://coursology-qbank.com/amboss/article/uEWpxM0)[[16]](https://coursology-qbank.com/amboss/article/gydFes0)
+
+
+
+
+* Rule out <u>pregnancy</u> and nonuterine sources of bleeding.
+
+* Establish a <u>clinical diagnosis</u> of AUB and classify the type and severity of uterine bleeding (see “<u>FIGO-AUB system 1</u>”).
+
+* Identify the underlying <u>cause of AUB</u>, e.g., via the PALM-COIEN system.
+
+* Screen for <u>bleeding disorders</u> using a <u>bleeding assessment tool</u>.
+
+
+
+
+
+> [!TIP]
+> A <u>speculum examination</u> is not routinely required for initial assessment of <u>adolescents</u> with AUB who are not sexually active. [[3]](https://coursology-qbank.com/amboss/article/g21FST0)[[16]](https://coursology-qbank.com/amboss/article/gydFes0)
+
+
+
+
+> [!WARNING]
+> Do not delay resuscitation of <u>hemodynamically unstable</u> patients with acute AUB for diagnostic evaluation.
+
+
+
+
+### Routine <u>laboratory studies</u> [[3]](https://coursology-qbank.com/amboss/article/g21FST0)[[4]](https://coursology-qbank.com/amboss/article/cEWauM0)[[11]](https://coursology-qbank.com/amboss/article/uEWpxM0)[[16]](https://coursology-qbank.com/amboss/article/gydFes0)
+
+
+
+
+* <u>β-hCG</u> (urine or serum): to rule out <u>pregnancy</u>
+
+* <u>CBC</u> and serum <u>ferritin</u>: to evaluate for <u>anemia</u>, <u>thrombocytopenia</u>, and <u>iron deficiency</u>
+
+* <u>TSH</u>
+
+* <u>Type and screen</u>, <u>crossmatch</u>: in severe acute bleeding
+
+* <u>PT</u>, <u>PTT</u>, and <u>fibrinogen</u>: if a <u>bleeding disorder</u> is suspected and in all <u>adolescents</u> with <u>heavy menstrual bleeding</u>  [[16]](https://coursology-qbank.com/amboss/article/gydFes0)
+
+* Age-appropriate <u>cervical cancer screening</u>
+
+* <u>Chlamydia testing</u>, with additional <u>STI testing</u> in patients with symptoms and/or <u>risk factors for STI</u> [[11]](https://coursology-qbank.com/amboss/article/uEWpxM0)
+
+
+
+
+
+### Further evaluation [[2]](https://coursology-qbank.com/amboss/article/-YXD79)[[3]](https://coursology-qbank.com/amboss/article/g21FST0)[[4]](https://coursology-qbank.com/amboss/article/cEWauM0)[[11]](https://coursology-qbank.com/amboss/article/uEWpxM0)[[16]](https://coursology-qbank.com/amboss/article/gydFes0)[[17]](https://coursology-qbank.com/amboss/article/3yWSUL0)
+
+
+
+
+Further testing is based on clinical suspicion of potential causes, as guided by the <u>PALM-COEIN system</u>.
+
+
+
+
+* Additional laboratory tests: : e.g., <u>prolactin</u>, <u>gonadotropins</u>, <u>diagnostic workup of bleeding disorders</u>
+
+* <u>Pelvic</u> <u>ultrasound</u>: : to evaluate <u>endometrial</u> thickness and rule out structural abnormalities (e.g., <u>leiomyoma</u>, <u>adnexal mass</u>)
+
+* <u>Transvaginal ultrasound</u> (<u>TVUS</u>): test of choice for initial imaging of the <u>uterus</u> in most patients
+
+* Transabdominal <u>ultrasound</u>: alternative test for <u>adolescents</u> or complementary imaging if transvaginal views are insufficient
+
+* Additional imaging (e.g., <u>sonohysterography</u>, <u>hysteroscopy</u>): Consider if previous imaging is inconclusive and/or further evaluation is required.
+
+* <u>Endometrial sampling</u>: indicated in patients with AUB and increased risk of <u>endometrial hyperplasia</u> or cancer [[3]](https://coursology-qbank.com/amboss/article/g21FST0)[[4]](https://coursology-qbank.com/amboss/article/cEWauM0)[[18]](https://coursology-qbank.com/amboss/article/8EWOxM0)
+
+* All patients ≥ 45 years of age
+
+* Patients < 45 years of age with any of the following:
+
+* Persistent bleeding despite medical management
+
+* Unopposed <u>estrogen</u> (e.g., due to <u>obesity</u> or <u>polycystic ovary syndrome</u>)
+
+* Other <u>risk factors for endometrial cancer</u>: <u>type 2 diabetes</u>, <u>tamoxifen</u> therapy, <u>Lynch syndrome</u>
+
+* See “<u>Indications for endometrial biopsy</u>.”
+
+
+
+
+
+> [!TIP]
+> <u>Pelvic</u> <u>ultrasound</u> (preferably <u>TVUS</u>) is the initial imaging method of choice for evaluation of AUB. [[11]](https://coursology-qbank.com/amboss/article/uEWpxM0)
+
+---
+
+## Treatment
+
+The following applies to nonpregnant individuals of reproductive age, including <u>adolescents</u>. For other patients, see “<u>Vaginal bleeding</u>.”
+
+
+
+
+### Approach [[3]](https://coursology-qbank.com/amboss/article/g21FST0)[[19]](https://coursology-qbank.com/amboss/article/MuaM7m)
+
+
+
+
+> [!WARNING]
+> Do not delay <u>immediate hemodynamic support</u> and <u>emergency transfusion</u> of unstable patients with AUB.
+
+
+
+
+#### <u>Hemodynamically unstable</u> patients
+
+
+
+
+* <u>Fluid resuscitation</u> and <u>emergency transfusion</u>
+
+* Urgent <u>OB/GYN</u> consult
+
+* Bedside <u>hemostatic control</u>, e.g., intrauterine <u>balloon tamponade</u> or gauze packing
+
+* High-dose IV conjugated equine <u>estrogen</u> and <u>tranexamic acid</u> (See “<u>Pharmacotherapy of AUB</u>” for dosages.)
+
+* Refractory bleeding: urgent <u>surgical interventions for AUB</u>
+
+
+
+
+
+#### All other patients
+
+
+
+
+* <u>AUB treatment</u>
+
+* Pharmacotherapy for AUB (first-line for most patients): hormonal and/or nonhormonal medications [[3]](https://coursology-qbank.com/amboss/article/g21FST0)
+
+* <u>Surgical treatment of AUB</u>: if pharmacotherapy is ineffective or contraindicated or for specific underlying causes
+
+* Definitive treatment of underlying <u>causes of AUB</u>
+
+* <u>Treatment of iron-deficiency anemia</u>
+
+* Consult <u>hematology</u> if a <u>bleeding disorder</u> is suspected. [[16]](https://coursology-qbank.com/amboss/article/gydFes0)
+
+
+
+
+
+### Pharmacological treatment of AUB [[3]](https://coursology-qbank.com/amboss/article/g21FST0)[[16]](https://coursology-qbank.com/amboss/article/gydFes0)[[19]](https://coursology-qbank.com/amboss/article/MuaM7m)[[20]](https://coursology-qbank.com/amboss/article/eDWxWn0)
+
+
+
+
+#### Acute AUB [[3]](https://coursology-qbank.com/amboss/article/g21FST0)[[16]](https://coursology-qbank.com/amboss/article/gydFes0)[[19]](https://coursology-qbank.com/amboss/article/MuaM7m)
+
+
+
+
+* Hormonal therapy: Consider <u>contraindications for hormonal contraceptives</u> when selecting the agent. 
+
+* Unstable patients: high-dose IV conjugated equine <u>estrogen</u> (<u>off-label</u>) DOSAGE  [[16]](https://coursology-qbank.com/amboss/article/gydFes0)[[19]](https://coursology-qbank.com/amboss/article/MuaM7m)[[21]](https://coursology-qbank.com/amboss/article/f_WknL0)
+
+* Stable patients
+
+* <u>Combined oral contraceptive</u>: e.g., <u>ethinyl estradiol</u>/norgestimate (<u>off-label</u>) DOSAGE  [[16]](https://coursology-qbank.com/amboss/article/gydFes0)[[19]](https://coursology-qbank.com/amboss/article/MuaM7m)
+
+* Oral <u>progestin</u>: e.g., <u>medroxyprogesterone acetate</u> (<u>off-label</u>) DOSAGE, <u>norethindrone</u> (<u>off-label</u>) DOSAGE [[3]](https://coursology-qbank.com/amboss/article/g21FST0)[[16]](https://coursology-qbank.com/amboss/article/gydFes0)[[19]](https://coursology-qbank.com/amboss/article/MuaM7m)
+
+* Oral conjugated equine <u>estrogen</u> (<u>off-label</u>) DOSAGE [[3]](https://coursology-qbank.com/amboss/article/g21FST0)
+
+* Nonhormonal therapy: oral or IV <u>tranexamic acid</u> (<u>off-label</u>) DOSAGE  [[19]](https://coursology-qbank.com/amboss/article/MuaM7m)[[16]](https://coursology-qbank.com/amboss/article/gydFes0)
+
+
+
+
+
+#### Chronic AUB [[3]](https://coursology-qbank.com/amboss/article/g21FST0)[[16]](https://coursology-qbank.com/amboss/article/gydFes0)[[20]](https://coursology-qbank.com/amboss/article/eDWxWn0)
+
+
+
+
+Consult specialists (e.g., gynecology, <u>hematology</u>) for the management of chronic AUB in individuals with a <u>bleeding disorder</u>.  [[16]](https://coursology-qbank.com/amboss/article/gydFes0)
+
+
+
+
+* Hormonal therapy once an underlying cause has been identified: Consider contraindications when selecting the agent.  [[19]](https://coursology-qbank.com/amboss/article/MuaM7m)
+
+* <u>Depot medroxyprogesterone acetate</u> (<u>off-label</u>) DOSAGE [[3]](https://coursology-qbank.com/amboss/article/g21FST0)
+
+* <u>Combined oral contraceptive</u>: e.g., <u>ethinyl estradiol</u>/norgestimate (<u>off-label</u>) DOSAGE [[3]](https://coursology-qbank.com/amboss/article/g21FST0)
+
+* Oral <u>progestin</u>: e.g., <u>norethindrone</u> DOSAGE [[3]](https://coursology-qbank.com/amboss/article/g21FST0)
+
+* <u>Progestin intrauterine device</u>
+
+* Nonhormonal therapy: used only during bleeding episodes as first-line therapy and/or if hormonal treatment is contraindicated [[3]](https://coursology-qbank.com/amboss/article/g21FST0)[[20]](https://coursology-qbank.com/amboss/article/eDWxWn0)
+
+* <u>NSAIDs</u>: e.g., <u>naproxen</u> (<u>off-label</u>) DOSAGE   [[3]](https://coursology-qbank.com/amboss/article/g21FST0)
+
+* Oral <u>tranexamic acid</u> (<u>off-label</u>) DOSAGE  [[3]](https://coursology-qbank.com/amboss/article/g21FST0)[[19]](https://coursology-qbank.com/amboss/article/MuaM7m)
+
+
+
+
+
+> [!TIP]
+> Seek expert advice and review the <u>CDC</u> medical eligibility criteria for <u>contraceptive</u> use before administering hormonal therapy. [[19]](https://coursology-qbank.com/amboss/article/MuaM7m)
+
+
+
+
+### Surgical treatment of AUB [[3]](https://coursology-qbank.com/amboss/article/g21FST0)[[19]](https://coursology-qbank.com/amboss/article/MuaM7m)
+
+
+
+
+#### Indications
+
+
+
+
+* Severe bleeding and/or <u>hemodynamic instability</u>
+
+* Lack of response or contraindications to pharmacotherapy
+
+* Structural causes requiring surgical intervention (e.g., <u>endometrial cancer</u>)
+
+
+
+
+
+#### Procedures
+
+
+
+
+Choice is based on the patient's clinical status, the underlying <u>cause of AUB</u>, and desire for future <u>fertility</u>.
+
+
+
+
+* Transcatheter <u>uterine artery embolization</u> [[6]](https://coursology-qbank.com/amboss/article/HAWKOL0)[[22]](https://coursology-qbank.com/amboss/article/VDWGWn0)
+
+* Can be used for AUB caused by <u>fibroids</u> or uterine <u>arteriovenous malformations</u>
+
+* Data on post-procedure <u>fertility</u> is limited. [[23]](https://coursology-qbank.com/amboss/article/XAc9RU0)
+
+* Hysteroscopic polypectomy or <u>myomectomy</u> [[3]](https://coursology-qbank.com/amboss/article/g21FST0)
+
+* May provide acute and long-term control of bleeding due to <u>endometrial polyps</u> or <u>uterine fibroids</u>
+
+* Preserves <u>fertility</u>
+
+* <u>Dilation and curettage</u> (D&C) with <u>hysteroscopy</u> [[19]](https://coursology-qbank.com/amboss/article/MuaM7m)
+
+* Diagnostic and therapeutic
+
+* Used to identify intrauterine pathologies, take tissue samples, and remove excess uterine lining
+
+* Preserves <u>fertility</u>  [[24]](https://coursology-qbank.com/amboss/article/X-W9DL0)
+
+* Endometrial ablation [[19]](https://coursology-qbank.com/amboss/article/MuaM7m)[[25]](https://coursology-qbank.com/amboss/article/b_WH5L0)
+
+* Only indicated if other treatments have been ineffective or are contraindicated
+
+* Provides long-term improvement of uterine bleeding symptoms by destroying the <u>endometrium</u>
+
+* Contraindications include:
+
+* Desire to have children: <u>Endometrial ablation</u> does not preserve <u>fertility</u>.  [[26]](https://coursology-qbank.com/amboss/article/1_W2ML0)
+
+* <u>Pregnancy</u>
+
+* <u>Endometrial hyperplasia</u> or <u>endometrial cancer</u>
+
+* History of transmyometrial uterine <u>surgery</u>
+
+* <u>Hysterectomy</u> [[19]](https://coursology-qbank.com/amboss/article/MuaM7m)
+
+* Reserved for AUB that does not respond to any other treatment
+
+* Does not preserve <u>fertility</u>
+
+
+
+
+
+### Disposition [[27]](https://coursology-qbank.com/amboss/article/AN1Rdh0)
+
+
+
+
+* Severe acute AUB: immediate gynecologic consultation and hospitalization
+
+* Stable patients: Imaging and further investigations may be done on an outpatient basis.
+
+---

@@ -1,0 +1,460 @@
+# Amebiasis
+
+*Categories: Clinical knowledge > Internal medicine > Gastroenterology > Diseases of the intestine and appendix > Amebiasis*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/6f0jM2)
+
+---
+
+## Summary
+
+Amebiasis is an infectious disease caused by the anaerobic <u>protozoan</u> <u>Entamoeba histolytica</u>. Transmission is usually via the <u>fecal-oral route</u> (e.g., through contaminated drinking water) in individuals traveling in an <u>endemic</u> region. Depending on organ involvement, amebiasis is termed either intestinal or extraintestinal. Symptoms of <u>intestinal amebiasis</u>, such as bloody <u>diarrhea</u> and abdominal <u>pain</u>, typically develop after an <u>incubation period</u> of 1–4 weeks. Patients with extraintestinal amebiasis most commonly develop an <u>amebic liver abscess</u> that manifests with <u>right upper quadrant</u> (<u>RUQ</u>) abdominal <u>pain</u> weeks to years after the initial infection. <u>Intestinal amebiasis</u> is diagnosed with stool testing, while extraintestinal amebiasis is typically diagnosed with imaging and <u>serology</u>. Asymptomatic intestinal infection is treated with a luminal cysticidal agent (e.g., <u>paromomycin</u>). Treatment of symptomatic <u>intestinal amebiasis</u> and <u>amebic liver abscesses</u> consists of a <u>nitroimidazole</u> to target invasive <u>trophozoites</u> followed by a luminal cysticidal agent. Image-guided needle <u>aspiration</u> may be indicated for <u>abscesses</u> at risk of perforation or bacterial <u>coinfection</u>.
+
+---
+
+## Epidemiology
+
+* <u>E. histolytica</u> is very common in tropical and subtropical regions (e.g., Mexico; , Southeast Asia, India) and affects more than 50 million people worldwide. Amebic infection is relatively rare in the US.
+
+* Men and especially <u>immunocompromised individuals</u> have a higher risk of developing <u>liver abscesses</u>. [[1]](https://coursology-qbank.com/amboss/article/J40s4T)
+
+
+
+
+Epidemiological data refers to the US, unless otherwise specified.
+
+---
+
+## Etiology
+
+* <u>Pathogen</u>: : Entamoeba histolytica, a <u>protozoan</u>
+
+* Transmission
+
+* Fecal-oral
+
+* Amebic cysts are excreted in stool and can contaminate drinking water or food
+
+* Transmission may also occur through sexual contact.
+
+* Infection typically occurs following travel to <u>endemic</u> regions such as the tropics and subtropics. [[2]](https://coursology-qbank.com/amboss/article/s40tkT)
+
+
+
+
+
+![Entamoeba histolytica trophozoites](../../../../../media/qknpe0wotkr3hmgn739g08r7.jpg)
+
+Entamoeba histolytica trophozoites
+
+![Entamoeba histolytica (trophozoite)](../../../../../media/aiein3ijn3z94u80wqji3o87.jpg)
+
+Entamoeba histolytica (trophozoite)
+
+![Entamoeba histolytica trophozoite](../../../../../media/yfmjmhdxzhdyah67bn7teml7.jpg)
+
+Entamoeba histolytica trophozoite
+
+---
+
+## Intestinal amebiasis
+
+### Definition
+
+
+
+* <u>E. histolytica</u> infection confined to the <u>gastrointestinal tract</u>
+
+
+
+
+### Clinical features [[3]](https://coursology-qbank.com/amboss/article/LPdw2J0)[[4]](https://coursology-qbank.com/amboss/article/nPd72J0)
+
+
+
+
+Most infections remain asymptomatic. Only 10–20% of infected individuals develop symptoms. [[3]](https://coursology-qbank.com/amboss/article/LPdw2J0)
+
+
+
+
+* <u>Incubation period</u>: : typically 1–4 weeks
+
+* Onset: acute or gradual symptom development
+
+* Symptoms
+
+* Watery and/or bloody <u>diarrhea</u>
+
+* Abdominal <u>pain</u>, cramps
+
+* Painful defecation, <u>tenesmus</u>
+
+* Weight loss
+
+* <u>Fever</u> (less common)
+
+* Symptoms of <u>fulminant colitis</u> (e.g., <u>hypotension</u>, abdominal distension, <u>peritoneal signs</u>)
+
+
+
+
+
+> [!TIP]
+> Always consider amebiasis when a patient presents with <u>persistent diarrhea</u> after traveling to the tropics or subtropics.
+
+
+
+
+### Diagnosis [[3]](https://coursology-qbank.com/amboss/article/LPdw2J0)[[5]](https://coursology-qbank.com/amboss/article/6PdjfJ0)
+
+
+
+
+#### Indications [[3]](https://coursology-qbank.com/amboss/article/LPdw2J0)[[4]](https://coursology-qbank.com/amboss/article/nPd72J0)
+
+
+
+
+* Symptomatic individuals: abdominal <u>pain</u>, weight loss, bloody and/or <u>watery diarrhea</u>, and recent travel to an <u>endemic</u> area
+
+* Asymptomatic individuals
+
+* Personal history of <u>endemic</u> exposure (i.e., time spent in an <u>endemic</u> area)
+
+* History of <u>endemic</u> exposure through household members or via sexual contact
+
+
+
+
+
+#### Diagnostics [[3]](https://coursology-qbank.com/amboss/article/LPdw2J0)[[5]](https://coursology-qbank.com/amboss/article/6PdjfJ0)
+
+
+
+
+* Stool analysis
+
+* <u>PCR</u> (preferred)
+
+* <u>Antigen</u> detection (e.g., <u>EIA</u>, <u>ELISA</u>)
+
+* Microscopy: identification of cysts and/or <u>trophozoites</u> in fresh stool ;  [[3]](https://coursology-qbank.com/amboss/article/LPdw2J0)[[6]](https://coursology-qbank.com/amboss/article/-lbDzF)
+
+* <u>Trophozoites</u> often contain ingested <u>erythrocytes</u>.
+
+* Cysts contain up to four <u>nuclei</u>.
+
+* <u>E. histolytica</u> appears morphologically identical to nonpathogenic Entamoeba dispar (<u>E. dispar</u>).
+
+* <u>Serology</u>: detection of antiamebic <u>antibodies</u> in serum  [[3]](https://coursology-qbank.com/amboss/article/LPdw2J0)[[5]](https://coursology-qbank.com/amboss/article/6PdjfJ0)
+
+* <u>Colonoscopy</u> with <u>biopsy</u>: : flask-shaped <u>ulcers</u>  [[3]](https://coursology-qbank.com/amboss/article/LPdw2J0)[[5]](https://coursology-qbank.com/amboss/article/6PdjfJ0)
+
+
+
+
+
+> [!NOTE]
+> E. histolytica Engulfs Erythrocytes.
+
+
+
+
+> [!WARNING]
+> <u>Stool microscopy</u> has low <u>sensitivity</u>. Examine ≥ 3 stool samples before reporting a negative result.
+
+
+
+
+![Entamoeba histolytica (trophozoite)](../../../../../media/aiein3ijn3z94u80wqji3o87.jpg)
+
+Entamoeba histolytica (trophozoite)
+
+![Entamoeba histolytica trophozoites](../../../../../media/qknpe0wotkr3hmgn739g08r7.jpg)
+
+Entamoeba histolytica trophozoites
+
+![Entamoeba histolytica trophozoite](../../../../../media/yfmjmhdxzhdyah67bn7teml7.jpg)
+
+Entamoeba histolytica trophozoite
+
+![Entamoeba histolytica cyst](../../../../../media/zmhe1p6f7bauo53t06w5klso.jpg)
+
+Entamoeba histolytica cyst
+
+
+
+
+### Differential diagnosis
+
+
+
+
+* See “<u>Etiology of acute and persistent diarrhea</u>.”
+
+* See “<u>Etiology of chronic diarrhea</u>.”
+
+* See “<u>Viral gastroenteritis</u>.”
+
+* See “<u>Bacterial gastroenteritis</u>.”
+
+* See “<u>Intestinal protozoa</u>.”
+
+* See “<u>Helminths</u>.”
+
+* See “<u>Differential diagnosis of acute abdominal pain</u>.”
+
+
+
+
+
+### Treatment [[3]](https://coursology-qbank.com/amboss/article/LPdw2J0)[[4]](https://coursology-qbank.com/amboss/article/nPd72J0)
+
+
+
+
+#### Pharmacotherapy [[3]](https://coursology-qbank.com/amboss/article/LPdw2J0)[[4]](https://coursology-qbank.com/amboss/article/nPd72J0)
+
+
+
+
+* Symptomatic individuals: Administer a <u>nitroimidazole</u> to target invasive <u>trophozoites</u> followed by a luminal agent to eradicate intestinal cysts and prevent relapse. ;  [[3]](https://coursology-qbank.com/amboss/article/LPdw2J0)[[7]](https://coursology-qbank.com/amboss/article/pPdLfJ0)
+
+* <u>Nitroimidazole</u>: <u>metronidazole</u>;  DOSAGE for 5–10 days OR <u>tinidazole</u> DOSAGE for 3–5 days [[3]](https://coursology-qbank.com/amboss/article/LPdw2J0)
+
+* Luminal agent: <u>paromomycin</u>;  DOSAGE for 7 days (alternatives: <u>diloxanide</u> OR <u>iodoquinol</u>)  [[3]](https://coursology-qbank.com/amboss/article/LPdw2J0)
+
+* Asymptomatic individuals: Administer a luminal cysticidal agent to prevent invasive disease and cyst shedding.
+
+* First-line: <u>paromomycin</u> DOSAGE for 7 days [[3]](https://coursology-qbank.com/amboss/article/LPdw2J0)
+
+* Alternatives: <u>diloxanide</u> OR <u>iodoquinol</u>
+
+
+
+
+
+> [!TIP]
+> <u>E. dispar</u> is nonpathogenic and does not require treatment. [[3]](https://coursology-qbank.com/amboss/article/LPdw2J0)
+
+
+
+
+#### Management of fulminant amebic <u>colitis</u> [[3]](https://coursology-qbank.com/amboss/article/LPdw2J0)
+
+
+
+
+* Consult infectious diseases and general <u>surgery</u>.
+
+* Provide <u>immediate hemodynamic support</u>.
+
+* Consider adding <u>empiric antibiotic therapy for intraabdominal infections</u>.
+
+* Consider surgical intervention for complications (e.g., <u>toxic megacolon</u>, <u>colonic</u> <u>necrosis</u>).
+
+
+
+
+
+### Complications [[3]](https://coursology-qbank.com/amboss/article/LPdw2J0)
+
+
+
+
+* <u>Fulminant colitis</u> or necrotizing <u>colitis</u>
+
+* <u>Toxic megacolon</u> leading to <u>colonic</u> perforation
+
+* Ameboma
+
+* <u>Fistula</u> formation (e.g., <u>rectovaginal fistula</u>)
+
+---
+
+## Extraintestinal amebiasis
+
+### Definition
+
+
+
+
+* <u>E. histolytica</u> infection occurring outside the <u>gastrointestinal tract</u>
+
+* Most commonly manifests as an amebic liver abscess
+
+* Rarely causes <u>abscesses</u> in other organs (e.g., <u>lungs</u>, <u>kidney</u>, <u>brain</u>)
+
+
+
+
+
+### Clinical features [[3]](https://coursology-qbank.com/amboss/article/LPdw2J0)[[4]](https://coursology-qbank.com/amboss/article/nPd72J0)
+
+
+
+
+* <u>Incubation period</u>: a few weeks to several years  [[7]](https://coursology-qbank.com/amboss/article/pPdLfJ0)
+
+* Onset: usually over 2–4 weeks
+
+* Symptoms
+
+* <u>Fever</u> (more common)
+
+* <u>RUQ</u> abdominal <u>pain</u>
+
+* <u>Hepatomegaly</u>
+
+* Right-sided <u>pleuritic chest pain</u> and/or referred shoulder <u>pain</u>
+
+* Other GI symptoms: <u>nausea</u>, <u>vomiting</u>, <u>diarrhea</u>, <u>constipation</u>, abdominal distension
+
+* Other organ-specific clinical features rarely occur  [[4]](https://coursology-qbank.com/amboss/article/nPd72J0)
+
+
+
+
+
+> [!TIP]
+> Fewer than one third of patients have associated or prior history of <u>diarrhea</u> and/or other gastrointestinal symptoms. [[7]](https://coursology-qbank.com/amboss/article/pPdLfJ0)
+
+
+
+
+### Diagnosis [[3]](https://coursology-qbank.com/amboss/article/LPdw2J0)[[4]](https://coursology-qbank.com/amboss/article/nPd72J0)[[7]](https://coursology-qbank.com/amboss/article/pPdLfJ0)
+
+
+
+
+* Suspect <u>amebic liver abscess</u> in patients with <u>RUQ</u> abdominal <u>pain</u>, <u>fever</u>, and recent travel to an <u>endemic</u> area.
+
+* Diagnosis is typically based on imaging and confirmed with <u>serologic testing</u>.
+
+
+
+
+
+#### Imaging
+
+
+
+
+* Abdominal imaging: typically shows a solitary lesion in the right lobe of the <u>liver</u>
+
+* <u>Ultrasound</u> (abdomen or <u>liver</u>): round, well-defined, <u>hypoechoic</u> mass
+
+* CT/<u>MRI</u>: round lesion with contrast-enhancing wall
+
+* See also “<u>Diagnosis of intraabdominal abscesses</u>.”
+
+* Additional imaging (e.g., chest, head): Consider if extrahepatic lesions are suspected.
+
+
+
+
+
+#### Confirmatory studies
+
+
+
+
+* <u>Serology</u>: detection of antiamebic <u>antibodies</u> in the serum  [[3]](https://coursology-qbank.com/amboss/article/LPdw2J0)[[5]](https://coursology-qbank.com/amboss/article/6PdjfJ0)
+
+* <u>Abscess</u> <u>aspiration</u>: not routinely indicated but may be considered to rule out <u>pyogenic liver abscess</u>
+
+* Gross pathology: thick brown <u>pus</u> (resembles anchovy paste)
+
+* Microscopy: acellular debris, <u>trophozoites</u> (in < 20% of patients) [[7]](https://coursology-qbank.com/amboss/article/pPdLfJ0)
+
+* <u>PCR</u> and/or <u>antigen</u> testing of aspirated material can confirm the diagnosis.
+
+
+
+
+
+#### Additional studies
+
+
+
+
+* <u>Laboratory studies</u>
+
+* <u>CBC</u>: mild to moderate <u>leukocytosis</u> and <u>anemia</u> without <u>eosinophilia</u>
+
+* <u>Liver chemistries</u>: elevated <u>alkaline phosphatase</u>, normal or mildly elevated <u>aminotransferases</u>
+
+* Stool studies (i.e., microscopy, <u>antigen</u> detection, <u>PCR</u>): often negative  [[3]](https://coursology-qbank.com/amboss/article/LPdw2J0)
+
+
+
+
+
+### Differential diagnosis
+
+
+
+
+* See “<u>Fever</u>.”
+
+* See “<u>Differential diagnosis of acute abdominal pain</u>.”
+
+* See “<u>Intraabdominal abscesses</u>”
+
+* See “<u>Pyogenic liver abscess</u>.”
+
+
+
+
+
+### Treatment [[3]](https://coursology-qbank.com/amboss/article/LPdw2J0)[[4]](https://coursology-qbank.com/amboss/article/nPd72J0)[[7]](https://coursology-qbank.com/amboss/article/pPdLfJ0)
+
+
+
+
+Manage in consultation with infectious diseases, general <u>surgery</u>, and/or interventional radiology.
+
+
+
+
+* Pharmacotherapy: a <u>nitroimidazole</u> to target invasive <u>trophozoites</u> followed by a luminal agent to eradicate intestinal cysts and prevent relapse ;  [[3]](https://coursology-qbank.com/amboss/article/LPdw2J0)[[7]](https://coursology-qbank.com/amboss/article/pPdLfJ0)
+
+* <u>Nitroimidazole</u>: <u>metronidazole</u>;  DOSAGE for 10 days OR <u>tinidazole</u> DOSAGE for 5 days [[3]](https://coursology-qbank.com/amboss/article/LPdw2J0)
+
+* Luminal agent: <u>paromomycin</u>;  DOSAGE for 7 days (alternatives: <u>diloxanide</u> OR <u>iodoquinol</u>) [[3]](https://coursology-qbank.com/amboss/article/LPdw2J0)
+
+* Indications for <u>imaging-guided percutaneous drainage</u> [[3]](https://coursology-qbank.com/amboss/article/LPdw2J0)
+
+* No clinical response to pharmacotherapy within ∼ 72 hours
+
+* High risk of rupture (e.g., <u>abscess</u> size > 5 cm, left lobe <u>abscess</u>)
+
+* Bacterial <u>coinfection</u> (see “<u>Treatment of pyogenic liver abscess</u>”)
+
+* Surgical drainage: typically avoided but may be indicated for <u>amebic liver abscesses</u> that are inaccessible or ruptured with <u>peritonitis</u>
+
+
+
+
+
+> [!WARNING]
+> Suspect bacterial <u>coinfection</u> in patients with no clinical response to antiamebic pharmacotherapy within ∼ 72 hours. [[4]](https://coursology-qbank.com/amboss/article/nPd72J0)
+
+
+
+
+### Complications
+
+
+
+
+* <u>Pyogenic</u> <u>abscess</u> due to secondary infection [[8]](https://coursology-qbank.com/amboss/article/H40KkT)
+
+* <u>Peritonitis</u> due to <u>abscess</u> rupture
+
+* Dissemination that may lead to <u>metastatic infection</u> (e.g., <u>brain abscess</u>)
+
+* Direct extension to the <u>pericardium</u> and/or <u>pleura</u>
+
+---

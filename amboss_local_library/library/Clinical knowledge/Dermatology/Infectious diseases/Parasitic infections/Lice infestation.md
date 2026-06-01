@@ -1,0 +1,354 @@
+# Lice infestation
+
+*Categories: Clinical knowledge > Dermatology > Infectious diseases > Parasitic infections > Lice infestation*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/1k025T)
+
+---
+
+## Summary
+
+There are three species of <u>lice</u> that affect humans: <u>Pediculus humanus capitis</u> (head <u>louse</u>), <u>Pediculus humanus corporis</u> (body <u>louse</u>), and <u>Pthirus pubis</u> (pubic or <u>crab louse</u>). All three species are obligate, stationary <u>ectoparasites</u> that feed solely on human blood. Affected individuals most commonly present with <u>pruritus</u>, although early stages of <u>infestation</u> and mild cases may be asymptomatic. Diagnosis is confirmed if at least one viable <u>louse</u> is detected on the head (<u>head lice infestation</u>), or if <u>nits</u> and/or <u>lice</u> are detected on clothing (<u>body lice infestation</u>), pubic area (<u>pubic lice infestation</u>), or eyelashes (<u>eyelash lice infestation</u>). <u>Management of lice infestation</u> varies based on location of <u>infestation</u> and includes pharmacotherapy (for head and pubic <u>infestation</u>), good personal hygiene practices (for body <u>infestation</u>), and nonpharmacological measures such as manual <u>lice</u> removal (for <u>eyelash lice infestation</u> and as an adjunctive measure in other <u>infestations</u>). All patients should be educated on methods to <u>prevent lice transmission and reinfection</u>. Complications of <u>lice</u> <u>infestation</u> include secondary <u>skin infections</u> from scratching.
+
+
+
+
+The body <u>louse</u> acts as a <u>vector</u> for <u>louse-borne diseases</u>. For more information, see “<u>Louse- and flea-borne diseases</u>.”
+
+---
+
+## Pediculosis capitis (head lice infestation)
+
+* <u>Epidemiology</u>: most common in children (affects 1–2% of children in the United States)  [[1]](https://coursology-qbank.com/amboss/article/qedC-K0)[[2]](https://coursology-qbank.com/amboss/article/Bedza60)
+
+* <u>Parasite</u>: <u>Pediculus humanus capitis</u> (∼ 3 mm in length)  [[1]](https://coursology-qbank.com/amboss/article/qedC-K0)
+
+* Transmission [[1]](https://coursology-qbank.com/amboss/article/qedC-K0)
+
+* Direct head-to-head contact
+
+* Sharing <u>hair</u> accessories, bedding, or clothing
+
+* Clinical features [[2]](https://coursology-qbank.com/amboss/article/Bedza60)
+
+* Can be asymptomatic
+
+* Visible <u>nymphs</u>, <u>adult lice</u>, and/or <u>nits</u> on the scalp or <u>hair</u>
+
+* Scalp/neck <u>pruritus</u> and excoriations: can take 4–6 weeks to develop  [[3]](https://coursology-qbank.com/amboss/article/czca7U0)
+
+* Management [[1]](https://coursology-qbank.com/amboss/article/qedC-K0)[[2]](https://coursology-qbank.com/amboss/article/Bedza60)[[3]](https://coursology-qbank.com/amboss/article/czca7U0)
+
+* Diagnosis is clinical.
+
+* Initiate <u>pharmacological treatment for lice infestation</u>.   [[2]](https://coursology-qbank.com/amboss/article/Bedza60)
+
+* Consider nonpharmacological measures as adjunctive or alternative treatments. 
+
+* <u>Lice</u> removal with a fine-<u>tooth</u> comb
+
+* Occlusive agents (e.g., olive oil and <u>petroleum jelly</u>)  [[1]](https://coursology-qbank.com/amboss/article/qedC-K0)[[2]](https://coursology-qbank.com/amboss/article/Bedza60)
+
+* See also “<u>Management of lice infestation</u>.”
+
+* Complications: bacterial <u>superinfection</u>
+
+
+
+
+
+> [!WARNING]
+> Identification of ≥ 1 viable <u>louse</u> is necessary for diagnostic confirmation of head <u>lice</u>; detection of <u>nits</u> alone is insufficient. [[1]](https://coursology-qbank.com/amboss/article/qedC-K0)[[3]](https://coursology-qbank.com/amboss/article/czca7U0)
+
+
+
+
+> [!TIP]
+> Individuals with head <u>lice</u> do not need to be excluded from school. [[2]](https://coursology-qbank.com/amboss/article/Bedza60)
+
+
+
+
+![Head louse nit](../../../../../media/tz18sz945yitn3bj0w347ms1.jpg)
+
+Head louse nit
+
+![Head lice infestation](../../../../../media/k2jrl3s33l8p1w9yjt32cq7k.jpg)
+
+Head lice infestation
+
+---
+
+## Pediculosis corporis (body lice infestation)
+
+* <u>Epidemiology</u>: most common in people living in crowded, unsanitary living conditions [[2]](https://coursology-qbank.com/amboss/article/Bedza60)
+
+* <u>Parasite</u>: <u>Pediculus humanus corporis</u> (∼ 2–4 mm in length)  [[2]](https://coursology-qbank.com/amboss/article/Bedza60)
+
+* Transmission [[2]](https://coursology-qbank.com/amboss/article/Bedza60)
+
+* Direct contact with infested <u>skin</u>
+
+* Sharing bedding or clothing
+
+* Clinical features [[2]](https://coursology-qbank.com/amboss/article/Bedza60)
+
+* <u>Pruritus</u>
+
+* <u>Erythematous</u> <u>macules</u> and <u>papules</u> with excoriations
+
+* <u>Postinflammatory hyperpigmentation</u> (typically at the waist, <u>axilla</u>, and neck)
+
+* Management [[2]](https://coursology-qbank.com/amboss/article/Bedza60)[[3]](https://coursology-qbank.com/amboss/article/czca7U0)
+
+* Diagnosis is clinical.
+
+* Advise the patient on appropriate personal hygiene measures, e.g.:
+
+* Regular bathing
+
+* Using clean clothing and bedding
+
+* For patients with substantial body <u>hair</u>, consider <u>pharmacological treatment for lice infestation</u>.
+
+* Fumigation may be necessary if there is potential for transmission of <u>louse-borne disease</u>.
+
+* See also “<u>Management of lice infestation</u>.”
+
+* Complications
+
+* Secondary <u>skin infections</u>
+
+* Possible transmission of one of the following: 
+
+* <u>Rickettsia prowazekii</u> (<u>epidemic typhus</u>)
+
+* <u>Borrelia recurrentis</u> (<u>relapsing fever</u>)
+
+* <u>Bartonella quintana</u> (<u>trench fever</u>)
+
+
+
+
+
+> [!TIP]
+> <u>Body lice</u> are most often found in clothing seams rather than on the <u>skin</u>. [[2]](https://coursology-qbank.com/amboss/article/Bedza60)
+
+
+
+
+![Developmental stages of the body louse](../../../../../media/du94fqrlk0f5705c42654nv5.jpg)
+
+Developmental stages of the body louse
+
+![Pediculosis corporis (leg)](../../../../../media/ri4kru4oomh9b7zh3oxtunho.jpg)
+
+Pediculosis corporis (leg)
+
+![Body lice (Pediculosis humanus corporis)](../../../../../media/n4idcitjr4olo5fxld751sm4.jpg)
+
+Body lice (Pediculosis humanus corporis)
+
+---
+
+## Pediculosis pubis (pubic lice infestation)
+
+* <u>Epidemiology</u>: most common in teenagers and young adults [[2]](https://coursology-qbank.com/amboss/article/Bedza60)
+
+* <u>Parasite</u> ;    [[2]](https://coursology-qbank.com/amboss/article/Bedza60)
+
+* Pthirus pubis
+
+* Also known as the <u>crab louse</u>; often referred to as “<u>crabs</u>” because of its crab-like appearance
+
+* ∼ 1.5 mm in length
+
+* Transmission [[2]](https://coursology-qbank.com/amboss/article/Bedza60)
+
+* Usually sexual contact
+
+* Can also be transmitted via infested towels or bedding
+
+* Clinical features [[2]](https://coursology-qbank.com/amboss/article/Bedza60)[[4]](https://coursology-qbank.com/amboss/article/2NcT010)
+
+* <u>Pruritus</u> and excoriations in the pubic area (most common) and/or other areas with coarse <u>hair</u> (e.g., <u>axilla</u>, perianal region)
+
+* Visible <u>lice</u> and/or <u>nits</u> in affected areas
+
+* <u>Maculae</u> ceruleae (blue-gray <u>macules</u> ) in patients with significant <u>infestation</u>
+
+* Management [[2]](https://coursology-qbank.com/amboss/article/Bedza60)[[3]](https://coursology-qbank.com/amboss/article/czca7U0)[[4]](https://coursology-qbank.com/amboss/article/2NcT010)
+
+* Diagnosis is clinical; examine all areas of the body with coarse <u>hair</u> (including eyelashes) for additional <u>lice</u>.
+
+* <u>Lice</u> and <u>nits</u> can be removed with fingernails, a fine-<u>tooth</u> comb, and/or by shaving <u>hair</u>.
+
+* Initiate <u>pharmacological treatment for lice infestation</u>.
+
+* <u>Screen for other STIs</u>.
+
+* Treat all sexual partners from the last month.
+
+* See also “<u>Management of lice infestation</u>.”
+
+
+
+
+
+![Pthirus pubis (crab louse)](../../../../../media/zw6w1uymvu7zvdv7s6ipomgn.jpg)
+
+Pthirus pubis (crab louse)
+
+![Nit of a pubic louse](../../../../../media/tkgnws6mcah9jbku0aeop3zj.jpg)
+
+Nit of a pubic louse
+
+![Pubic lice (Pediculosis pubis)](../../../../../media/jcwbi2znigay3wtedt09cx6i.jpg)
+
+Pubic lice (Pediculosis pubis)
+
+---
+
+## Management
+
+### Diagnostics [[2]](https://coursology-qbank.com/amboss/article/Bedza60)[[3]](https://coursology-qbank.com/amboss/article/czca7U0)
+
+
+
+
+* Examine the area of concern (e.g., scalp, <u>hair</u>, pubic <u>hair</u>, clothing seams, eyelash base) for <u>nits</u>, <u>nymphs</u>, and/or <u>adult lice</u> with any of the following: 
+
+* The naked <u>eye</u>
+
+* Handheld magnifying glass
+
+* <u>Wood lamp</u>  [[6]](https://coursology-qbank.com/amboss/article/oQd0Cp0)
+
+* <u>Dermatoscope</u>
+
+* Microscope
+
+* Diagnosis is confirmed if the following are visualized: [[2]](https://coursology-qbank.com/amboss/article/Bedza60)
+
+* <u>Head lice infestation</u>: ≥ 1 viable <u>louse</u>
+
+* <u>Body lice</u>, <u>pubic lice</u>, and <u>eyelash lice</u> <u>infestations</u>: <u>nits</u> and/or <u>lice</u>
+
+
+
+
+
+![Head lice infestation](../../../../../media/k2jrl3s33l8p1w9yjt32cq7k.jpg)
+
+Head lice infestation
+
+![Body lice (Pediculosis humanus corporis)](../../../../../media/n4idcitjr4olo5fxld751sm4.jpg)
+
+Body lice (Pediculosis humanus corporis)
+
+![Nit of a pubic louse](../../../../../media/tkgnws6mcah9jbku0aeop3zj.jpg)
+
+Nit of a pubic louse
+
+![Pubic (crab) louse on eyelashes](../../../../../media/p7apwgstmq3hq5848lwe5oki.jpg)
+
+Pubic (crab) louse on eyelashes
+
+
+
+
+### Treatment [[2]](https://coursology-qbank.com/amboss/article/Bedza60)[[3]](https://coursology-qbank.com/amboss/article/czca7U0)
+
+
+
+
+* Tailor treatment based on the location of <u>infestation</u>.
+
+* Advise all patients on measures to <u>prevent lice transmission and reinfection</u>.
+
+* See specific sections for details.
+
+
+
+
+
+#### Pharmacological treatment for lice infestation [[2]](https://coursology-qbank.com/amboss/article/Bedza60)[[3]](https://coursology-qbank.com/amboss/article/czca7U0)
+
+
+
+
+See “<u>Overview of ectoparasiticides</u>” for additional drug information.
+
+
+
+
+##### First-line
+
+
+
+
+* <u>Permethrin</u> 1%  DOSAGE OR <u>pyrethrins with piperonyl butoxide</u> DOSAGE  [[2]](https://coursology-qbank.com/amboss/article/Bedza60)[[3]](https://coursology-qbank.com/amboss/article/czca7U0)
+
+* A second application is recommended after 7–10 days in:
+
+* All patients with <u>head lice infestation</u>
+
+* Patients with <u>pubic lice infestation</u> and persistent symptoms [[4]](https://coursology-qbank.com/amboss/article/2NcT010)
+
+
+
+
+
+##### Alternatives
+
+
+
+
+The following agents are alternative options in case of known local resistance to pyrethroids or treatment failure with first-line agents.  [[2]](https://coursology-qbank.com/amboss/article/Bedza60)[[4]](https://coursology-qbank.com/amboss/article/2NcT010)
+
+
+
+
+* Head <u>lice</u>: Use one of the following agents.
+
+* Topical <u>ivermectin</u> DOSAGE
+
+* <u>Spinosad</u> DOSAGE
+
+* <u>Malathion</u> (if ≥ 6 years of age) DOSAGE [[2]](https://coursology-qbank.com/amboss/article/Bedza60)
+
+* Oral <u>ivermectin</u> (<u>off-label</u>) DOSAGE
+
+* <u>Pubic lice</u>: <u>malathion</u> (<u>off-label</u>) DOSAGE OR oral <u>ivermectin</u> (<u>off-label</u>) DOSAGE [[4]](https://coursology-qbank.com/amboss/article/2NcT010)
+
+
+
+
+
+> [!TIP]
+> <u>Spinosad</u>, <u>malathion</u>, and topical <u>ivermectin</u> are ovicidal and are typically effective after only one treatment. <u>Permethrin</u>, pyrethrins, and oral <u>ivermectin</u> usually require repeat treatment. [[3]](https://coursology-qbank.com/amboss/article/czca7U0)
+
+
+
+
+#### Prevention of lice transmission and reinfection [[1]](https://coursology-qbank.com/amboss/article/qedC-K0)
+
+
+
+
+* Clean potentially contaminated personal items.
+
+* Machine wash and dry clothing, bedding, and towels â¥ 54Â°C (â¥ 130Â°F) for > 5 minutes.  [[1]](https://coursology-qbank.com/amboss/article/qedC-K0)[[2]](https://coursology-qbank.com/amboss/article/Bedza60)[[3]](https://coursology-qbank.com/amboss/article/czca7U0)
+
+* Soak combs, hairbrushes, and <u>hair</u> accessories of patients with head <u>lice</u> in hot water â¥ 54Â°C (â¥ 130Â°F) for 5–10 minutes.
+
+* Examine close contacts for <u>lice</u> <u>infestation</u> and treat if indicated.
+
+
+
+
+
+> [!WARNING]
+> Chemical environmental sprays are not routinely recommended for <u>lice</u> management and should only be used if there is potential for transmission of <u>louse-borne disease</u> from <u>body lice</u>. [[2]](https://coursology-qbank.com/amboss/article/Bedza60)
+
+---

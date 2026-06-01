@@ -1,0 +1,18 @@
+# Thoracentesis
+
+*Categories: Clinical knowledge > Internal medicine > Pulmonology > Pleural diseases > Thoracentesis*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/tt0X23)
+
+---
+
+## Summary
+
+Thoracentesis is a procedure that removes <u>pleural fluid</u> for diagnostic and/or therapeutic purposes. It is used to relieve symptoms (e.g., <u>dyspnea</u>) and/or obtain <u>pleural fluid</u> for analysis to help determine the underlying cause (e.g., infection, <u>malignancy</u>). <u>Relative contraindications</u> include <u>coagulopathy</u> and infection over the procedure site. It is important to determine the best puncture site using <u>ultrasound</u> guidance and ensure all necessary equipment is at the bedside before performing the procedure. Complications include <u>reexpansion pulmonary edema</u> and <u>pneumothorax</u>.
+
+
+
+
+See also “<u>Pleural effusion</u>.”
+
+---

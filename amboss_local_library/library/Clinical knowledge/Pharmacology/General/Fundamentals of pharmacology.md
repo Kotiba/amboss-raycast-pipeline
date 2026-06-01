@@ -1,0 +1,1559 @@
+# Fundamentals of pharmacology
+
+*Categories: Clinical knowledge > Pharmacology > General > Fundamentals of pharmacology*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/7N04cg)
+
+---
+
+## Summary
+
+The action of a drug depends on multiple factors. <u>Pharmacokinetics</u> is the study of a drug's movements in the body and can be described as what the body does to the drug, while <u>pharmacodynamics</u> is the study of a drug's action and effects on a body and can be described as what the drug does to the body. The administration of a drug in combination with other drugs or substances can cause a variety of interactions that can synergistically or antagonistically modify the effect of those drugs (e.g., via the activation or inhibition of <u>cytochrome P450</u> enzymes by certain medications). Knowledge of interactions and <u>pharmacokinetics</u> help determine the ideal route of administration (topical, oral, IV). Drugs that are eliminated by the <u>liver</u> may attain high serum concentrations when <u>hepatic function</u> is impaired, which increases the risk of drug toxicity. The same principle applies to drugs that are eliminated via the <u>kidneys</u>.
+
+---
+
+## Overview
+
+### Definitions
+
+
+
+
+* LADME is an acronym for the important phases of <u>pharmacokinetics</u>:
+
+* Liberation
+
+* Absorption
+
+* Distribution
+
+* Metabolism
+
+* Excretion
+
+* <u>Pharmacodynamics</u> 
+
+* <u>Receptor</u> types and their interaction with the drug
+
+* <u>Dose-response</u> relationship
+
+* <u>Pharmacogenetics</u>: deals with the effect of genetic variations on drug metabolism and drug action.
+
+* Clinical trials: phases of drug development, testing, and regulatory approval (occur after preclinical studies)
+
+
+
+
+
+### Clinical trials phases
+
+
+
+
+| <br>Overview of clinical trial phases [[1]](https://coursology-qbank.com/amboss/article/XlY9v6)[[2]](https://coursology-qbank.com/amboss/article/ZmbZV8)<br> |  |  |  |
+| --- | --- | --- | --- |
+| <u>Clinical trial phase</u> | Purpose | Study population | <u>Study design</u> |
+| Phase 0 trial | <br><br>* Exploratory phase with no therapeutic or diagnostic intent with the aim of gaining insight on <u>pharmacokinetics</u> and <u>pharmacodynamics</u><br><br>* Only < 1% of the therapeutic dose is used.<br><br>* Safety and toxicity are not assessed.<br><br><br> | <br>* Small sample: consisting either healthy individuals or of population with a disease of interest (∼ 10–15)<br><br> | <br>* Open-label<br><br> |
+| Phase I trial | <br><br>* Evaluation of <u>pharmacodynamic</u> and <u>pharmacokinetic</u> properties of the drug, safety and toxicity.<br><br>* Evaluation of the maximum tolerated dose.<br><br><br> | <br>* Small number of healthy individuals or patients with a specific disease (∼ 15–30)<br><br> |  |
+| Phase II trial | <br>* Evaluation of <u>efficacy</u>, optimal dose range, and side effects (esp. common and short-term side effects)<br><br> | <br>* Moderate number of patients with a specific disease (∼ 10–100)<br><br> | <br><br>* <u>Randomized</u><br><br>* Controlled<br><br>* Anonymized<br><br><br> |
+| Phase III trial | <br>* Final confirmation of safety and evaluation of <u>efficacy</u> against <u>placebo</u> or the current <u>standard of care</u><br><br> | <br>* <u>Randomized</u> control trial with a large number of patients with a specific disease (∼ 100–1000)<br><br> |  |
+| Phase IV trial | <br><br>* Postmarketing surveillance: compares the real-life <u>efficacy</u> to that described in research studies<br><br>* Safety studies following approval (esp. evaluation of rare and long-term side effects)<br><br><br> | <br>* Large number of patients with a specific disease after drug approval<br><br> | <br>* Open-label<br><br> |
+
+
+
+
+
+> [!NOTE]
+> Before clinical trials begin, drugs are first tested in preclinical studies. Preclinical studies do not include human subjects.
+
+
+
+
+### Drug approval [[3]](https://coursology-qbank.com/amboss/article/D9c1pe0)
+
+
+
+
+* General
+
+* In the US, all drugs must be approved by the <u>Food and Drug Administration</u> (<u>FDA</u>) for certain indications.
+
+* Some drugs may be used for indications other than those they have been approved for. (See “<u>Off-label use</u>” below)
+
+* Drugs that have not been approved by the <u>FDA</u> for any indication should generally not be prescribed, but there are exceptions. (See “<u>Expanded access</u>” below)
+
+* Development and general approval process 
+1. * Development of a substance with therapeutic potential or taking a decision to repurpose an existing substance
+2. * Conducting pre-clinical studies (<u>phase 0 clinical trial</u>)
+3. * Submitting investigational new drug (<u>IND</u>) application
+
+* Types
+
+* Investigator <u>IND</u>: submitted by a physician or representative of a company who will conduct the clinical trials to initiate the standard approval procedure
+
+* Emergency use <u>IND</u>: asks for approval of an <u>experimental drug</u> in an emergency situation, in which the standard <u>IND</u> cannot be filed and there is no time for a standard approval procedure
+
+* Treatment <u>IND</u>: requests approval of use of an <u>experimental drug</u> to treat serious or rare conditions that showed <u>efficacy</u> in clinical studies before their completion (e.g., during an <u>interim analysis</u>) and final approval by the <u>FDA</u>
+
+* Categories
+
+* Research: submitted by a physician representing research or clinical institution
+
+* Commercial: submitted by a representative of a commercial organization, e.g., drug company
+4. * Phase 1 to 3 clinical trials
+5. * Filing the New Drug Application
+
+* A formal request to the <u>FDA</u> to approve the <u>investigational agent</u> for marketing and use in the US
+
+* Should include all the information about the agent (manufacturing process, quality control, formula, <u>pharmacodynamics</u>, <u>pharmacokinetics</u>, risks, indications, proposed labeling, etc.)
+6. * Application review
+7. * Drug labeling
+8. * Inspection of manufacturing facilities
+
+* Exceptions
+
+* Off-label use [[4]](https://coursology-qbank.com/amboss/article/kaWmkP0)
+
+* Use of an <u>FDA</u>-approved drug for an unapproved indication or population, or in an unapproved form or dosage
+
+* Examples: <u>tricyclic antidepressants</u> for the treatment of <u>chronic pain</u>, <u>SSRIs</u> for <u>premature ejaculation</u>, <u>letrozole</u> for <u>infertility treatment</u> in <u>PCOS</u>
+
+* Orphan drugs [[5]](https://coursology-qbank.com/amboss/article/MB1MYj0)[[6]](https://coursology-qbank.com/amboss/article/nB17Yj0)
+
+* A designation by the <u>FDA</u> for a medication or <u>vaccine</u> that can potentially be used to diagnose, prevent, or treat a rare disease (defined as affecting < 200,000 people in the US)
+
+* Incentivizes the development of drugs for rare diseases (e.g., via tax benefits for clinical trials, exemption from user fees, market exclusivity for seven years after approval)
+
+* Expanded access [[7]](https://coursology-qbank.com/amboss/article/X_195j0)
+
+* An <u>FDA</u> program that grants use of an <u>investigational drug</u> or medical device to treat a serious condition for which there is no comparable or satisfactory alternative treatment
+
+* Examples: granting access to an <u>investigational drug</u> to a patient who lives too far from study centers or who does not meet eligibility criteria to participate in a drug trial
+
+
+
+
+
+> [!TIP]
+> Drugs that do not have <u>FDA</u> approval for any indication should not be prescribed because the safety, <u>efficacy</u>, and quality of these drugs have not been proven. [[8]](https://coursology-qbank.com/amboss/article/OB1Iaj0)
+
+
+
+
+### Drug scheduling [[9]](https://coursology-qbank.com/amboss/article/w9chpe0)
+
+
+
+* Definition: legal classification of substances based on their abusive potential
+
+
+
+
+| Overview of <u>drug scheduling</u> |  |  |
+| --- | --- | --- |
+| Class | Description | Examples |
+| I | <br><br>* Not used medically<br><br>* High potential for abuse<br><br><br> | <br><br>* <u>LSD</u><br><br>* <u>Ecstasy</u><br><br>* <u>Heroin</u><br><br><br> |
+| II | <br><br>* Used medically<br><br>* Can potentially lead to physical and psychological abuse<br><br><br> | <br><br>* <u>Methadone</u><br><br>* <u>Fentanyl</u><br><br>* <u>Amphetamine</u><br><br><br> |
+| III | <br><br>* Used medically<br><br>* Low-to-moderate potential for physical and high potential for psychological abuse<br><br><br> | <br><br>* <u>Ketamine</u><br><br>* <u>Anabolic steroids</u><br><br><br> |
+| IV | <br><br>* Used medically<br><br>* Low potential for both physical and psychological abuse<br><br><br> | <br><br>* <u>Clonazepam</u><br><br>* <u>Alprazolam</u><br><br>* <u>Midazolam</u><br><br><br> |
+| V | <br><br>* Used medically<br><br>* Low potential for abuse compared to Schedule IV drugs<br><br>* Primarily consists of preparations that contain narcotic medications<br><br><br> | <br>* <u>Cough</u> syrups with <u>codeine</u><br><br> |
+
+---
+
+## Pharmacokinetics
+
+<u>Pharmacokinetics</u> deals with drug absorption, distribution, metabolism, and excretion.
+
+
+
+
+### Liberation
+
+
+
+
+* The process by which the drug is released from its pharmaceutical form (e.g., capsule, tablet, suppository, etc.)
+
+* The most common routes of drug administration are:
+
+* Injection (the drug is introduced directly into the bloodstream or into tissue)
+
+* Inhalation
+
+* Peroral administration
+
+* <u>Dermal</u> administration
+
+* Rectal administration
+
+* Less common routes
+
+* Buccal
+
+* Sublingual
+
+* Intra-articular administration
+
+
+
+
+
+### Absorption (pharmacology)
+
+
+
+
+The process by which the drug reaches the bloodstream. The following factors affect drug absorption:
+
+
+
+
+* Bioavailability
+
+* Describes the rate and concentration at which a drug reaches <u>systemic circulation</u>
+
+* Expressed as a percentage of the dose that was initially administered
+
+* Drugs administered intravenously have a <u>bioavailability</u> of 100%.
+
+* Can be calculated using the area under curve (<u>AUC</u>) of the plotted graph concentration versus time: (F) = (AUC<sub>oral</sub>/AUC<sub>IV</sub>) x 100
+
+* <u>Bioavailability</u> is affected by two mechanisms:
+
+* Ability to pass through lipid membranes: dependent on the nature of the substance (see the table below)
+
+* First pass effect
+
+* Orally administered drugs are absorbed in the <u>GI tract</u> and reach the <u>liver</u> via portal circulation
+
+* In the <u>liver</u> they undergo <u>first pass metabolism</u> before they enter systemic circulation → ↓ <u>bioavailability</u> of the drug (F < 100%).
+
+* Rectal or sublingual administration bypasses <u>first pass metabolism</u>, as the drug is absorbed directly into the bloodstream.
+
+* Bioequivalence: Two proprietary preparations of a drug are said to be bioequivalent if they exhibit the same <u>bioavailability</u> when administered in equal doses.
+
+
+
+
+
+| Abilities of chemical compounds |  |  |  |
+| --- | --- | --- | --- |
+| Characteristic | Chemical nature | Clinical significance | Example |
+| <br>Lipophilic <br> | <br>* Predominantly nonpolar compounds<br><br> | <br><br>* Most drugs are <u>lipophilic</u>, as they can easily diffuse across the <u>lipid bilayer</u> of <u>the cell</u> membrane.<br><br>* These drugs can be administered topically.<br><br>* <u>CNS</u> penetration: free <u>diffusion</u> across the <u>blood-brain</u> barrier<br><br>* <u>Lipophilic</u> drugs generally undergo <u>biotransformation</u> in the <u>liver</u> to become more <u>hydrophilic</u> in 2 possible phases.<br><br>* Without <u>biotransformation</u>, <u>lipophilic</u> molecules may be excreted via <u>biliary elimination</u>.<br><br><br> | <br>* <u>Scopolamine</u> (<u>hyoscine</u>)<br><br>* Tertiary amine<br><br>* Used to treat <u>motion sickness</u><br><br> |
+| <br>Hydrophilic <br> | <br>* Predominantly polar compounds<br><br> | <br><br>* These drugs can cross the <u>lipid bilayer</u> only via <u>facilitated transport</u><br><br>* Smaller <u>hydrophilic</u> molecules can diffuse along a concentration gradient through pores in the membrane.<br><br>* <u>Hydrophilic</u> drugs are primarily excreted via <u>renal elimination</u>, although some may also undergo <u>biliary elimination</u>.<br><br><br> | <br>* <u>Butylscopolamine</u> (<u>hyoscine</u> butylbromide)<br><br>* Quarternary amine<br><br>* Used as an <u>antispasmodic</u> to treat GI colic<br><br> |
+| Amphiphilic | <br>* Both <u>lipophilic</u> and <u>hydrophilic</u><br><br> |  | <br>* <u>Local anesthetics</u>, e.g., <u>lidocaine</u><br><br> |
+
+
+
+
+* Changes in older adults
+
+* Despite slowing of gastric emptying and an increase in gastric <u>pH</u>, absorption remains typically unaffected in older adults.
+
+* Due to older adults often having multiple drug regimens, this group is at particular risk of drug and food interactions.
+
+
+
+
+![Area under the curve of bioavailability graphs](../../../../media/j43k7b0vgv4wn0shfrnyqein.jpg)
+
+Area under the curve of bioavailability graphs
+
+
+
+
+### Distribution (pharmacology)
+
+
+
+
+* Distribution coefficient: measure of hydrophobicity/hydrophilicity of a drug
+* C<sub>organic</sub>/ C<sub>water</sub> 
+
+* C<sub>organic</sub>= drug concentration in an organic solvent
+
+* C<sub>water</sub> = drug concentration in water
+
+* Volume of distribution
+
+* <u>V<sub>d</sub></u> = M/C<sub>plasma</sub>
+
+* <u>V<sub>d</sub></u> = <u>volume of distribution</u> (usually expressed in liters/kg body weight)
+
+* M = amount of drug in the body at a specific time
+
+* C<sub>plasma</sub> = plasma concentration of the drug at a specific time
+
+* The theoretical volume a drug would occupy if it was distributed evenly in fluids at plasma concentration.
+
+* Provides information about a drug tendency to distribute in other compartments (e.g., muscle or <u>adipose tissue</u>) rather than in the plasma.
+
+* Drugs can distribute in more than one compartment.
+
+* The <u>V<sub>d</sub></u> of plasma protein-bound drugs may be increased in patients with renal and <u>liver</u> disease due to loss of <u>plasma proteins</u>.
+
+
+
+
+
+| <u>Volumes of distribution</u> |  |  |  |
+| --- | --- | --- | --- |
+| <u>V<sub>d</sub></u> | Low | Medium | High |
+| Drugs | <br><br>* Consisting of large molecules<br><br>* Consisting of ions<br><br>* <u>Binding to plasma proteins</u><br><br><br> | <br>* Consisting of small <u>hydrophilic</u> molecules<br><br> | <br><br>* Consisting of small <u>lipophilic</u> molecules<br><br>* Binding to tissue <u>proteins</u><br><br><br> |
+| Compartment | <br>* <u>Intravascular</u><br><br> | <br>* Extracellular fluids<br><br> | <br>* All other compartments, e.g.,<br><br>* <u>Muscle tissue</u><br><br>* <u>Adipose tissue</u><br><br> |
+
+
+
+
+
+* Binding to plasma proteins: Different drugs have different affinities to bind to <u>plasma proteins</u> (e.g., <u>albumin</u>).
+
+* Only the unbound fraction of the drug has a pharmacological effect.
+
+* Different drugs may compete to bind to <u>plasma proteins</u>
+
+* Redistribution (pharmacology): transfer of a drug between the different compartments within the human body
+
+* <u>Lipophilic</u> substances (e.g., inhalation <u>anesthetics</u>) are redistributed from plasma into <u>fat tissue</u> → initially decreased action of the applied drug
+
+* Drug is stored but over time is released again from <u>fat tissue</u> into plasma → delayed elimination and prolonged action of the specific drug ).
+
+* Changes in advanced age
+
+* <u>Hydrophilic</u> drugs (e.g., <u>digoxin</u>): ↓ <u>total body water</u> → ↓ <u>V<sub>d</sub></u>
+
+* Acidic drugs: ↓ <u>albumin</u> → ↓ binding
+
+* <u>Lipophilic</u> drugs (e.g., <u>propofol</u>): ↑ body fat content → ↑ <u>V<sub>d</sub></u>
+
+
+
+
+
+> [!NOTE]
+> After the drug reaches the bloodstream, it is initially distributed in the most vascularized organs.
+
+
+
+
+> [!NOTE]
+> Renal and <u>liver</u> disease can increase the <u>apparent volume of distribution</u> of drugs bound to <u>plasma proteins</u>.
+
+
+
+
+### Metabolism (biotransformation)
+
+
+
+
+* Chemical alteration of substances (e.g., drugs) within the body by the action of enzymes and mainly takes place in the <u>liver</u>.
+
+* Detoxifies drugs and facilitates their elimination
+
+
+
+
+
+#### Types of drug kinetics
+
+
+
+
+* Zero order kinetics: The rate of metabolism and/or elimination remains constant and is independent of the plasma concentration of a drug at <u>steady state</u> (C<sub>p</sub>decreases linearly over time) 
+
+* Zero-order is a capacity-limited elimination.
+
+* Examples include ethanol, <u>phenytoin</u>, <u>aspirin</u> (at high concentrations)
+
+* First order kinetics: The rate of metabolism and/or elimination is directly proportional to the plasma concentration of the drug (C<sub>p</sub> decreases exponentially over time) 
+
+* First-order is a flow-dependent elimination.
+
+* Applies to most drugs
+
+
+
+
+
+> [!NOTE]
+> It takes zero PHEN-t<u>AS</u>-E (fantasy) to remember the drugs that are eliminated by <u>zero-order kinetics</u>: PHENytoin, <u>AS</u>pirin, Ethanol.
+
+
+
+
+![Drug kinetics (zero order and first order)](../../../../media/ottp1pti2p6jpwlwfjzw9m4v.jpg)
+
+Drug kinetics (zero order and first order)
+
+
+
+
+#### Phases of <u>biotransformation</u>
+
+
+
+
+* Phase I reaction: A drug is transformed into a polar, water-soluble metabolite by <u>cytochrome P450</u> via one or more of the following reactions:
+
+* Oxidation (most common reaction)
+
+* Reduction
+
+* <u>Hydrolysis</u>
+
+* Phase II reaction: A drug is conjugated and thereby transformed into a very polar metabolite (can be excreted renally) via one or more of the following reactions: 
+
+* <u>Glucuronidation</u> (most common coupling reaction)
+
+* <u>Acetylation</u> (e.g., <u>isoniazid</u>)
+
+* Sulfation
+
+* <u>Methylation</u>
+
+* Clinical significance
+
+* Detoxification: In most cases, the drug is inactivated and modified into a <u>hydrophilic</u> metabolite, allowing excretion of the drug via the <u>kidneys</u> or in <u>bile</u>.
+
+* Activation; : Certain drugs are transformed in the <u>liver</u> from their inactive prodrug state into active forms (e.g., the <u>ACE inhibitor</u> <u>enalapril</u> is transformed through ester <u>hydrolysis</u> into the active form <u>enalaprilat</u>).
+
+* Formation of toxic metabolites (e.g., the breakdown of <u>paracetamol</u> gives rise to toxic metabolites that may cause severe <u>liver</u> damage in large doses)
+
+* In individuals who are slow drug acetylators, the decreased rate of metabolism increases the risk of side effects (e.g., <u>isoniazid</u>).
+
+* Changes in advanced age: ↓ metabolization (due to ↓ hepatic mass and ↓ hepatic blood flow)
+
+* Because <u>phase I metabolism</u> decreases (affecting drugs like <u>diazepam</u>), drugs predominantly metabolized in phase II (e.g., <u>acetaminophen</u>, <u>lorazepam</u>) are considered safer.
+
+* Consequently, lower therapeutic doses should be considered in elderly individuals.
+
+
+
+
+
+![Drug metabolism (phase I and II)](../../../../media/aruiamxcrl2c9crkhmaj2lz1.jpg)
+
+Drug metabolism (phase I and II)
+
+![Drug kinetics (zero order and first order)](../../../../media/ottp1pti2p6jpwlwfjzw9m4v.jpg)
+
+Drug kinetics (zero order and first order)
+
+
+
+
+> [!TIP]
+> In the elderly population, <u>phase I reactions</u> will usually become impaired before <u>phase II reactions</u>.
+
+
+
+
+### Excretion (pharmacology)
+
+
+
+
+* Drug clearance (CL): a measure of the rate of drug elimination.
+
+* It is defined as the plasma volume that can be completely cleared of the drug in a given period of time (e.g., <u>creatinine clearance</u>).
+
+* CL = <u>V<sub>d</sub></u> x K<sub>e</sub> = rate of drug elimination/plasma drug concentration
+
+* <u>V<sub>d</sub></u> = <u>volume of distribution</u>
+
+* K<sub>e</sub> = elimination constant
+
+* CL = rate of elimination / plasma concentration
+
+* CL can be impaired in patients with cardiac, hepatic, or renal dysfunction.
+
+* Half-life (<u>t<sub>½</sub></u>): the time required for the plasma concentration of a drug to reach half of its initial value
+
+* Steady state
+
+* Dynamic equilibrium
+
+* Drug concentration stays constant because the rate of drug elimination equals the rate of drug administration
+
+* In first-order kinetics
+
+* <u>t<sub>½</sub></u> = (0.7 x <u>V<sub>d</sub></u>) / CL
+
+* It takes 1 <u>half-life</u> to reach 50% of the steady-state level, 2 <u>half-lives</u> to reach 25%, 3 <u>half-lives</u> to reach 12.5%, and 4 <u>half-lives</u> to reach 6.25%.
+
+* Complete steady-state attainment takes 4–5 <u>half-lives</u> for drugs infused at a constant rate; 90% of steady-state level is reached after 3.3 <u>half-lives</u>
+
+* Effective half-life 
+
+* The time it takes for a drug's plasma concentration to reach 50% of its initial value during the most clinically important phase of its kinetics
+
+* For drugs with atypical kinetics (e.g., those with a high <u>volume of distribution</u>), the <u>effective half-life</u> may be shorter than the terminal elimination <u>half-life</u> but more predictive of the drug's duration of effect and accumulation.
+
+
+
+
+
+> [!NOTE]
+> Defects in renal, hepatic, or cardiac function can impair <u>drug clearance</u>.
+
+
+
+
+> [!NOTE]
+> After 4 <u>half-lives</u>, more than 90% of the drug will be eliminated.
+
+
+
+
+Drugs and/or their metabolites are excreted from the body in one or more of the following ways:
+
+
+
+
+* Renal elimination: mostly <u>hydrophilic</u> drugs
+
+* Main <u>renal elimination</u> mechanisms include
+
+* <u>Glomerular filtration</u>
+
+* Tubular secretion
+
+* Tubular reabsorption
+
+* Ionized substances cannot cross renal tubular membranes and are cleared quickly. 
+
+* Weak acidic drugs (e.g., <u>phenobarbital</u>, <u>methotrexate</u>, <u>aspirin</u>) are trapped in a basic environment
+
+* Overdoses with these drugs can be treated via <u>alkalinization of urine</u> (<u>sodium bicarbonate</u>)
+
+* RCOOH (lipid soluble) ⇄ RCOO<sup>–</sup> + H<sup>+</sup> (trapped form)
+
+* Weak basic drugs (e.g., <u>tricyclic antidepressants</u>, <u>amphetamines</u>) are trapped in an acidic environment
+
+* Overdoses with these drugs can be treated via <u>acidification of urine</u> (<u>ammonium chloride</u>)
+
+* RNH<sub>3</sub><sup>+</sup> (trapped form) ⇄ RNH<sub>2</sub> + H<sup>+</sup> (lipid soluble)
+
+* The elimination of <u>tricyclic antidepressants</u>, which are basic, can be increased by <u>acidification of urine</u>, but toxicity is generally treated with <u>sodium bicarbonate</u>.
+
+* Neutral substances can be reabsorbed.
+
+* Biliary elimination [[10]](https://coursology-qbank.com/amboss/article/GGaB0m)
+
+* <u>Lipophilic</u> and <u>hydrophilic</u> substances
+
+* <u>Lipophilic</u> substances that have undergone <u>biliary elimination</u> may be reabsorbed from the gut and then secreted again in <u>bile</u> (<u>enterohepatic circulation</u>)
+
+* Pulmonary elimination: primarily in inhaled <u>anesthetic drugs</u>
+
+* Changes in advanced age
+
+* ↓ Tubular secretion and ↓ <u>GFR</u> → ↑ concentrations of drugs that are eliminated renally
+
+* Consequently, lower therapeutic doses should be considered in elderly individuals.
+
+
+
+
+
+> [!NOTE]
+> LADME is an acronym for the important phases of <u>pharmacokinetics</u>: Liberation, Absorption, Distribution, Metabolism, Excretion.
+
+
+
+
+![Effective half-life](../../../../media/zd9zdqe2bp3251cmftdy2wis.jpg)
+
+Effective half-life
+
+
+
+
+### Dosage intervals
+
+
+
+
+#### Loading dose
+
+
+
+
+* Definition: the amount of an initial dose of a certain drug needed to reach a target plasma concentration
+
+* Formula: <u>loading dose</u> = (Cp x <u>Vd</u>) / F
+
+* Cp = target peak plasma concentration at <u>steady state</u> (mg/L or units/L)
+
+* <u>V<sub>d</sub></u> = <u>volume of distribution</u> (L/kg)
+
+* F = <u>bioavailability</u>
+
+* In patients with renal and/or <u>liver</u> dysfunction, <u>loading dose</u> (which does not depend on <u>drug clearance</u>) and time to steady-state are usually unaffected.
+
+
+
+
+
+#### Maintenance dose
+
+
+
+
+* Definition: The amount of a certain drug needed to achieve a steady target plasma concentration.
+
+* Formula: <u>maintenance dose</u> = (Cp x Cl * τ) / F
+
+* Cp = target plasma concentration at <u>steady state</u> (mg/L)
+
+* Cl = clearance (L/h)
+
+* τ = dosing interval (hours)
+
+* F = <u>bioavailability</u>
+
+* In patients with renal and/or <u>liver</u> dysfunction, <u>maintenance dose</u> is decreased (because of impaired <u>drug clearance</u>) and time to steady-state is unchanged (time to <u>steady state</u> depends on <u>t½</u>).
+
+
+
+
+
+> [!NOTE]
+> Renal or <u>liver</u> conditions lower the <u>maintenance dose</u> without affecting the <u>loading dose</u>.
+
+
+
+
+> [!NOTE]
+> The main factor influencing the time to steady-state is <u>t<sub>½</sub></u>, not dose or administration frequency.
+
+
+
+
+![Pharmacokinetics - Part 1: Topical and Systemic Drugs](../../../../media/small_5dfa166839cdb.jpg)
+
+Pharmacokinetics - Part 1: Topical and Systemic Drugs
+
+![Pharmacokinetics - Part 2: Lipophilic and Hydrophilic drugs](../../../../media/small_5dfa166d98c35.jpg)
+
+Pharmacokinetics - Part 2: Lipophilic and Hydrophilic drugs
+
+---
+
+## Pharmacodynamics
+
+<u>Pharmacodynamics</u> deals with the effect of a drug at its site of action, the <u>dose-response</u> relationship of the drug, and the influence of other factors on the drug effect.
+
+
+
+
+### Types of drug targets
+
+
+
+
+Every functioning molecule in an organism is a potential site of action for a drug. Means through which drugs act include:
+
+
+
+
+* Interaction with <u>receptors</u>
+
+* <u>Cell membrane</u> <u>receptors</u>
+
+* <u>G-protein</u> coupled <u>receptors</u> (e.g., adrenergic, <u>dopamine</u>, angiotensin, M‑cholinergic, <u>opioid</u> <u>receptors</u>)
+
+* Ion channels (e.g., <u>GABA<sub>A</sub>receptors</u>)
+
+* Protein <u>kinase</u> <u>receptors</u> (e.g., <u>insulin</u> <u>receptors</u>)
+
+* <u>Intracellular receptors</u> (e.g., <u>receptors</u> for <u>glucocorticoids</u>, NO)
+
+* Interaction with enzymes
+
+* Interaction with <u>DNA</u> (e.g., cytostatics)
+
+* A physical/chemical effect (e.g., <u>osmotic diuretics</u>, <u>antacids</u>)
+
+
+
+
+
+### Drug-<u>receptor</u> interactions
+
+
+
+
+#### Basic principles
+
+
+
+
+* Drug affinity: a measure of the tendency of a drug to bind to its <u>receptor</u>
+
+* Most drug-<u>receptor</u> bonds are reversible
+
+* Covalent drug-<u>receptor</u> bonds, which are less common, are almost always irreversible (e.g., the binding of <u>aspirin</u> to <u>cyclooxygenase</u> enzyme).
+
+* Drug efficacy (correlates with E<sub>max</sub>): the maximum degree to which a drug activates <u>receptors</u> after binding and triggers a cell response 
+
+* On an <u>efficacy</u> graph, the difference in <u>efficacy</u> of the two drugs is determined by the difference in the maximal effect exerted by each of them (shown on the y-axis); drugs with different <u>efficacy</u> will have different heights, with the difference in <u>efficacy</u> represented on the y-axis.
+
+* Not related to <u>potency</u> (drugs with a high <u>efficacy</u> can have a low <u>potency</u>)
+
+* Partial <u>agonists</u> are less efficacious than <u>full agonists</u>.
+
+* Structure-activity relationship [[11]](https://coursology-qbank.com/amboss/article/KHcUrd0)
+
+* The relationship between a chemical compound's structure and its biological activity
+
+* Modeling of the <u>structure-activity relationship</u> can help predict the biological action of a substance and, accordingly, plays a major role in the development of drugs with a specific target.  [[12]](https://coursology-qbank.com/amboss/article/7Hc47d0)
+
+* Residence time: : the lifespan of a drug‑receptor complex
+
+
+
+
+
+![Drug efficacy and potency](../../../../media/ljejamdq8vo6la43y4z15ncv.jpg)
+
+Drug efficacy and potency
+
+
+
+
+> [!NOTE]
+> <u>Antagonists</u> have zero <u>efficacy</u>, <u>agonists</u> have maximum <u>efficacy</u>, and partial <u>agonists</u> (see below) have submaximal <u>efficacy</u>.
+
+
+
+
+#### Types of drug-receptor interactions
+
+
+
+
+* Agonist: a drug that has a similar effect to that of the <u>endogenous</u> <u>receptor</u> activator (e.g., <u>β2 agonists</u>)
+
+* Full agonist: a molecule that binds to a <u>receptor</u> and activates the <u>receptor</u> with the highest response it can elicit
+
+* Partial agonist
+
+* A substance that has some agonistic action at a <u>receptor</u> but does not elicit the complete response of a true <u>agonist</u>
+
+* Acts at the same site as <u>full agonists</u>
+
+* Antagonist: a drug that binds to a <u>receptor</u> and prevents its activation
+
+* Competitive antagonist
+
+* <u>Agonist</u> and the <u>antagonist</u> compete to bind to the same site on the <u>receptor</u> (orthosteric site).
+
+* The effect of the <u>antagonist</u> is surmountable with an increased concentration of the <u>agonist</u>. 
+
+* <u>Efficacy</u> remains unchanged.
+
+* <u>Potency</u> is decreased.
+
+* Noncompetitive antagonist
+
+* The drug binds at an <u>allosteric site</u> or irreversibly at the orthosteric site.
+
+* Binding of an <u>allosteric</u> <u>noncompetitive antagonist</u> changes the structure of the <u>agonist</u> binding site, indirectly preventing the <u>agonist</u> from binding to the <u>receptor</u>.
+
+* Binding of an irreversible orthosteric <u>noncompetitive antagonist</u> directly prevents the <u>agonist</u> from binding to the <u>receptor</u> at the <u>agonist</u> binding site.
+
+* The effect of the <u>antagonist</u> is insurmountable with an increased concentration of the <u>agonist</u>. 
+
+* <u>Efficacy</u> is decreased.
+
+* <u>Potency</u> remains unchanged.
+
+* Functional (physiological) antagonist; : Two different molecules work through separate <u>receptors</u> to produce physiologically opposite effects.
+
+* Inverse agonist: binds to the same <u>receptor</u> as an <u>agonist</u> but not to the same <u>active site</u> and elicits a response that is opposite to the agonistic response and has a negative <u>efficacy</u>
+
+* Allosteric regulation
+
+* <u>Allosteric</u> modulator: binds to a different site than the <u>agonist</u> and initiates conformational changes that induce modulation of <u>ligand</u>-binding
+
+* Allosteric activator
+
+* Binds at a site other than the <u>agonist</u>-binding site (i.e., <u>allosteric site</u>) and changes the structure of the active binding site to increase affinity to the substrate
+
+* For more information on <u>enzyme kinetics</u>, see also “<u>Enzymes and biocatalysis</u>.”
+
+
+
+
+
+| Overview of drug-<u>receptor</u> interactions |  |  |  |
+| --- | --- | --- | --- |
+|  | <u>Competitive antagonist</u> | <u>Noncompetitive antagonist</u> | <u>Partial agonist</u> |
+| Binding site | <br>* Orthosteric (reversible)<br><br> | <br><br>* <u>Allosteric</u><br><br>* Orthosteric (irreversible)<br><br><br> | <br>* Orthosteric (reversible)<br><br> |
+| Surmountable | <br>* Yes<br><br> | <br>* No<br><br> | <br>* Yes<br><br> |
+| E<sub>max</sub><br> | <br>* ↔︎<br><br> | <br>* ↓<br><br> | <br>* ↓<br><br> |
+| <u>ED<sub>50</sub></u> | <br>* ↑<br><br> | <br>* ↔︎<br><br> | <br>* Independent<br><br> |
+| Examples | <br>* At <u>GABA<sub>A</sub> receptor</u>:<br><br>* <u>Diazepam</u> (<u>agonist</u>)<br>PLUS<br><br>* <u>Flumazenil</u> (<u>competitive antagonist</u>)<br><br> | <br>* At alpha-1 and alpha-2 <u>receptors</u>:<br><br>* <u>Norepinephrine</u> (<u>agonist</u>) <br>PLUS<br><br>* <u>Phenoxybenzamine</u> (<u>noncompetitive antagonist</u>)<br><br> | <br>* At <u>opioid</u> <u>μ-receptor</u>:<br><br>* <u>Morphine</u> (<u>full agonist</u>)<br>PLUS<br><br>* <u>Buprenorphine</u> (<u>partial agonist</u>)<br><br> |
+
+
+
+
+
+![Competitive antagonism](../../../../media/fwfmv18cybqgadh55ew1e2na.jpg)
+
+Competitive antagonism
+
+![Receptor binding](../../../../media/os2k5gf5y67ajzks2kcgjtux.jpg)
+
+Receptor binding
+
+![Michaelis-Menten plot](../../../../media/fze16w4wxoh3yq584zmz8boq.jpg)
+
+Michaelis-Menten plot
+
+![Agonist vs partial agonist](../../../../media/c9i2qby6y2fwvwqkeot75a08.jpg)
+
+Agonist vs partial agonist
+
+
+
+
+### Dose-response relationship
+
+
+
+
+The following terms are used to describe <u>dose-response</u> relationships:
+
+
+
+
+* Potency (EC<sub>50</sub>): The <u>potency of a drug</u> is measured as the concentration required to produce a pharmacological response of a specified intensity.  
+
+* Not related to <u>efficacy</u> (drugs with a high <u>potency</u> can have a low <u>efficacy</u>) but dependent on affinity
+
+* EC<sub>50</sub> = the effective concentration required to produce 50% of the maximum possible response (E<sub>max</sub>)
+
+* A <u>left shift</u> of the curve is a sign of decreased EC<sub>50</sub> and increased <u>potency</u>, meaning a lower concentration of the drug is needed.
+
+* EC<sub>50</sub> is not to be confused with <u>ED<sub>50</sub></u>; <u>ED<sub>50</sub></u> is the <u>median effective dose</u> that produces a desired beneficial effect in 50% of the population.
+
+* <u>ED<sub>50</sub></u> = 5 mg implies that administration of 5 mg of the drug achieves a desired effect in 50% of the studied population
+
+* The same drug may have different <u>ED<sub>50</sub></u> values based on the indication (e.g., <u>aspirin</u> has different <u>ED<sub>50</sub></u> values for <u>headache</u> and for <u>thromboembolism</u> prophylaxis).
+
+* Therapeutic index (TI): a measurement of the safety of a drug  
+
+* TI = median toxic dose (TD<sub>50</sub>)/<u>median effective dose</u> (<u>ED<sub>50</sub></u>)
+
+* The greater the <u>therapeutic index</u>, the safer the drug 
+
+* High <u>therapeutic index</u>: e.g., <u>glucocorticoids</u>, <u>penicillin</u>
+
+* Narrow therapeutic index: Drugs with a narrow TI require monitoring (e.g., <u>lithium</u>, <u>theophylline</u>, <u>warfarin</u>, <u>digoxin</u>, and <u>antiepileptic drugs</u>).
+
+* Therapeutic window: the range of doses that is effective for treating a condition with a minimum of adverse effects
+
+* Lethal dose (<u>LD<sub>50</sub></u>): The dose that is lethal for 50% of the test population in animal experiments.
+
+
+
+
+
+![Drug efficacy and potency](../../../../media/ljejamdq8vo6la43y4z15ncv.jpg)
+
+Drug efficacy and potency
+
+![Therapeutic index](../../../../media/xqorrp0xcpbphq2i0d2xr637.jpg)
+
+Therapeutic index
+
+
+
+
+> [!NOTE]
+> TITE: Therapeutic Index = TD<sub>50</sub>/<u>ED<sub>50</sub></u>
+
+
+
+
+### Drug tolerance and tachyphylaxis
+
+
+
+
+The effect of a drug can decrease with repeated dosing:
+
+
+
+
+* <u>Drug tolerance</u> (e.g., <u>opioids</u>, <u>benzodiazepines</u>, <u>barbiturates</u>, <u>alcohol</u>)
+
+* The mechanisms responsible for the development of <u>drug tolerance</u> include:
+
+* Down-regulation of <u>receptors</u>
+
+* Increased synthesis of enzymes that metabolize the drug
+
+* Can be overcome by increasing the dose
+
+* Develops slowly over a few weeks
+
+* <u>Tachyphylaxis</u>
+
+* The underlying mechanism responsible for the decreased effect of a drug involves depletion of the body's stores of an <u>endogenous</u> mediator and downregulation of <u>receptors</u>.
+
+* Cannot be overcome by increasing the drug dose.
+
+* Develops quickly (within a few hours of dosing)
+
+* Examples include:
+
+* <u>Nitrates</u>
+
+* <u>Hydralazine</u>
+
+* <u>Indirect sympathomimetic drugs</u> (e.g., <u>ephedrine</u>)
+
+* <u>Direct sympathomimetic drugs</u> (e.g., <u>phenylephrine</u>, <u>niacin</u>, <u>LSD</u>, <u>MDMA</u>;  ): the response to the repeated use of <u>nasal decongestants</u> (e.g., <u>oxymetazoline</u>) reduces the response over a short period of time and may cause rebound congestion
+
+
+
+
+
+![Pharmacodynamics - Part 1: How Drugs Act on the Body](../../../../media/small_5dfa16741be76.jpg)
+
+Pharmacodynamics - Part 1: How Drugs Act on the Body
+
+![Pharmacodynamics - Part 2: Dose-response Relationship](../../../../media/small_5dfa167912aab.jpg)
+
+Pharmacodynamics - Part 2: Dose-response Relationship
+
+---
+
+## Pharmacogenetics
+
+### Overview
+
+
+
+
+* <u>Pharmacogenetics</u> deals with <u>genetic variation</u> in the expression of enzymes that metabolize drugs.
+
+* These genetic differences can cause a drug response to deviate from the expected response and/or increase the risk of side effects:
+
+* If the enzyme in question is responsible for the breakdown of a drug, the following effects are possible:
+
+* A hyperactive variant of the enzyme decreases the drug response.
+
+* A hypoactive variant of the enzyme can cause cumulative drug effects and thus increase the risk of side effects.
+
+* The reverse is true if the enzyme is responsible for the activation of a drug.
+
+
+
+
+
+### Examples of clinically relevant variations
+
+
+
+
+* CYP2D6 polymorphism 
+
+* There are hyperactive and hypoactive variants.
+
+* <u>CYP2D6</u> is involved in the metabolism of many drugs (e.g., the breakdown of <u>antiarrhythmics</u> and <u>tricyclic antidepressants</u>; the activation of <u>codeine</u>).
+
+* <u>Gender</u>-specific differences in <u>CYP2D6</u> have been observed (e.g., <u>CYP2D6</u>-mediated breakdown of <u>beta blockers</u> (such as <u>metoprolol</u>) is greater among women).
+
+* N-acetyltransferase polymorphism
+
+* There are hyperactive (rapid acetylators) and hypoactive (slow acetylators) variants.
+
+* N-acetyltransferase breaks down <u>isoniazid</u>, <u>sulfasalazine</u>, and <u>hydralazine</u>.
+
+* Atypical pseudocholinesterase
+
+* <u>Pseudocholinesterase</u> is responsible for the breakdown of <u>succinylcholine</u> through ester <u>hydrolysis</u>.
+
+* <u>Atypical pseudocholinesterase</u> breaks down <u>succinylcholine</u> slowly and thus prolongs the duration of muscle relaxation during anesthesia from a few minutes to a few hours; this may cause respiratory <u>depression</u>.
+
+* Thiopurine-methyltransferase polymorphism (TPMT): involved in the breakdown of <u>azathioprine</u>.
+
+---
+
+## Drug interactions and the cytochrome P450 system
+
+### Drug interactions
+
+
+
+
+* <u>Drug interactions</u> can cause an increase or decrease in the <u>potency of a drug</u> or result in additional side effects.
+
+* The greater the number of coadministered drugs, the greater the chance of drug interaction
+
+* Beers criteria is a list of over 50 drugs with potentially decreased <u>effectiveness</u> or increased risk of side effects or interactions in the elderly population;  (see “<u>Introduction to geriatrics</u>” for further information).
+
+* The most common form of drug interaction results from the induction of the <u>cytochrome P450</u> enzyme system;  interactions as a result of drug inhibition are less common.
+
+
+
+
+
+#### Types of interactions
+
+
+
+
+* Additive drug interaction: the effect of two substances interacting with each other corresponds to the sum of their individual effects
+
+* A + B = AB
+
+* Example: <u>aspirin</u> coadministered with <u>acetaminophen</u>
+
+* Synergistic drug interaction: the effect produced by the interaction of two substances is greater than the sum of their individual actions
+
+* A + B > AB
+
+* Example: <u>aspirin</u> coadministered with <u>clopidogrel</u>
+
+* Drug potentiation: the therapeutic effect of a substance is enhanced by another substance with no therapeutic action
+
+* A + 0 > A
+
+* Examples:
+
+* <u>Carbidopa</u> coadministered with <u>levodopa</u> (<u>carbidopa</u> blocks the peripheral conversion of <u>levodopa</u>)
+
+* Cobicistat: used in <u>antiretroviral therapy</u> of <u>HIV infection</u> to decrease breakdown of antiretrovirals (e.g., <u>darunavir</u>, <u>atazanavir</u>)
+
+* Permissive drug interaction: the effect of a substance can only be achieved in the presence of another substance
+
+* A - B = 0
+
+* Example: <u>cortisol</u> coadministered with <u>catecholamine</u> (<u>cortisol</u> increases the <u>sensitivity</u> of <u>adrenoreceptors</u> to <u>catecholamines</u>)
+
+* Antagonistic drug interaction: the effect produced by the interaction of two substances is smaller than the sum of their individual actions
+
+* A + B < AB
+
+* Example: Ethanol is used to treat <u>methanol toxicity</u> (ethanol binds <u>alcohol dehydrogenase</u> with higher affinity than <u>methanol</u> and thereby <u>competitively inhibits</u> the formation of toxic metabolites),
+
+
+
+
+
+### Metabolic proficiency
+
+
+
+
+#### Cytochrome-P450 system
+
+
+
+
+* Overview
+
+* <u>Cytochrome P450</u> is a superfamily of <u>heme</u>-containing, primarily oxidative enzymes that take part in <u>phase 1 reactions</u>.
+
+* There are 200 <u>cytochrome P450</u> enzymes, which are classified into 43 subfamilies  and 18 families  based on the similarity of <u>amino acid</u> sequences.
+
+* Of these 200, only 12 are involved in drug metabolism.
+
+* They belong to the first three families: 
+
+* CYP1 family (CYP1A1, <u>CYP1A2</u>),
+
+* CYP2 family;  (CYP2A6, CYP2B6, CYP2C8, <u>CYP2C9</u>; , <u>CYP2C19</u>; , <u>CYP2D6</u>; , <u>CYP2E1</u>)
+
+* CYP3 family;  (<u>CYP3A4</u>, CYP3A5, CYP3A7)
+
+* The highest concentration of <u>CYP</u> enzymes is found within the centrilobular <u>hepatocytes</u>.
+
+* Nomenclature: the prefix "<u>CYP</u>" (which stands for <u>cytochrome P450</u>)- PLUS family number PLUS a letter representing the subfamily PLUS <u>isoenzyme</u> number (e.g., <u>CYP2D6</u> means <u>isoenzyme</u> no. 6 of subfamily "D" of the 2<sup>nd</sup> main family)
+
+* Induction and inhibition: <u>CYP</u> induction increases the rate of metabolism of the substrate, while <u>CYP</u> inhibition decreases it.
+
+* The effects of drugs that are activated by <u>CYP</u> enzymes (e.g., prodrugs) are increased by enzyme induction and decreased by <u>enzyme inhibition</u>.
+
+* The effects of drugs that are broken down by <u>CYP</u> enzymes are decreased by enzyme induction and increased by <u>enzyme inhibition</u>.
+
+* Ultrarapid metabolizers
+
+* Activity of <u>CYP2D6</u> is increased in individuals with a duplication on <u>chromosome</u> 22.
+
+* These individuals require a significantly higher dose to achieve the desired effect.
+
+* Role in <u>carcinogenesis</u>: metabolic activation of certain pro-<u>carcinogens</u> (e.g., <u>aflatoxin</u>, sterigmatocystin) → induction of cancer (e.g., <u>hepatocellular carcinoma</u>) [[13]](https://coursology-qbank.com/amboss/article/-QYDAK)[[14]](https://coursology-qbank.com/amboss/article/ZjYZ_K)[[15]](https://coursology-qbank.com/amboss/article/0jYe_K)
+
+
+
+
+
+> [!NOTE]
+> <u>Carbamazepine</u> acts as both substrate and inducer of <u>CYP3A4</u>.
+
+
+
+
+> [!NOTE]
+> <u>Rifampicin</u> and <u>carbamazepine</u> are some of the strongest inducers of <u>cytochrome P450</u> enzymes and can thus interact with many drugs.
+
+
+
+
+| <br>Cytochrome P450 substrates, inhibitors, and inducers [[16]](https://coursology-qbank.com/amboss/article/zQYrAK)[[17]](https://coursology-qbank.com/amboss/article/YjYn_K)<br> |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| CYP |  | Substrate | CYP 450 inhibitors | CYP 450 inducers |
+| CYP1A2 |  | <br><br>* <u>Theophylline</u><br><br>* <u>Acetaminophen</u><br><br>* Some <u>antiepileptic drugs</u><br><br>* <u>Haloperidol</u><br><br>* <u>Caffeine</u><br><br>* Some <u>psychotropic drugs</u><br><br><br> | <br><br>* <u>Ciprofloxacin</u><br><br>* <u>Fluvoxamine</u><br><br><br> | <br>* Smoking [[18]](https://coursology-qbank.com/amboss/article/ajYQ_K)<br><br> |
+| CYP2C | CYP2C19 | <br><br>* <u>Proton pump inhibitors</u> (<u>PPI</u>)<br><br>* <u>Clopidogrel</u><br><br>* <u>Antiepileptic drugs</u><br><br>* <u>Indomethacin</u><br><br>* <u>Escitalopram</u><br><br><br> | <br><br>* <u>Antifungals</u> (<u>azoles</u>, e.g., <u>itraconazole</u>, <u>ketoconazole</u>, and <u>fluconazole</u>)<br><br>* <u>Cimetidine</u><br><br>* <u>Isoniazid</u><br><br>* <u>Proton pump inhibitors</u> (<u>PPI</u>, e.g., <u>omeprazole</u>)<br><br><br> | <br><br>* <u>Carbamazepine</u><br><br>* <u>Rifampicin</u><br><br>* St. John's Wort<br><br>* <u>Prednisolone</u><br><br><br> |
+| CYP2C9 | <br><br>* <u>NSAIDs</u><br><br>* <u>Warfarin</u><br><br>* <u>Antiepileptic drugs</u><br><br>* <u>Oral antidiabetic medications</u> (e.g., <u>rosiglitazone</u>)<br><br>* <u>Angiotensin II</u> <u>antagonists</u><br><br><br> | <br><br>* <u>Sulfonamides</u> (e.g., <u>sulfamethoxazole</u>)<br><br>* <u>Sodium</u> <u>valproate</u><br><br>* <u>Metronidazole</u><br><br>* <u>Amiodarone</u><br><br>* <u>Antifungals</u> (<u>azoles</u>, e.g., <u>itraconazole</u>, <u>ketoconazole</u>, and <u>fluconazole</u>)<br><br>* <u>Chloramphenicol</u><br><br><br> | <br><br>* <u>Griseofulvin</u><br><br>* St. John's Wort<br><br>* <u>Rifampicin</u><br><br><br> |  |
+| CYP2D6 |  | <br><br>* Beta‑blockers (e.g., <u>metoprolol</u>)<br><br>* <u>Antipsychotics</u> (e.g., <u>haloperidol</u>)<br><br>* Some <u>antidepressants</u>, including several <u>SSRIs</u>, <u>SNRIs</u>, and <u>SSNRIs</u> (e.g., <u>fluoxetine</u>, <u>fluvoxamine</u>, <u>venlafaxine</u>)<br><br>* <u>Antiarrhythmics</u> (e.g., <u>flecainide</u>)<br><br>* Several other drugs<br><br>* <u>Tamoxifen</u><br><br><br> | <br><br>* <u>Amiodarone</u><br><br>* <u>Antipsychotics</u> and <u>antidepressants</u> (e.g., <u>fluoxetine</u>, <u>duloxetine</u>, <u>paroxetine</u>)<br><br>* <u>Metoclopramide</u><br><br><br> | <br><br>* <u>Rifampicin</u><br><br>* <u>Dexamethasone</u><br><br><br> |
+| CYP2E1 |  | <br>* Ethanol<br><br> | <br><br>* <u>Disulfiram</u><br><br>* Ethanol (acute consumption)<br><br><br> | <br><br>* <u>Isoniazid</u><br><br>* Ethanol (chronic consumption)<br><br>* <u>Nicotine</u><br><br><br> |
+| CYP3A4 |  | <br><br>* <u>Statins</u> (except <u>pravastatin</u>)<br><br>* <u>Steroid hormones</u> (e.g., <u>estrogen</u>, <u>glucocorticoids</u>, <u>testosterone</u>)<br><br>* <u>Oral contraceptives</u><br><br>* <u>Carbamazepine</u> and other <u>antiepileptic drugs</u><br><br>* <u>Haloperidol</u><br><br>* Immunosuppressives<br><br>* <u>Cyclosporin</u><br><br>* <u>Tacrolimus</u><br><br>* <u>Macrolides</u><br><br>* <u>Benzodiazepine</u><br><br>* <u>Oral anticoagulants</u><br><br>* <u>Warfarin</u><br><br>* <u>Phenprocoumon</u><br><br>* Anti-<u>HIV</u> medication<br><br>* <u>Calcium channel blockers</u><br><br>* <u>Itraconazole</u><br><br><br> | <br><br>* <u>Amiodarone</u><br><br>* <u>Macrolides</u> (<u>erythromycin</u>, <u>clarithromycin</u>)<br><br>* Several anti-<u>HIV</u> medications (e.g., <u>ritonavir</u>)<br><br>* Grapefruit juice<br><br>* <u>Sodium</u> <u>valproate</u><br><br>* <u>Cimetidine</u><br><br>* <u>Chloramphenicol</u><br><br>* <u>Antifungals</u> (<u>azoles</u>, e.g., <u>itraconazole</u>, <u>ketoconazole</u>, and <u>fluconazole</u>)<br><br>* <u>Isoniazid</u> (weak inhibitor)<br><br><br> | <br><br>* <u>Carbamazepine</u><br><br>* <u>Rifampicin</u><br><br>* St. John's Wort<br><br>* Several anti-<u>HIV</u> medications<br><br>* <u>Griseofulvin</u><br><br>* <u>Nevirapine</u><br><br>* <u>Barbiturates</u> (e.g., <u>phenobarbital</u>)<br><br>* <u>Phenytoin</u> (also a <u>CYP</u> substrate)<br><br>* <u>Glucocorticoids</u><br><br><br> |
+
+
+
+
+
+> [!NOTE]
+> <u>P450 inducers</u>: ↓ <u>warfarin</u> levels (Chronic <u>Alcohol</u>ics Steal Phen-Phen and Never Refuse Greasy Carbs): C - Chronic <u>alcohol</u> use, S - St. John's wort, P - Phenytoin, P - Phenobarbital, N - Nevirapine, R - Rifampin, G - Griseofulvin, C - Carbamazepine
+
+
+
+
+> [!NOTE]
+> <u>P450 inhibitors</u> can be remembered with “sickfaces.com group”: S - <u>Sulfonamides</u>, I - <u>Isoniazid</u>, C - <u>Cimetidine</u>, K - <u>Ketoconazole</u>, F - <u>Fluconazole</u>, A - <u>Alcohol</u> (<u>binge drinking</u>), C - <u>Ciprofloxacin</u>, E - <u>Erythromycin</u>, S - <u>Sodium</u> <u>valproate</u>, C - <u>Chloramphenicol</u>, O - <u>Omeprazole</u>, M - <u>Metronidazole</u>, G - Grapefruit juice
+
+
+
+
+> [!NOTE]
+> The P450 substrates beta-BLOCKers, THEophylline, WARfarin, STATins, ORAL <u>contraceptives</u>, and antiPSYCHO<u>tics</u>: Let's BLOCK THE WAR between STATes with ORAL and PSYCHOlogical tools.
+
+---
+
+## Adverse effects
+
+Adverse effects of substances can be classified into the following groups:
+
+
+
+We list the most important adverse effects. The selection is not exhaustive.
+
+---
+
+## Cardiovascular adverse effects
+
+| Overview of substances causing cardiovascular adverse effects |  |  |
+| --- | --- | --- |
+| Cardiovascular adverse effects | Substance | Main clinical use |
+| Coronary vasospasm | <br>* <u>Cocaine</u><br><br> | <br>* Recreational use<br><br> |
+| <br>* <u>Amphetamines</u><br><br> | <br><br>* <u>ADHD</u><br><br>* <u>Narcolepsy</u><br><br><br> |  |
+| <br><br>* <u>Sumatriptan</u><br><br>* <u>Ergot</u> alkaloids<br><br><br> | <br>* <u>Migraine</u> and <u>cluster headache</u><br><br> |  |
+| Cutaneous flushing | <br>* <u>Vancomycin</u> (<u>vancomycin flushing reaction</u>)<br><br> | <br>* <u>Gram-positive bacteria</u> infection<br><br> |
+| <br>* <u>Adenosine</u><br><br> | <br>* <u>Class V antiarrhythmic drugs</u><br><br> |  |
+| <br>* <u>Niacin</u><br><br> | <br>* <u>Lipid-lowering agent</u><br><br> |  |
+| <br>* <u>Calcium channel blocker</u><br><br> | <br><br>* <u>Arterial hypertension</u><br><br>* <u>Angina</u><br><br>* <u>Supraventricular arrhythmias</u><br><br><br> |  |
+| <br>* <u>Echinocandins</u><br><br> | <br>* Fungal infection (e.g., <u>aspergillosis</u> and <u>candidiasis</u>)<br><br> |  |
+| <br>* <u>Nitrates</u><br><br> | <br><br>* <u>Angina</u><br><br>* <u>Hypertensive crisis</u><br><br>* Hypertensive <u>pulmonary edema</u><br><br><br> |  |
+| <u>Dilated cardiomyopathy</u> | <br>* <u>Anthracyclines</u> (e.g., <u>doxorubicin</u>, <u>daunorubicin</u>)<br><br> | <br><br>* <u>Chemotherapy</u> for <u>leukemias</u>, <u>lymphomas</u>, <u>breast</u>, ovarian, and <u>bone cancer</u><br><br>* <u>Dexrazoxane</u> can limit the occurrence of <u>dilated cardiomyopathy</u><br><br><br> |
+| <u>Torsades de pointes</u> after <u>QT prolongation</u> | <br>* <u>Class IA</u> and III <u>antiarrhythmic drugs</u><br><br> | <br><br>* <u>Paroxysmal supraventricular tachycardia</u> (<u>class IA</u> only)<br><br>* <u>Atrial fibrillation</u> (both)<br><br>* <u>Atrial flutter</u> (class III only)<br><br><br> |
+| <br><br>* <u>Macrolides</u><br><br>* <u>Fluoroquinolones</u><br><br>* <u>Antimalarials</u> (e.g., artemether/lumefantrine, <u>quinine</u>, <u>chloroquine</u>)<br><br>* <u>Azoles</u><br><br><br> | <br>* Infections<br><br> |  |
+| <br>* <u>Antipsychotics</u> (especially <u>ziprasidone</u>, <u>iloperidone</u>, <u>haloperidol</u>, <u>thioridazine</u>)<br><br> | <br><br>* Acute <u>psychotic symptoms</u><br><br>* Chronic <u>schizophrenia</u><br><br><br> |  |
+| <br>* <u>Tricyclic antidepressants</u> (e.g., <u>nortriptyline</u>, <u>amitriptyline</u>)<br><br> | <br>* <u>Major depressive disorder</u><br><br> |  |
+| <br>* <u>Serotonin receptor antagonists</u> <u>antiemetics</u> (e.g., <u>ondansetron</u>)<br><br> | <br>* Severe <u>nausea and vomiting</u><br><br> |  |
+
+
+
+
+
+> [!NOTE]
+> Dilated <u>cardiomyopathy</u> caused by Doxorubicin and Danurobicin can be prevented with Dexrazoxane.
+
+
+
+
+> [!NOTE]
+> ABCDE to recall the 5 class of drugs potentially causing <u>torsades de pointes</u>: antiArrhythmic, antiBiotics, antiCychotics, antiDepressants and antiEmetics.
+
+---
+
+## Endocrine adverse effects
+
+| Overview of substances causing endocrine adverse effects |  |  |
+| --- | --- | --- |
+| Endocrine adverse effects | Substance | Main clinical use |
+| Adrenocortical insufficiency | <br>* <u>Corticosteroids</u> (especially when discontinued suddenly after chronic intake)<br><br> | <br><br>* Acute inflammatory reactions<br><br>* Chronic inflammatory diseases<br><br>* Autoimmune diseases<br><br><br> |
+| <u>Diabetes insipidus</u> | <br>* <u>Lithium</u><br><br> | <br>* <u>Bipolar disorder</u><br><br> |
+| <br>* <u>Demeclocycline</u> (a <u>tetracycline</u>)<br><br> | <br><br>* Infections (e.g., <u>acne</u>)<br><br>* <u>Diuretic</u> for <u>SIADH</u><br><br><br> |  |
+| <u>Hot flashes</u> | <br>* <u>Selective estrogen receptor modulators</u> (e.g., <u>tamoxifen</u>, <u>raloxifene</u>, <u>clomiphene</u>)<br><br> | <br><br>* <u>Breast cancer</u> (esp. <u>tamoxifen</u>)<br><br>* <u>Osteoporosis</u> (<u>raloxifene</u>)<br><br>* <u>Ovulation induction</u> (<u>clomiphene</u>)<br><br><br> |
+| <u>Hyperglycemia</u> | <br>* <u>Tacrolimus</u><br><br> | <br><br>* <u>Transplant rejection</u> prophylaxis<br><br>* <u>Psoriasis</u><br><br><br> |
+| <br>* <u>Protease inhibitors</u> (e.g., <u>ritonavir</u>, <u>lopinavir</u>)<br><br> | <br>* <u>HIV infection</u><br><br> |  |
+| <br>* <u>Niacin</u><br><br> | <br>* <u>Lipid-lowering agent</u><br><br> |  |
+| <br>* <u>Hydrochlorothiazide</u><br><br> | <br><br>* <u>Hypertension</u><br><br>* Chronic <u>edema</u><br><br><br> |  |
+| <br>* <u>Corticosteroids</u><br><br> | <br><br>* Acute inflammatory reactions<br><br>* Chronic inflammatory diseases<br><br>* Autoimmune diseases<br><br><br> |  |
+| <u>Hyperprolactinemia</u> | <br><br>* <u>Typical antipsychotics</u> (e.g., <u>haloperidol</u>)<br><br>* <u>Atypical antipsychotics</u> (especially <u>risperidone</u> and <u>amisulpride</u>)<br><br><br> | <br><br>* Acute <u>psychotic symptoms</u><br><br>* Chronic <u>schizophrenia</u><br><br><br> |
+| <br>* <u>Metoclopramide</u><br><br> | <br>* <u>Nausea and vomiting</u><br><br> |  |
+| <br>* <u>Methyldopa</u><br><br> | <br>* <u>Hypertension</u> in <u>pregnancy</u><br><br> |  |
+| <br>* <u>Reserpine</u><br><br> | <br><br>* <u>Tardive dyskinesia</u><br><br>* Psychiatric disorders<br><br><br> |  |
+| <u>Hyperthyroidism</u> | <br>* <u>Amiodarone</u><br><br> | <br>* <u>Ventricular tachyarrhythmias</u><br><br> |
+| <br>* <u>Iodine</u> or other <u>iodine</u>-containing drugs<br><br> | <br>* Adjunctive therapy in <u>hyperthyroidism</u>, <u>thyroid storm</u>, and as a pre-treatment before <u>thyroid surgery</u><br><br> |  |
+| <u>Hypothyroidism</u> | <br>* <u>Amiodarone</u><br><br> | <br>* <u>Ventricular tachyarrhythmias</u><br><br> |
+| <br>* <u>Sulfonamides</u><br><br> | <br><br>* Infections<br><br>* Chronic inflammatory diseases<br><br>* <u>Diuretics</u><br><br><br> |  |
+| <br>* <u>Lithium</u><br><br> | <br>* <u>Bipolar disorder</u><br><br> |  |
+| <u>SIADH</u> | <br>* <u>Carbamazepine</u><br><br> | <br><br>* <u>Epilepsy</u><br><br>* <u>Neuropathic pain</u><br><br>* <u>Manic episodes</u><br><br><br> |
+| <br>* <u>Cyclophosphamide</u><br><br> | <br>* <u>Chemotherapy</u> for solid tumors<br><br> |  |
+| <br>* <u>SSRI</u><br><br> | <br>* <u>Major depressive disorder</u><br><br> |  |
+
+
+
+
+
+> [!NOTE]
+> Hydrochlorothiazide, Niacin, Tacrolimus and corticoSteroids can lead to High amou<u>NT</u> of Sugars in your blood.
+
+
+
+
+> [!NOTE]
+> SUlfonamides, Lithium and AMiodarone may induce SUdden Lethargy And Myxedema (<u>hypothyroidism</u>).
+
+
+
+
+> [!NOTE]
+> If patients taking Carbamazepine, Cyclophosphamide or SSRI get <u>SIADH</u>, they Can't Concentrate Serum Sodium!
+
+---
+
+## Gastrointestinal adverse effects
+
+| Overview of substances causing gastrointestinal adverse effects |  |  |
+| --- | --- | --- |
+| Gastrointestinal adverse effects | Substance | Main clinical use |
+| Acute <u>cholestatic</u> <u>hepatitis</u> with <u>jaundice</u> | <br>* <u>Macrolides</u> (e.g., <u>erythromycin</u>)<br><br> | <br>* Infections<br><br> |
+| <u>Diarrhea</u> | <br>* <u>Acamprosate</u><br><br> | <br>* <u>Alcohol use disorder</u><br><br> |
+| <br><br>* <u>Acarbose</u><br><br>* <u>Metformin</u><br><br>* <u>Pramlintide</u><br><br><br> | <br>* <u>Type 2 diabetes mellitus</u><br><br> |  |
+| <br>* <u>Colchicine</u><br><br> | <br>* Acute <u>gouty</u> attacks<br><br> |  |
+| <br>* <u>Anticholinesterase</u><br><br> | <br><br>* <u>Postoperative ileus</u> and <u>urinary retention</u><br><br>* <u>Myasthenia gravis</u><br><br><br> |  |
+| <br><br>* <u>Orlistat</u><br><br>* <u>Ezetimibe</u><br><br>* <u>Niacin</u><br><br><br> | <br>* <u>Lipid-lowering agent</u><br><br> |  |
+| <br>* <u>Macrolides</u> (e.g., <u>erythromycin</u>)<br><br> | <br>* Infections<br><br> |  |
+| <br>* <u>SSRI</u><br><br> | <br>* <u>Major depressive disorder</u><br><br> |  |
+| <br>* <u>Chemotherapeutic drugs</u> (e.g., <u>irinotecan</u>, <u>topotecan</u>, <u>erlotinib</u>)<br><br> | <br>* <u>Chemotherapy</u><br><br> |  |
+| Hepatic <u>necrosis</u> | <br>* <u>Halothane</u> (<u>halothane-induced hepatitis</u>)<br><br> | <br>* Induction and maintenance of <u>general anesthesia</u><br><br> |
+| <br>* <u>Amanita phalloides</u> (<u>death cap mushroom</u>)<br><br> | <br>* Toxin<br><br> |  |
+| <br>* <u>Valproic acid</u><br><br> | <br><br>* <u>Epilepsy</u><br><br>* <u>Bipolar disorder</u><br><br><br> |  |
+| <br>* <u>Acetaminophen</u><br><br> | <br><br>* <u>Analgesia</u><br><br>* <u>Antipyretic</u><br><br><br> |  |
+| <u>Hepatitis</u> | <br><br>* <u>Rifampin</u><br><br>* <u>Isoniazid</u><br><br>* <u>Pyrazinamide</u><br><br><br> | <br>* Antimycobacterial therapy<br><br> |
+| <br><br>* <u>Statins</u><br><br>* <u>Fibrates</u><br><br><br> | <br>* <u>Lipid-lowering agent</u><br><br> |  |
+| <u>Pancreatitis</u> | <br>* <u>Alcohol</u><br><br> | <br>* Recreational use<br><br> |
+| <br><br>* <u>Azathioprine</u><br><br>* <u>Corticosteroids</u><br><br><br> | <br>* <u>Immunosuppressive therapy</u><br><br> |  |
+| <br>* <u>Diuretics</u> (e.g., <u>furosemide</u>, <u>hydrochlorothiazide</u>)<br><br> | <br><br>* <u>Hypertension</u><br><br>* <u>Edema</u><br><br><br> |  |
+| <br>* <u>Didanosine</u><br><br> | <br>* <u>HIV treatment</u><br><br> |  |
+| <br>* <u>Valproic acid</u><br><br> | <br><br>* <u>Epilepsy</u><br><br>* <u>Bipolar disorder</u><br><br><br> |  |
+| <u>Pill-induced esophagitis</u> | <br>* <u>Bisphosphonate</u><br><br> | <br><br>* <u>Osteoporosis</u><br><br>* <u>Hypercalcemia</u><br><br><br> |
+| <br>* <u>Oral iron</u> supplementation (e.g., ferrous sulfate)<br><br> | <br>* <u>Iron deficiency anemia</u><br><br> |  |
+| <br>* <u>NSAIDs</u><br><br> | <br><br>* <u>Analgesia</u><br><br>* <u>Antipyretic</u><br><br>* Antiinflammatory action<br><br><br> |  |
+| <br>* <u>Potassium</u> <u>chloride</u><br><br> | <br>* <u>Potassium</u> supplementation<br><br> |  |
+| <br>* <u>Tetracyclines</u><br><br> | <br>* Infections<br><br> |  |
+| <u>Pseudomembranous colitis</u> | <br>* <u>Antibiotics</u> (which may also predispose to <u>superinfection</u> by <u>C. difficile</u>):<br><br>* <u>Ampicillin</u><br><br>* <u>Cephalosporins</u><br><br>* <u>Clindamycin</u><br><br>* <u>Fluoroquinolones</u><br><br> | <br>* Infections<br><br> |
+| <br>* <u>PPIs</u><br><br> | <br><br>* <u>Gastroesophageal reflux disease</u><br><br>* <u>Peptic ulcer disease</u><br><br><br> |  |
+
+
+
+
+
+> [!NOTE]
+> Diuretics, Alcohol, Corticosteroids, Valproic acid, Azathioprine and Didanosine are Drugs that Abruptly Cause Violent Abdominal Distress.
+
+---
+
+## Hematologic adverse effects
+
+| Overview of substances causing hematologic adverse effects |  |  |
+| --- | --- | --- |
+| Hematologic adverse effects | Substance | Main clinical use |
+| <u>Agranulocytosis</u> | <br>* <u>Dapsone</u><br><br> | <br>* <u>Leprosy</u><br><br> |
+| <br>* <u>Ganciclovir</u><br><br> | <br>* Herpetic infections<br><br> |  |
+| <br>* <u>Clozapine</u><br><br> | <br>* <u>Schizophrenia</u><br><br> |  |
+| <br>* <u>Carbamazepine</u><br><br> | <br><br>* <u>Epilepsy</u><br><br>* <u>Neuropathic pain</u> (e.g., <u>trigeminal neuralgia</u>)<br><br><br> |  |
+| <br><br>* <u>Propylthiouracil</u><br><br>* <u>Methimazole</u><br><br><br> | <br>* <u>Hyperthyroidism</u><br><br> |  |
+| <br>* <u>Colchicine</u><br><br> | <br>* <u>Acute gouty arthritis</u><br><br> |  |
+| <br>* <u>Chemotherapeutics</u><br><br> | <br>* Cancer treatment<br><br> |  |
+| <br>* <u>Ticlopidine</u><br><br> | <br>* <u>Platelet aggregation</u> inhibitor<br><br> |  |
+| <u>Aplastic anemia</u> | <br><br>* <u>Propylthiouracil</u><br><br>* <u>Methimazole</u><br><br><br> | <br>* <u>Hyperthyroidism</u><br><br> |
+| <br>* <u>Benzene</u><br><br> | <br>* Found in solvents, glues, <u>nail</u> polishes, <u>cigarette smoke</u>, car emissions, paints<br><br> |  |
+| <br>* <u>NSAIDs</u><br><br> | <br><br>* <u>Analgesia</u><br><br>* <u>Antipyretic</u><br><br>* Antiinflammatory action<br><br><br> |  |
+| <br>* <u>Chloramphenicol</u><br><br> | <br>* Infections<br><br> |  |
+| <br>* <u>Carbamazepine</u><br><br> | <br><br>* <u>Epilepsy</u><br><br>* <u>Neuropathic pain</u> (e.g., <u>trigeminal neuralgia</u>)<br><br><br> |  |
+| <u>Autoimmune hemolytic anemia</u> (positive <u>direct Coombs test</u>) | <br><br>* <u>Penicillin</u><br><br>* <u>Cephalosporins</u><br><br><br> | <br>* Infections<br><br> |
+| <br>* <u>Methyldopa</u><br><br> | <br>* <u>High blood pressure</u><br><br> |  |
+| <u>Drug reaction with eosinophilia and systemic symptoms</u> (<u>DRESS</u>) | <br>* <u>Allopurinol</u><br><br> | <br>* <u>Chronic gout</u><br><br> |
+| <br>* <u>Anticonvulsants</u><br><br> | <br>* <u>Seizures</u><br><br> |  |
+| <br>* <u>Sulfonamides</u><br><br> | <br><br>* Infections<br><br>* Chronic inflammatory diseases<br><br>* <u>Diuretics</u><br><br><br> |  |
+| <br>* <u>Antibiotics</u><br><br> | <br>* Infections<br><br> |  |
+| <u>Gray baby syndrome</u> | <br>* <u>Chloramphenicol</u><br><br> | <br>* Infections<br><br> |
+| <u>Hemolysis</u> in <u>G6PD deficiency</u> | <br>* <u>Isoniazid</u><br><br> | <br>* <u>Tuberculosis</u><br><br> |
+| <br>* <u>Sulfonamides</u><br><br> | <br><br>* Infections<br><br>* Chronic inflammatory diseases<br><br>* <u>Diuretics</u><br><br><br> |  |
+| <br>* <u>Primaquine</u><br><br> | <br><br>* <u>Malaria</u><br><br>* <u>Pneumocystis jirovecii pneumonia</u><br><br><br> |  |
+| <br><br>* <u>Aspirin</u><br><br>* <u>Ibuprofen</u><br><br><br> | <br><br>* <u>Analgesia</u><br><br>* <u>Antipyretic</u><br><br>* Antiinflammatory action<br><br><br> |  |
+| <br>* <u>Nitrofurantoin</u><br><br> | <br>* Infections (esp. <u>lower UTI</u>)<br><br> |  |
+| <br>* <u>Dapsone</u><br><br> | <br>* <u>Leprosy</u><br><br> |  |
+| <u>Megaloblastic anemia</u> | <br>* <u>Hydroxyurea</u><br><br> | <br>* Cancer treatment<br><br> |
+| <br>* <u>Methotrexate</u><br><br> | <br><br>* Cancer treatment<br><br>* Chronic inflammatory diseases<br><br><br> |  |
+| <br>* <u>Sulfonamides</u><br><br> | <br><br>* Infections<br><br>* Chronic inflammatory diseases<br><br>* <u>Diuretics</u><br><br><br> |  |
+| <br>* <u>Phenytoin</u><br><br> | <br>* <u>Epilepsy</u><br><br> |  |
+| <u>Thrombocytopenia</u> | <br>* <u>Heparin</u><br><br> | <br>* Anticoagulation<br><br> |
+| <br>* <u>Abciximab</u><br><br> | <br>* Antiplatelet aggregation<br><br> |  |
+| <br>* <u>Quinidine</u><br><br> | <br>* <u>Ventricular arrhythmias</u><br><br> |  |
+| <br><br>* <u>Vancomycin</u><br><br>* <u>Linezolid</u><br><br><br> | <br>* Infections (<u>gram-positive bacteria</u>)<br><br> |  |
+| <br>* <u>Indinavir</u><br><br> | <br>* Antiretroviral treatment (<u>HIV</u>)<br><br> |  |
+| <br>* <u>Ganciclovir</u><br><br> | <br>* Herpetic infections<br><br> |  |
+| <u>Thrombotic</u> complications (this side effect is mediated by increased <u>estrogen</u> level) | <br>* <u>Combined oral contraceptives</u><br><br> | <br><br>* <u>Contraception</u><br><br>* <u>Polycystic ovarian syndrome</u><br><br>* <u>Endometriosis</u><br><br><br> |
+| <br>* <u>Hormone replacement therapy</u><br><br> | <br>* <u>Menopausal</u> symptoms<br><br> |  |
+| <br>* <u>Selective estrogen receptor modulators</u> (e.g., <u>tamoxifen</u>)<br><br> | <br><br>* <u>Ovulation induction</u><br><br>* <u>Breast cancer</u> treatment<br><br><br> |  |
+
+
+
+
+
+> [!NOTE]
+> Clozapine, Propylthiouracile, Methimazole, Carbamazepine, Ticlopidine, Dapsone, Colchicine, Chemotherapeutics and Gangiclovir Causes Pretty Major Collapse To Defense Cells Called Granulocytes (<u>agranulocytosis</u>).
+
+
+
+
+> [!NOTE]
+> Carbamazepine, Methimazole, NSAIDs, Benzene, Chloramphenicol, Propylthiouracile Can't Make New Blood Cells Properly (<u>aplastic anemia</u>).
+
+
+
+
+> [!NOTE]
+> MetHyldopa, Penicilline, and Cephalosporins may induce HeMolytic <u>anemia</u> (Positive Coombs test).
+
+
+
+
+> [!NOTE]
+> YoU'RE Having a MEGA BLAST with Plays, Music, and Snacks! (HydroxyUREa, Phenytoin, Methotrexate and Sulfonamides may induce MEGAloBLASTic <u>anemia</u>)
+
+---
+
+## Musculoskeletal/skin/connective tissue adverse effects
+
+| Overview of substances causing musculoskeletal/<u>skin</u>/<u>connective tissue</u> adverse effects |  |  |
+| --- | --- | --- |
+| Musculoskeletal/<u>skin</u>/<u>connective tissue</u> adverse effects | Substance | Main clinical use |
+| Drug–induced <u>lupus</u> | <br><br>* <u>Methyldopa</u><br><br>* <u>Hydralazine</u><br><br><br> | <br>* <u>Hypertension</u><br><br> |
+| <br><br>* <u>Minocycline</u><br><br>* Isoniazide<br><br><br> | <br>* Infections<br><br> |  |
+| <br>* <u>Sulfonamides</u><br><br> | <br><br>* Infections<br><br>* Chronic inflammatory diseases<br><br>* <u>Diuretics</u><br><br><br> |  |
+| <br>* <u>Etanercept</u><br><br> | <br>* Chronic inflammatory diseases<br><br> |  |
+| <br>* <u>Procainamide</u><br><br> | <br>* <u>Paroxysmal supraventricular tachycardia</u><br><br> |  |
+| <br>* <u>Phenytoin</u><br><br> | <br>* <u>Epilepsy</u><br><br> |  |
+| Fat redistribution | <br>* <u>Corticosteroids</u><br><br> | <br><br>* Acute inflammatory reactions<br><br>* Chronic inflammatory diseases<br><br>* Autoimmune diseases<br><br><br> |
+| <br>* <u>Protease inhibitors</u><br><br> | <br>* Antiretroviral treatment (e.g., <u>HIV</u>)<br><br> |  |
+| <u>Gingival hyperplasia</u> | <br>* <u>Cyclosporine</u><br><br> | <br><br>* Chronic inflammatory diseases<br><br>* <u>Post-transplant immunosuppression</u><br><br><br> |
+| <br>* <u>Calcium channel blockers</u><br><br> | <br><br>* <u>Hypertension</u><br><br>* <u>Arrhythmias</u><br><br><br> |  |
+| <br>* <u>Phenytoin</u><br><br> | <br>* <u>Epilepsy</u><br><br> |  |
+| <u>Hyperuricemia</u> (<u>gout</u>) | <br>* <u>Pyrazinamide</u><br><br> | <br>* Antimycobacterial treatment<br><br> |
+| <br><br>* <u>Thiazides</u><br><br>* <u>Furosemide</u><br><br><br> | <br>* <u>Hypertension</u><br><br> |  |
+| <br>* <u>Cyclosporine</u><br><br> | <br><br>* Chronic inflammatory diseases<br><br>* Post–<u>transplantation</u> <u>immunosuppression</u><br><br><br> |  |
+| <br>* <u>Niacin</u><br><br> | <br>* <u>Lipid-lowering agent</u><br><br> |  |
+| <u>Myopathy</u> | <br><br>* <u>Statins</u><br><br>* <u>Fibrates</u><br><br>* <u>Niacin</u><br><br><br> | <br>* <u>Lipid-lowering agent</u><br><br> |
+| <br><br>* <u>Daptomycin</u><br><br>* <u>Hydroxychloroquine</u><br><br><br> | <br>* Infections<br><br> |  |
+| <br>* <u>Colchicine</u><br><br> | <br>* <u>Acute gouty arthritis</u><br><br> |  |
+| <br>* <u>Penicillamine</u><br><br> | <br>* Heavy metals <u>poisoning</u> (e.g., <u>copper</u>, gold, <u>mercury</u>)<br><br> |  |
+| <br>* <u>Interferon-α</u><br><br> | <br>* Chronic <u>hepatitis</u><br><br> |  |
+| <br>* <u>Corticosteroids</u><br><br> | <br><br>* Acute inflammatory reactions<br><br>* Chronic inflammatory diseases<br><br>* Autoimmune diseases<br><br><br> |  |
+| <u>Osteoporosis</u> | <br><br>* Acute inflammatory reactions<br><br>* Chronic inflammatory diseases<br><br>* Autoimmune diseases<br><br><br> |  |
+| <br>* <u>Depot medroxyprogesterone acetate</u><br><br> | <br>* <u>Contraception</u><br><br> |  |
+| <br>* <u>GnRH agonists</u><br><br> | <br><br>* <u>Endometriosis</u><br><br>* <u>Hormone</u>-dependent tumors<br><br><br> |  |
+| <br>* <u>Aromatase inhibitors</u><br><br> | <br>* <u>Breast cancer</u><br><br> |  |
+| <br>* <u>PPIs</u><br><br> | <br>* <u>Gastroesophageal reflux disease</u><br><br> |  |
+| <br>* <u>Heparin</u><br><br> | <br>* Anticoagulation<br><br> |  |
+| <u>Photosensitivity</u> | <br>* <u>Sulfonamides</u><br><br> | <br><br>* Infections<br><br>* Chronic inflammatory diseases<br><br>* <u>Diuretics</u><br><br><br> |
+| <br>* <u>Tetracyclines</u><br><br> | <br>* Infections<br><br> |  |
+| <br>* <u>Amiodarone</u><br><br> | <br>* <u>Ventricular tachyarrhythmias</u><br><br> |  |
+| <br>* <u>5-Fluorouracil</u><br><br> | <br>* Cancer treatment<br><br> |  |
+| <u>Stevens-Johnson syndrome</u> (<u>rash</u>) | <br>* <u>Antiepileptic drugs</u> (esp. <u>lamotrigine</u>)<br><br> | <br>* <u>Epilepsy</u><br><br> |
+| <br>* <u>Allopurinol</u><br><br> | <br>* <u>Chronic gout</u><br><br> |  |
+| <br>* <u>Sulfonamides</u><br><br> | <br><br>* Infections<br><br>* Chronic inflammatory diseases<br><br>* <u>Diuretics</u><br><br><br> |  |
+| <br>* <u>Penicillin</u><br><br> | <br>* Infections<br><br> |  |
+| <u>Teeth</u> discoloration | <br>* <u>Tetracyclines</u><br><br> | <br>* Infections<br><br> |
+| <u>Tendon</u>/<u>cartilage</u> damage | <br>* <u>Fluoroquinolones</u><br><br> | <br>* Infections<br><br> |
+
+
+
+
+
+> [!NOTE]
+> Methyldopa, Phenytoin, Hydralazine, Isoniazid, Procainamide, Sulfonamides, Minocycline and Etanercept may provoke Malar <u>rash</u>, Painful HIPS, & Myalgia (Systemic <u>Lupus</u> Erythematous).
+
+
+
+
+> [!NOTE]
+> Protease Inhibitors and Corticosteroids PICk your FAT somewhere else!
+
+
+
+
+> [!NOTE]
+> Cyclosporine, CA2+ channel blockers, and Phenytoin can Cause Chubby Puffy Gums!
+
+
+
+
+> [!NOTE]
+> Pyrazinamide, Furosemide, Niacin, Cyclosporine and Thiazides may induce Pain on your Feet, Needle-shaped Crystals, and Tophi (<u>gout</u>).
+
+
+
+
+> [!NOTE]
+> With 5-FLuorouracil, Amiodarone, Sulfonamides & Tetracyclines you may geT <u>sunburn</u> in a FLASh (<u>photosensitivity</u>)!
+
+
+
+
+> [!NOTE]
+> AntiEpi<u>LE</u>pTIC drugs, Penicillin, ALlopurinol and SULFonamides may provoke STEVE JOHNSON (syndrome), an Ec<u>LE</u>cTIC PAL who loves SUrF!
+
+
+
+
+> [!NOTE]
+> <u>TET</u>racyclines may discolor your TEeTh!
+
+---
+
+## Neurologic adverse effects
+
+| Overview of substances causing neurologic adverse effects |  |  |
+| --- | --- | --- |
+| Neurologic adverse effects | Substance | Main clinical use |
+| <u>Cinchonism</u> | <br>* <u>Quinidine</u><br><br> | <br>* <u>Ventricular arrhythmias</u><br><br> |
+| <br>* <u>Quinine</u><br><br> | <br><br>* <u>Malaria</u><br><br>* <u>Babesiosis</u><br><br><br> |  |
+| Parkinson-like syndrome and/or <u>tardive dyskinesia</u> | <br>* <u>Antipsychotics</u><br><br> | <br><br>* Acute <u>psychotic symptoms</u><br><br>* Chronic <u>schizophrenia</u><br><br><br> |
+| <br>* <u>Reserpine</u><br><br> | <br><br>* Psychiatric disorders<br><br>* <u>Hypertension</u><br><br><br> |  |
+| <br>* <u>Metoclopramide</u><br><br> | <br>* Emesis<br><br> |  |
+| <u>Peripheral neuropathy</u> | <br>* <u>Isoniazid</u><br><br> | <br>* Antimycobacterial therapy<br><br> |
+| <br>* <u>Phenytoin</u><br><br> | <br>* <u>Epilepsy</u><br><br> |  |
+| <br><br>* <u>Vincristine</u><br><br>* <u>Platinum</u> agents (e.g, <u>cisplatin</u>)<br><br><br> | <br>* Cancer treatment<br><br> |  |
+| <u>Idiopathic intracranial hypertension</u> | <br><br>* <u>Growth hormones</u><br><br>* <u>Vitamin A</u><br><br><br> | <br>* Supplement in case of deficiency<br><br> |
+| <br>* <u>Tetracyclines</u><br><br> | <br>* Infections<br><br> |  |
+| <u>Seizures</u> | <br>* <u>Isoniazid</u><br><br> | <br>* Antimycobacterial therapy<br><br> |
+| <br>* <u>Imipenem</u>/<u>cilastatin</u><br><br> | <br>* Infections<br><br> |  |
+| <br>* <u>Enflurane</u><br><br> | <br>* Anesthesia<br><br> |  |
+| <br>* <u>Tramadol</u><br><br> | <br>* <u>Analgesia</u><br><br> |  |
+| <br>* <u>Bupropion</u><br><br> | <br><br>* <u>Major depressive disorder</u><br><br>* <u>Smoking cessation</u><br><br><br> |  |
+| Visual disturbance | <br>* <u>Topiramate</u><br><br>* Blurred <u>vision</u><br><br>* <u>Diplopia</u><br><br>* Haloes<br><br> | <br><br>* <u>Seizures</u><br><br>* <u>Migraine prophylaxis</u><br><br><br> |
+| <br>* <u>Digoxin</u>: <u>xanthopsia</u> (yellow-tinged <u>vision</u>)<br><br> | <br><br>* <u>Heart failure</u><br><br>* <u>Atrial fibrillation</u><br><br><br> |  |
+| <br><br>* <u>Isoniazid</u>: <u>optic neuritis</u><br><br>* <u>Ethambutol</u>: <u>color vision</u> changes<br><br><br> | <br>* Antimycobacterial therapy<br><br> |  |
+| <br>* <u>Vigabatrin</u>: bilateral <u>visual field</u> defects<br><br> | <br>* <u>Epilepsy</u><br><br> |  |
+| <br>* <u>PDE-5 inhibitors</u>: cyanopsia (blue-tinged <u>vision</u>)<br><br> | <br><br>* <u>Erectile dysfunction</u><br><br>* <u>Pulmonary arterial hypertension</u><br><br><br> |  |
+
+
+
+
+
+> [!NOTE]
+> Antipsychotics, Reserpine, and Metoclopramide may make your ARMs rigid as in <u>Parkinson's disease</u>.
+
+
+
+
+> [!NOTE]
+> Isoniazide, Bupropion, Imipenem/<u>cilastatin</u>, Tramadol and Enflurane lower <u>seizures</u> threshold (I BITE my <u>tongue</u>).
+
+
+
+
+> [!NOTE]
+> Topiramate, Digoxin, Isoniazid, Ethambutol, Vigabatrin and PDE-5 inhibitors: These Drugs Induce Problems to Vision and Eyes!
+
+---
+
+## Multiorgan adverse effects
+
+| Overview of substances causing multiorgan adverse effects |  |  |
+| --- | --- | --- |
+| Multiorgan adverse effects | Substance | Main clinical use |
+| Antimuscarinic | <br>* <u>Atropine</u><br><br> | <br><br>* Acute <u>symptomatic bradycardia</u><br><br>* <u>AV block</u><br><br><br> |
+| <br>* <u>H1-blockers</u><br><br> | <br>* <u>Allergic reactions</u><br><br> |  |
+| <br>* <u>TCAs</u><br><br> | <br>* <u>Major depressive disorder</u><br><br> |  |
+| <br>* <u>Antipsychotics</u><br><br> | <br><br>* Acute <u>psychotic symptoms</u><br><br>* Chronic <u>schizophrenia</u><br><br><br> |  |
+| <u>Disulfiram-like reaction</u> | <br>* First-generation <u>Sulfonylureas</u><br><br> | <br>* <u>Diabetes</u><br><br> |
+| <br><br>* Some <u>cephalosporins</u><br><br>* <u>Metronidazole</u><br><br>* <u>Griseofulvin</u><br><br><br> | <br>* Infections<br><br> |  |
+| <br>* <u>Procarbazine</u><br><br> | <br>* Cancer treatment<br><br> |  |
+| <u>Nephrotoxicity</u> and/or <u>ototoxicity</u> | <br>* <u>Loop diuretics</u> (e.g., <u>furosemide</u>)<br><br> | <br><br>* <u>Hypertension</u><br><br>* <u>Chronic kidney disease</u><br><br><br> |
+| <br>* <u>Cisplatin</u> (may respond to <u>amifostine</u>)<br><br> | <br>* Cancer treatment<br><br> |  |
+| <br><br>* <u>Vancomycin</u><br><br>* <u>Amphotericin B</u><br><br>* <u>Aminoglycosides</u><br><br><br> | <br>* Infections<br><br> |  |
+
+
+
+
+
+> [!NOTE]
+> To remember that Sulfonylureas, Cephalosporines, Metronidazole, Griseofulvin and Procarbazine can cause <u>disulfiram-like reaction</u>: Sorry, Can't Mess with Gin and Port wine.
+
+
+
+
+> [!NOTE]
+> If you use Loop <u>diuretics</u>, Amphotericin B, cisPlatin, Vancomycin, or Aminoglycosides Listening And Peeing Vanish Away.
+
+---
+
+## Respiratory adverse effects
+
+| Overview of substances causing respiratory adverse effects |  |  |
+| --- | --- | --- |
+| Respiratory adverse effects | Substance | Main clinical use |
+| Dry <u>cough</u> | <br>* <u>ACE inhibitors</u><br><br> | <br><br>* <u>Hypertension</u><br><br>* <u>Chronic kidney disease</u><br><br><br> |
+| <u>Pulmonary fibrosis</u> | <br>* <u>Methotrexate</u><br><br> | <br><br>* Cancer treatment<br><br>* Chronic inflammatory diseases<br><br><br> |
+| <br>* <u>Nitrofurantoin</u><br><br> | <br>* Infections (esp. <u>lower UTI</u>)<br><br> |  |
+| <br>* <u>Amiodarone</u><br><br> | <br>* <u>Ventricular tachyarrhythmias</u><br><br> |  |
+| <br><br>* <u>Carmustine</u><br><br>* <u>Busulfan</u><br><br>* <u>Bleomycin</u><br><br><br> | <br>* Cancer treatment<br><br> |  |
+| <br>* <u>Ergot dopamine agonists</u> (e.g., <u>bromocriptine</u>, pergolide)<br><br> | <br>* <u>Parkinson disease</u><br><br> |  |
+
+
+
+
+
+> [!NOTE]
+> CArmustine, NiTrofurantoin, Busulfan, Amiodarone, Bleomycin, Methotrexate: I CAN'T Breathe Air Because of these Medications.
+
+---
+
+## Renal and genitourinary adverse effects
+
+| Overview of substances causing renal and genitourinary adverse effects |  |  |
+| --- | --- | --- |
+| Renal and genitourinary adverse effects | Substance | Main clinical use |
+| <u>Fanconi syndrome</u> | <br><br>* Cysplatin<br><br>* <u>Ifosfamide</u><br><br><br> | <br>* Cancer treatment<br><br> |
+| <br>* Expired <u>tetracyclines</u><br><br> | <br>* Infections<br><br> |  |
+| <br>* <u>Tenofovir</u><br><br> | <br><br>* <u>Chronic hepatitis B infection</u><br><br>* <u>HIV-1</u> infection<br><br><br> |  |
+| <u>Hemorrhagic cystitis</u> | <br><br>* <u>Cyclophosphamide</u><br><br>* <u>Ifosfamide</u><br><br>* For both drugs, this side effect can be prevented via coadministration of <u>mesna</u><br><br><br> | <br>* Cancer treatment<br><br> |
+| <u>Interstitial</u> nephritis | <br>* <u>Diuretics</u><br><br> | <br><br>* <u>Hypertension</u><br><br>* <u>Edema</u><br><br><br> |
+| <br>* <u>NSAIDs</u><br><br> | <br><br>* <u>Analgesia</u><br><br>* <u>Antipyretic</u><br><br>* Antiinflammatory action<br><br><br> |  |
+| <br><br>* <u>Penicillins</u><br><br>* <u>Cephalosporins</u><br><br><br> | <br>* Infections<br><br> |  |
+| <br>* <u>PPIs</u><br><br> | <br><br>* <u>Gastroesophageal reflux disease</u><br><br>* <u>Peptic ulcer disease</u><br><br><br> |  |
+| <br>* <u>Rifampin</u><br><br> | <br>* Antimycobacterial therapy<br><br> |  |
+| <br>* <u>Sulfonamides</u><br><br> | <br><br>* Infections<br><br>* Chronic inflammatory diseases<br><br>* <u>Diuretics</u><br><br><br> |  |
+
+
+
+
+
+> [!NOTE]
+> Diuretics, Penicillins, Sulfonamides, PPIs, NSAIDs and Rifampin may cause blooDy Pee, Sterile Pyuria, 'N' Rash (<u>interstitial</u> nephritis).
+
+---

@@ -1,0 +1,13 @@
+# Peripheral venous access
+
+*Categories: Clinical knowledge > Anesthesiology > Peripheral venous access*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/6t0je3)
+
+---
+
+## Summary
+
+Peripheral venous access refers to a vascular catheter that terminates in a peripheral <u>vein</u> in an extremity, the scalp, or trunk. Indications may include <u>IV fluid therapy</u>, blood sampling, and medication administration. Contraindications include infection, tissue compromise, and <u>thrombosis</u>. It is important to determine the best site for insertion, select the right catheter size, and ensure all necessary equipment is at the bedside before performing the procedure. <u>IV infiltration</u> and <u>IV extravasation</u> are common complications.
+
+---

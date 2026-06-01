@@ -1,0 +1,130 @@
+# Inpatient management of hyperglycemia
+
+*Categories: Clinical knowledge > Internal medicine > Endocrinology > Disorders of glucose metabolism > Inpatient management of hyperglycemia*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/1q02xS)
+
+---
+
+## Summary
+
+<u>Hyperglycemia</u> occurs commonly in hospitalized patients and is defined as a blood <u>glucose</u> level > 140 mg/dL in inpatients. Common causes of <u>hyperglycemia</u> in hospitalized patients include underlying <u>diabetes mellitus</u>, medications (e.g., <u>glucocorticoids</u>, <u>thiazide diuretics</u>), <u>parenteral nutrition</u>, and <u>stress</u> (e.g., due to <u>surgery</u>, trauma, or <u>sepsis</u>). Regardless of the cause, <u>hyperglycemia</u> is associated with longer hospital stays and worse outcomes. A structured, methodical approach to <u>hyperglycemia</u> is key to good glycemic control in inpatients. When managing blood sugar levels, special care should be taken to avoid potentially life-threatening <u>hypoglycemia</u>, which can occur as a complication of <u>insulin therapy</u>. For more information, see “<u>Diabetes mellitus</u>” and “<u>Insulin</u>.”
+
+
+
+
+See also "<u>Hyperglycemic crises</u>" and "<u>Diabetic ketoacidosis in children</u>."
+
+---
+
+## Etiology
+
+### Medications [[2]](https://coursology-qbank.com/amboss/article/RHYlJq)
+
+
+
+
+* <u>Glucocorticoids</u>
+
+* <u>Fluoroquinolones</u>
+
+* <u>Beta blockers</u>
+
+* <u>Thiazide diuretics</u>;  and <u>loop diuretics</u>
+
+* <u>Heparin</u>
+
+* <u>Calcineurin inhibitors</u>
+
+* <u>Tricyclic antidepressants</u>
+
+* <u>Antipsychotic drugs</u>
+
+* <u>Lithium</u>
+
+* <u>HIV</u>-<u>protease inhibitors</u>
+
+* <u>Thyroid hormones</u> (e.g., <u>levothyroxine</u>)
+
+* <u>Estrogen</u> (<u>contraceptives</u>)
+
+* <u>Sympathomimetic drugs</u> that interact with the beta-1 <u>adrenergic receptor</u> (e.g., <u>dobutamine</u>)
+
+* Derivatives of <u>nicotinic acid</u>
+
+
+
+
+
+### <u>Pancreatic</u> disorders
+
+
+
+
+* <u>Acute pancreatitis</u>
+
+* <u>Chronic pancreatitis</u>
+
+* <u>Hemochromatosis</u>
+
+* <u>Cystic fibrosis</u>
+
+* <u>Pancreatic cancer</u>
+
+* <u>Glucagonoma</u>
+
+
+
+
+
+### Endocrine
+
+
+
+
+* <u>T1DM</u>
+
+* <u>T2DM</u>
+
+* <u>Gestational diabetes</u>
+
+* <u>Hyperthyroidism</u>
+
+* <u>Polycystic ovary syndrome</u> (<u>PCOS</u>)  [[3]](https://coursology-qbank.com/amboss/article/_tY5TI)
+
+* <u>Primary hypercortisolism</u>
+
+* <u>Adrenal adenoma</u>
+
+* <u>Adrenal carcinoma</u>
+
+* Macronodular <u>adrenal hyperplasia</u>
+
+* <u>Secondary hypercortisolism</u>
+
+* <u>Pituitary adenoma</u>
+
+* <u>Small cell lung cancer</u>
+
+* <u>Renal cell carcinoma</u>
+
+* <u>Growth hormone-secreting pituitary adenoma</u> (<u>acromegaly</u>)
+
+* <u>Pheochromocytoma</u>
+
+
+
+
+
+### <u>Stress</u>
+
+
+
+
+* <u>Sepsis</u>
+
+* Trauma
+
+* Recent <u>surgery</u>
+
+---

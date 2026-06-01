@@ -1,0 +1,13 @@
+# Eustachian tube dysfunction
+
+*Categories: Clinical knowledge > Pediatrics > Pediatric ENT and pulmonology > Eustachian tube dysfunction*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/Tu06q3)
+
+---
+
+## Summary
+
+<u>Eustachian tube</u> dysfunction (ETD) is when the <u>eustachian tube</u> (ET) fails to perform its normal <u>middle ear</u> functions. It is a common problem affecting up to 20% of children and ∼ 5% of adults. Two main subtypes exist: <u>obstructive ETD</u>, where occlusion of the ET leads to the inability to effectively dilate, and <u>patulous ETD</u>, where the tube remains chronically patent. Both conditions can cause a sensation of fullness in <u>the ear</u>, <u>ear</u> <u>pain</u>, and muffled <u>hearing</u>. Patients with <u>patulous ETD</u> may also complain that their voice and/or breathing are excessively loud. A <u>clinical diagnosis</u> is made based on history and <u>otoscopy</u> findings. Specialists may perform additional diagnostic studies if needed. Management differs between obstructive and <u>patulous ETD</u> and is usually conservative. <u>Surgery</u> is reserved for severe or refractory cases.
+
+---

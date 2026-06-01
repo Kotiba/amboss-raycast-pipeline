@@ -1,0 +1,386 @@
+# Alpha-1 antitrypsin deficiency
+
+*Categories: Clinical knowledge > Genetics > Inherited syndromes > Alpha-1 antitrypsin deficiency*
+
+[Original Article Link](https://coursology-qbank.com/amboss/article/0u0ep3)
+
+---
+
+## Summary
+
+<u>Alpha-1 antitrypsin</u> (<u>AAT</u>) deficiency is a common and underdiagnosed genetic condition that most commonly occurs in individuals of European descent. <u>AAT</u> is a <u>protease inhibitor</u>, and deficiency results in a lack of <u>neutrophil</u> <u>elastase</u> inhibition in the <u>alveoli</u> and potential polymerization of mutant <u>AAT</u> in <u>hepatocytes</u>. <u>AAT</u> deficiency is caused by mutations in the SERPINA1 <u>gene</u>, and severity varies by <u>genotype</u>. The effect is either reduced <u>AAT</u> levels or reduced <u>AAT</u> activity. Homozygosity for the Z <u>allele</u> causes severe deficiency. <u>AAT</u> deficiency clinically manifests in the <u>lungs</u> (e.g., with <u>COPD</u>, <u>panacinar emphysema</u>) and, in some cases, the <u>liver</u> (e.g., with <u>hepatitis</u>, <u>cirrhosis</u>, <u>neonatal jaundice</u>). Measurement of serum <u>AAT</u> levels is recommended for individuals with associated conditions (e.g., <u>COPD</u>, <u>liver</u> disease, <u>adult-onset asthma</u>). Phenotyping and/or genotyping should be performed in individuals with decreased <u>AAT</u> levels to confirm the diagnosis; if results are inconclusive, <u>gene</u> <u>sequencing</u> should be performed. Management includes supportive measures (e.g., <u>smoking cessation</u>, <u>vaccinations</u>), monitoring, and, in some cases, IV augmentation therapy. Treatment for <u>lung</u> disease may include <u>bronchodilators</u> and, in advanced cases, <u>lung transplantation</u>; <u>liver transplantation</u> may be required in <u>end-stage liver disease</u>.
+
+---
+
+## Etiology
+
+<u>AAT</u> deficiency is a genetic disorder with <u>autosomal</u> <u>codominant</u> inheritance.
+
+
+
+
+* Mutations in the SERPINA1 <u>gene</u> include: [[1]](https://coursology-qbank.com/amboss/article/mMWV6N0)
+
+* S mutation: moderate decrease in <u>AAT</u> production and polymerization of mutant <u>AAT</u> in <u>hepatocytes</u>
+
+* F mutation: reduced <u>elastase</u> inhibition despite normal <u>AAT</u> production
+
+* Z mutation: significant decrease in <u>AAT</u> production and polymerization of mutant <u>AAT</u> in <u>hepatocytes</u>
+
+* Null <u>alleles</u> (rare): no <u>AAT</u> production, severely affecting the <u>lungs</u> but not the <u>liver</u>  [[1]](https://coursology-qbank.com/amboss/article/mMWV6N0)
+
+* Disease severity  [[1]](https://coursology-qbank.com/amboss/article/mMWV6N0)[[2]](https://coursology-qbank.com/amboss/article/G2YBQo)[[3]](https://coursology-qbank.com/amboss/article/ONYIYp)
+
+* PiMM: 100% expression of normal protein and therefore normal serum <u>AAT</u> levels
+
+* PiFF: 100% of normal serum <u>AAT</u> levels but possible reduced <u>AAT</u> activity [[4]](https://coursology-qbank.com/amboss/article/BMdzIq0)
+
+* PiMS: 80% of normal serum <u>AAT</u> levels
+
+* PiSS, PiMZ, PiSZ: 40–60% of normal serum <u>AAT</u> levels and polymerization of mutant <u>AAT</u> in <u>hepatocytes</u>
+
+* PiZZ: 10–15% of normal serum <u>AAT</u> levels (severe <u>AAT</u> deficiency) and polymerization of mutant <u>AAT</u> in <u>hepatocytes</u> [[5]](https://coursology-qbank.com/amboss/article/-ObDEF)
+
+
+
+
+
+> [!TIP]
+> Disease severity depends on the <u>genotype</u>, which determines how much <u>AAT</u> is produced and whether the mutant protein polymerizes in <u>hepatocytes</u>.
+
+---
+
+## Pathophysiology
+
+* Alpha-1 antitrypsin: a <u>protease inhibitor</u> that is synthesized in the <u>liver</u> and protects cells from breakdown by <u>neutrophil</u> <u>elastase</u>
+
+* <u>Gene</u> mutation induces a conformational change in the structure of <u>AAT</u> protein → dysfunctional (or absent) <u>AAT</u>
+
+* Effect on the <u>liver</u>: accumulation of <u>AAT</u> in hepatocellular <u>endoplasmic reticulum</u> → <u>hepatocyte</u> destruction → <u>hepatitis</u> and <u>liver cirrhosis</u>
+
+* Effect on the <u>lungs</u>: deficient <u>AAT</u> → uninhibited <u>neutrophil</u> <u>elastase</u> activity → destruction of the pulmonary <u>parenchyma</u> → <u>panacinar emphysema</u>
+
+---
+
+## Clinical features
+
+The age of onset and the severity of symptoms depend on the type of mutation.
+
+
+
+
+* Pulmonary manifestations [[6]](https://coursology-qbank.com/amboss/article/kIYm1q)
+
+* <u>Clinical features of COPD</u>, e.g.:
+
+* <u>Cough</u>, <u>wheezing</u>
+
+* <u>Dyspnea</u>
+
+* Diminished breath sounds
+
+* <u>Barrel chest</u>
+
+* Onset may be earlier than in patients with <u>COPD</u> without <u>AAT</u> deficiency.
+
+* Hepatic manifestations [[6]](https://coursology-qbank.com/amboss/article/kIYm1q)
+
+* <u>Prolonged neonatal jaundice</u>
+
+* <u>Hepatitis</u>
+
+* <u>Clinical features of cirrhosis</u>
+
+
+
+
+
+> [!NOTE]
+> <u>AAT</u> deficiency should be considered in all patients < 50 years of age with <u>emphysema</u>, <u>COPD</u>, and/or <u>liver</u> dysfunction.
+
+---
+
+## Diagnosis
+
+### Approach
+
+
+
+
+* Obtain serum <u>AAT</u> levels in individuals with indications for testing.
+
+* If <u>AAT</u> levels are decreased, refer to a center specializing in <u>AAT</u> deficiency for <u>genetic testing</u> and management.
+
+* Manifestation-specific diagnostics (e.g., chest CT) may be helpful to assess organ involvement and disease severity.
+
+
+
+
+
+### Indications for testing [[1]](https://coursology-qbank.com/amboss/article/mMWV6N0)
+
+
+
+
+* <u>First-degree relatives</u> of individuals with <u>AAT</u> deficiency
+
+* Patients with any of the following pulmonary conditions:
+
+* <u>COPD</u>
+
+* <u>Asthma</u> that does not respond to therapy or <u>adult-onset asthma</u> [[7]](https://coursology-qbank.com/amboss/article/uldpAJ0)
+
+* <u>Bronchiectasis</u> of uncertain etiology
+
+* Patients with any of the following extrapulmonary conditions:
+
+* <u>Liver</u> disease
+
+* <u>c-ANCA</u> <u>vasculitis</u> (e.g., <u>granulomatosis with polyangiitis</u>)
+
+* <u>Panniculitis</u>
+
+
+
+
+
+### <u>Laboratory studies</u> [[1]](https://coursology-qbank.com/amboss/article/mMWV6N0)[[7]](https://coursology-qbank.com/amboss/article/uldpAJ0)
+
+
+
+
+* Initial testing
+
+* ↓ Serum <u>AAT</u> level (< 1.1 g/L (< 24.4 Âµmol/L)): indicates potential deficiency [[1]](https://coursology-qbank.com/amboss/article/mMWV6N0)[[7]](https://coursology-qbank.com/amboss/article/uldpAJ0)
+
+* Normal <u>CRP</u>: If elevated, <u>AAT</u> levels may be increased due to infection or inflammation, and testing should be repeated.
+
+* <u>Genetic testing</u>: performed in a specialized laboratory
+
+* Phenotyping
+
+* Uses <u>isoelectric focusing</u> to determine the protein <u>phenotype</u> (e.g., MM, MZ, MS, ZZ)
+
+* May incorrectly label certain rare variants (e.g., M<sub>Malton</sub> labeled as M)
+
+* Genotyping: can detect common mutations (e.g., Z or S) and certain less common mutations using specific <u>DNA primers</u>
+
+* <u>Gene</u> <u>sequencing</u>
+
+* Can detect unknown or rare mutations
+
+* Performed if phenotyping and/or genotyping is inconclusive
+
+
+
+
+
+> [!TIP]
+> Decreased serum <u>AAT</u> levels and confirmation of a deficient <u>phenotype</u> or <u>genotype</u> are diagnostic for <u>AAT</u> deficiency.
+
+
+
+
+### Manifestation-specific diagnostics
+
+
+
+
+#### <u>Lung</u> disease [[6]](https://coursology-qbank.com/amboss/article/kIYm1q)[[8]](https://coursology-qbank.com/amboss/article/nwW7jn0)
+
+
+
+
+* <u>Diagnostics for COPD</u> (e.g., <u>spirometry</u>)
+
+* <u>Chest x-ray findings in COPD</u>, including:   
+
+* Low and flat <u>diaphragm</u>
+
+* Widened <u>intercostal spaces</u>
+
+* Hyperinflation
+
+* Possible increased basilar <u>radiolucency</u> of both <u>lungs</u>   [[9]](https://coursology-qbank.com/amboss/article/Dld1_J0)
+
+* Chest CT
+
+* <u>Panacinar emphysema</u> (in contrast to <u>centriacinar emphysema</u> in smoking-related <u>emphysema</u>) is a characteristic finding.
+
+* <u>Bronchiectasis</u>
+
+* <u>Bullae</u>
+
+
+
+
+
+> [!TIP]
+> All patients with <u>COPD</u> should be tested for <u>AAT</u> deficiency. [[8]](https://coursology-qbank.com/amboss/article/nwW7jn0)
+
+
+
+
+![Pulmonary hyperinflation with pulmonary hypertension](../../../../media/u7d1si6eaf1wu2y3w2gvwx69.jpg)
+
+Pulmonary hyperinflation with pulmonary hypertension
+
+![image](../../../../media/iddzgr51i0rhz6wnt329n5xr.jpg)
+
+
+
+
+#### <u>Liver</u> disease [[1]](https://coursology-qbank.com/amboss/article/mMWV6N0)
+
+
+
+
+* Perform <u>diagnostics for cirrhosis</u> or <u>diagnostics for elevated transaminases</u> depending on the patient's symptoms and/or laboratory findings.
+
+* If performed, <u>liver biopsy</u> may show:
+
+* Diastase-resistant, <u>PAS</u>-positive, spherical <u>inclusion bodies</u> in periportal <u>hepatocytes</u>
+
+* <u>Signs of cirrhosis</u>; see “<u>Pathology of cirrhosis</u>.”
+
+
+
+
+
+![Alpha-1 antitrypsin deficiency (liver)](../../../../media/eams07c7bntrc2kjhhbq8skg.jpg)
+
+Alpha-1 antitrypsin deficiency (liver)
+
+![Alpha-1 antitrypsin deficiency](../../../../media/sir4nm3m84eovqmv9xspspey.jpg)
+
+Alpha-1 antitrypsin deficiency
+
+![Liver cirrhosis in alpha-1 antitrypsin deficiency](../../../../media/pzomif2jh4pjyigoi19em5b5.jpg)
+
+Liver cirrhosis in alpha-1 antitrypsin deficiency
+
+---
+
+## Differential diagnoses
+
+* Pulmonary diseases
+
+* <u>Asthma</u>
+
+* <u>Emphysema</u> secondary to smoking (centriacinar)
+
+* <u>COPD</u> without <u>AAT</u> deficiency
+
+* <u>Cystic fibrosis</u>
+
+* <u>Liver</u> diseases
+
+* <u>Autoimmune hepatitis</u>
+
+* <u>Alcohol-associated liver disease</u>
+
+* <u>Wilson disease</u>
+
+* <u>Hemochromatosis</u>
+
+* <u>Drug-induced liver injury</u>
+
+* <u>MASLD</u>
+
+
+
+
+The differential diagnoses listed here are not exhaustive.
+
+---
+
+## Treatment
+
+Refer all patients to a center specializing in <u>AAT</u> deficiency for management.
+
+
+
+
+### <u>Supportive care</u> [[1]](https://coursology-qbank.com/amboss/article/mMWV6N0)[[7]](https://coursology-qbank.com/amboss/article/uldpAJ0)[[8]](https://coursology-qbank.com/amboss/article/nwW7jn0)
+
+
+
+
+* Avoid active and passive <u>cigarette smoking</u>.  [[7]](https://coursology-qbank.com/amboss/article/uldpAJ0)
+
+* Preventive <u>vaccination</u> (e.g., <u>recommended immunizations in COPD</u>)
+
+* <u>Pulmonary rehabilitation</u>
+
+* <u>Nutritional support</u> if necessary
+
+* <u>Supportive care for cirrhosis</u>
+
+
+
+
+
+### Treatment of <u>lung</u> and <u>liver</u> disease [[1]](https://coursology-qbank.com/amboss/article/mMWV6N0)[[7]](https://coursology-qbank.com/amboss/article/uldpAJ0)[[8]](https://coursology-qbank.com/amboss/article/nwW7jn0)
+
+
+
+
+* IV augmentation therapy: antitrypsin replacement for patients with <u>lung</u> disease
+
+* Indication: nonsmoking individuals with severe <u>AAT</u> deficiency and evidence of decreased airflow
+
+* Reduces <u>lung</u> density loss but has no effect on quality of life, <u>AECOPD</u>, <u>FEV<sub>1</sub></u>, or <u>liver</u> disease [[1]](https://coursology-qbank.com/amboss/article/mMWV6N0)
+
+* <u>COPD</u> treatment
+
+* <u>Pharmacological treatment for stable COPD</u> (e.g., <u>bronchodilators</u>)
+
+* Symptomatic treatment (e.g., <u>pharmacotherapy for AECOPD</u>)
+
+* <u>Management of advanced COPD</u> (e.g., <u>long-term oxygen therapy</u>, <u>lung transplantation</u>)
+
+* <u>Liver transplantation</u>
+
+* Results in correction of <u>AAT</u> deficiency
+
+* Consider in <u>end-stage liver disease</u>. [[10]](https://coursology-qbank.com/amboss/article/r2YfQo)
+
+
+
+
+
+> [!TIP]
+> IV augmentation therapy is the only disease-specific therapy for <u>AAT</u> deficiency but does not treat <u>liver</u> disease.
+
+
+
+
+### Monitoring [[1]](https://coursology-qbank.com/amboss/article/mMWV6N0)
+
+
+
+
+* Monitoring for <u>lung</u> disease progression
+
+* Severe <u>AAT</u> deficiency: every 6 months for the first few years after diagnosis, then annually
+
+* Studies include <u>spirometry</u> (e.g., <u>FEV<sub>1</sub></u>), <u>DL<sub>CO</sub></u>, <u>6MWT</u>, and quality of life questionnaires.  [[7]](https://coursology-qbank.com/amboss/article/uldpAJ0)
+
+* Monitoring for <u>liver</u> disease progression
+
+* Noninvasive testing to monitor for <u>fibrosis</u> (e.g., <u>liver elastography</u>, <u>FIB-4 score</u>)
+
+* <u>Liver</u> <u>ultrasound</u>
+
+* Patients with <u>cirrhosis</u>, <u>portal hypertension</u>, or <u>elevated transaminases</u>: every 6 months
+
+* All other patients: Consider annually.
+
+
+
+
+
+> [!WARNING]
+> Patients with <u>AAT</u> deficiency have an increased risk of <u>hepatocellular carcinoma</u>.
+
+---
